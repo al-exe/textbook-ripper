@@ -1,0 +1,707 @@
+{
+ "page": 85,
+ "cjk_pass": [
+  {
+   "text": "第五单元",
+   "conf": 1.0,
+   "bbox": [
+    0.11426,
+    0.2919,
+    0.28497,
+    0.32438
+   ]
+  },
+  {
+   "text": "Unit 5",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.33285,
+    0.27713,
+    0.36192
+   ]
+  },
+  {
+   "text": "话题",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.56686,
+    0.19574,
+    0.58447
+   ]
+  },
+  {
+   "text": "Topic",
+   "conf": 1.0,
+   "bbox": [
+    0.14922,
+    0.58721,
+    0.19961,
+    0.6032
+   ]
+  },
+  {
+   "text": "任务目标",
+   "conf": 1.0,
+   "bbox": [
+    0.13357,
+    0.6217,
+    0.21526,
+    0.63993
+   ]
+  },
+  {
+   "text": "Instructional",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.6439,
+    0.23062,
+    0.65698
+   ]
+  },
+  {
+   "text": "Objectives",
+   "conf": 1.0,
+   "bbox": [
+    0.12783,
+    0.66107,
+    0.21907,
+    0.67614
+   ]
+  },
+  {
+   "text": "重点词语",
+   "conf": 1.0,
+   "bbox": [
+    0.13369,
+    0.69322,
+    0.21515,
+    0.71085
+   ]
+  },
+  {
+   "text": "Key Words",
+   "conf": 0.5,
+   "bbox": [
+    0.12587,
+    0.71331,
+    0.22297,
+    0.73
+   ]
+  },
+  {
+   "text": "重点语句",
+   "conf": 1.0,
+   "bbox": [
+    0.13369,
+    0.78478,
+    0.21515,
+    0.80097
+   ]
+  },
+  {
+   "text": "Key",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.80371,
+    0.18992,
+    0.82129
+   ]
+  },
+  {
+   "text": "Sentences",
+   "conf": 1.0,
+   "bbox": [
+    0.13178,
+    0.82267,
+    0.21705,
+    0.83447
+   ]
+  },
+  {
+   "text": "语法点",
+   "conf": 1.0,
+   "bbox": [
+    0.14341,
+    0.8939,
+    0.20543,
+    0.91134
+   ]
+  },
+  {
+   "text": "Grammar",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.91553,
+    0.21899,
+    0.92587
+   ]
+  },
+  {
+   "text": "Points",
+   "conf": 1.0,
+   "bbox": [
+    0.14522,
+    0.93281,
+    0.20168,
+    0.94655
+   ]
+  },
+  {
+   "text": "谈考试",
+   "conf": 1.0,
+   "bbox": [
+    0.4031,
+    0.44622,
+    0.60465,
+    0.50146
+   ]
+  },
+  {
+   "text": "Talking about an Examination",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.51017,
+    0.77132,
+    0.54506
+   ]
+  },
+  {
+   "text": "谈论学习与考试",
+   "conf": 1.0,
+   "bbox": [
+    0.24225,
+    0.56831,
+    0.37209,
+    0.58301
+   ]
+  },
+  {
+   "text": "Talking about study and examination",
+   "conf": 0.5,
+   "bbox": [
+    0.24419,
+    0.58866,
+    0.50581,
+    0.60174
+   ]
+  },
+  {
+   "text": "能问答关于考试的基本情况，能听懂并描述自己或他人考试期间的心情",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.61768,
+    0.8062,
+    0.63379
+   ]
+  },
+  {
+   "text": "Students can ask questions and answer them about the basic information of an examination；",
+   "conf": 0.5,
+   "bbox": [
+    0.24419,
+    0.63808,
+    0.8876,
+    0.65137
+   ]
+  },
+  {
+   "text": "they can also understand the description of one's feelings and describe their own feelings",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.65262,
+    0.8876,
+    0.66715
+   ]
+  },
+  {
+   "text": "during an exam.",
+   "conf": 0.5,
+   "bbox": [
+    0.24325,
+    0.66558,
+    0.36127,
+    0.68602
+   ]
+  },
+  {
+   "text": "翻译 fanyi、复习 fuxi、准备 zhinbei、熬夜 doye、有把握you bdwo、担心danxin、",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.69477,
+    0.87597,
+    0.71094
+   ]
+  },
+  {
+   "text": "紧张 jinzhang、害怕 hdipa、脸色lidnse、哪怕napd、可不kebu、据说jushuo",
+   "conf": 0.3,
+   "bbox": [
+    0.24419,
+    0.71512,
+    0.85853,
+    0.7311
+   ]
+  },
+  {
+   "text": "1.连回家的时间都没有。Lidn hui jia de shijian dou meiybu.",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.74414,
+    0.70736,
+    0.76172
+   ]
+  },
+  {
+   "text": "2.据说这几年考翻译的人越来越多，考试也越来越难。Jishuo zhe ji nidn kdo",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.76453,
+    0.85271,
+    0.78076
+   ]
+  },
+  {
+   "text": "fanyi de ren yue lai yue duo, kaoshi ye yue ldi yue nan.",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.78467,
+    0.6938,
+    0.80233
+   ]
+  },
+  {
+   "text": "3.报纸上说今年参加考试的人数是去年的三倍！Bdozhi shang shuo jinnidn canjia",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.80371,
+    0.87984,
+    0.81982
+   ]
+  },
+  {
+   "text": "kdoshi de renshd shi qunidn de san bei！",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.82413,
+    0.56977,
+    0.84033
+   ]
+  },
+  {
+   "text": "4.复习是复习了，不过自己不太有把握。Fuxi shi fixi le,buguo ziji bu tai you bdwo.",
+   "conf": 0.5,
+   "bbox": [
+    0.24031,
+    0.84424,
+    0.8876,
+    0.86047
+   ]
+  },
+  {
+   "text": "5.哪怕不睡觉我也要复习完。Napa bu shui jido wo ye ydo fuxi wan.",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.86328,
+    0.76163,
+    0.88086
+   ]
+  },
+  {
+   "text": "1.连⋯⋯也/都⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.89535,
+    0.4031,
+    0.90843
+   ]
+  },
+  {
+   "text": "The structure 连•⋯也/都⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.42054,
+    0.89535,
+    0.6376,
+    0.90843
+   ]
+  },
+  {
+   "text": "2.⋯是⋯⋯，不过••The structure ••是⋯•⋯，不过⋯⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.24419,
+    0.91406,
+    0.74031,
+    0.93023
+   ]
+  },
+  {
+   "text": "3. 让步复句：哪怕•⋯也⋯••",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.93457,
+    0.48643,
+    0.94922
+   ]
+  },
+  {
+   "text": "Concession compound sentence： 哪怕••也•••",
+   "conf": 0.3,
+   "bbox": [
+    0.49612,
+    0.93457,
+    0.85853,
+    0.94922
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94767,
+    0.97529,
+    0.97093,
+    0.99128
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 5",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.33285,
+    0.27713,
+    0.36192
+   ]
+  },
+  {
+   "text": "Talking about an Examination",
+   "conf": 1.0,
+   "bbox": [
+    0.23062,
+    0.51017,
+    0.77132,
+    0.54506
+   ]
+  },
+  {
+   "text": "Тopic",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.58721,
+    0.19961,
+    0.6032
+   ]
+  },
+  {
+   "text": "18t",
+   "conf": 0.3,
+   "bbox": [
+    0.13357,
+    0.6217,
+    0.21526,
+    0.63993
+   ]
+  },
+  {
+   "text": "Instructional",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.6439,
+    0.23062,
+    0.65698
+   ]
+  },
+  {
+   "text": "Objectives",
+   "conf": 1.0,
+   "bbox": [
+    0.12783,
+    0.66107,
+    0.21907,
+    0.67614
+   ]
+  },
+  {
+   "text": "Efiat",
+   "conf": 0.3,
+   "bbox": [
+    0.13369,
+    0.69322,
+    0.21515,
+    0.71085
+   ]
+  },
+  {
+   "text": "Key Words",
+   "conf": 1.0,
+   "bbox": [
+    0.12587,
+    0.71331,
+    0.22297,
+    0.73
+   ]
+  },
+  {
+   "text": "Talking about study and examination",
+   "conf": 1.0,
+   "bbox": [
+    0.24419,
+    0.58866,
+    0.50581,
+    0.60174
+   ]
+  },
+  {
+   "text": "Eaea",
+   "conf": 0.3,
+   "bbox": [
+    0.13369,
+    0.78478,
+    0.21515,
+    0.80097
+   ]
+  },
+  {
+   "text": "Key",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.80378,
+    0.18992,
+    0.82122
+   ]
+  },
+  {
+   "text": "Sentences",
+   "conf": 1.0,
+   "bbox": [
+    0.13178,
+    0.82267,
+    0.21705,
+    0.8343
+   ]
+  },
+  {
+   "text": "iizm",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.8939,
+    0.20543,
+    0.91134
+   ]
+  },
+  {
+   "text": "Grammar",
+   "conf": 1.0,
+   "bbox": [
+    0.13178,
+    0.9157,
+    0.21899,
+    0.92587
+   ]
+  },
+  {
+   "text": "Points",
+   "conf": 1.0,
+   "bbox": [
+    0.14522,
+    0.93281,
+    0.20168,
+    0.94655
+   ]
+  },
+  {
+   "text": "Students can ask questions and answer them about the basie information of an examination;",
+   "conf": 1.0,
+   "bbox": [
+    0.24419,
+    0.63808,
+    0.8876,
+    0.65137
+   ]
+  },
+  {
+   "text": "they can also understand the description of one's feelings and describe their own feelings",
+   "conf": 1.0,
+   "bbox": [
+    0.24225,
+    0.65262,
+    0.8876,
+    0.66715
+   ]
+  },
+  {
+   "text": "during an exam.",
+   "conf": 1.0,
+   "bbox": [
+    0.24325,
+    0.66558,
+    0.36127,
+    0.68602
+   ]
+  },
+  {
+   "text": "#Hi7 fanyì, ty fùxí. Mim zhunbèi, Axix áoye, 1itUVề yõu băwò, HHừ dānxin.",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.69477,
+    0.87597,
+    0.71094
+   ]
+  },
+  {
+   "text": "15k jĩnzhàng. TTH hàipà, Av t liănse, HptH năpà, n/ 1 kẽbù, tribt jùshuõ",
+   "conf": 0.3,
+   "bbox": [
+    0.24419,
+    0.71512,
+    0.85853,
+    0.7311
+   ]
+  },
+  {
+   "text": "1. đl gágntm tg. Lián hui jiã de shí giãn dõu méiyõu.",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.74414,
+    0.70736,
+    0.76172
+   ]
+  },
+  {
+   "text": "2ПИХЛТЕВИШЛАЖИВ, ИшЮжі Jushuo zhè jĩ nián kão",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.76453,
+    0.85271,
+    0.78076
+   ]
+  },
+  {
+   "text": "fânyì de rén yuè lái yuè duõ, kãoshì yẽ yuè lái yuè nán.",
+   "conf": 0.3,
+   "bbox": [
+    0.25969,
+    0.78467,
+    0.6938,
+    0.80233
+   ]
+  },
+  {
+   "text": "Baozhĩ shang shuõ jinnián cãnjiã",
+   "conf": 0.3,
+   "bbox": [
+    0.62085,
+    0.80371,
+    0.87984,
+    0.81982
+   ]
+  },
+  {
+   "text": "kãoshì de rénshù shì qùnián de săn bèi !",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.82413,
+    0.56977,
+    0.84033
+   ]
+  },
+  {
+   "text": "4 NHCRKH . Fùxí shì fùxí le, búguò zìjĩ bú tài yõu băwò.",
+   "conf": 0.3,
+   "bbox": [
+    0.24031,
+    0.84424,
+    0.8876,
+    0.86047
+   ]
+  },
+  {
+   "text": "5. Hkhá Kha cổ tê th ma L Tu. Năpà bú shui jiào wò yẽ vào fùxí wán.",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.86328,
+    0.76163,
+    0.88086
+   ]
+  },
+  {
+   "text": "1.11•tz / 76.•••",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.89535,
+    0.4031,
+    0.90843
+   ]
+  },
+  {
+   "text": "The structure iE..••••t / Aiß-•",
+   "conf": 0.3,
+   "bbox": [
+    0.42054,
+    0.89535,
+    0.6376,
+    0.90843
+   ]
+  },
+  {
+   "text": "2..*, Ti. The structure ..... *.., Kd..",
+   "conf": 0.3,
+   "bbox": [
+    0.24419,
+    0.91406,
+    0.74031,
+    0.93023
+   ]
+  },
+  {
+   "text": "3іДEД 990",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.93457,
+    0.48643,
+    0.94922
+   ]
+  },
+  {
+   "text": "Concession compound sentence: 5MT•••• t...•••",
+   "conf": 0.3,
+   "bbox": [
+    0.49612,
+    0.93457,
+    0.85853,
+    0.94922
+   ]
+  }
+ ]
+}

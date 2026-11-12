@@ -1,0 +1,617 @@
+{
+ "page": 20,
+ "cjk_pass": [
+  {
+   "text": "Unit1 Talking about Leisure and Entertainment",
+   "conf": 0.5,
+   "bbox": [
+    0.38372,
+    0.05811,
+    0.9031,
+    0.07861
+   ]
+  },
+  {
+   "text": "生词总动员",
+   "conf": 1.0,
+   "bbox": [
+    0.17636,
+    0.13517,
+    0.33333,
+    0.15988
+   ]
+  },
+  {
+   "text": "WORD POWER",
+   "conf": 0.5,
+   "bbox": [
+    0.35271,
+    0.13953,
+    0.58333,
+    0.15843
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.18605,
+    0.13953,
+    0.20785
+   ]
+  },
+  {
+   "text": "京剧脸谱 Facial make-up in Beijing opera",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.18604,
+    0.53488,
+    0.20508
+   ]
+  },
+  {
+   "text": "单人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.16846,
+    0.23944,
+    0.25014,
+    0.25765
+   ]
+  },
+  {
+   "text": "读读下面的介绍，学习一下什么是文戏什么是武戏。",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.23975,
+    0.72093,
+    0.26025
+   ]
+  },
+  {
+   "text": "京剧，也叫京戏。可以分为文戏和武戏两种。文戏是指以唱为主的",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.26453,
+    0.87791,
+    0.28198
+   ]
+  },
+  {
+   "text": "戏，而武戏是指以武打为主的戏。",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.28613,
+    0.56008,
+    0.30523
+   ]
+  },
+  {
+   "text": "Individual work: Read the following introduction to learn the meanings of singing plays and martial",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.3125,
+    0.89147,
+    0.32715
+   ]
+  },
+  {
+   "text": "plays.",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.33285,
+    0.31589,
+    0.34738
+   ]
+  },
+  {
+   "text": "Beijing opera （also known as jingju or jingxi can be divided into singing",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.35303,
+    0.88953,
+    0.36919
+   ]
+  },
+  {
+   "text": "plays characterized by singing, and martial plays featuring acrobatic fighting",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.37061,
+    0.88566,
+    0.38672
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17048,
+    0.41552,
+    0.25201,
+    0.43332
+   ]
+  },
+  {
+   "text": "猜猜下面的京剧人物脸谱哪些是文戏中的人物，哪些是武戏中的人物？",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.41699,
+    0.87791,
+    0.43605
+   ]
+  },
+  {
+   "text": "Pair work: Guess which of the following facial make-up in Beijing opera represent roles in",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.45203,
+    0.89147,
+    0.4668
+   ]
+  },
+  {
+   "text": "singing plays, and which represent roles in martial plays.",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.47217,
+    0.68605,
+    0.48837
+   ]
+  },
+  {
+   "text": "120",
+   "conf": 0.3,
+   "bbox": [
+    0.6124,
+    0.51744,
+    0.64535,
+    0.53076
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.94574,
+    0.34157,
+    0.96124,
+    0.35465
+   ]
+  },
+  {
+   "text": "孙悟空",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.65674,
+    0.3624,
+    0.67587
+   ]
+  },
+  {
+   "text": "Sun Wikong",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.68018,
+    0.37984,
+    0.69629
+   ]
+  },
+  {
+   "text": "杨贵妃",
+   "conf": 1.0,
+   "bbox": [
+    0.4593,
+    0.65674,
+    0.53295,
+    0.67587
+   ]
+  },
+  {
+   "text": "Yang guifei",
+   "conf": 0.5,
+   "bbox": [
+    0.44957,
+    0.68008,
+    0.54268,
+    0.69637
+   ]
+  },
+  {
+   "text": "曹操",
+   "conf": 0.5,
+   "bbox": [
+    0.65116,
+    0.65674,
+    0.69767,
+    0.67587
+   ]
+  },
+  {
+   "text": "Cdo Cao",
+   "conf": 0.3,
+   "bbox": [
+    0.63757,
+    0.68017,
+    0.70933,
+    0.69483
+   ]
+  },
+  {
+   "text": "穆桂英",
+   "conf": 0.5,
+   "bbox": [
+    0.78682,
+    0.65552,
+    0.85853,
+    0.67587
+   ]
+  },
+  {
+   "text": "MuGuiying",
+   "conf": 0.3,
+   "bbox": [
+    0.7748,
+    0.67747,
+    0.87055,
+    0.69753
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.78924,
+    0.13566,
+    0.80233
+   ]
+  },
+  {
+   "text": "观棋不语真君子",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.77471,
+    0.30426,
+    0.79215
+   ]
+  },
+  {
+   "text": "People who watch a chess game without saying a word is a real gentleman",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.79639,
+    0.81395,
+    0.81396
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.16853,
+    0.84282,
+    0.25008,
+    0.86067
+   ]
+  },
+  {
+   "text": "四人一组，将下面四句话连成一段小对话，然后表演。",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.84424,
+    0.71124,
+    0.86337
+   ]
+  },
+  {
+   "text": "Group work: Work in groups of four to rearrange the following four sentences into a conversation，",
+   "conf": 0.5,
+   "bbox": [
+    0.14916,
+    0.87766,
+    0.89153,
+    0.89555
+   ]
+  },
+  {
+   "text": "and then act it out.",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.89971,
+    0.40698,
+    0.91134
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 1 Talking about Leisure and Entertainment",
+   "conf": 1.0,
+   "bbox": [
+    0.38372,
+    0.05811,
+    0.9031,
+    0.07861
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.18605,
+    0.13953,
+    0.20785
+   ]
+  },
+  {
+   "text": "WORD POWER",
+   "conf": 1.0,
+   "bbox": [
+    0.35271,
+    0.13953,
+    0.58333,
+    0.15843
+   ]
+  },
+  {
+   "text": "FEUwia Facial make-up in Beijing opera",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.18604,
+    0.53488,
+    0.20508
+   ]
+  },
+  {
+   "text": "LDF00т4 77-тH4AXX14taX",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.23975,
+    0.72093,
+    0.26025
+   ]
+  },
+  {
+   "text": "Х, піДХЛИСИАЕНХ",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.28613,
+    0.56008,
+    0.30523
+   ]
+  },
+  {
+   "text": "Individual work: Read the following introduction to learn the meanings of singing plays and martial",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.3125,
+    0.89147,
+    0.32715
+   ]
+  },
+  {
+   "text": "plays.",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.33285,
+    0.31589,
+    0.34738
+   ]
+  },
+  {
+   "text": "Beijing opera (also known as jingju or jingxi) can be divided into singing",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.35303,
+    0.88953,
+    0.36919
+   ]
+  },
+  {
+   "text": "plays characterized by singing, and martial plays featuring acrobatic fighting.",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.37061,
+    0.88566,
+    0.38672
+   ]
+  },
+  {
+   "text": "НИтОВОИШАХХтАЛИ ВEАХРАЛЫ",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.41699,
+    0.87791,
+    0.43605
+   ]
+  },
+  {
+   "text": "Pair work: Guess which of the following facial make-up in Beijing opera represent roles in",
+   "conf": 1.0,
+   "bbox": [
+    0.17248,
+    0.45203,
+    0.89147,
+    0.4668
+   ]
+  },
+  {
+   "text": "singing plays, and which represent roles in martial plays.",
+   "conf": 1.0,
+   "bbox": [
+    0.26744,
+    0.47217,
+    0.68605,
+    0.48837
+   ]
+  },
+  {
+   "text": "120",
+   "conf": 0.3,
+   "bbox": [
+    0.6124,
+    0.51744,
+    0.64535,
+    0.53052
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.94574,
+    0.34157,
+    0.96124,
+    0.35465
+   ]
+  },
+  {
+   "text": "Sũn Wùkông",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.68018,
+    0.37984,
+    0.69629
+   ]
+  },
+  {
+   "text": "K3 đ t2",
+   "conf": 0.3,
+   "bbox": [
+    0.4593,
+    0.65674,
+    0.53295,
+    0.67587
+   ]
+  },
+  {
+   "text": "Yáng guifei",
+   "conf": 0.3,
+   "bbox": [
+    0.44957,
+    0.68008,
+    0.54268,
+    0.69637
+   ]
+  },
+  {
+   "text": "* t*",
+   "conf": 0.3,
+   "bbox": [
+    0.65116,
+    0.65674,
+    0.69767,
+    0.67587
+   ]
+  },
+  {
+   "text": "Cáo Cão",
+   "conf": 0.5,
+   "bbox": [
+    0.63757,
+    0.68017,
+    0.70933,
+    0.69483
+   ]
+  },
+  {
+   "text": "F# *",
+   "conf": 0.3,
+   "bbox": [
+    0.78682,
+    0.65552,
+    0.85853,
+    0.67587
+   ]
+  },
+  {
+   "text": "Mù Guiyĩng",
+   "conf": 0.5,
+   "bbox": [
+    0.7748,
+    0.67747,
+    0.87055,
+    0.69753
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.78924,
+    0.13566,
+    0.80233
+   ]
+  },
+  {
+   "text": "People who watch a chess game without saying a word is a real gentleman",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.79639,
+    0.81395,
+    0.81396
+   ]
+  },
+  {
+   "text": "РЛ-4, НШРЛИСИИ БИХЛИЕ, КЛКМО",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.84424,
+    0.71124,
+    0.86337
+   ]
+  },
+  {
+   "text": "Group work: Work in groups of four to rearrange the following four sentences into a conversation,",
+   "conf": 1.0,
+   "bbox": [
+    0.14916,
+    0.87766,
+    0.89153,
+    0.89555
+   ]
+  },
+  {
+   "text": "and then act it out.",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.89971,
+    0.40698,
+    0.91134
+   ]
+  }
+ ]
+}

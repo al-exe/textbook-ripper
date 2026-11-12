@@ -1,0 +1,717 @@
+{
+ "page": 133,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "118",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "不仅如此",
+   "conf": 1.0,
+   "bbox": [
+    0.15298,
+    0.12469,
+    0.24236,
+    0.14421
+   ]
+  },
+  {
+   "text": "Not only...",
+   "conf": 0.3,
+   "bbox": [
+    0.25954,
+    0.1288,
+    0.36062,
+    0.14591
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17051,
+    0.16707,
+    0.25197,
+    0.18467
+   ]
+  },
+  {
+   "text": "先在小组范围内对以下问题进行调查，然后用“再加上”向全班进行",
+   "conf": 0.5,
+   "bbox": [
+    0.27503,
+    0.16447,
+    0.89163,
+    0.18983
+   ]
+  },
+  {
+   "text": "汇报。",
+   "conf": 1.0,
+   "bbox": [
+    0.27326,
+    0.1875,
+    0.32752,
+    0.20654
+   ]
+  },
+  {
+   "text": "Group work: First discuss the following questions with the other members in your group, then",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.21657,
+    0.88953,
+    0.2311
+   ]
+  },
+  {
+   "text": "report to the class with “再加上”.",
+   "conf": 0.3,
+   "bbox": [
+    0.27132,
+    0.23535,
+    0.52326,
+    0.25
+   ]
+  },
+  {
+   "text": "Wei shenme youde difang heshui wurdn hen lihai？",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.26744,
+    0.64535,
+    0.28488
+   ]
+  },
+  {
+   "text": "（1）为什么",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.28613,
+    0.34302,
+    0.30233
+   ]
+  },
+  {
+   "text": "有的 地方 河水 污染 很厉害？",
+   "conf": 0.5,
+   "bbox": [
+    0.33915,
+    0.2832,
+    0.65891,
+    0.30669
+   ]
+  },
+  {
+   "text": "Wel shenme youde difang kongqi waran hen ydnzhong？",
+   "conf": 0.5,
+   "bbox": [
+    0.24988,
+    0.31533,
+    0.68821,
+    0.33675
+   ]
+  },
+  {
+   "text": "（2）为什么 有的地方 空气 污染很 严重？",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.3314,
+    0.67248,
+    0.35174
+   ]
+  },
+  {
+   "text": "Wei shenme Ddlong zuijin xinqing hen hdo？",
+   "conf": 0.3,
+   "bbox": [
+    0.24806,
+    0.36328,
+    0.59302,
+    0.38086
+   ]
+  },
+  {
+   "text": "（3）为什么大龙最近心情很好？",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.37936,
+    0.59302,
+    0.39844
+   ]
+  },
+  {
+   "text": "Nimen xihuan shenme didnndo? Wei shenme？",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.41113,
+    0.61434,
+    0.42442
+   ]
+  },
+  {
+   "text": "（4）你们 喜欢 什么电脑？为什么？",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.42725,
+    0.60853,
+    0.44482
+   ]
+  },
+  {
+   "text": "Ni wei shenme xuanze",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.4593,
+    0.42829,
+    0.47238
+   ]
+  },
+  {
+   "text": "xianzai de xuexido？",
+   "conf": 0.3,
+   "bbox": [
+    0.52326,
+    0.45785,
+    0.67636,
+    0.47238
+   ]
+  },
+  {
+   "text": "（5）你为 什么选择（to choose）现在的学校？",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.4751,
+    0.67054,
+    0.49273
+   ]
+  },
+  {
+   "text": "Nimen zui xiangqu ndr luxing?Wei shenme？",
+   "conf": 0.3,
+   "bbox": [
+    0.24993,
+    0.50431,
+    0.62219,
+    0.52231
+   ]
+  },
+  {
+   "text": "（6）你们最想去哪儿旅行？为什么？",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.5218,
+    0.61628,
+    0.5407
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.14922,
+    0.55814,
+    0.17829,
+    0.57994
+   ]
+  },
+  {
+   "text": "有的地方自从建起了 工厂，排放 的污水 越来越多，河水",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.56977,
+    0.8624,
+    0.58887
+   ]
+  },
+  {
+   "text": "Youde difang zicong jidnqi le gongchang, pdifang de wishui yueldiyue duo, heshui",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.59157,
+    0.87016,
+    0.60756
+   ]
+  },
+  {
+   "text": "慢慢",
+   "conf": 1.0,
+   "bbox": [
+    0.17248,
+    0.61328,
+    0.22093,
+    0.63086
+   ]
+  },
+  {
+   "text": "变成 了黑色的，再加上各 种工业垃圾、生活 垃圾，",
+   "conf": 0.3,
+   "bbox": [
+    0.25,
+    0.61475,
+    0.84302,
+    0.63525
+   ]
+  },
+  {
+   "text": "manman biancheng le heise de, zdi jidshang ge zhong gongye laji, shenghuo loji，",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.63953,
+    0.82946,
+    0.6543
+   ]
+  },
+  {
+   "text": "所以污染 很厉害。",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.6582,
+    0.36047,
+    0.67878
+   ]
+  },
+  {
+   "text": "suoyi wirdn hen lihai.",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.68164,
+    0.34496,
+    0.69629
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.12209,
+    0.82703,
+    0.13566,
+    0.84157
+   ]
+  },
+  {
+   "text": "（三）综合任务活动 Comprehensive Tasks",
+   "conf": 0.5,
+   "bbox": [
+    0.28295,
+    0.75727,
+    0.72287,
+    0.7793
+   ]
+  },
+  {
+   "text": "小丽的家乡环境发生了什么变化？",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.81104,
+    0.46899,
+    0.83008
+   ]
+  },
+  {
+   "text": "What happened to the environment of Xiaoli’s hometown？",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.8343,
+    0.67829,
+    0.85174
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17246,
+    0.88221,
+    0.2539,
+    0.89976
+   ]
+  },
+  {
+   "text": "根据课文说说小丽的家乡发生了哪些变化。",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.88372,
+    0.64729,
+    0.90283
+   ]
+  },
+  {
+   "text": "Pair work: Please talk about the changes in Xiaoli's hometown according to the text.",
+   "conf": 0.5,
+   "bbox": [
+    0.17814,
+    0.91441,
+    0.81022,
+    0.93411
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.9438,
+    0.97238,
+    0.97287,
+    0.99564
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "118",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "Txtnt",
+   "conf": 0.3,
+   "bbox": [
+    0.15298,
+    0.12469,
+    0.24236,
+    0.14421
+   ]
+  },
+  {
+   "text": "Not only...",
+   "conf": 0.5,
+   "bbox": [
+    0.25954,
+    0.1288,
+    0.36062,
+    0.14591
+   ]
+  },
+  {
+   "text": "МИИИДО ТООСА, КЕЛ \"TАNE\" ФAWE",
+   "conf": 0.3,
+   "bbox": [
+    0.27503,
+    0.16447,
+    0.89163,
+    0.18983
+   ]
+  },
+  {
+   "text": "Group work: First discuss the following questions with the other members in your group, then",
+   "conf": 1.0,
+   "bbox": [
+    0.14922,
+    0.21657,
+    0.88953,
+    0.2311
+   ]
+  },
+  {
+   "text": "report to the class with \"F./П E:\".",
+   "conf": 0.3,
+   "bbox": [
+    0.27132,
+    0.23535,
+    0.52326,
+    0.25
+   ]
+  },
+  {
+   "text": "Wèi shénme yöude difang héshui wurăn hẽn lìhai?",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.26744,
+    0.64535,
+    0.28488
+   ]
+  },
+  {
+   "text": "(1) 44",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.28613,
+    0.34302,
+    0.30233
+   ]
+  },
+  {
+   "text": "Tt ti T i5 # 1B5S E?",
+   "conf": 0.3,
+   "bbox": [
+    0.33915,
+    0.2832,
+    0.65891,
+    0.30669
+   ]
+  },
+  {
+   "text": "Wei shenme youde difang kônggì wùrăn hẽn yánzhòng?",
+   "conf": 0.5,
+   "bbox": [
+    0.24988,
+    0.31533,
+    0.68821,
+    0.33675
+   ]
+  },
+  {
+   "text": "Wèi shénme Dàlóng zuijìn xingíng hèn hão?",
+   "conf": 0.5,
+   "bbox": [
+    0.24806,
+    0.36328,
+    0.59302,
+    0.38086
+   ]
+  },
+  {
+   "text": "(3",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.37936,
+    0.59302,
+    0.39826
+   ]
+  },
+  {
+   "text": "Nimen xĩhuan shénme diànnão? Wèi shénme?",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.41113,
+    0.61434,
+    0.42442
+   ]
+  },
+  {
+   "text": "4?",
+   "conf": 0.3,
+   "bbox": [
+    0.54557,
+    0.42725,
+    0.60853,
+    0.44482
+   ]
+  },
+  {
+   "text": "Ni wéi shénme xuanzé",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.4593,
+    0.42829,
+    0.47238
+   ]
+  },
+  {
+   "text": "xiànzài de xuéxiào?",
+   "conf": 1.0,
+   "bbox": [
+    0.52326,
+    0.45785,
+    0.67636,
+    0.47238
+   ]
+  },
+  {
+   "text": "(51 (to choose) FLAt 1J Fte?",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.4751,
+    0.67054,
+    0.49273
+   ]
+  },
+  {
+   "text": "Nimen zuì xiăng qù năn lũxíng? Wèi shénme?",
+   "conf": 0.5,
+   "bbox": [
+    0.24993,
+    0.50431,
+    0.62219,
+    0.52231
+   ]
+  },
+  {
+   "text": "6)00] Đ д AH? А H4?",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.5218,
+    0.61628,
+    0.5407
+   ]
+  },
+  {
+   "text": "15J",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.55814,
+    0.17829,
+    0.57994
+   ]
+  },
+  {
+   "text": "Youde difang zìcóng jiàngi le gõngchăng, páifàng de wushu yuèláiyuè duo, héshuĩ",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.59157,
+    0.87016,
+    0.60756
+   ]
+  },
+  {
+   "text": "mànman biầnchéng le heise de, zài jiashàng gè zhông gõngyè lãji, shẽnghuó làji,",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.63953,
+    0.82946,
+    0.6543
+   ]
+  },
+  {
+   "text": "PT VL i5 * 1R T5 $.",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.6582,
+    0.36047,
+    0.67878
+   ]
+  },
+  {
+   "text": "suoyi wurăn hẽn lìhai.",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.68164,
+    0.34496,
+    0.69629
+   ]
+  },
+  {
+   "text": "() 5A1ESZ) Comprehensive Tasks",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.75727,
+    0.72287,
+    0.7793
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.82703,
+    0.13566,
+    0.84157
+   ]
+  },
+  {
+   "text": "What happened to the environment of Xiaoli's hometown?",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.8343,
+    0.67829,
+    0.85174
+   ]
+  },
+  {
+   "text": "Pair work: Please talk about the changes in Xiaoli's hometown according to the text.",
+   "conf": 1.0,
+   "bbox": [
+    0.17814,
+    0.91441,
+    0.81022,
+    0.93411
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.5,
+   "bbox": [
+    0.9438,
+    0.97238,
+    0.97287,
+    0.99564
+   ]
+  }
+ ]
+}

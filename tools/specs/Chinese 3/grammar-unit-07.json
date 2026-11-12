@@ -1,0 +1,139 @@
+{
+  "book": "Chinese 3",
+  "unit": 7,
+  "kind": "grammar",
+  "title": {"zh": "谈假日经历", "py": "Tán jiàrì jīnglì", "en": "Talking about Experiences on a Day Off"},
+  "source": "PDF pp. 117, 124–126, 130–131, 133–134 (printed pp. 101, 108–110, 114–115, 117–118)",
+  "intro": "This unit is about what you did on your days off and how it felt. Grammar: (1) the particle 来着 (something that happened recently / something you've forgotten); (2) 不但……，还…… “not only…, but also…”; (3) rhetorical questions with 哪……啊？ “how could…?”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "我跟小丽一起去雅秀市场来着。", "py": "Wǒ gēn Xiǎolì yìqǐ qù Yǎxiù shìchǎng láizhe.", "en": "I went to Yaxiu Market with Xiaoli."},
+    {"zh": "逛街不但能买东西，还能锻炼身体。", "py": "Guàng jiē búdàn néng mǎi dōngxi, hái néng duànliàn shēntǐ.", "en": "Going shopping not only lets you buy things, it's also exercise."},
+    {"zh": "这哪是锻炼身体啊？", "py": "Zhè nǎ shì duànliàn shēntǐ a?", "en": "How is that exercise?!"}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "助词“来着”", "py": "zhùcí “láizhe”", "en": "The particle 来着"},
+      "body": [
+        {"type": "text", "zh": "“来着”表示已经发生过的事，用在句子的末尾。用“来着”的句子没有否定形式。在疑问句中，可以用“什么”、“哪”、“谁”等疑问代词构成特指疑问句进行提问。例如：", "en": "“来着” is used at the end of a sentence to indicate something that already happened. A sentence with “来着” has no negative form. In a question, an interrogative pronoun such as “什么”, “哪” or “谁” can be used, e.g.,"},
+        {"type": "pattern", "zh": "……（动词短语）+ 来着", "py": "…… (dòngcí duǎnyǔ) + láizhe", "en": "(what happened) + 来着 — always at the very end, never negative"},
+        {"type": "example", "zh": "我跟小丽一起去雅秀市场来着。", "py": "Wǒ gēn Xiǎolì yìqǐ qù Yǎxiù shìchǎng láizhe.", "en": "I went to Yaxiu Market with Xiaoli."},
+        {"type": "example", "zh": "刚才我跟朋友踢足球来着。", "py": "Gāngcái wǒ gēn péngyou tī zúqiú láizhe.", "en": "I was just playing football with friends."},
+        {"type": "example", "zh": "你们去哪儿买东西来着？", "py": "Nǐmen qù nǎr mǎi dōngxi láizhe?", "en": "Where did you go shopping?"},
+        {"type": "text", "zh": "“来着”用于特指问句，还可以表示原来知道可是现在想不起来了。例如：", "en": "In a question with a question word, “来着” can also mean you knew something but can't remember it now, e.g.,"},
+        {"type": "example", "zh": "你姐姐叫什么名字来着？", "py": "Nǐ jiějie jiào shénme míngzi láizhe?", "en": "What was your sister's name again?"},
+        {"type": "example", "zh": "“Shūyíng”的“yíng”字怎么写来着？", "py": "“Shūyíng” de “yíng” zì zěnme xiě láizhe?", "en": "How do you write the “yíng” in “Shūyíng” again?"},
+        {"type": "note", "en": "来着 goes last, after any 了: the book's self-test marks 昨天你去哪儿了来着？ as right and 去哪儿来着了 as wrong. You can't negate it (✗ 没去来着)."}
+      ]
+    },
+    {
+      "title": {"zh": "递进复句：不但……，还……", "py": "dìjìn fùjù: búdàn……, hái……", "en": "Progressive compound sentence: 不但……，还……"},
+      "body": [
+        {"type": "text", "zh": "在用“不但……，还……”的复句中，“还”引出的分句所表示的意思要比前一分句所表示的意思更进一步，或者补充更多的信息。例如：", "en": "In a compound sentence with “不但……，还……”, the clause introduced by “还” goes further than the previous clause or adds more information, e.g.,"},
+        {"type": "pattern", "zh": "主语 + 不但 + A，（主语）+ 还 + B", "py": "zhǔyǔ + búdàn + A, (zhǔyǔ) + hái + B", "en": "subject + not only A, (subject) + also B"},
+        {"type": "example", "zh": "她不但会唱歌，还会写歌。", "py": "Tā búdàn huì chàng gē, hái huì xiě gē.", "en": "She can not only sing but also write songs."},
+        {"type": "example", "zh": "我不但知道她，（我）还见过她呢。", "py": "Wǒ búdàn zhīdào tā, (wǒ) hái jiànguo tā ne.", "en": "I don't just know of her — I've even met her."},
+        {"type": "text", "zh": "当两个分句主语相同时，主语在“不但”前边，后一分句的主语可以省略，若不省略，后一分句的主语一定在“还”的前边，而不是后边。", "en": "When both clauses have the same subject, the subject goes before “不但”, and it may be left out in the second clause. If it isn't left out, it must come before “还”, not after."},
+        {"type": "note", "en": "✓ 她不但爱逛街，还爱登山. ✗ 不但她爱逛街…. ✓ 她不但会做中国菜，她还会做法国菜. ✗ …，还她会做法国菜."}
+      ]
+    },
+    {
+      "title": {"zh": "反问句：哪……啊？", "py": "fǎnwènjù: nǎ…… a?", "en": "Rhetorical question: 哪……啊？"},
+      "body": [
+        {"type": "text", "zh": "反问句的作用是加强语气，把本来很明确的看法表现得更加鲜明、强烈。反问句分为肯定反问句和否定反问句，肯定反问句表达的是否定的意思，否定反问句表达的是肯定的意思。主语在“哪……啊”的前边。例如：", "en": "A rhetorical question strengthens the tone, making an already clear opinion more vivid and forceful. An affirmative rhetorical question means the negative; a negative one means the positive. The subject goes before “哪……啊”, e.g.,"},
+        {"type": "pattern", "zh": "主语 + 哪 + （不）+ 动词／形容词……啊？", "py": "zhǔyǔ + nǎ + (bù) + dòngcí / xíngróngcí…… a?", "en": "subject + 哪 + verb… 啊? = “how could…?” (means the opposite)"},
+        {"type": "example", "zh": "我哪知道啊？（强调我不知道）", "py": "Wǒ nǎ zhīdào a? (Qiángdiào wǒ bù zhīdào)", "en": "How would I know? (= I don't know)"},
+        {"type": "example", "zh": "他哪不知道啊？（强调他知道）", "py": "Tā nǎ bù zhīdào a? (Qiángdiào tā zhīdào)", "en": "How could he not know? (= he knows)"},
+        {"type": "example", "zh": "这哪是锻炼身体啊？（强调这不是锻炼身体）", "py": "Zhè nǎ shì duànliàn shēntǐ a? (Qiángdiào zhè bú shì duànliàn shēntǐ)", "en": "How is this exercise? (= this isn't exercise)"},
+        {"type": "note", "en": "哪 comes after the subject: ✓ 他哪会瑜伽啊？ ✗ 哪他会瑜伽啊？. Often followed by a correction with 才……呢: 逛街哪能锻炼身体啊？登山才锻炼身体呢！"}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "多了解对方", "py": "Duō liǎojiě duìfāng", "en": "Know more about each other"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据提示词，用“来着”相互了解对方昨天的情况，了解得越多越好。", "en": "Using the hints, ask each other about yesterday with “来着”. Find out as much as you can."},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "早饭吃的什么", "en": "what you had for breakfast"},
+          {"zh": "是几点到教室的", "en": "what time you got to the classroom"},
+          {"zh": "去哪儿了", "en": "where you went"},
+          {"zh": "做什么了", "en": "what you did"},
+          {"zh": "跟谁一起", "py": "gēn shéi yìqǐ", "en": "who you were with"}
+        ]},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "昨天下课以后你去哪儿来着？", "py": "Zuótiān xià kè yǐhòu nǐ qù nǎr láizhe?", "en": "Where did you go after class yesterday?"},
+          {"speaker": "B", "zh": "我去超市来着。", "py": "Wǒ qù chāoshì láizhe.", "en": "I went to the supermarket."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"en": "Ask what your partner did last night; answer."}, "answer": [{"zh": "你昨天晚上做什么来着？——我看电影来着。", "en": "What did you do last night? — I watched a film. (model answer)"}]},
+        {"prompt": {"en": "Ask who they had lunch with; answer."}, "answer": [{"zh": "你昨天跟谁一起吃饭来着？——我跟小丽一起吃饭来着。", "en": "Who did you eat with yesterday? — I ate with Xiaoli. (model answer)"}]},
+        {"prompt": {"en": "Ask where they went at the weekend; answer."}, "answer": [{"zh": "周末你去哪儿来着？——我去爬山来着。", "en": "Where did you go at the weekend? — I went hiking. (model answer)"}]},
+        {"prompt": {"zh": "请你为朋友制作一个个人简介，利用下表的调查信息。对不确定的信息用“来着”进行提问。", "en": "Pair work: make a short profile of your friend (Chinese name, age, birthday, hometown, languages, hobbies, favourite food/drink/star/animal/film, dream job, dream trip). For anything you've forgotten, ask again with “来着”."},
+         "answer": [{"zh": "你的中文名字叫什么来着？", "en": "What was your Chinese name again? (model answer)"},
+                    {"zh": "你的生日是哪天来着？", "en": "When was your birthday again? (model answer)"},
+                    {"zh": "你最想去哪儿旅行来着？", "en": "Where was it you most wanted to travel to? (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "不仅如此", "py": "Bùjǐn rúcǐ", "en": "More than that"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据以下各图，说说这些活动的优点和缺点，商量一下周末做什么好。", "en": "Look at the pictures, talk about the advantages and disadvantages of each activity, and decide together what to do this weekend."},
+      "body": [
+        {"type": "example", "zh": "逛街不但能买东西，还能锻炼身体。", "py": "Guàng jiē búdàn néng mǎi dōngxi, hái néng duànliàn shēntǐ.", "en": "Going shopping not only lets you buy things, it's also exercise."}
+      ],
+      "items": [
+        {"picture": "A girl lying on the floor reading a book.", "answer": [{"zh": "看书不但能学到很多东西，还能让人放松。", "en": "Reading not only teaches you a lot, it also relaxes you. (model answer)"}]},
+        {"picture": "A man dozing on the sofa in front of the TV.", "answer": [{"zh": "在家休息不但不用花钱，还能睡懒觉。", "en": "Resting at home not only costs nothing, you can also sleep in. (model answer)"}]},
+        {"picture": "Young women walking along a street with shopping bags.", "answer": [{"zh": "逛街不但能买东西，还能锻炼身体。", "py": "Guàng jiē búdàn néng mǎi dōngxi, hái néng duànliàn shēntǐ.", "en": "Shopping not only gets you things, it's exercise too. (book's example)"}]},
+        {"picture": "A cyclist on a mountain bike by a lake.", "answer": [{"zh": "骑自行车不但能锻炼身体，还能看到很多漂亮的风景。", "en": "Cycling not only keeps you fit, you also see lots of beautiful scenery. (model answer)"}]},
+        {"picture": "A hiker with a backpack walking in the mountains.", "answer": [{"zh": "爬山不但能锻炼身体，还能呼吸新鲜空气。", "en": "Hiking not only keeps you fit, you also get fresh air. (model answer)"}]},
+        {"picture": "Someone typing on a laptop at a desk.", "answer": [{"zh": "上网不但能跟朋友聊天儿，还能买东西。", "py": "Shàng wǎng búdàn néng gēn péngyou liáo tiānr, hái néng mǎi dōngxi.", "en": "Going online not only lets you chat with friends, you can shop too. (model answer)"}]},
+        {"picture": "Friends laughing and toasting with glasses at a party.", "answer": [{"zh": "参加聚会不但能认识新朋友，还能吃好吃的。", "en": "Going to a party not only lets you meet new friends, there's good food too. (model answer)"}]},
+        {"picture": "Girls singing into a microphone at karaoke.", "answer": [{"zh": "唱卡拉OK不但很有意思，还能让人心情很好。", "py": "Chàng kǎlā OK búdàn hěn yǒu yìsi, hái néng ràng rén xīnqíng hěn hǎo.", "en": "Karaoke is not only fun, it also puts you in a good mood. (model answer)"}]},
+        {"prompt": {"zh": "谈谈你们去过的最有意思的地方，在说明原因的时候用“不但……还……”。", "en": "Group work: talk about the most interesting place you've been to, using 不但……还…… to give reasons. (Book's example: 北京不但有很多高楼大厦，还有很多名胜古迹。)"},
+         "answer": [{"zh": "北京不但有很多高楼大厦，还有很多名胜古迹。", "py": "Běijīng búdàn yǒu hěn duō gāolóu dàshà, hái yǒu hěn duō míngshèng gǔjì.", "en": "Beijing not only has lots of high-rises, it also has many historic sites. (book's example)"},
+                    {"zh": "西安不但有很多名胜古迹，还有很多好吃的东西。", "py": "Xī'ān búdàn yǒu hěn duō míngshèng gǔjì, hái yǒu hěn duō hǎochī de dōngxi.", "en": "Xi'an not only has many historic sites, it also has lots of good food. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "唱反调", "py": "Chàng fǎndiào", "en": "Sing a different tune"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一个同学根据提示词对以下各图进行描述，另一个同学用“……哪……啊？”进行反驳。", "en": "One student describes each picture using the cue words; the other refutes it using “……哪……啊？”."},
+      "body": [
+        {"type": "picture", "en": "Top row: 逛街 guàng jiē (two women shopping for clothes) · 唱卡拉OK chàng kǎlā OK (a woman singing into a mic) · 踢足球 tī zúqiú (boys playing football) · 做饭 zuò fàn (a woman cooking). Bottom row with cue words: 快 kuài (a taxi) · 有意思 yǒu yìsi (hikers on a mountain) · 方便 fāngbiàn (a subway platform) · 精彩 jīngcǎi (a basketball game)."},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "逛街能锻炼身体。", "py": "Guàng jiē néng duànliàn shēntǐ.", "en": "Shopping is exercise."},
+          {"speaker": "B", "zh": "逛街哪能锻炼身体啊？登山才锻炼身体呢！", "py": "Guàng jiē nǎ néng duànliàn shēntǐ a? Dēng shān cái duànliàn shēntǐ ne!", "en": "How is shopping exercise? Climbing mountains — now that's exercise!"}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "唱卡拉OK很有意思。", "en": "Karaoke is fun."}, "answer": [{"zh": "唱卡拉OK哪有意思啊？去爬山才有意思呢！", "py": "Chàng kǎlā OK nǎ yǒu yìsi a? Qù pá shān cái yǒu yìsi ne!", "en": "How is karaoke fun? Going hiking — that's fun! (model answer)"}]},
+        {"prompt": {"zh": "踢足球很精彩。", "en": "Football is exciting."}, "answer": [{"zh": "踢足球哪精彩啊？篮球比赛才精彩呢！", "en": "How is football exciting? Basketball games are exciting! (model answer)"}]},
+        {"prompt": {"zh": "坐出租车很快。", "en": "Taxis are fast."}, "answer": [{"zh": "坐出租车哪快啊？路上老堵车，坐地铁才快呢！", "en": "How are taxis fast? The roads are always jammed — the subway is fast! (model answer)"}]},
+        {"prompt": {"zh": "在家做饭很方便。", "en": "Cooking at home is convenient."}, "answer": [{"zh": "在家做饭哪方便啊？去饭馆吃才方便呢！", "en": "How is cooking at home convenient? Eating out is convenient! (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the correct sentence to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "她不但爱逛街，还爱登山。", "py": "Tā búdàn ài guàng jiē, hái ài dēng shān."}, {"zh": "不但她爱逛街，还爱登山。", "py": "Búdàn tā ài guàng jiē, hái ài dēng shān."}],
+       "answer": 0, "explain": "With one subject, the subject comes before 不但. (grammar note 2)"},
+      {"options": [{"zh": "哪他会瑜伽啊？", "py": "Nǎ tā huì yújiā a?"}, {"zh": "他哪会瑜伽啊？", "py": "Tā nǎ huì yújiā a?"}],
+       "answer": 1, "explain": "The subject goes before 哪……啊. (grammar note 3)"},
+      {"options": [{"zh": "她不但会做中国菜，她还会做法国菜。", "py": "Tā búdàn huì zuò Zhōngguó cài, tā hái huì zuò Fǎguó cài."}, {"zh": "她不但会做中国菜，还她会做法国菜。", "py": "Tā búdàn huì zuò Zhōngguó cài, hái tā huì zuò Fǎguó cài."}],
+       "answer": 0, "explain": "If the second subject is kept, it goes before 还, not after. (grammar note 2)"},
+      {"options": [{"zh": "我哪认识他啊？", "py": "Wǒ nǎ rènshi tā a?"}, {"zh": "哪我认识他啊？", "py": "Nǎ wǒ rènshi tā a?"}],
+       "answer": 0, "explain": "Subject + 哪 + verb + 啊. (grammar note 3)"},
+      {"options": [{"zh": "昨天你去哪儿来着了？", "py": "Zuótiān nǐ qù nǎr láizhe le?"}, {"zh": "昨天你去哪儿了来着？", "py": "Zuótiān nǐ qù nǎr le láizhe?"}],
+       "answer": 1, "explain": "来着 is usually the very last word of the sentence. (grammar note 1)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — 来着 goes at the end of the sentence (note 1). Missed Q1 or Q3 — review 不但……，还…… (note 2). Missed Q2 or Q4 — review rhetorical 哪……啊？ (note 3)."
+  }
+}

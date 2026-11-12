@@ -1,0 +1,627 @@
+{
+ "page": 19,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3",
+   "conf": 0.5,
+   "bbox": [
+    0.10271,
+    0.05957,
+    0.5472,
+    0.08008
+   ]
+  },
+  {
+   "text": "导入",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.13081,
+    0.22093,
+    0.15576
+   ]
+  },
+  {
+   "text": "WARM-UP",
+   "conf": 0.5,
+   "bbox": [
+    0.26935,
+    0.13069,
+    0.44576,
+    0.15274
+   ]
+  },
+  {
+   "text": "你喜欢什么样的服饰风格？你和你的朋友性格是什么样的？",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.16846,
+    0.66279,
+    0.1875
+   ]
+  },
+  {
+   "text": "Ni xihuan shenme yang de fushi fengge？",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.19331,
+    0.46705,
+    0.20947
+   ]
+  },
+  {
+   "text": "Ni he ni de pengyou xingge shi shenme",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.21221,
+    0.46705,
+    0.2282
+   ]
+  },
+  {
+   "text": "yang de？",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.23242,
+    0.22674,
+    0.24855
+   ]
+  },
+  {
+   "text": "How do you like to dress? What type of",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.25727,
+    0.47093,
+    0.27197
+   ]
+  },
+  {
+   "text": "personality do you and your friends have？",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.27762,
+    0.46124,
+    0.2907
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.04264,
+    0.34302,
+    0.0562,
+    0.3561
+   ]
+  },
+  {
+   "text": "头脑风暴 BRAINSTORM",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.42578,
+    0.53488,
+    0.44775
+   ]
+  },
+  {
+   "text": "外表 appearance",
+   "conf": 0.5,
+   "bbox": [
+    0.29264,
+    0.5814,
+    0.41667,
+    0.59738
+   ]
+  },
+  {
+   "text": "waibiao",
+   "conf": 0.5,
+   "bbox": [
+    0.28681,
+    0.6017,
+    0.34691,
+    0.61342
+   ]
+  },
+  {
+   "text": "外貌（发型、长相、身高、身材）",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.49707,
+    0.81202,
+    0.51611
+   ]
+  },
+  {
+   "text": "waimdo （faxing、zhangxiang.shengao. shencai）",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.51744,
+    0.82946,
+    0.5293
+   ]
+  },
+  {
+   "text": "appearance （hair style/appearance/height/figure）",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.53174,
+    0.81783,
+    0.5436
+   ]
+  },
+  {
+   "text": "年龄（年纪小、年轻、中年、老年）",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.57267,
+    0.83527,
+    0.59326
+   ]
+  },
+  {
+   "text": "nidnling （nidnji xido.nidnqing. zhongnidn. Idonian）",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.59424,
+    0.84884,
+    0.60901
+   ]
+  },
+  {
+   "text": "age （little/young/middle-aged/old）",
+   "conf": 0.5,
+   "bbox": [
+    0.49612,
+    0.61035,
+    0.72868,
+    0.62355
+   ]
+  },
+  {
+   "text": "衣着（保守、时尚）",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.64971,
+    0.68605,
+    0.67006
+   ]
+  },
+  {
+   "text": "yizhuo （bdoshou、shishang）",
+   "conf": 0.5,
+   "bbox": [
+    0.49612,
+    0.67139,
+    0.70155,
+    0.68605
+   ]
+  },
+  {
+   "text": "clothes （conservative/fashionable）",
+   "conf": 1.0,
+   "bbox": [
+    0.49806,
+    0.68604,
+    0.72674,
+    0.69775
+   ]
+  },
+  {
+   "text": "人 person",
+   "conf": 0.5,
+   "bbox": [
+    0.1259,
+    0.70909,
+    0.20356,
+    0.72405
+   ]
+  },
+  {
+   "text": "ren",
+   "conf": 0.5,
+   "bbox": [
+    0.12403,
+    0.72803,
+    0.1531,
+    0.73983
+   ]
+  },
+  {
+   "text": "性格 personality",
+   "conf": 0.5,
+   "bbox": [
+    0.29264,
+    0.8343,
+    0.41473,
+    0.85029
+   ]
+  },
+  {
+   "text": "xingge",
+   "conf": 0.5,
+   "bbox": [
+    0.2907,
+    0.85303,
+    0.34109,
+    0.86773
+   ]
+  },
+  {
+   "text": "内向（腼腆、文静）",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.7876,
+    0.68411,
+    0.80523
+   ]
+  },
+  {
+   "text": "neixiang （midntidn、wenjing）",
+   "conf": 0.5,
+   "bbox": [
+    0.49612,
+    0.80664,
+    0.70543,
+    0.82129
+   ]
+  },
+  {
+   "text": "introverted （shy/gentle and quiet）",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.82122,
+    0.72093,
+    0.83447
+   ]
+  },
+  {
+   "text": "外向（活泼、开朗、阳光）",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.86475,
+    0.74806,
+    0.88232
+   ]
+  },
+  {
+   "text": "waixiang （huopo.kaildng. ydngguang）",
+   "conf": 0.5,
+   "bbox": [
+    0.49612,
+    0.88372,
+    0.7655,
+    0.89844
+   ]
+  },
+  {
+   "text": "extroverted （lively/cheerful/sunny）",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.89971,
+    0.73062,
+    0.91134
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [ 3]",
+   "conf": 1.0,
+   "bbox": [
+    0.10271,
+    0.05957,
+    0.56008,
+    0.08008
+   ]
+  },
+  {
+   "text": "WARM-UP",
+   "conf": 1.0,
+   "bbox": [
+    0.26935,
+    0.13069,
+    0.44576,
+    0.15274
+   ]
+  },
+  {
+   "text": "1ДХН ДАКЛЕТХ? 157К0Л&МЖАН4НЖ?",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.16846,
+    0.66279,
+    0.1875
+   ]
+  },
+  {
+   "text": "Nĩ xihuan shénme yàng de fúshì fênggé?",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.19331,
+    0.46705,
+    0.20947
+   ]
+  },
+  {
+   "text": "Nĩ hé nĩ de péngyou xinggé shì shénme",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.21221,
+    0.46705,
+    0.2282
+   ]
+  },
+  {
+   "text": "yàng de?",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.23242,
+    0.22674,
+    0.24855
+   ]
+  },
+  {
+   "text": "How do you like to dress? What type of",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.25727,
+    0.47093,
+    0.27197
+   ]
+  },
+  {
+   "text": "personality do you and your friends have?",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.27762,
+    0.46124,
+    0.2907
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.04264,
+    0.34302,
+    0.0562,
+    0.3561
+   ]
+  },
+  {
+   "text": "AHDXIR BRAINSTORM",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.42578,
+    0.53488,
+    0.44775
+   ]
+  },
+  {
+   "text": "A/ A appearance",
+   "conf": 0.3,
+   "bbox": [
+    0.29264,
+    0.5814,
+    0.41667,
+    0.59738
+   ]
+  },
+  {
+   "text": "waibião",
+   "conf": 1.0,
+   "bbox": [
+    0.28681,
+    0.6017,
+    0.34691,
+    0.61342
+   ]
+  },
+  {
+   "text": "wàimào (faxing, zhăngxiàng, shêngão, shêncái)",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.51744,
+    0.82946,
+    0.5293
+   ]
+  },
+  {
+   "text": "appearance (hair style/appearance/height/figure)",
+   "conf": 1.0,
+   "bbox": [
+    0.49806,
+    0.53174,
+    0.81783,
+    0.5436
+   ]
+  },
+  {
+   "text": "F# (712J, 77, 47. #4)",
+   "conf": 0.3,
+   "bbox": [
+    0.49806,
+    0.57267,
+    0.83527,
+    0.59326
+   ]
+  },
+  {
+   "text": "niánlíng (niánj) xião, niánging, zhõngnián. lăonián)",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.59424,
+    0.84884,
+    0.60901
+   ]
+  },
+  {
+   "text": "age (little/young/middle-aged/old)",
+   "conf": 1.0,
+   "bbox": [
+    0.49612,
+    0.61035,
+    0.72868,
+    0.62355
+   ]
+  },
+  {
+   "text": "* (177, Hi)",
+   "conf": 0.3,
+   "bbox": [
+    0.5,
+    0.64971,
+    0.68605,
+    0.67006
+   ]
+  },
+  {
+   "text": "yĩzhuó (băoshõu, shíshàng)",
+   "conf": 0.3,
+   "bbox": [
+    0.49612,
+    0.67139,
+    0.70155,
+    0.68605
+   ]
+  },
+  {
+   "text": "clothes (conservative/fashionable)",
+   "conf": 1.0,
+   "bbox": [
+    0.49806,
+    0.68604,
+    0.72674,
+    0.69775
+   ]
+  },
+  {
+   "text": "^ person",
+   "conf": 0.3,
+   "bbox": [
+    0.1259,
+    0.70909,
+    0.20356,
+    0.72405
+   ]
+  },
+  {
+   "text": "rén",
+   "conf": 1.0,
+   "bbox": [
+    0.12403,
+    0.7282,
+    0.1531,
+    0.73983
+   ]
+  },
+  {
+   "text": "kE* personality",
+   "conf": 0.3,
+   "bbox": [
+    0.29264,
+    0.8343,
+    0.41473,
+    0.85029
+   ]
+  },
+  {
+   "text": "xinggé",
+   "conf": 1.0,
+   "bbox": [
+    0.2907,
+    0.8532,
+    0.34109,
+    0.86773
+   ]
+  },
+  {
+   "text": "(Mn H)",
+   "conf": 0.3,
+   "bbox": [
+    0.54688,
+    0.7876,
+    0.68411,
+    0.80523
+   ]
+  },
+  {
+   "text": "nèixiàng (miăntiăn, wénjing)",
+   "conf": 1.0,
+   "bbox": [
+    0.49612,
+    0.80664,
+    0.70543,
+    0.82129
+   ]
+  },
+  {
+   "text": "introverted (shy/gentle and quiet)",
+   "conf": 1.0,
+   "bbox": [
+    0.49806,
+    0.82122,
+    0.72093,
+    0.83447
+   ]
+  },
+  {
+   "text": "SA (iie, Fi, Fatt)",
+   "conf": 0.3,
+   "bbox": [
+    0.5,
+    0.86475,
+    0.74806,
+    0.88232
+   ]
+  },
+  {
+   "text": "wàixiàng (huópo, kãilăng, yángguãng)",
+   "conf": 0.5,
+   "bbox": [
+    0.49612,
+    0.88372,
+    0.7655,
+    0.89844
+   ]
+  },
+  {
+   "text": "extroverted (lively/cheerful/sunny)",
+   "conf": 1.0,
+   "bbox": [
+    0.49806,
+    0.89971,
+    0.73062,
+    0.91134
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+  "book": "Chinese 4",
+  "unit": 4,
+  "kind": "grammar",
+  "title": {"zh": "祝贺", "py": "Zhùhè", "en": "Congratulations"},
+  "source": "PDF pp. 63, 70–71, 75–79 (printed pp. 47, 54–55, 59–63)",
+  "intro": "This unit is about congratulating people and responding modestly. Grammar: (1) 其实 “actually / in fact” (correcting an impression); (2) 明明 “clearly, obviously” (stressing a fact that's being ignored); (3) 怪不得 “no wonder”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "其实我只是运气比较好罢了。", "py": "Qíshí wǒ zhǐshì yùnqi bǐjiào hǎo bàle.", "en": "Actually, I was just rather lucky, that's all."},
+    {"zh": "明明是实力强，哪儿是因为运气啊！", "py": "Míngmíng shì shílì qiáng, nǎr shì yīnwèi yùnqi a!", "en": "It's obviously because you're good — luck had nothing to do with it!"},
+    {"zh": "哪里，哪里，你过奖了。", "py": "Nǎli, nǎli, nǐ guòjiǎng le.", "en": "Oh no, not at all — you flatter me."},
+    {"zh": "怪不得你今天这么开心，原来是双喜临门啊！", "py": "Guàibude nǐ jīntiān zhème kāixīn, yuánlái shì shuāngxǐ línmén a!", "en": "No wonder you're so happy today — it's a double celebration!"}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "其实", "py": "qíshí", "en": "The usage of 其实"},
+      "body": [
+        {"type": "text", "zh": "副词“其实”表示所说的情况是真实的。用在动词前或主语前承接上文，常引出与上文相反的意思，表示对上文的更正或补充。例如：", "en": "The adverb “其实” marks what's said as the real situation. Placed before the verb or the subject, it follows on from what came before and often introduces the opposite — correcting or adding to it, e.g.,"},
+        {"type": "pattern", "zh": "（表面／别人以为的情况），其实 + 真实情况", "py": "(biǎomiàn / biérén yǐwéi de qíngkuàng), qíshí + zhēnshí qíngkuàng", "en": "(how it looks / what people think), actually + (the truth)"},
+        {"type": "example", "zh": "她看起来只有二十多岁，其实她已经快四十了。", "py": "Tā kàn qǐlai zhǐyǒu èrshí duō suì, qíshí tā yǐjīng kuài sìshí le.", "en": "She looks only twenty-something, but she's actually nearly forty."},
+        {"type": "example", "zh": "你们只知道他会说英语，其实他的法语也很好。", "py": "Nǐmen zhǐ zhīdào tā huì shuō Yīngyǔ, qíshí tā de Fǎyǔ yě hěn hǎo.", "en": "You only know he speaks English — actually his French is good too."},
+        {"type": "example", "zh": "他说他的成绩不太好，其实他是第一名。", "py": "Tā shuō tā de chéngjì bú tài hǎo, qíshí tā shì dì-yī míng.", "en": "He says his grades aren't great, but actually he came first."},
+        {"type": "note", "en": "Appearance first, 其实 + reality second: ✓ 那家公司看起来很小，其实实力很强. Reversing it (✗ 其实实力很强，看起来很小) breaks the logic."}
+      ]
+    },
+    {
+      "title": {"zh": "明明", "py": "míngmíng", "en": "The usage of 明明"},
+      "body": [
+        {"type": "text", "zh": "副词“明明”意思是“显然、清楚；确实”，表示显然如此，用以强调事实的确定性。有时用“明明”的小句前边或后边有表示反问或转折的小句。例如：", "en": "The adverb “明明” means “obviously, clearly, really”: it stresses that something is plainly a fact. The clause with 明明 is often followed (or preceded) by a rhetorical question or a contrast, e.g.,"},
+        {"type": "pattern", "zh": "明明 + 事实，（可是／却）+ 相反的情况／反问", "py": "míngmíng + shìshí, (kěshì / què) + xiāngfǎn de qíngkuàng / fǎnwèn", "en": "obviously + (fact), (but) + (something that doesn't fit) / rhetorical question"},
+        {"type": "example", "zh": "这件衣服明明很漂亮，你怎么不喜欢呢？", "py": "Zhè jiàn yīfu míngmíng hěn piàoliang, nǐ zěnme bù xǐhuan ne?", "en": "This dress is obviously beautiful — how come you don't like it?"},
+        {"type": "example", "zh": "这次考试明明很难，可是大家的成绩却很好。", "py": "Zhè cì kǎoshì míngmíng hěn nán, kěshì dàjiā de chéngjì què hěn hǎo.", "en": "This exam was clearly hard, yet everyone did well."},
+        {"type": "note", "en": "The second half must clash with the fact: ✓ 他明明获得了冠军，为什么看起来不太开心呢？ ✓ 我明明告诉他了，他怎么会不知道呢？"}
+      ]
+    },
+    {
+      "title": {"zh": "怪不得", "py": "guàibude", "en": "The usage of 怪不得"},
+      "body": [
+        {"type": "text", "zh": "“怪不得”表示明白了原因，不再觉得奇怪，含有突然醒悟的意思。前后常有说明原因的句子。例如：", "en": "“怪不得” means you've understood the reason, so something no longer seems strange — a sudden realisation. A clause giving the reason usually comes before or after it, e.g.,"},
+        {"type": "pattern", "zh": "（原因），怪不得 + 现象　·　怪不得 + 现象，（原因）", "py": "(yuányīn), guàibude + xiànxiàng · guàibude + xiànxiàng, (yuányīn)", "en": "(reason), no wonder + (the odd thing) · no wonder + (odd thing), (reason)"},
+        {"type": "example", "zh": "他在中国生活了三年，怪不得他对中国那么了解。", "py": "Tā zài Zhōngguó shēnghuóle sān nián, guàibude tā duì Zhōngguó nàme liǎojiě.", "en": "He lived in China for three years — no wonder he knows it so well."},
+        {"type": "example", "zh": "怪不得这么冷，我忘了关空调了。", "py": "Guàibude zhème lěng, wǒ wàngle guān kōngtiáo le.", "en": "No wonder it's so cold — I forgot to turn off the air conditioning."},
+        {"type": "note", "en": "怪不得 goes in front of the thing that puzzled you, not the reason: ✓ 怪不得房间里这么热，我忘了开空调了. ✗ 房间里这么热，怪不得我忘了开空调了."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "表里不一", "py": "Biǎo lǐ bù yī", "en": "The outside and the inside don't match"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一人用“看起来”描述下列图片，另一人用“其实”来进行补充。", "en": "One person describes each picture with “看起来”; the other adds the truth with “其实”."},
+      "body": [
+        {"type": "picture", "en": "Example: a young woman singing into a microphone."},
+        {"type": "example", "zh": "她看起来唱得不好，其实她是卡拉OK比赛的冠军。", "py": "Tā kàn qǐlai chàng de bù hǎo, qíshí tā shì kǎlā OK bǐsài de guànjūn.", "en": "She looks like she can't sing, but actually she's a karaoke contest champion."}
+      ],
+      "items": [
+        {"picture": "A man in a suit reading a speech from a sheet of paper at a lectern.", "answer": [{"zh": "他看起来很紧张，其实他已经做过很多次演讲了。", "py": "Tā kàn qǐlai hěn jǐnzhāng, qíshí tā yǐjīng zuòguo hěn duō cì yǎnjiǎng le.", "en": "He looks nervous, but actually he's given lots of speeches. (model answer)"}]},
+        {"picture": "A muscular man flexing his arms, seen from behind.", "answer": [{"zh": "他看起来很厉害，其实他是个很温和的人。", "py": "Tā kàn qǐlai hěn lìhai, qíshí tā shì ge hěn wēnhé de rén.", "en": "He looks tough, but actually he's a very gentle person. (model answer)"}]},
+        {"picture": "An old-looking bicycle parked by a wall.", "answer": [{"zh": "这辆自行车看起来很旧，其实是我上个月刚买的。", "en": "This bike looks old, but actually I bought it just last month. (model answer)"}]},
+        {"picture": "Small, imperfect-looking apples growing on a tree.", "answer": [{"zh": "这些苹果看起来不太好看，其实很好吃。", "py": "Zhèxiē píngguǒ kàn qǐlai bú tài hǎokàn, qíshí hěn hǎochī.", "en": "These apples don't look great, but actually they're delicious. (model answer)"}]},
+        {"picture": "A hand holding a small, old-fashioned red mobile phone.", "answer": [{"zh": "这个手机看起来很旧，其实功能很多。", "py": "Zhège shǒujī kàn qǐlai hěn jiù, qíshí gōngnéng hěn duō.", "en": "This phone looks old, but actually it does a lot. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "不可思议", "py": "Bùkě-sīyì", "en": "Beyond comprehension"},
+      "activity": {"zh": "单人活动", "py": "dān rén huódòng", "en": "Individual work"},
+      "instructions": {"zh": "完成句子。", "en": "Complete the sentences with 明明. (Group work: see whose sentences are the most interesting.)"},
+      "body": [
+        {"type": "example", "zh": "明明获得了冠军，他却说自己在比赛中的表现不好。", "py": "Míngmíng huòdéle guànjūn, tā què shuō zìjǐ zài bǐsài zhōng de biǎoxiàn bù hǎo.", "en": "He obviously won the championship, yet he says he didn't perform well."}
+      ],
+      "items": [
+        {"prompt": {"zh": "他明明是个很了不起的人，______。", "py": "Tā míngmíng shì ge hěn liǎobuqǐ de rén, ______.", "en": "He's obviously an amazing person, …"}, "answer": [{"zh": "他明明是个很了不起的人，却总是说自己很普通。", "en": "…yet he always says he's ordinary. (model answer)"}]},
+        {"prompt": {"zh": "天气明明很冷，______。", "py": "Tiānqì míngmíng hěn lěng, ______.", "en": "It's obviously cold, …"}, "answer": [{"zh": "天气明明很冷，他却只穿了一件衬衫。", "py": "Tiānqì míngmíng hěn lěng, tā què zhǐ chuānle yí jiàn chènshān.", "en": "…yet he's only wearing a shirt. (model answer)"}]},
+        {"prompt": {"zh": "______，他却说不知道。（明明）", "py": "______, tā què shuō bù zhīdào. (míngmíng)", "en": "…, yet he says he doesn't know."}, "answer": [{"zh": "我明明告诉过他，他却说不知道。", "py": "Wǒ míngmíng gàosuguo tā, tā què shuō bù zhīdào.", "en": "I clearly told him, yet he says he doesn't know. (model answer)"}]},
+        {"prompt": {"zh": "______，她家却没有人。（明明）", "py": "______, tā jiā què méiyǒu rén. (míngmíng)", "en": "…, yet there's nobody at her home."}, "answer": [{"zh": "她明明说今天在家，她家却没有人。", "en": "She clearly said she'd be home today, yet there's nobody there. (model answer)"}]},
+        {"prompt": {"en": "Make up your own 明明 sentence."}, "answer": [{"zh": "他明明不会唱歌，却报名参加了唱歌比赛。", "py": "Tā míngmíng bú huì chàng gē, què bào míng cānjiāle chàng gē bǐsài.", "en": "He obviously can't sing, yet he signed up for a singing contest. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "原来如此", "py": "Yuánlái rúcǐ", "en": "That's why…"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一人说A句，一人用合适的B句应答。", "en": "One person says a sentence from column A; the other responds with the matching sentence from column B."},
+      "body": [
+        {"type": "note", "en": "Column B (responses):"},
+        {"type": "list", "items": [
+          {"zh": "a. 怪不得他买了一个很贵的戒指。", "py": "a. Guàibude tā mǎile yí ge hěn guì de jièzhi.", "en": "No wonder he bought a very expensive ring."},
+          {"zh": "b. 怪不得他的朋友要为他庆祝。", "py": "b. Guàibude tā de péngyou yào wèi tā qìngzhù.", "en": "No wonder his friends want to celebrate for him."},
+          {"zh": "c. 怪不得他的中文进步很快。", "py": "c. Guàibude tā de Zhōngwén jìnbù hěn kuài.", "en": "No wonder his Chinese is improving so fast."},
+          {"zh": "d. 怪不得他最近很开心。", "py": "d. Guàibude tā zuìjìn hěn kāixīn.", "en": "No wonder he's been so happy lately."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "在决赛中，他获得了总冠军。", "en": "He won the overall championship in the final."}, "answer": [{"en": "→ b. 怪不得他的朋友要为他庆祝。"}]},
+        {"prompt": {"zh": "他住在中国人的家里。", "en": "He lives with a Chinese family."}, "answer": [{"en": "→ c. 怪不得他的中文进步很快。"}]},
+        {"prompt": {"zh": "他打算向女朋友求婚。", "py": "Tā dǎsuan xiàng nǚpéngyou qiú hūn.", "en": "He plans to propose to his girlfriend."}, "answer": [{"en": "→ a. 怪不得他买了一个很贵的戒指。"}]},
+        {"prompt": {"zh": "他女朋友同意嫁给他了。", "py": "Tā nǚpéngyou tóngyì jià gěi tā le.", "en": "His girlfriend agreed to marry him."}, "answer": [{"en": "→ d. 怪不得他最近很开心。"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "他明明获得了冠军，为什么看起来不太开心呢？", "py": "Tā míngmíng huòdéle guànjūn, wèi shénme kàn qǐlai bú tài kāixīn ne?"}, {"zh": "他明明获得了冠军，为什么看起来很开心呢？", "py": "Tā míngmíng huòdéle guànjūn, wèi shénme kàn qǐlai hěn kāixīn ne?"}],
+       "answer": 0, "explain": "The second half must clash with the obvious fact (won → should be happy). (grammar note 2)"},
+      {"question": {"zh": "大龙在比赛中表现特别好。", "py": "Dàlóng zài bǐsài zhōng biǎoxiàn tèbié hǎo.", "en": "Dalong performed especially well in the competition."},
+       "options": [{"zh": "怪不得他的中文很好。", "py": "Guàibude tā de Zhōngwén hěn hǎo."}, {"zh": "怪不得他获得了第一名。", "py": "Guàibude tā huòdéle dì-yī míng."}],
+       "answer": 1, "explain": "Performing well explains winning first place, not his Chinese. (grammar note 3)"},
+      {"options": [{"zh": "我明明告诉他了，他怎么会不知道呢？", "py": "Wǒ míngmíng gàosu tā le, tā zěnme huì bù zhīdào ne?"}, {"zh": "我明明告诉他了，他怎么会知道呢？", "py": "Wǒ míngmíng gàosu tā le, tā zěnme huì zhīdào ne?"}],
+       "answer": 0, "explain": "I clearly told him → how can he NOT know? (grammar note 2)"},
+      {"options": [{"zh": "怪不得房间里这么热，我忘了开空调了。", "py": "Guàibude fángjiān li zhème rè, wǒ wàngle kāi kōngtiáo le."}, {"zh": "房间里这么热，怪不得我忘了开空调了。", "py": "Fángjiān li zhème rè, guàibude wǒ wàngle kāi kōngtiáo le."}],
+       "answer": 0, "explain": "怪不得 goes before the puzzling thing (so hot), not the reason. (grammar note 3)"},
+      {"options": [{"zh": "那家公司其实实力很强，看起来很小。", "py": "Nà jiā gōngsī qíshí shílì hěn qiáng, kàn qǐlai hěn xiǎo."}, {"zh": "那家公司看起来很小，其实实力很强。", "py": "Nà jiā gōngsī kàn qǐlai hěn xiǎo, qíshí shílì hěn qiáng."}],
+       "answer": 1, "explain": "Appearance first, then 其实 + the reality. (grammar note 1)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — review 其实 (note 1). Missed Q1 or Q3 — review 明明 (note 2). Missed Q2 or Q4 — review 怪不得 (note 3)."
+  }
+}

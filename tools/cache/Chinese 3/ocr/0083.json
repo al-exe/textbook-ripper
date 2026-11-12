@@ -1,0 +1,677 @@
+{
+ "page": 83,
+ "cjk_pass": [
+  {
+   "text": "Unit 4 Talking about Housing",
+   "conf": 0.5,
+   "bbox": [
+    0.56783,
+    0.05957,
+    0.89147,
+    0.08154
+   ]
+  },
+  {
+   "text": "C.注意“的”字短语的用法，详见语法点注释2。现在你明白",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.12354,
+    0.71318,
+    0.14404
+   ]
+  },
+  {
+   "text": "了吧？请再做一遍第②和④题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.21705,
+    0.1468,
+    0.49806,
+    0.1657
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of the \"的”phrase. Refer to",
+   "conf": 0.5,
+   "bbox": [
+    0.21497,
+    0.16695,
+    0.71523,
+    0.18632
+   ]
+  },
+  {
+   "text": "Grammar Note 2 for more details. Please do questions ②",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.1875,
+    0.71318,
+    0.20215
+   ]
+  },
+  {
+   "text": "and ④again.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.20494,
+    0.3314,
+    0.21948
+   ]
+  },
+  {
+   "text": "D.注意存在句的用法，详见语法点注释1。现在你明白了",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.24414,
+    0.71318,
+    0.26172
+   ]
+  },
+  {
+   "text": "吧？请再做一遍第①和③题吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.26599,
+    0.47868,
+    0.28343
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of a sentence indicating",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.2876,
+    0.71512,
+    0.30378
+   ]
+  },
+  {
+   "text": "existence. Refer to Grammar Note 1 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.30371,
+    0.71705,
+    0.31836
+   ]
+  },
+  {
+   "text": "Please do questions l and ③ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.32122,
+    0.52326,
+    0.3374
+   ]
+  },
+  {
+   "text": "文化小贴士",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.41113,
+    0.35078,
+    0.43459
+   ]
+  },
+  {
+   "text": "CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.3469,
+    0.4126,
+    0.65504,
+    0.43169
+   ]
+  },
+  {
+   "text": "（一）你知道吗",
+   "conf": 0.5,
+   "bbox": [
+    0.35078,
+    0.47363,
+    0.48837,
+    0.49128
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.50581,
+    0.4751,
+    0.64535,
+    0.48983
+   ]
+  },
+  {
+   "text": "四合院 Courtyard House",
+   "conf": 0.5,
+   "bbox": [
+    0.37791,
+    0.52762,
+    0.63372,
+    0.54506
+   ]
+  },
+  {
+   "text": "四合院是中国北方汉族民居的典型形式。“四”是指东南西北四面墙，“合”是合在一",
+   "conf": 0.5,
+   "bbox": [
+    0.15297,
+    0.55418,
+    0.89163,
+    0.57986
+   ]
+  },
+  {
+   "text": "起，形成一个口字形。很多四合院是坐北朝南的。北边的是正房，东西两侧是相房，南边",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.5814,
+    0.8876,
+    0.59884
+   ]
+  },
+  {
+   "text": "的叫“倒座”",
+   "conf": 0.5,
+   "bbox": [
+    0.1143,
+    0.60158,
+    0.22679,
+    0.61935
+   ]
+  },
+  {
+   "text": "，过去一般作为书房、杂物间或者仆人住的房间。厕所一般在四合院的西南角，",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.60303,
+    0.88953,
+    0.62209
+   ]
+  },
+  {
+   "text": "大门在东南角。四合院历史悠久，北京的四合院数量众多，设计巧妙，很有特色。",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.62354,
+    0.81977,
+    0.64404
+   ]
+  },
+  {
+   "text": "The courtyard house is a typical residence for the Han ethnic group in northern China.",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.6582,
+    0.89341,
+    0.67587
+   ]
+  },
+  {
+   "text": "“四” refers to the four walls, the eastern, southern, western and northern walls, and “合” means",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.67871,
+    0.89147,
+    0.69629
+   ]
+  },
+  {
+   "text": "combining into the shape of \"口”.Many courtyard have the north-south orientation, with the",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.70349,
+    0.89147,
+    0.71948
+   ]
+  },
+  {
+   "text": "northern rooms as the principal rooms, eastern and",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.72656,
+    0.53295,
+    0.73983
+   ]
+  },
+  {
+   "text": "western rooms as the wing-rooms and southern",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.74854,
+    0.53295,
+    0.76172
+   ]
+  },
+  {
+   "text": "rooms as the \"opposite rooms”. The opposite rooms",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.7689,
+    0.53295,
+    0.78488
+   ]
+  },
+  {
+   "text": "were used as a study, utility rooms or servants’",
+   "conf": 0.5,
+   "bbox": [
+    0.11617,
+    0.79065,
+    0.5331,
+    0.80813
+   ]
+  },
+  {
+   "text": "rooms. A toilet usually sits at the southwest corner",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.81541,
+    0.53488,
+    0.83008
+   ]
+  },
+  {
+   "text": "and a gate at its southeast corner of a courtyard.",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.83721,
+    0.53488,
+    0.85174
+   ]
+  },
+  {
+   "text": "Known for their long history and large number，",
+   "conf": 0.5,
+   "bbox": [
+    0.11628,
+    0.85889,
+    0.53488,
+    0.875
+   ]
+  },
+  {
+   "text": "courtyards in Beijing are ingeniously designed and",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.88081,
+    0.53295,
+    0.89844
+   ]
+  },
+  {
+   "text": "are unique.",
+   "conf": 0.5,
+   "bbox": [
+    0.11426,
+    0.90379,
+    0.2055,
+    0.91889
+   ]
+  },
+  {
+   "text": "67",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96899,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 4 Talking about Housing",
+   "conf": 1.0,
+   "bbox": [
+    0.56783,
+    0.05957,
+    0.89147,
+    0.08154
+   ]
+  },
+  {
+   "text": "C.ÀC \"К\" 7MDE, MЛMAAR2 FKHH",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.12354,
+    0.71318,
+    0.14404
+   ]
+  },
+  {
+   "text": "TE? MHж-1E2HOшE",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.1468,
+    0.49806,
+    0.1657
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of the \"#j\" phrase. Refer to",
+   "conf": 0.5,
+   "bbox": [
+    0.21497,
+    0.16695,
+    0.71523,
+    0.18632
+   ]
+  },
+  {
+   "text": "Grammar Note 2 for more details. Please do questions 2",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.1875,
+    0.71318,
+    0.20215
+   ]
+  },
+  {
+   "text": "and (4) again.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.20494,
+    0.3314,
+    0.21948
+   ]
+  },
+  {
+   "text": "D.ЕСНИЛИДД, ПЛИАEН1 БАКНÁТ",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.24414,
+    0.71318,
+    0.26172
+   ]
+  },
+  {
+   "text": "тИК 1ОтЗ",
+   "conf": 0.3,
+   "bbox": [
+    0.24902,
+    0.26599,
+    0.47868,
+    0.28343
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of a sentence indicating",
+   "conf": 1.0,
+   "bbox": [
+    0.21512,
+    0.2876,
+    0.71512,
+    0.30378
+   ]
+  },
+  {
+   "text": "existence. Refer to Grammar Note 1 for more details.",
+   "conf": 1.0,
+   "bbox": [
+    0.21705,
+    0.30371,
+    0.71705,
+    0.31836
+   ]
+  },
+  {
+   "text": "Please do questions D and 3 again.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.32122,
+    0.52326,
+    0.3374
+   ]
+  },
+  {
+   "text": "XIK/JЛ6t",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.41134,
+    0.35078,
+    0.43459
+   ]
+  },
+  {
+   "text": "CULTURAL NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.3469,
+    0.4126,
+    0.65504,
+    0.43169
+   ]
+  },
+  {
+   "text": "(-) 1КА9",
+   "conf": 0.3,
+   "bbox": [
+    0.35078,
+    0.47363,
+    0.48837,
+    0.49128
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.50581,
+    0.4751,
+    0.64535,
+    0.48983
+   ]
+  },
+  {
+   "text": "2ai Courtyard House",
+   "conf": 0.3,
+   "bbox": [
+    0.37791,
+    0.52762,
+    0.63372,
+    0.54506
+   ]
+  },
+  {
+   "text": "МИВЛ ТЕ ХКОЕКЛЛЕА \"О\" АИДФРНИИИ, \"Д\" ЕАК-",
+   "conf": 0.3,
+   "bbox": [
+    0.15297,
+    0.55418,
+    0.89163,
+    0.57986
+   ]
+  },
+  {
+   "text": "ÁGHY \"TUAÊ\"",
+   "conf": 0.3,
+   "bbox": [
+    0.1143,
+    0.60158,
+    0.22679,
+    0.61935
+   ]
+  },
+  {
+   "text": "ДЕ МДВВ ВШО ИИЛКОВ ВОВТ АТЕРАВЕУРИМ,",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.60303,
+    0.88953,
+    0.62209
+   ]
+  },
+  {
+   "text": "МАФДО ШАВЛИВА, НААТАВЕКНАВ, ШИТК, ТИНО.",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.62354,
+    0.81977,
+    0.64404
+   ]
+  },
+  {
+   "text": "The courtyard house is a typical residence for the Han ethnic group in northern China.",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.6582,
+    0.89341,
+    0.67587
+   ]
+  },
+  {
+   "text": "\"py\" refers to the four walls, the eastern, southern, western and northern walls, and \"A\" means",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.67871,
+    0.89147,
+    0.69629
+   ]
+  },
+  {
+   "text": "combining into the shape of \"I\". Many courtyard have the north-south orientation, with the",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.70349,
+    0.89147,
+    0.71948
+   ]
+  },
+  {
+   "text": "northern rooms as the principal rooms, eastern and",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.72656,
+    0.53295,
+    0.73983
+   ]
+  },
+  {
+   "text": "western rooms as the wing-rooms and southern",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.74854,
+    0.53295,
+    0.76172
+   ]
+  },
+  {
+   "text": "rooms as the \"opposite rooms\". The opposite rooms",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.7689,
+    0.53295,
+    0.78488
+   ]
+  },
+  {
+   "text": "were used as a study, utility rooms or servants'",
+   "conf": 1.0,
+   "bbox": [
+    0.11617,
+    0.79065,
+    0.5331,
+    0.80813
+   ]
+  },
+  {
+   "text": "rooms. A toilet usually sits at the southwest corner",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.81541,
+    0.53488,
+    0.83008
+   ]
+  },
+  {
+   "text": "and a gate at its southeast corner of a courtyard.",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.83721,
+    0.53488,
+    0.85174
+   ]
+  },
+  {
+   "text": "Known for their long history and large number,",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.85889,
+    0.53488,
+    0.875
+   ]
+  },
+  {
+   "text": "courtyards in Beijing are ingeniously designed and",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.88081,
+    0.53295,
+    0.89844
+   ]
+  },
+  {
+   "text": "are unique.",
+   "conf": 1.0,
+   "bbox": [
+    0.11426,
+    0.90379,
+    0.2055,
+    0.91889
+   ]
+  },
+  {
+   "text": "67",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96899,
+    0.3561
+   ]
+  }
+ ]
+}

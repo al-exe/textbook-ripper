@@ -1,0 +1,697 @@
+{
+ "page": 86,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "70",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "新的工作、结识新 同事，总之 所有的东西对我来说都是",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.13372,
+    0.87016,
+    0.15283
+   ]
+  },
+  {
+   "text": "xin de gongzuo, jieshi xin tongshi, zongzhi suoydu de dongxi dui wo lai shuo dou shi",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.15552,
+    0.87597,
+    0.17151
+   ]
+  },
+  {
+   "text": "新的。你看，我把所有 要做的事情 都记在记事本上了。",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.18018,
+    0.8469,
+    0.20068
+   ]
+  },
+  {
+   "text": "xin de. Ni kan, wo ba suoyou yao zuo de shiqing dou ji zai jishiben shang le.",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.20349,
+    0.83721,
+    0.2168
+   ]
+  },
+  {
+   "text": "我建议你也 准备个小本子，把该 做的事情逐一记下来，",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.22656,
+    0.81977,
+    0.24709
+   ]
+  },
+  {
+   "text": "Wo jianyi ni ye zhinbei ge xido benzi, bd gai zuo de shiqing zhuyi ji xialai，",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.25,
+    0.81589,
+    0.26611
+   ]
+  },
+  {
+   "text": "省得忘。",
+   "conf": 0.5,
+   "bbox": [
+    0.20924,
+    0.2745,
+    0.32758,
+    0.29381
+   ]
+  },
+  {
+   "text": "shengde wang.",
+   "conf": 0.5,
+   "bbox": [
+    0.20919,
+    0.29602,
+    0.33151,
+    0.31299
+   ]
+  },
+  {
+   "text": "艾娜：唉，记了，可是我 连记事本都丢了。早 知道 学法律这么难，",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.32122,
+    0.84884,
+    0.3418
+   ]
+  },
+  {
+   "text": "Aind： Ai， jile，",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.34157,
+    0.31783,
+    0.35901
+   ]
+  },
+  {
+   "text": "keshi wo lidn jishiben dou dit le. Zdo zhiddo xue fald zheme nan，",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.34424,
+    0.85078,
+    0.35901
+   ]
+  },
+  {
+   "text": "我还不如选别的 专业呢。",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.36914,
+    0.50388,
+    0.38818
+   ]
+  },
+  {
+   "text": "wo hai buru xuan bie de zhuanye ne.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.39099,
+    0.5,
+    0.40576
+   ]
+  },
+  {
+   "text": "小丽：别说丧气话。当一名律师不是一直是你的理想吗？振作",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.41553,
+    0.8469,
+    0.43605
+   ]
+  },
+  {
+   "text": "Xidoli: Bie shuo sangqi hud. Dang yi ming lishi bu shi yizhi shi ni de lixidng ma? Zhenzuo",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.4375,
+    0.86047,
+    0.45361
+   ]
+  },
+  {
+   "text": "起来！加油吧，俗话说：有志者事竟成。",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.46366,
+    0.68798,
+    0.48256
+   ]
+  },
+  {
+   "text": "qilai！",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.48535,
+    0.25194,
+    0.5
+   ]
+  },
+  {
+   "text": "Jid you ba, sthua shuo: You zhi zhe shijing cheng.",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.48535,
+    0.69574,
+    0.50146
+   ]
+  },
+  {
+   "text": "艾娜：谢谢你安慰我。我最近 真的很紧张。如果 通不过考试，",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.51017,
+    0.84109,
+    0.5293
+   ]
+  },
+  {
+   "text": "Aind: Xiexie ni anwei wo. Wo zuijin zhen de hen jinzhang. Riguo tong bu guo kdoshi，",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.53052,
+    0.83915,
+    0.54797
+   ]
+  },
+  {
+   "text": "那我这三年都白学了。",
+   "conf": 0.5,
+   "bbox": [
+    0.21301,
+    0.55643,
+    0.48858,
+    0.57711
+   ]
+  },
+  {
+   "text": "na wo zhe san nian dou bai xue le.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.57994,
+    0.48062,
+    0.59326
+   ]
+  },
+  {
+   "text": "小丽：放 轻松，别给自己太大压力。要学会 给自己减压。最近 你",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.60449,
+    0.8624,
+    0.62355
+   ]
+  },
+  {
+   "text": "Xidoli: Fang qingsong, bie gei zji tdi dd yall. Yoo xuehui gei zi jian yd.",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.62645,
+    0.78682,
+    0.64258
+   ]
+  },
+  {
+   "text": "Zuijin ni",
+   "conf": 0.3,
+   "bbox": [
+    0.78485,
+    0.62635,
+    0.8605,
+    0.64109
+   ]
+  },
+  {
+   "text": "不妨 多 听听 音乐，舒缓 一下情绪。对了，一会儿和我一起",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.64826,
+    0.85078,
+    0.67151
+   ]
+  },
+  {
+   "text": "bufang duo tingting yinyue, shuhuan yixid qingxu. Duile，",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.67432,
+    0.66473,
+    0.68896
+   ]
+  },
+  {
+   "text": "yihuir he wo yiqi",
+   "conf": 0.3,
+   "bbox": [
+    0.6938,
+    0.67285,
+    0.84109,
+    0.68896
+   ]
+  },
+  {
+   "text": "去做瑜伽吧，放松 一下心情，或许会 好呢。",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.69913,
+    0.67636,
+    0.71826
+   ]
+  },
+  {
+   "text": "qu zuo yujia ba, fangsong yixid xinqing, huoxi hui hdo ne.",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.7207,
+    0.67248,
+    0.73692
+   ]
+  },
+  {
+   "text": "艾娜：我现在忙 得不得了，哪有 时间 做瑜伽啊？",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.74561,
+    0.68798,
+    0.76465
+   ]
+  },
+  {
+   "text": "Aind: wo xidnzdi mang e budlido na aou shijin zuo ai ？",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.76599,
+    0.67829,
+    0.78343
+   ]
+  },
+  {
+   "text": "小丽：你要劳逸结合，张弛 有度，走吧！",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.79199,
+    0.57171,
+    0.81105
+   ]
+  },
+  {
+   "text": "Xidoll: Ni ydo laoyi jehe, zhangchi youdd, zou ba！",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.81541,
+    0.56977,
+    0.83154
+   ]
+  },
+  {
+   "text": "艾娜：好吧，反正 我也什么都看不下去。",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.84012,
+    0.61434,
+    0.85901
+   ]
+  },
+  {
+   "text": "Aind: Hdo ba, fanzheng wo ye shenme dou kan bu xidqu.",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.86035,
+    0.61047,
+    0.87793
+   ]
+  },
+  {
+   "text": "（做完瑜伽）",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.88663,
+    0.27519,
+    0.90137
+   ]
+  },
+  {
+   "text": "（zuOwan yujid）",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.90967,
+    0.27326,
+    0.92442
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "xin de gongzuò, jiéshí xin tóngshì, zăngzhĩ suăyău de dõngxi duì wò lái shuo dõu shì",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.15552,
+    0.87597,
+    0.17151
+   ]
+  },
+  {
+   "text": "xin de. Nì kàn, wó bà suoyou vào zuò de shiqing dõu jì zài jìshiben shang le.",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.20349,
+    0.83721,
+    0.2168
+   ]
+  },
+  {
+   "text": "70",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "Wõ jiànyì nĩ yẽ zhunbèi ge xião bănzi, bà gãi zuò de shìging zhúýi jì xialai,",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.25,
+    0.81589,
+    0.26611
+   ]
+  },
+  {
+   "text": "117 .",
+   "conf": 0.3,
+   "bbox": [
+    0.20924,
+    0.2745,
+    0.32758,
+    0.29381
+   ]
+  },
+  {
+   "text": "shăngde wàng.",
+   "conf": 0.3,
+   "bbox": [
+    0.20919,
+    0.29602,
+    0.33151,
+    0.31299
+   ]
+  },
+  {
+   "text": "Àinà: Ài, jile,",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.34157,
+    0.31783,
+    0.35901
+   ]
+  },
+  {
+   "text": "keshì wò lián jìshiben dõu diũ le. Zão zhidào xué falü zhème nán,",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.34424,
+    0.85078,
+    0.35901
+   ]
+  },
+  {
+   "text": "wõ hái bùrú xuăn bié de zhuãnyè ne.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.39099,
+    0.5,
+    0.40576
+   ]
+  },
+  {
+   "text": "•? 1H",
+   "conf": 0.3,
+   "bbox": [
+    0.74967,
+    0.41553,
+    0.8469,
+    0.43605
+   ]
+  },
+  {
+   "text": "Xiăolì: Bié shuo sàngại hua. Dãng yì ming lùshĩ bú shì yìzhí shì nĩ de lĩxiăng ma? Zhènzuò",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.4375,
+    0.86047,
+    0.45361
+   ]
+  },
+  {
+   "text": "tl M Mre, Kii: AEh f s.",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.46366,
+    0.68798,
+    0.48256
+   ]
+  },
+  {
+   "text": "qilai!",
+   "conf": 1.0,
+   "bbox": [
+    0.2093,
+    0.48547,
+    0.25194,
+    0.5
+   ]
+  },
+  {
+   "text": "Jiã yóu ba, súhuà shuố: Yõu zhì zhẽ shì jìng chéng.",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.48535,
+    0.69574,
+    0.50146
+   ]
+  },
+  {
+   "text": "Ainà: Xièxie nĩ ănwèi wò. Wõ zuijìn zhẽn de hẽn jĩnzhãng. Rúguõ tông bu guò kãoshì,",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.53052,
+    0.83915,
+    0.54797
+   ]
+  },
+  {
+   "text": "Đ A FAEFT.",
+   "conf": 0.3,
+   "bbox": [
+    0.21301,
+    0.55643,
+    0.48858,
+    0.57711
+   ]
+  },
+  {
+   "text": "nà wó zhè săn nián dõu bái xué le.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.57994,
+    0.48062,
+    0.59326
+   ]
+  },
+  {
+   "text": "Xiăolì: Fàng qingsõng, bié gặi zìĩ tài dà yalì. Yào xuéhui gặi ziĩ jiăn yà.",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.62645,
+    0.78682,
+    0.64258
+   ]
+  },
+  {
+   "text": "Zuỳìn nĩ",
+   "conf": 0.3,
+   "bbox": [
+    0.78485,
+    0.62635,
+    0.8605,
+    0.64109
+   ]
+  },
+  {
+   "text": "bùfáng duỡ tingting yinyuè, shuhuăn yíxia gíngxù. Duile,",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.67432,
+    0.66473,
+    0.68896
+   ]
+  },
+  {
+   "text": "E B SA VATC, tT -FSM, XHAH%",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.69913,
+    0.67636,
+    0.71826
+   ]
+  },
+  {
+   "text": "qù zuò yújia ba, fàngsõng yíxià xingíng, huòxu hui hão ne.",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.7207,
+    0.67248,
+    0.73692
+   ]
+  },
+  {
+   "text": "yíhuir hé wõ yìqi",
+   "conf": 0.3,
+   "bbox": [
+    0.6938,
+    0.67285,
+    0.84109,
+    0.68896
+   ]
+  },
+  {
+   "text": "Ainà: Wõ xiànzài máng de bùdélião, nă yõu shí jiãn zuò yújia a?",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.76599,
+    0.67829,
+    0.78343
+   ]
+  },
+  {
+   "text": "Xiăolì: Nĩ yào láoyì jiéhé, zhàngchí yõudù, zõu ba!",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.81541,
+    0.56977,
+    0.83154
+   ]
+  },
+  {
+   "text": "Ainà: Hão ba, fănzhèng wõ yè shénme dõu kàn bu xiàqu.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.86035,
+    0.61047,
+    0.87793
+   ]
+  },
+  {
+   "text": "(1FX5E Tiu 100 )",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.88663,
+    0.27519,
+    0.90137
+   ]
+  },
+  {
+   "text": "(zuòwán yújia)",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.90967,
+    0.27326,
+    0.92442
+   ]
+  }
+ ]
+}

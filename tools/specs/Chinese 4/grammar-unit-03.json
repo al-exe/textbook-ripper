@@ -1,0 +1,144 @@
+{
+  "book": "Chinese 4",
+  "unit": 3,
+  "kind": "grammar",
+  "title": {"zh": "售后服务", "py": "Shòuhòu fúwù", "en": "After-sale Services"},
+  "source": "PDF pp. 47, 53–55, 58–61 (printed pp. 31, 37–39, 42–45)",
+  "intro": "This unit is about returning faulty goods and complaining politely. Grammar: (1) 突然 “suddenly / sudden”; (2) 即便……也/还是…… “even if…”; (3) ……得住 / ……不住 (can / can't hold, last or stand); (4) 要不然 “otherwise”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "（台灯）昨天晚上突然坏了。", "py": "(Táidēng) zuótiān wǎnshang tūrán huài le.", "en": "(The desk lamp) suddenly broke last night."},
+    {"zh": "即便换了新的，还是用不住。", "py": "Jíbiàn huànle xīn de, háishi yòng bu zhù.", "en": "Even if I get a new one, it still won't last."},
+    {"zh": "我们超市的产品质量是有保证的，要不然我们也不敢承诺七天之内无条件退换。", "py": "Wǒmen chāoshì de chǎnpǐn zhìliàng shì yǒu bǎozhèng de, yàobùrán wǒmen yě bù gǎn chéngnuò qī tiān zhī nèi wú tiáojiàn tuìhuàn.", "en": "The quality of our supermarket's products is guaranteed — otherwise we wouldn't dare promise unconditional returns within seven days."},
+    {"zh": "对我们给您带来的不便，我感到很抱歉。", "py": "Duì wǒmen gěi nín dàilai de búbiàn, wǒ gǎndào hěn bàoqiàn.", "en": "I'm very sorry for the inconvenience we've caused you."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "突然", "py": "tūrán", "en": "The usage of 突然"},
+      "body": [
+        {"type": "text", "zh": "“突然”，形容词，表示发生得很急促，忽然。例如：", "en": "The adjective “突然” means something happened very quickly or suddenly, e.g.,"},
+        {"type": "example", "zh": "突然下起了大雨。", "py": "Tūrán xiàqǐle dàyǔ.", "en": "Suddenly it started pouring with rain."},
+        {"type": "example", "zh": "这件事让他觉得很突然。", "py": "Zhè jiàn shì ràng tā juéde hěn tūrán.", "en": "This came as a real surprise to him."},
+        {"type": "note", "en": "突然 works as an adverb before a verb (突然坏了 “suddenly broke”) and as an adjective (很突然 “very sudden”) — unlike 忽然, which is only an adverb."}
+      ]
+    },
+    {
+      "title": {"zh": "即便", "py": "jíbiàn", "en": "The usage of 即便"},
+      "body": [
+        {"type": "text", "zh": "连词“即便”意思是“即使”，表示假设的让步。即承认某种事实，暂让一步，在正句里常用“也”或“还是”呼应，说出结论。例如：", "en": "The conjunction “即便” means “即使” (even if) — a hypothetical concession: you grant something for the sake of argument, and the main clause, usually with “也” or “还是”, gives the conclusion, e.g.,"},
+        {"type": "pattern", "zh": "即便 + 假设，（主语）+ 也／还是 + 结论", "py": "jíbiàn + jiǎshè, (zhǔyǔ) + yě / háishi + jiélùn", "en": "even if + (supposition), (subject) + still + (conclusion)"},
+        {"type": "example", "zh": "太晚了，即便你马上就去，到那儿银行也关门了。", "py": "Tài wǎn le, jíbiàn nǐ mǎshàng jiù qù, dào nàr yínháng yě guān mén le.", "en": "It's too late — even if you go right now, the bank will be closed when you get there."},
+        {"type": "example", "zh": "这篇文章太难了，即便我再读一遍，还是读不懂。", "py": "Zhè piān wénzhāng tài nán le, jíbiàn wǒ zài dú yí biàn, háishi dú bu dǒng.", "en": "This article is too hard — even if I read it again, I still won't understand it."},
+        {"type": "note", "en": "Pair 即便 with 也 or 还是, not 就: ✓ 即便想赢，也赢不了; ✓ 即便说错了，也不用不好意思."}
+      ]
+    },
+    {
+      "title": {"zh": "……得住、……不住", "py": "…… de zhù, …… bu zhù", "en": "The usage of ……得住 and ……不住"},
+      "body": [
+        {"type": "text", "zh": "“……得住”用在动词后，做可能补语，表示牢固、稳当，也可以表示力量够得上或能持续较长时间，否定形式是“……不住”。例如：", "py": "“…… de zhù” yòng zài dòngcí hòu, zuò kěnéng bǔyǔ, biǎoshì láogù, wěndang, yě kěyǐ biǎoshì lìliang gòu de shàng huò néng chíxù jiào cháng shíjiān, fǒudìng xíngshì shì “…… bu zhù”. Lìrú:", "en": "“……得住” follows a verb as a potential complement, meaning firm and steady, strong enough, or able to last; its negative form is “……不住”, e.g.,"},
+        {"type": "pattern", "zh": "动词 + 得住（能）／不住（不能）", "py": "dòngcí + de zhù (néng) / bu zhù (bù néng)", "en": "verb + 得住 (can hold / last) / 不住 (can't)"},
+        {"type": "example", "zh": "这种台灯虽然比较贵，但是质量好，用得住。", "py": "Zhè zhǒng táidēng suīrán bǐjiào guì, dànshì zhìliàng hǎo, yòng de zhù.", "en": "This lamp is a bit pricey, but it's good quality — it'll last."},
+        {"type": "example", "zh": "这么多东西，你拿得住拿不住？", "py": "Zhème duō dōngxi, nǐ ná de zhù ná bu zhù?", "en": "So many things — can you hold them all?"},
+        {"type": "example", "zh": "我累得都站不住了。", "py": "Wǒ lèi de dōu zhàn bu zhù le.", "en": "I'm so tired I can't stand up any more."},
+        {"type": "note", "en": "Negate inside the verb: 用不住, 拿不住 — never ✗ 不用住. 拿不住了 = “I can't hold on any longer” (so: 快帮帮我！)."}
+      ]
+    },
+    {
+      "title": {"zh": "要不然", "py": "yàobùrán", "en": "The usage of 要不然"},
+      "body": [
+        {"type": "text", "zh": "“要不然”意思是“如果不这样，否则”，用来引出与上文相反的情况并加以阐述。多用于口语，也可以说“要不”。例如：", "en": "“要不然” means “if not / otherwise”: it introduces what would happen in the opposite case. Mostly spoken; you can also say “要不”, e.g.,"},
+        {"type": "pattern", "zh": "建议／事实，要不然 + （不好的）结果", "py": "jiànyì / shìshí, yàobùrán + (bù hǎo de) jiéguǒ", "en": "advice / fact, otherwise + (bad) result"},
+        {"type": "example", "zh": "快点儿吧，要不然会迟到的。", "py": "Kuài diǎnr ba, yàobùrán huì chídào de.", "en": "Hurry up, or we'll be late."},
+        {"type": "example", "zh": "我想他可能是病了，要不然他不会不来的。", "py": "Wǒ xiǎng tā kěnéng shì bìng le, yàobùrán tā bú huì bù lái de.", "en": "I think he must be ill — otherwise he wouldn't miss it."},
+        {"type": "note", "en": "要不然 starts the second clause, after the advice: ✓ 小票你得留好，要不然就不能退货了 — ✗ 要不然小票你得留好，…"}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "突如其来", "py": "Tūrú-qílái", "en": "Arise suddenly"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "完成句子。", "en": "Complete the sentences."},
+      "body": [
+        {"type": "example", "zh": "昨天晚上，我的台灯突然坏了。", "py": "Zuótiān wǎnshang, wǒ de táidēng tūrán huài le.", "en": "Last night my desk lamp suddenly broke."}
+      ],
+      "items": [
+        {"prompt": {"zh": "车开着开着，______。（突然）", "py": "Chē kāizhe kāizhe, ______. (tūrán)", "en": "The car was driving along when…"}, "answer": [{"zh": "车开着开着，突然停了。", "en": "The car was driving along when it suddenly stopped. (model answer)"}]},
+        {"prompt": {"zh": "昨天晚上我睡觉的时候，______。（突然）", "py": "Zuótiān wǎnshang wǒ shuì jiào de shíhou, ______. (tūrán)", "en": "Last night while I was asleep…"}, "answer": [{"zh": "昨天晚上我睡觉的时候，电话突然响了。", "en": "Last night while I was asleep, the phone suddenly rang. (model answer)"}]},
+        {"prompt": {"zh": "他们一边走，一边聊，______。（突然）", "py": "Tāmen yìbiān zǒu, yìbiān liáo, ______. (tūrán)", "en": "They were walking and chatting when…"}, "answer": [{"zh": "他们一边走，一边聊，突然下起了大雨。", "en": "They were walking and chatting when it suddenly started pouring. (model answer)"}]},
+        {"prompt": {"zh": "______，她突然哭了起来。", "py": "______, tā tūrán kūle qǐlai.", "en": "…, she suddenly burst into tears."}, "answer": [{"zh": "听到这个消息，她突然哭了起来。", "en": "Hearing the news, she suddenly burst into tears. (model answer)"}]},
+        {"prompt": {"zh": "______，我觉得很突然。", "py": "______, wǒ juéde hěn tūrán.", "en": "…, it was a real surprise to me."}, "answer": [{"zh": "他说下个月要回国，我觉得很突然。", "en": "He said he's going home next month — that was really sudden. (model answer)"}]},
+        {"prompt": {"zh": "编故事。每人说一句话，连成一个故事。排在偶数的那个人必须使用“突然”。", "en": "Class activity: build a story one sentence each; every second person must use 突然."}, "answer": [{"zh": "昨天我去超市买东西。突然，超市里的灯都灭了。大家都很害怕。突然，有人大声说：“别担心，马上就好！”", "py": "Zuótiān wǒ qù chāoshì mǎi dōngxi. Tūrán, chāoshì li de dēng dōu miè le. Dàjiā dōu hěn hàipà. Tūrán, yǒu rén dàshēng shuō: “Bié dānxīn, mǎshàng jiù hǎo!”", "en": "Yesterday I went shopping at the supermarket. Suddenly all the lights went out. Everyone was frightened. Suddenly someone shouted: “Don't worry, it'll be fixed in a moment!” (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "不改初衷", "py": "Bù gǎi chūzhōng", "en": "Adhere to the original intention"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一人根据情况对对方进行劝说，另一人用“即便”表明自己态度坚决。", "en": "One person tries to talk the other out of it; the other shows they won't budge, using “即便”."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "这个洗衣机刚用一个星期就出毛病了，我要求退货。", "py": "Zhège xǐyījī gāng yòng yí ge xīngqī jiù chū máobìng le, wǒ yāoqiú tuì huò.", "en": "This washing machine broke after just one week — I want to return it."},
+          {"speaker": "B", "zh": "我可以帮你换个新的。", "py": "Wǒ kěyǐ bāng nǐ huàn ge xīn de.", "en": "I can exchange it for a new one for you."},
+          {"speaker": "A", "zh": "即便可以换新的，我也要退。", "py": "Jíbiàn kěyǐ huàn xīn de, wǒ yě yào tuì.", "en": "Even if I can get a new one, I still want to return it."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "我打算参加“中文之星”比赛。", "py": "Wǒ dǎsuan cānjiā “Zhōngwén zhī Xīng” bǐsài.", "en": "I plan to enter the “Chinese Star” competition."}, "answer": [{"zh": "A：比赛很难，你可能拿不到名次。B：即便拿不到名次，我也要参加。", "py": "A: Bǐsài hěn nán, nǐ kěnéng ná bu dào míngcì. B: Jíbiàn ná bu dào míngcì, wǒ yě yào cānjiā.", "en": "A: It's tough — you might not place. B: Even if I don't place, I'm entering. (model answer)"}]},
+        {"prompt": {"zh": "我要一个人去西藏旅行。", "en": "I'm going to travel to Tibet on my own."}, "answer": [{"zh": "A：一个人去太危险了。B：即便危险，我也要去。", "en": "A: Going alone is too dangerous. B: Even if it's dangerous, I'm going. (model answer)"}]},
+        {"prompt": {"zh": "我打算辞职。", "py": "Wǒ dǎsuan cí zhí.", "en": "I plan to resign."}, "answer": [{"zh": "A：现在工作不好找啊。B：即便找不到新工作，我也要辞职。", "en": "A: Jobs are hard to find right now. B: Even if I can't find a new one, I'm resigning. (model answer)"}]},
+        {"prompt": {"zh": "我决定减肥。", "py": "Wǒ juédìng jiǎn féi.", "en": "I've decided to lose weight."}, "answer": [{"zh": "A：减肥很辛苦，你不能吃好吃的了。B：即便再辛苦，我还是要减。", "en": "A: Dieting is hard — no more tasty food. B: However hard it is, I'm still doing it. (model answer)"}]},
+        {"prompt": {"zh": "这个手机坏了，我要求换个新的。", "en": "This phone is broken — I want a new one."}, "answer": [{"zh": "A：我们可以帮您免费修理。B：即便免费修理，我也要换个新的。", "en": "A: We can repair it for free. B: Even if the repair is free, I want a new one. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "无能为力", "py": "Wúnéng-wéilì", "en": "Powerless"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据图片和关键词用“……得住”或“……不住”进行问答。", "en": "Ask and answer about each picture using “……得住” or “……不住”."},
+      "body": [
+        {"type": "picture", "en": "Example: a broken desk lamp lying on its side."},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "这种台灯质量不好，用不住。", "py": "Zhè zhǒng táidēng zhìliàng bù hǎo, yòng bu zhù.", "en": "This kind of lamp is poor quality — it won't last."},
+          {"speaker": "B", "zh": "你觉得你的台灯用得住吗？", "py": "Nǐ juéde nǐ de táidēng yòng de zhù ma?", "en": "Do you think your lamp will last?"},
+          {"speaker": "A", "zh": "我的台灯用得住。", "py": "Wǒ de táidēng yòng de zhù.", "en": "Mine will last."}
+        ]}
+      ],
+      "items": [
+        {"picture": "A hand clutching far too many things — pens, a ruler, keys — about to drop them.", "answer": [{"zh": "A：东西太多了，我拿不住了！B：你拿得住拿不住？我帮你拿吧。", "py": "A: Dōngxi tài duō le, wǒ ná bu zhù le! B: Nǐ ná de zhù ná bu zhù? Wǒ bāng nǐ ná ba.", "en": "A: Too many things — I can't hold them! B: Can you manage? Let me take some. (model answer)"}]},
+        {"picture": "A person leaning into a fierce wind, struggling to stay upright.", "answer": [{"zh": "风太大了，他快站不住了。", "py": "Fēng tài dà le, tā kuài zhàn bu zhù le.", "en": "The wind is so strong he can barely stay on his feet. (model answer)"}]},
+        {"picture": "An old wooden wardrobe stuffed so full its doors won't stay shut.", "answer": [{"zh": "衣柜里的衣服太多了，门关不住了。", "py": "Yīguì li de yīfu tài duō le, mén guān bu zhù le.", "en": "There are too many clothes in the wardrobe — the doors won't stay shut. (model answer)"}]},
+        {"picture": "Someone lifting a heavily overloaded plastic shopping bag.", "answer": [{"zh": "这个塑料袋装不住这么多东西。", "py": "Zhège sùliàodài zhuāng bu zhù zhème duō dōngxi.", "en": "This plastic bag can't hold so much. (model answer)"}]},
+        {"picture": "A car speeding through a red light at a crossing with pedestrians.", "answer": [{"zh": "车开得太快了，到了红灯停不住了。", "py": "Chē kāi de tài kuài le, dàole hóngdēng tíng bu zhù le.", "en": "The car was going too fast and couldn't stop at the red light. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "苦口婆心", "py": "Kǔkǒu-póxīn", "en": "Advise somebody in earnest"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "大家根据图片陈述自己的情况，其他人作为朋友用“……，要不然……”进行叮嘱或规劝。说得越多越好。", "en": "One person describes their situation from a picture; the others, as friends, give advice using “……，要不然……”. The more the better."},
+      "items": [
+        {"picture": "Hands gripping a video-game controller.", "answer": [{"zh": "别玩儿游戏了，快去睡觉吧，要不然明天又起不来了。", "py": "Bié wánr yóuxì le, kuài qù shuì jiào ba, yàobùrán míngtiān yòu qǐ bu lái le.", "en": "Stop gaming and go to bed, otherwise you won't be able to get up tomorrow again. (model answer)"}]},
+        {"picture": "A laptop and a cup of coffee next to an alarm clock late at night.", "answer": [{"zh": "早点儿休息吧，要不然身体会受不了的。", "py": "Zǎo diǎnr xiūxi ba, yàobùrán shēntǐ huì shòu bu liǎo de.", "en": "Get some rest early, otherwise your health won't take it. (model answer)"}]},
+        {"picture": "A hand holding a lit cigarette.", "answer": [{"zh": "少抽点儿烟吧，要不然对身体不好。", "py": "Shǎo chōu diǎnr yān ba, yàobùrán duì shēntǐ bù hǎo.", "en": "Smoke less, otherwise it'll harm your health. (model answer)"}]},
+        {"picture": "A hand holding lots of shopping bags.", "answer": [{"zh": "别再买了，要不然这个月的钱就不够花了。", "py": "Bié zài mǎi le, yàobùrán zhège yuè de qián jiù bú gòu huā le.", "en": "Stop buying, otherwise you won't have enough money for the month. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "要是没有实力，即便想赢，也赢不了。", "py": "Yàoshi méiyǒu shílì, jíbiàn xiǎng yíng, yě yíng bu liǎo."}, {"zh": "要是没有实力，即便想赢，就赢不了。", "py": "Yàoshi méiyǒu shílì, jíbiàn xiǎng yíng, jiù yíng bu liǎo."}],
+       "answer": 0, "explain": "即便 pairs with 也 (or 还是), not 就. (grammar note 2)"},
+      {"options": [{"zh": "我担心这种手机用不住。", "py": "Wǒ dānxīn zhè zhǒng shǒujī yòng bu zhù."}, {"zh": "我担心这种手机不用住。", "py": "Wǒ dānxīn zhè zhǒng shǒujī bú yòng zhù."}],
+       "answer": 0, "explain": "The negative goes between verb and complement: 用不住. (grammar note 3)"},
+      {"options": [{"zh": "学语言得多听多说，即便说错了，就不用不好意思。", "py": "Xué yǔyán děi duō tīng duō shuō, jíbiàn shuōcuò le, jiù búyòng bù hǎoyìsi."}, {"zh": "学语言得多听多说，即便说错了，也不用不好意思。", "py": "Xué yǔyán děi duō tīng duō shuō, jíbiàn shuōcuò le, yě búyòng bù hǎoyìsi."}],
+       "answer": 1, "explain": "即便……也……. (grammar note 2)"},
+      {"options": [{"zh": "快帮帮我，我拿不住了！", "py": "Kuài bāngbang wǒ, wǒ ná bu zhù le!"}, {"zh": "快帮帮我，我拿得住了！", "py": "Kuài bāngbang wǒ, wǒ ná de zhù le!"}],
+       "answer": 0, "explain": "You ask for help because you can't hold it: 拿不住. (grammar note 3)"},
+      {"options": [{"zh": "小票你得留好，要不然就不能退货了。", "py": "Xiǎopiào nǐ děi liúhǎo, yàobùrán jiù bù néng tuì huò le."}, {"zh": "要不然小票你得留好，就不能退货了。", "py": "Yàoburán xiǎopiào nǐ děi liúhǎo, jiù bù néng tuì huò le."}],
+       "answer": 0, "explain": "要不然 comes after the advice and introduces what happens otherwise. (grammar note 4)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — review 要不然 (note 4). Missed Q1 or Q3 — review 即便 (note 2). Missed Q2 or Q4 — review ……得住/……不住 (note 3)."
+  }
+}

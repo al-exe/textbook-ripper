@@ -1,0 +1,104 @@
+{
+  "book": "Chinese 3",
+  "unit": 10,
+  "kind": "grammar",
+  "title": {"zh": "谈旅行计划", "py": "Tán lǚxíng jìhuà", "en": "Talking about the Itinerary of a Trip"},
+  "source": "PDF pp. 171, 178–179, 184–187, 203 (printed pp. 157, 164–165, 170–173, 187)",
+  "intro": "This unit is about planning trips and recommending places. Grammar: (1) 或者 vs 还是 (both “or”); (2) 如果/要是……的话，…… “if…”. The self-test also checks 对……(不)感兴趣 “(not) interested in…”. The listening transcript and answer come from the book's appendix; answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "请您给我们推荐一条合适的线路。", "py": "Qǐng nín gěi wǒmen tuījiàn yì tiáo héshì de xiànlù.", "en": "Please recommend a suitable route for us."},
+    {"zh": "您能说说具体要求吗？", "py": "Nín néng shuōshuo jùtǐ yāoqiú ma?", "en": "Could you tell me your specific requirements?"},
+    {"zh": "要是你们想多看看名胜古迹的话，我认为我们新开的一条历史名城线路比较适合您。", "py": "Yàoshi nǐmen xiǎng duō kànkan míngshèng gǔjì dehuà, wǒ rènwéi wǒmen xīn kāi de yì tiáo lìshǐ míngchéng xiànlù bǐjiào shìhé nín.", "en": "If you'd like to see more historic sites, I think our new historic-cities route would suit you."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "“或者”与“还是”的区别", "py": "“huòzhě” yǔ “háishi” de qūbié", "en": "Difference between 或者 and 还是"},
+      "body": [
+        {"type": "text", "zh": "“或者”和“还是”都可以表示选择关系，但“或者”用于陈述句里，而“还是”则用在表示疑问的句子里。例如：", "en": "“或者” and “还是” both express a choice (“or”), but “或者” is used in statements, while “还是” is used in questions, e.g.,"},
+        {"type": "pattern", "zh": "陈述句：A 或者 B　·　疑问句：A 还是 B？", "py": "chénshùjù: A huòzhě B · yíwènjù: A háishi B?", "en": "statement: A or B (either is fine) · question: A or B? (which one?)"},
+        {"type": "example", "zh": "今天去或者明天去都行。", "py": "Jīntiān qù huòzhě míngtiān qù dōu xíng.", "en": "Going today or tomorrow is fine."},
+        {"type": "example", "zh": "你喝可乐还是茶？", "py": "Nǐ hē kělè háishi chá?", "en": "Will you have cola or tea?"},
+        {"type": "text", "zh": "“或者”还可以表示等同关系。例如：", "en": "“或者” can also link equivalent things, e.g.,"},
+        {"type": "example", "zh": "您对哪些城市或者景点感兴趣呢？", "py": "Nín duì nǎxiē chéngshì huòzhě jǐngdiǎn gǎn xìngqù ne?", "en": "Which cities or sights are you interested in?"},
+        {"type": "note", "en": "✓ 你坐公共汽车或者坐地铁都可以 (statement). ✓ 你喜欢风景优美的景点还是喜欢历史名城？ (question)."}
+      ]
+    },
+    {
+      "title": {"zh": "假设复句：如果/要是……的话，……", "py": "jiǎshè fùjù: rúguǒ / yàoshi…… dehuà, ……", "en": "Hypothetical compound sentence: 如果/要是……的话，……"},
+      "body": [
+        {"type": "text", "zh": "“如果/要是……的话”表示假设，后一分句常用副词“就”承接上文，得出结论。“如果/要是……的话”也可以说“如果/要是……”或“……的话”。“如果”和“要是”意思基本相同，但“如果”更正式。“的话”用在表示假设的分句后面，引起下文，一般用于口语。例如：", "en": "“如果/要是……的话” expresses a hypothesis; the second clause often uses the adverb “就” to draw the conclusion. You can also say just “如果/要是……” or just “……的话”. “如果” and “要是” mean the same, but “如果” is more formal. “的话” goes at the end of the “if” clause and is mostly spoken, e.g.,"},
+        {"type": "pattern", "zh": "如果／要是 + 条件 + 的话，（主语）+ 就 + 结果", "py": "rúguǒ / yàoshi + tiáojiàn + dehuà, (zhǔyǔ) + jiù + jiéguǒ", "en": "if + condition (+ 的话), (subject) + 就 + result"},
+        {"type": "example", "zh": "如果这样的话，我认为我们新开的一条历史名城线路很适合你。", "py": "Rúguǒ zhèyàng dehuà, wǒ rènwéi wǒmen xīn kāi de yì tiáo lìshǐ míngchéng xiànlù hěn shìhé nǐ.", "en": "In that case, I think our new historic-cities route would suit you well."},
+        {"type": "example", "zh": "如果坐出租车去，大概得两个小时。", "py": "Rúguǒ zuò chūzūchē qù, dàgài děi liǎng ge xiǎoshí.", "en": "If you go by taxi, it'll take about two hours."},
+        {"type": "example", "zh": "要是明天天气好的话，我们就去爬山。", "py": "Yàoshi míngtiān tiānqì hǎo dehuà, wǒmen jiù qù pá shān.", "en": "If the weather's good tomorrow, we'll go hiking."},
+        {"type": "example", "zh": "要是买生活用品，我一般去超市。", "py": "Yàoshi mǎi shēnghuó yòngpǐn, wǒ yìbān qù chāoshì.", "en": "If I'm buying household things, I usually go to the supermarket."},
+        {"type": "example", "zh": "买水果蔬菜的话，你最好去市场。", "py": "Mǎi shuǐguǒ shūcài dehuà, nǐ zuìhǎo qù shìchǎng.", "en": "If you're buying fruit and veg, you'd better go to the market."},
+        {"type": "note", "en": "的话 sits at the end of the “if” clause, before the comma: ✓ 如果你想游览历史名城的话，你可以去西安 — ✗ …，的话你可以去西安. Don't double up (✗ 要是我有时间如果)."}
+      ]
+    },
+    {
+      "title": {"zh": "对……感兴趣", "py": "duì…… gǎn xìngqù", "en": "Interested in …"},
+      "body": [
+        {"type": "note", "en": "Tested in the self-test (result B): the negative of 对……感兴趣 is 对……不感兴趣 — 不 goes right before 感兴趣, not before 对."},
+        {"type": "example", "zh": "我对那个景点不感兴趣。", "py": "Wǒ duì nàge jǐngdiǎn bù gǎn xìngqù.", "en": "I'm not interested in that sight. (✗ 我不对那个景点感兴趣)"}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "我是导游", "py": "Wǒ shì dǎoyóu", "en": "I am a tour guide"},
+      "activity": {"zh": "单人活动", "py": "dān rén huódòng", "en": "Individual work"},
+      "instructions": {"zh": "将下列城市或省区按特点归类。", "en": "Sort these cities and provinces/regions by what they're known for."},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "北京　上海　西安　洛阳　南京　杭州　新疆　西藏　云南　内蒙古", "py": "Běijīng Shànghǎi Xī'ān Luòyáng Nánjīng Hángzhōu Xīnjiāng Xīzàng Yúnnán Nèiměnggǔ", "en": "Beijing, Shanghai, Xi'an, Luoyang, Nanjing, Hangzhou, Xinjiang, Tibet, Yunnan, Inner Mongolia"},
+          {"zh": "历史名城　·　风景优美　·　现代化大都市", "py": "lìshǐ míngchéng · fēngjǐng yōuměi · xiàndàihuà dà dūshì", "en": "historic cities · beautiful scenery · modern metropolises"}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"en": "Sort the places into the three groups."},
+         "answer": [{"zh": "历史名城：北京、西安、洛阳、南京", "py": "Lìshǐ míngchéng: Běijīng, Xī'ān, Luòyáng, Nánjīng", "en": "Historic cities: Beijing, Xi'an, Luoyang, Nanjing (model answer — Beijing is also a modern metropolis)"},
+                    {"zh": "风景优美：杭州、新疆、西藏、云南、内蒙古", "py": "Fēngjǐng yōuměi: Hángzhōu, Xīnjiāng, Xīzàng, Yúnnán, Nèiměnggǔ", "en": "Beautiful scenery: Hangzhou, Xinjiang, Tibet, Yunnan, Inner Mongolia"},
+                    {"zh": "现代化大都市：上海、北京", "py": "Xiàndàihuà dà dūshì: Shànghǎi, Běijīng", "en": "Modern metropolises: Shanghai, Beijing"}]},
+        {"prompt": {"zh": "假如你是一名导游，请给同伴介绍一下中国有名的城市和景点。", "en": "Pair work: you're a tour guide — introduce famous Chinese cities and sights by filling in the frame: 中国有很多有名的城市和景点，如果你喜欢风景优美的地方的话，我推荐你去……。如果你对中国的历史和文化感兴趣的话，我推荐你游览历史名城，比如……等。这些地方有很多名胜古迹，拿……来说，有……等。如果你对现代化大都市感兴趣的话，你可以去……游览。"},
+         "answer": [{"zh": "中国有很多有名的城市和景点，如果你喜欢风景优美的地方的话，我推荐你去杭州和云南。如果你对中国的历史和文化感兴趣的话，我推荐你游览历史名城，比如西安、洛阳、南京等。这些地方有很多名胜古迹，拿西安来说，有大雁塔、兵马俑等。如果你对现代化大都市感兴趣的话，你可以去上海游览。", "py": "Zhōngguó yǒu hěn duō yǒumíng de chéngshì hé jǐngdiǎn, rúguǒ nǐ xǐhuan fēngjǐng yōuměi de dìfang dehuà, wǒ tuījiàn nǐ qù Hángzhōu hé Yúnnán. Rúguǒ nǐ duì Zhōngguó de lìshǐ hé wénhuà gǎn xìngqù dehuà, wǒ tuījiàn nǐ yóulǎn lìshǐ míngchéng, bǐrú Xī'ān, Luòyáng, Nánjīng děng. Zhèxiē dìfang yǒu hěn duō míngshèng gǔjì, ná Xī'ān lái shuō, yǒu Dàyàn Tǎ, Bīngmǎyǒng děng. Rúguǒ nǐ duì xiàndàihuà dà dūshì gǎn xìngqù dehuà, nǐ kěyǐ qù Shànghǎi yóulǎn.", "en": "China has many famous cities and sights. If you like beautiful scenery, I recommend Hangzhou and Yunnan. If you're interested in Chinese history and culture, I recommend the historic cities like Xi'an, Luoyang and Nanjing — Xi'an, for example, has the Great Wild Goose Pagoda and the Terracotta Army. If you're interested in modern metropolises, you can visit Shanghai. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "介绍行程", "py": "Jièshào xíngchéng", "en": "Talk about the itinerary"},
+      "activity": {"zh": "个人活动", "py": "gèrén huódòng", "en": "Individual work"},
+      "instructions": {"zh": "听旅行社的电话录音，记录并说出这次旅行的具体行程。", "en": "Listen to a travel agency's phone recording, note down the itinerary, then describe it."},
+      "body": [
+        {"type": "note", "en": "No audio here — read the book's transcript (from the appendix), then retell it using the frame."},
+        {"type": "text", "zh": "这次旅行的线路是上海、杭州两地7日游。具体行程是：7月1号中午从北京出发，坐飞机到上海；7月2号～4号，上海游览；7月5号早上坐火车去杭州；7月5号～6号，杭州游览；7月7号中午，飞机回北京。", "py": "Zhè cì lǚxíng de xiànlù shì Shànghǎi, Hángzhōu liǎng dì qī rì yóu. Jùtǐ xíngchéng shì: qī yuè yī hào zhōngwǔ cóng Běijīng chūfā, zuò fēijī dào Shànghǎi; qī yuè èr hào dào sì hào, Shànghǎi yóulǎn; qī yuè wǔ hào zǎoshang zuò huǒchē qù Hángzhōu; qī yuè wǔ hào dào liù hào, Hángzhōu yóulǎn; qī yuè qī hào zhōngwǔ, fēijī huí Běijīng.", "en": "Transcript: This trip is a 7-day tour of Shanghai and Hangzhou. Itinerary: July 1st, noon — depart Beijing, fly to Shanghai; July 2nd–4th — sightseeing in Shanghai; July 5th, morning — train to Hangzhou; July 5th–6th — sightseeing in Hangzhou; July 7th, noon — fly back to Beijing."},
+        {"type": "text", "zh": "这次旅行从……月……号到……月……号，一共……天。旅行线路是……。这条线路的具体行程是：……月……号从……出发，坐……到……，在……玩儿……天。然后……", "py": "Zhè cì lǚxíng cóng…… yuè…… hào dào…… yuè…… hào, yígòng…… tiān. Lǚxíng xiànlù shì……. Zhè tiáo xiànlù de jùtǐ xíngchéng shì: …… yuè…… hào cóng…… chūfā, zuò…… dào……, zài…… wánr…… tiān. Ránhòu……", "en": "Frame: This trip runs from … to …, … days in total. The route is … . The itinerary: on … depart from …, take a … to …, spend … days in … . Then …"}
+      ],
+      "items": [
+        {"prompt": {"en": "Retell the itinerary using the frame."},
+         "answer": [{"zh": "这次旅行从7月1号到7月7号，一共7天。旅行线路是上海、杭州两地7日游。这条线路的具体行程是：7月1号从北京出发，坐飞机到上海，在上海玩儿三天。然后坐火车去杭州，在杭州游览两天，7月7号中午坐飞机回北京。", "py": "Zhè cì lǚxíng cóng qī yuè yī hào dào qī yuè qī hào, yígòng qī tiān. Lǚxíng xiànlù shì Shànghǎi, Hángzhōu liǎng dì qī rì yóu. Zhè tiáo xiànlù de jùtǐ xíngchéng shì: qī yuè yī hào cóng Běijīng chūfā, zuò fēijī dào Shànghǎi, zài Shànghǎi wánr sān tiān. Ránhòu zuò huǒchē qù Hángzhōu, zài Hángzhōu yóulǎn liǎng tiān, qī yuè qī hào zhōngwǔ zuò fēijī huí Běijīng.", "en": "This trip runs from July 1st to 7th, 7 days in all: a 7-day Shanghai–Hangzhou tour. Leave Beijing on July 1st, fly to Shanghai and spend three days there. Then take the train to Hangzhou for two days of sightseeing, and fly back to Beijing at noon on July 7th. (book's answer)"}]},
+        {"prompt": {"zh": "说说你的北京旅行计划。", "en": "Talk about your own travel plan for Beijing (book's starter: 这个假期我想陪家人/好朋友去北京旅游。这次旅行我打算……)."},
+         "answer": [{"zh": "这个假期我想陪家人去北京旅游。这次旅行我打算先去故宫和天安门，然后去长城。要是天气好的话，我们还想去颐和园。", "py": "Zhège jiàqī wǒ xiǎng péi jiārén qù Běijīng lǚyóu. Zhè cì lǚxíng wǒ dǎsuan xiān qù Gùgōng hé Tiān'ānmén, ránhòu qù Chángchéng. Yàoshi tiānqì hǎo dehuà, wǒmen hái xiǎng qù Yíhéyuán.", "en": "This holiday I want to take my family to Beijing. I plan to visit the Forbidden City and Tiananmen first, then the Great Wall. If the weather's good, we'd also like to go to the Summer Palace. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the correct sentence to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "要是我有时间的话，我就去旅行。", "py": "Yàoshi wǒ yǒu shíjiān dehuà, wǒ jiù qù lǚxíng."}, {"zh": "要是我有时间如果，我就去旅行。", "py": "Yàoshi wǒ yǒu shíjiān rúguǒ, wǒ jiù qù lǚxíng."}],
+       "answer": 0, "explain": "要是 pairs with 的话 at the end of the clause, not with another 如果. (grammar note 2)"},
+      {"options": [{"zh": "你坐公共汽车或者坐地铁都可以。", "py": "Nǐ zuò gōnggòng qìchē huòzhě zuò dìtiě dōu kěyǐ."}, {"zh": "你坐公共汽车还是坐地铁都可以。", "py": "Nǐ zuò gōnggòng qìchē háishi zuò dìtiě dōu kěyǐ."}],
+       "answer": 0, "explain": "It's a statement, so use 或者. (grammar note 1)"},
+      {"options": [{"zh": "如果你想游览历史名城的话，你可以去西安。", "py": "Rúguǒ nǐ xiǎng yóulǎn lìshǐ míngchéng dehuà, nǐ kěyǐ qù Xī'ān."}, {"zh": "如果你想游览历史名城，的话你可以去西安。", "py": "Rúguǒ nǐ xiǎng yóulǎn lìshǐ míngchéng, dehuà nǐ kěyǐ qù Xī'ān."}],
+       "answer": 0, "explain": "的话 ends the “if” clause. (grammar note 2)"},
+      {"options": [{"zh": "你喜欢游览风景优美的景点还是喜欢游览历史名城？", "py": "Nǐ xǐhuan yóulǎn fēngjǐng yōuměi de jǐngdiǎn háishi xǐhuan yóulǎn lìshǐ míngchéng?"}, {"zh": "你喜欢游览风景优美的景点或者喜欢游览历史名城？", "py": "Nǐ xǐhuan yóulǎn fēngjǐng yōuměi de jǐngdiǎn huòzhě xǐhuan yóulǎn lìshǐ míngchéng?"}],
+       "answer": 0, "explain": "It's a question asking you to choose, so use 还是. (grammar note 1)"},
+      {"options": [{"zh": "我不对那个景点感兴趣。", "py": "Wǒ bú duì nàge jǐngdiǎn gǎn xìngqù."}, {"zh": "我对那个景点不感兴趣。", "py": "Wǒ duì nàge jǐngdiǎn bù gǎn xìngqù."}],
+       "answer": 1, "explain": "The negative is 对……不感兴趣. (note 3)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — 对……不感兴趣. Missed Q1 or Q3 — review 如果/要是……的话 (note 2). Missed Q2 or Q4 — review 或者 vs 还是 (note 1)."
+  }
+}

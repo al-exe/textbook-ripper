@@ -1,0 +1,120 @@
+{
+  "book": "Chinese 4",
+  "unit": 1,
+  "kind": "grammar",
+  "title": {"zh": "谈休闲娱乐", "py": "Tán xiūxián yúlè", "en": "Talking about Leisure and Entertainment"},
+  "source": "PDF pp. 18, 25–26, 28–31 (printed pp. 1, 8–9, 11–14)",
+  "intro": "This unit is about leisure activities — Beijing opera, Chinese chess, square dancing, theme parks. Grammar: (1) 别说……，就是……也…… “let alone…, even… (still)…”; (2) the three uses of 差点儿 “almost”; (3) 我说呢！ “No wonder!”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "武戏简直太精彩了。", "py": "Wǔxì jiǎnzhí tài jīngcǎi le.", "en": "The martial plays are simply wonderful."},
+    {"zh": "我更喜欢文戏，唱腔很美，服装也漂亮。", "py": "Wǒ gèng xǐhuan wénxì, chàngqiāng hěn měi, fúzhuāng yě piàoliang.", "en": "I prefer the singing plays — the singing is beautiful and the costumes are lovely."},
+    {"zh": "在美国别说在街边坐着下棋，就是走路的人都很少。", "py": "Zài Měiguó biéshuō zài jiē biān zuòzhe xià qí, jiùshì zǒu lù de rén dōu hěn shǎo.", "en": "In America, never mind sitting on the street playing chess — there are hardly even any pedestrians."},
+    {"zh": "真可惜，他差点儿就赢了。", "py": "Zhēn kěxī, tā chàdiǎnr jiù yíng le.", "en": "What a pity — he very nearly won."},
+    {"zh": "中国有句俗话：观棋不语真君子。意思是看别人下棋时不能支招儿。", "py": "Zhōngguó yǒu jù súhuà: guān qí bù yǔ zhēn jūnzǐ. Yìsi shì kàn biérén xià qí shí bù néng zhī zhāor.", "en": "There's a Chinese saying: a true gentleman watches chess in silence — meaning you mustn't give advice while watching others play."},
+    {"zh": "我说呢！", "py": "Wǒ shuō ne!", "en": "No wonder! / That explains it!"}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "别说……，就是……也……", "py": "biéshuō……, jiùshì…… yě……", "en": "The usage of 别说……，就是……也……"},
+      "body": [
+        {"type": "text", "zh": "这个结构中“别说”的意思是“何况、不用说”，“就是”表示假设的让步，“也”引出结论或评论。一般是用“就是”后面的例子来强调说明“别说”后面的例子。从逻辑上来说，如果“也”后边的结论或评论可以适用于“就是”后面的例子，那么它也一定能适用于“别说”后面的例子。例如：", "en": "Here “别说” means “let alone / needless to say”, “就是” introduces a hypothetical concession (“even”), and “也” introduces the conclusion. The example after “就是” is used to emphasise the one after “别说”: logically, if the conclusion after “也” holds for the 就是-example, it must also hold for the 别说-example. For example:"},
+        {"type": "pattern", "zh": "别说 + （明显的情况），就是 + （更极端的情况）+ 也／都 + 结论", "py": "biéshuō + (míngxiǎn de qíngkuàng), jiùshì + (gèng jíduān de qíngkuàng) + yě / dōu + jiélùn", "en": "never mind (the obvious case); even (the extreme case) + 也 + conclusion"},
+        {"type": "example", "zh": "别说写汉字，就是读，他也不会。", "py": "Biéshuō xiě Hànzì, jiùshì dú, tā yě bú huì.", "en": "Never mind writing characters — he can't even read them."},
+        {"type": "example", "zh": "别说大人，就是小孩子也懂得这个道理。", "py": "Biéshuō dàrén, jiùshì xiǎo háizi yě dǒngde zhège dàolǐ.", "en": "Not just adults — even small children understand this."},
+        {"type": "example", "zh": "别说一天，就是一个星期也做不完这么多工作啊！", "py": "Biéshuō yì tiān, jiùshì yí ge xīngqī yě zuò bu wán zhème duō gōngzuò a!", "en": "Forget one day — you couldn't finish this much work even in a week!"},
+        {"type": "note", "en": "The 就是 example must be the harder/more extreme one: kids understanding it proves adults do (✓ 别说大人，就是小孩儿也明白); a week not being enough proves a day isn't (✓ 别说一天，就是一个星期也做不完)."}
+      ]
+    },
+    {
+      "title": {"zh": "差点儿", "py": "chàdiǎnr", "en": "The usage of 差点儿"},
+      "body": [
+        {"type": "text", "zh": "副词“差点儿”有以下三种用法：", "en": "The adverb “差点儿” has three uses:"},
+        {"type": "text", "zh": "1）表示某种不希望发生的事情接近发生而实际没有发生。动词用肯定式或否定式意思相同。如：", "en": "1) Something you did NOT want nearly happened, but didn't. Positive and negative verb forms mean the same thing here, e.g.,"},
+        {"type": "example", "zh": "我差点儿迟到。", "py": "Wǒ chàdiǎnr chí dào.", "en": "I was almost late. (but I wasn't)"},
+        {"type": "example", "zh": "我差点儿没摔倒。", "py": "Wǒ chàdiǎnr méi shuāidǎo.", "en": "I nearly fell over. (but I didn't — same meaning as 差点儿摔倒)"},
+        {"type": "text", "zh": "2）表示某种希望发生的事情似乎不会发生而终于发生了。动词用否定式。例如：", "en": "2) Something you WANTED seemed not to be going to happen, but in the end it did. Use the negative verb form, e.g.,"},
+        {"type": "example", "zh": "差点儿没拿到冠军。", "py": "Chàdiǎnr méi nádào guànjūn.", "en": "(We) very nearly didn't win the championship. (but we did)"},
+        {"type": "example", "zh": "我差点儿没赶上飞机。", "py": "Wǒ chàdiǎnr méi gǎnshàng fēijī.", "en": "I almost missed the plane. (but I caught it)"},
+        {"type": "text", "zh": "3）表示某种希望发生的事情接近发生而实际上没有发生。动词用肯定式，前面常用“就”。例如：", "en": "3) Something you WANTED nearly happened, but didn't. Use the positive verb form, often with “就” before it, e.g.,"},
+        {"type": "example", "zh": "我差点儿就赶上这班航班了。", "py": "Wǒ chàdiǎnr jiù gǎnshàng zhè bān hángbān le.", "en": "I very nearly caught this flight. (but I missed it)"},
+        {"type": "example", "zh": "我差点儿就可以赢他了。", "py": "Wǒ chàdiǎnr jiù kěyǐ yíng tā le.", "en": "I almost beat him. (but I didn't)"},
+        {"type": "note", "en": "Rule of thumb: for something good, 差点儿没 + verb = it did happen (phew!); 差点儿就 + verb = it didn't (so close!). For something bad, 差点儿 and 差点儿没 both mean it didn't happen. Never 差点儿不 + verb."}
+      ]
+    },
+    {
+      "title": {"zh": "我说呢", "py": "wǒ shuō ne", "en": "The usage of 我说呢"},
+      "body": [
+        {"type": "text", "zh": "日常口语表达结构。是说话人最终知道一件事情的缘由后发出的感慨。例如：", "en": "An everyday spoken expression: what you exclaim when you finally learn the reason for something (“No wonder! / So that's why!”), e.g.,"},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "小明出国了。", "py": "Xiǎomíng chū guó le.", "en": "Xiaoming has gone abroad."},
+          {"speaker": "B", "zh": "我说呢！最近没看见他。", "py": "Wǒ shuō ne! Zuìjìn méi kànjiàn tā.", "en": "No wonder I haven't seen him lately!"},
+          {"speaker": "A", "zh": "她对鸡蛋过敏。", "py": "Tā duì jīdàn guòmǐn.", "en": "She's allergic to eggs."},
+          {"speaker": "B", "zh": "我说呢！一起吃饭时，她从来不吃鸡蛋。", "py": "Wǒ shuō ne! Yìqǐ chī fàn shí, tā cónglái bù chī jīdàn.", "en": "That explains it! She never eats eggs when we eat together."}
+        ]},
+        {"type": "note", "en": "After 我说呢, mention the thing that puzzled you before and now makes sense (often with 怪不得): ✓ 我说呢，怪不得这几天没看见他. ✗ 我说呢，他常常生病 (that doesn't connect a reason to an earlier puzzle)."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "他们可以完成这些任务吗？", "py": "Tāmen kěyǐ wánchéng zhèxiē rènwu ma?", "en": "Can they complete these tasks?"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "讨论表格中的人物能否完成指定的任务。", "en": "Discuss whether each person can do the task, using 别说……，就是……也……."},
+      "body": [
+        {"type": "example", "zh": "别说是外国人了，就是中国人也很少有人会唱京剧。", "py": "Biéshuō shì wàiguórén le, jiùshì Zhōngguórén yě hěn shǎo yǒu rén huì chàng jīngjù.", "en": "Never mind foreigners — even among Chinese people very few can sing Beijing opera. (外国人 / 唱京剧)"}
+      ],
+      "items": [
+        {"prompt": {"zh": "一岁的孩子——骑自行车", "py": "yí suì de háizi —— qí zìxíngchē", "en": "a one-year-old — ride a bike"}, "answer": [{"zh": "别说一岁的孩子了，就是三岁的孩子也不会骑自行车。", "en": "Never mind a one-year-old — even a three-year-old can't ride a bike. (model answer)"}]},
+        {"prompt": {"zh": "60岁的老人——坐过山车", "py": "liùshí suì de lǎorén —— zuò guòshānchē", "en": "a 60-year-old — ride a roller coaster"}, "answer": [{"zh": "别说60岁的老人了，就是很多年轻人也不敢坐过山车。", "en": "Never mind a 60-year-old — even lots of young people don't dare ride a roller coaster. (model answer)"}]},
+        {"prompt": {"zh": "只学了一个月汉语的学生——唱中文歌", "py": "zhǐ xuéle yí ge yuè Hànyǔ de xuésheng —— chàng Zhōngwén gē", "en": "a student who's studied Chinese for one month — sing a Chinese song"}, "answer": [{"zh": "别说只学了一个月汉语的学生了，就是学了一年的学生也很难唱好中文歌。", "en": "Never mind someone who's studied for a month — even after a year it's hard to sing a Chinese song well. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "惊险一刻", "py": "Jīngxiǎn yí kè", "en": "A breathtaking moment"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "请用“差点儿”描述下面两幅图片内容。", "en": "Describe the two pictures using “差点儿”."},
+      "items": [
+        {"picture": "A young man walking along, about to walk straight into a lamp post; his friend grabs his arm just in time.",
+         "answer": [{"zh": "他走路的时候没看前边，差点儿撞到电线杆上。", "py": "Tā zǒu lù de shíhou méi kàn qiánbian, chàdiǎnr zhuàngdào diànxiàngān shang.", "en": "He wasn't looking where he was going and nearly walked into a lamp post. (model answer — something bad nearly happened)"}]},
+        {"picture": "A road jammed with traffic; then a man running up to a train just as its doors are about to close.",
+         "answer": [{"zh": "路上堵车了，他差点儿没赶上火车。", "py": "Lùshang dǔ chē le, tā chàdiǎnr méi gǎnshàng huǒchē.", "en": "There was a traffic jam, and he very nearly missed the train (but caught it). (model answer — something good almost didn't happen)"}]},
+        {"prompt": {"zh": "说说你经历过什么样的惊险一刻，跟小组同学分享。", "en": "Group work: share a breathtaking moment of your own — who, when, where, what happened, what almost happened."},
+         "answer": [{"zh": "去年冬天，我在路上骑自行车，路很滑，我差点儿摔倒。", "py": "Qùnián dōngtiān, wǒ zài lùshang qí zìxíngchē, lù hěn huá, wǒ chàdiǎnr shuāidǎo.", "en": "Last winter I was cycling and the road was icy — I nearly fell off. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "我说呢", "py": "Wǒ shuō ne", "en": "No wonder…"},
+      "activity": {"zh": "小组讨论", "py": "xiǎozǔ tǎolùn", "en": "Group discussion"},
+      "instructions": {"zh": "你看到过或经历过下面的事情吗？你觉得奇怪吗？小组讨论一下原因。", "en": "Have you seen or experienced these things? Do they seem strange? Discuss the reasons — then react to each explanation with “我说呢！”."},
+      "items": [
+        {"prompt": {"zh": "中国人熟人见面常常问“吃了吗”。", "py": "Zhōngguórén shúrén jiàn miàn chángcháng wèn “chīle ma”.", "en": "When Chinese acquaintances meet, they often ask “Have you eaten?”"},
+         "answer": [{"zh": "A：“吃了吗”其实就是打招呼，不是要请你吃饭。B：我说呢！我每次说没吃，他们都只是笑笑。", "py": "A: “Chīle ma” qíshí jiù shì dǎ zhāohu, bú shì yào qǐng nǐ chī fàn. B: Wǒ shuō ne! Wǒ měi cì shuō méi chī, tāmen dōu zhǐshì xiàoxiao.", "en": "A: “Have you eaten?” is really just a greeting, not an invitation. B: No wonder! Every time I said no, they just smiled. (model answer)"}]},
+        {"prompt": {"zh": "公园里有老人在下棋，周围围了很多人，可是都静悄悄的，没有人说话。", "py": "Gōngyuán li yǒu lǎorén zài xià qí, zhōuwéi wéile hěn duō rén, kěshì dōu jìngqiāoqiāo de, méiyǒu rén shuō huà.", "en": "Old men play chess in the park with crowds round them, but everyone is silent."},
+         "answer": [{"zh": "A：中国有句俗话：观棋不语真君子。B：我说呢！怪不得看下棋的人都不说话。", "py": "A: Zhōngguó yǒu jù súhuà: guān qí bù yǔ zhēn jūnzǐ. B: Wǒ shuō ne! Guàibude kàn xià qí de rén dōu bù shuō huà.", "en": "A: There's a saying: a true gentleman watches chess in silence. B: That explains it — no wonder the onlookers don't talk. (model answer)"}]},
+        {"prompt": {"zh": "看京剧的时候，常常有观众大喊大叫。", "py": "Kàn jīngjù de shíhou, chángcháng yǒu guānzhòng dà hǎn dà jiào.", "en": "At Beijing opera, audience members often shout loudly."},
+         "answer": [{"zh": "A：观众大声叫“好”，是在给演员叫好。B：我说呢！原来他们不是在吵架。", "py": "A: Guānzhòng dàshēng jiào “hǎo”, shì zài gěi yǎnyuán jiào hǎo. B: Wǒ shuō ne! Yuánlái tāmen bú shì zài chǎo jià.", "en": "A: The audience shouts “好!” to cheer the performers. B: So that's why — they're not arguing after all. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "这个道理别说大人就是小孩儿也明白。", "py": "Zhège dàolǐ biéshuō dàrén jiùshì xiǎoháir yě míngbai."}, {"zh": "这个道理别说小孩儿就是大人也明白。", "py": "Zhège dàolǐ biéshuō xiǎoháir jiùshì dàrén yě míngbai."}],
+       "answer": 0, "explain": "The 就是 example (kids) must be the harder case that proves the 别说 one (adults). (grammar note 1)"},
+      {"options": [{"zh": "今天早上堵车，我差点儿迟到。", "py": "Jīntiān zǎoshang dǔ chē, wǒ chàdiǎnr chídào."}, {"zh": "今天早上堵车，我差点儿不迟到。", "py": "Jīntiān zǎoshang dǔ chē, wǒ chàdiǎnr bù chídào."}],
+       "answer": 0, "explain": "Being late is unwanted: 差点儿迟到 = I was nearly late. There is no 差点儿不. (grammar note 2)"},
+      {"options": [{"zh": "这么多工作，别说一天就是一个星期也做不完。", "py": "Zhème duō gōngzuò, biéshuō yì tiān jiùshì yí ge xīngqī yě zuò bu wán."}, {"zh": "这么多工作，别说一个星期就是一天也做不完。", "py": "Zhème duō gōngzuò, biéshuō yí ge xīngqī jiùshì yì tiān yě zuò bu wán."}],
+       "answer": 0, "explain": "If a week isn't enough, a day certainly isn't — the week goes after 就是. (grammar note 1)"},
+      {"question": {"zh": "小明病了。", "py": "Xiǎomíng bìng le.", "en": "Xiaoming is ill."},
+       "options": [{"zh": "我说呢，怪不得这几天没看见他。", "py": "Wǒ shuō ne, guàibude zhè jǐ tiān méi kànjiàn tā."}, {"zh": "我说呢，他常常生病。", "py": "Wǒ shuō ne, tā chángcháng shēng bìng."}],
+       "answer": 0, "explain": "我说呢 reacts to finally understanding something that puzzled you (not seeing him). (grammar note 3)"},
+      {"options": [{"zh": "我没好好儿复习，所以这次考试差点儿没及格。", "py": "Wǒ méi hǎohāor fùxí, suǒyǐ zhè cì kǎoshì chàdiǎnr méi jí gé."}, {"zh": "我没好好儿复习，所以这次差点儿及格。", "py": "Wǒ méi hǎohāor fùxí, suǒyǐ zhè cì chàdiǎnr jí gé."}],
+       "answer": 0, "explain": "Passing is wanted and did (just) happen → 差点儿没及格 “I nearly failed”. (grammar note 2)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q4 — review 我说呢 (note 3). Missed Q2 or Q5 — review 差点儿 (note 2). Missed Q1 or Q3 — review 别说……，就是……也…… (note 1)."
+  }
+}

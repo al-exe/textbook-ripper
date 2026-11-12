@@ -1,0 +1,417 @@
+{
+ "page": 32,
+ "cjk_pass": [
+  {
+   "text": "Unit1 Talking about Leisure and Entertainment",
+   "conf": 0.5,
+   "bbox": [
+    0.38566,
+    0.05811,
+    0.9031,
+    0.07861
+   ]
+  },
+  {
+   "text": "七",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.12791,
+    0.17054,
+    0.16424
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.13517,
+    0.64535,
+    0.15843
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.3314,
+    0.19477,
+    0.6376,
+    0.21387
+   ]
+  },
+  {
+   "text": "中国人的休闲娱乐活动",
+   "conf": 1.0,
+   "bbox": [
+    0.38372,
+    0.23242,
+    0.61822,
+    0.25146
+   ]
+  },
+  {
+   "text": "Chinese People's Leisure and Entertainment Activities",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.25436,
+    0.80233,
+    0.27344
+   ]
+  },
+  {
+   "text": "现代中国人的休闲娱乐活动跟十年前相比有了很大的改变。以前人们最大的休闲娱乐",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.29346,
+    0.88953,
+    0.31396
+   ]
+  },
+  {
+   "text": "活动就是在家看电视或者去唱卡拉OK。现在越来越多的人们选择走向自然，周末一家老",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.31977,
+    0.89147,
+    0.34033
+   ]
+  },
+  {
+   "text": "小到郊区游玩、采摘；到了假期，人们更喜欢选择到外地甚至国外旅游。",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.3457,
+    0.74031,
+    0.36628
+   ]
+  },
+  {
+   "text": "Contemporary Chinese people had a dramatic change in their leisure and entertainment",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.375,
+    0.89147,
+    0.38965
+   ]
+  },
+  {
+   "text": "activities in the past decade. They used to stay at home watching television or go to sing karaoke",
+   "conf": 0.5,
+   "bbox": [
+    0.10853,
+    0.39535,
+    0.89147,
+    0.41134
+   ]
+  },
+  {
+   "text": "in their leisure time. Nowadays, an increasing number of people choose to take a walk in nature.",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.41406,
+    0.89147,
+    0.42878
+   ]
+  },
+  {
+   "text": "At weekends, Chinese families play or pick in the suburbs; while during holidays, people tend to",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.43457,
+    0.88953,
+    0.45068
+   ]
+  },
+  {
+   "text": "Visit other cities in China or even go abroad.",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.45494,
+    0.46705,
+    0.47093
+   ]
+  },
+  {
+   "text": "15",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "（二） 图片看中国 China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.33333,
+    0.5332,
+    0.67636,
+    0.54942
+   ]
+  },
+  {
+   "text": "天坛公园里下棋跳舞的人们",
+   "conf": 1.0,
+   "bbox": [
+    0.42829,
+    0.66113,
+    0.70543,
+    0.68023
+   ]
+  },
+  {
+   "text": "Tidntdn Gongyuan li xid qi tido wi de renmen",
+   "conf": 0.3,
+   "bbox": [
+    0.42442,
+    0.68311,
+    0.77907,
+    0.69922
+   ]
+  },
+  {
+   "text": "People playing chess or dancing in the Temple of Heaven",
+   "conf": 0.5,
+   "bbox": [
+    0.42636,
+    0.70785,
+    0.8469,
+    0.72238
+   ]
+  },
+  {
+   "text": "北京欢乐谷",
+   "conf": 1.0,
+   "bbox": [
+    0.42636,
+    0.85303,
+    0.54457,
+    0.87209
+   ]
+  },
+  {
+   "text": "Beijing Huanle Gu",
+   "conf": 0.5,
+   "bbox": [
+    0.42442,
+    0.875,
+    0.57171,
+    0.89111
+   ]
+  },
+  {
+   "text": "Happy Valley, Beijing",
+   "conf": 0.5,
+   "bbox": [
+    0.42442,
+    0.89971,
+    0.59109,
+    0.9157
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 1 Talking about Leisure and Entertainment",
+   "conf": 1.0,
+   "bbox": [
+    0.38566,
+    0.05811,
+    0.9031,
+    0.07861
+   ]
+  },
+  {
+   "text": "XIKIJN* CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.13517,
+    0.64535,
+    0.15843
+   ]
+  },
+  {
+   "text": "(-) KRAliy Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.3314,
+    0.19477,
+    0.6376,
+    0.21387
+   ]
+  },
+  {
+   "text": "Chinese People's Leisure and Entertainment Activities",
+   "conf": 1.0,
+   "bbox": [
+    0.19961,
+    0.25436,
+    0.80233,
+    0.27344
+   ]
+  },
+  {
+   "text": "МОЛЕИЗТОАКИСЕОК ПИДЖИЕКЛАНЕОАК, ДК-**",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.31977,
+    0.89147,
+    0.34033
+   ]
+  },
+  {
+   "text": "ЛІХХТД ТТВ ИТЦШ МВХЦНААИЕВАТИ",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.3457,
+    0.74031,
+    0.36628
+   ]
+  },
+  {
+   "text": "Contemporary Chinese people had a dramatic change in their leisure and entertainment",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.375,
+    0.89147,
+    0.38965
+   ]
+  },
+  {
+   "text": "activities in the past decade. They used to stay at home watching television or go to sing karaoke",
+   "conf": 1.0,
+   "bbox": [
+    0.10853,
+    0.39535,
+    0.89147,
+    0.41134
+   ]
+  },
+  {
+   "text": "in their leisure time. Nowadays, an increasing number of people choose to take a walk in nature.",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.41406,
+    0.89147,
+    0.42878
+   ]
+  },
+  {
+   "text": "At weekends, Chinese families play or pick in the suburbs; while during holidays, people tend to",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.43457,
+    0.88953,
+    0.45068
+   ]
+  },
+  {
+   "text": "visit other cities in China or even go abroad.",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.45494,
+    0.46705,
+    0.47093
+   ]
+  },
+  {
+   "text": "15",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "([) AHEФЕ China in Pictures",
+   "conf": 0.3,
+   "bbox": [
+    0.33333,
+    0.5332,
+    0.67636,
+    0.54942
+   ]
+  },
+  {
+   "text": "Tiantán Gõngyuán li xià qí tiào wũ de rénmen",
+   "conf": 0.5,
+   "bbox": [
+    0.42442,
+    0.68311,
+    0.77907,
+    0.69922
+   ]
+  },
+  {
+   "text": "People playing chess or dancing in the Temple of Heaven",
+   "conf": 1.0,
+   "bbox": [
+    0.42636,
+    0.70785,
+    0.8469,
+    0.72238
+   ]
+  },
+  {
+   "text": "1T XK F À",
+   "conf": 0.3,
+   "bbox": [
+    0.42636,
+    0.85303,
+    0.54457,
+    0.87209
+   ]
+  },
+  {
+   "text": "Beijing Huãnlè Gũ",
+   "conf": 0.5,
+   "bbox": [
+    0.42442,
+    0.875,
+    0.57171,
+    0.89111
+   ]
+  },
+  {
+   "text": "Happy Valley, Beijing",
+   "conf": 1.0,
+   "bbox": [
+    0.42442,
+    0.89971,
+    0.59109,
+    0.9157
+   ]
+  },
+  {
+   "text": "+)",
+   "conf": 0.3,
+   "bbox": [
+    0.94186,
+    0.96948,
+    0.97674,
+    0.99709
+   ]
+  }
+ ]
+}

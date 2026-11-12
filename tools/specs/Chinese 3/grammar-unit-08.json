@@ -1,0 +1,166 @@
+{
+  "book": "Chinese 3",
+  "unit": 8,
+  "kind": "grammar",
+  "title": {"zh": "各有所爱", "py": "Gè yǒu suǒ ài", "en": "Talking about Hobbies"},
+  "source": "PDF pp. 136, 141–143, 147–151 (printed pp. 121, 127–129, 133–137)",
+  "intro": "This unit is about hobbies and what people are like. Grammar: (1) 一……就…… “as soon as… / whenever…”; (2) 恨不得 “to be dying to…”; (3) passive sentences with 被 (and 让/叫 in speech, 被……称作 “be called”). Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "一到周末，他就叫上几个朋友一起去郊外登山、攀岩。", "py": "Yí dào zhōumò, tā jiù jiàoshang jǐ ge péngyou yìqǐ qù jiāowài dēng shān, pānyán.", "en": "As soon as the weekend comes, he gets a few friends together to go climbing and rock-climbing outside the city."},
+    {"zh": "他整天就喜欢宅在家里玩儿游戏、写博客，恨不得顿顿饭都叫外卖。", "py": "Tā zhěngtiān jiù xǐhuan zhái zài jiā li wánr yóuxì, xiě bókè, hènbude dùndùn fàn dōu jiào wàimài.", "en": "All he likes to do is stay home all day playing games and blogging — he'd order takeaway for every meal if he could."},
+    {"zh": "（她）被朋友们称为“麦霸”。", "py": "(Tā) bèi péngyoumen chēngwéi “màibà”.", "en": "(She) is called “karaoke queen” by her friends."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "一……就……", "py": "yī…… jiù……", "en": "The structure 一……就……"},
+      "body": [
+        {"type": "text", "zh": "“一……就……”可以表示两件事情紧接着发生。例如：", "en": "“一……就……” indicates two events happening one immediately after the other, e.g.,"},
+        {"type": "pattern", "zh": "（主语）+ 一 + 动作A，（主语）+ 就 + 动作B", "py": "(zhǔyǔ) + yī + dòngzuò A, (zhǔyǔ) + jiù + dòngzuò B", "en": "(subject) + as soon as A, (subject) + 就 + B — subjects go before 一 and before 就"},
+        {"type": "example", "zh": "他们一下课就去商店了。", "py": "Tāmen yí xià kè jiù qù shāngdiàn le.", "en": "They went to the shop as soon as class ended."},
+        {"type": "example", "zh": "他打算一考完试就回国。", "py": "Tā dǎsuan yì kǎowán shì jiù huí guó.", "en": "He plans to go home as soon as he finishes his exams."},
+        {"type": "text", "zh": "有时，“一……就……”的前一个分句可以表示条件，后一分句表示结果。例如：", "en": "Sometimes the first clause states a condition and the second the result (“whenever…”), e.g.,"},
+        {"type": "example", "zh": "一到周末，他就叫上几个朋友一起去郊外登山、攀岩。", "py": "Yí dào zhōumò, tā jiù jiàoshang jǐ ge péngyou yìqǐ qù jiāowài dēng shān, pānyán.", "en": "Whenever the weekend comes, he gets some friends together to go climbing outside the city."},
+        {"type": "example", "zh": "一到寒假、暑假，他就出去旅行。", "py": "Yí dào hánjià, shǔjià, tā jiù chūqu lǚxíng.", "en": "Every winter and summer holiday, he goes travelling."},
+        {"type": "text", "zh": "“就”是副词，一般用在动词的前边。", "en": "“就” is an adverb, usually placed right before the verb."},
+        {"type": "note", "en": "✓ 他一喝酒，就头疼 / ✓ 他一到冬天就感冒. ✗ 一他喝酒 / ✗ 就他头疼 — the subject never comes after 一 or 就."}
+      ]
+    },
+    {
+      "title": {"zh": "恨不得", "py": "hènbude", "en": "The use of 恨不得"},
+      "body": [
+        {"type": "text", "zh": "“恨不得”表示非常急切地希望（实现某事）。例如：", "en": "“恨不得” means to wish desperately (to do something), e.g.,"},
+        {"type": "pattern", "zh": "主语 + 恨不得 + （马上／现在）+ 动词短语", "py": "zhǔyǔ + hènbude + (mǎshàng / xiànzài) + dòngcí duǎnyǔ", "en": "subject + is dying to + (right now) + do something — must be followed by the action"},
+        {"type": "example", "zh": "他整天就喜欢宅在家里玩儿游戏、写博客，恨不得顿顿饭都叫外卖。", "py": "Tā zhěngtiān jiù xǐhuan zhái zài jiā li wánr yóuxì, xiě bókè, hènbude dùndùn fàn dōu jiào wàimài.", "en": "He just wants to stay home all day gaming and blogging; he'd love to order takeaway for every meal."},
+        {"type": "example", "zh": "最近他忙极了，他恨不得每天不睡觉，能早点儿把工作做完。", "py": "Zuìjìn tā máng jíle, tā hènbude měi tiān bú shuì jiào, néng zǎo diǎnr bǎ gōngzuò zuòwán.", "en": "He's extremely busy lately — he'd skip sleep every day if it meant finishing the work sooner."},
+        {"type": "note", "en": "The subject comes before 恨不得 (✓ 她恨不得明天就回国, ✗ 恨不得她…), and 恨不得 can't stand alone as an answer (✗ 我恨不得。) — say what you're dying to do."}
+      ]
+    },
+    {
+      "title": {"zh": "被动句", "py": "bèidòngjù", "en": "Passive sentences"},
+      "body": [
+        {"type": "text", "zh": "被动句是指主语与谓语之间是被动关系的句子，即主语是谓语动词所表示的行为的受动者。被动句有遭受、不情愿的意义。由表示被动的介词“被”及其宾语做状语，“被”的作用是引出动作的发出者（施事者），如果不清楚或者不需要强调动作的发出者，“被”后边的宾语可以省略。例如：", "en": "A passive sentence is one where the subject receives the action of the verb. It often carries a sense of suffering something or of it happening against one's will. The preposition “被” and its object act as an adverbial; “被” introduces the doer of the action. If the doer is unknown or unimportant, the object after “被” can be left out, e.g.,"},
+        {"type": "pattern", "zh": "受事者 + 被 + （施事者）+ 动词 + 结果／了", "py": "shòushìzhě + bèi + (shīshìzhě) + dòngcí + jiéguǒ / le", "en": "receiver + 被 + (doer) + verb + result/了"},
+        {"type": "example", "zh": "那双鞋被（他）穿坏了。", "py": "Nà shuāng xié bèi (tā) chuānhuài le.", "en": "Those shoes were worn out (by him)."},
+        {"type": "example", "zh": "我的自行车被（朋友）骑走了。", "py": "Wǒ de zìxíngchē bèi (péngyou) qízǒu le.", "en": "My bike was ridden off (by a friend)."},
+        {"type": "example", "zh": "这不是我们的意见，我们“被”代表了。", "py": "Zhè bú shì wǒmen de yìjiàn, wǒmen “bèi” dàibiǎo le.", "en": "This isn't our opinion — we were “represented” without being asked."},
+        {"type": "text", "zh": "口语中常用“让”或“叫”代替“被”，但“让”和“叫”后边的宾语不能省略。例如：", "en": "In spoken Chinese “被” is often replaced by “让” or “叫”, but the object after “让” or “叫” can't be left out, e.g.,"},
+        {"type": "example", "zh": "那双鞋让他穿坏了。", "py": "Nà shuāng xié ràng tā chuānhuài le.", "en": "Those shoes were worn out by him."},
+        {"type": "example", "zh": "我的自行车叫朋友骑走了。", "py": "Wǒ de zìxíngchē jiào péngyou qízǒu le.", "en": "My bike was taken by a friend."},
+        {"type": "text", "zh": "“……被（……）称作……”有时也可以说“……被（……）叫作……”，前者语气更正式。例如：", "en": "“……被（……）称作……” can also be said as “……被（……）叫作……”; the former is more formal, e.g.,"},
+        {"type": "example", "zh": "艾娜被朋友们称作“麦霸”。", "py": "Àinà bèi péngyoumen chēngzuò “màibà”.", "en": "Edna is called “karaoke queen” by her friends."},
+        {"type": "text", "zh": "否定时，否定词在介词“被”前。", "en": "To negate, put the negative word before the preposition “被”."},
+        {"type": "example", "zh": "我没被雨淋湿。", "py": "Wǒ méi bèi yǔ línshī.", "en": "I didn't get soaked by the rain."},
+        {"type": "note", "en": "✓ 自行车没被大龙骑走 — ✗ 自行车被大龙没骑走."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "爱好与性格", "py": "Àihào yǔ xìnggé", "en": "Hobbies and personality"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据下面三个人的性格特点，猜猜他们的爱好可能是什么。", "en": "Guess the hobbies of these three people from their personalities."},
+      "items": [
+        {"prompt": {"zh": "大卫：热情、开朗、外向", "py": "Dàwèi: rèqíng, kāilǎng, wàixiàng", "en": "David: warm, cheerful, outgoing"}, "answer": [{"zh": "他的爱好可能是唱卡拉OK、参加聚会、踢足球。", "en": "His hobbies might be karaoke, parties and football. (model answer)"}]},
+        {"prompt": {"zh": "玛丽：活泼、可爱、幽默", "py": "Mǎlì: huópo, kě'ài, yōumò", "en": "Mary: lively, cute, funny"}, "answer": [{"zh": "她的爱好可能是跳舞、唱歌、逛街。", "en": "Her hobbies might be dancing, singing and shopping. (model answer)"}]},
+        {"prompt": {"zh": "杰克：腼腆、内向", "py": "Jiékè: miǎntiǎn, nèixiàng", "en": "Jack: shy, introverted"}, "answer": [{"zh": "他的爱好可能是看书、上网、下棋。", "en": "His hobbies might be reading, going online and playing chess. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "连一连，说一说", "py": "Lián yi lián, shuō yi shuō", "en": "Match, then complete with 一……就……"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "先将A句和B句连线，然后完成带有“一……就……”的句子。", "en": "Match each sentence in column A with one in column B, then complete the sentences using “一……就……”."},
+      "body": [
+        {"type": "note", "en": "Column A (the person):"},
+        {"type": "list", "items": [
+          {"zh": "①他是个有名的网虫，", "en": "He's a famous internet addict,"},
+          {"zh": "②她是个“宅女”，", "py": "② Tā shì ge “zháinǚ”,", "en": "She's a real homebody,"},
+          {"zh": "③她特别想家，", "en": "She's very homesick,"},
+          {"zh": "④他酷爱旅行，", "en": "He's crazy about travelling,"}
+        ]},
+        {"type": "note", "en": "Column B (what they're dying to do):"},
+        {"type": "list", "items": [
+          {"zh": "a. 恨不得现在就坐飞机回国。", "py": "a. Hènbude xiànzài jiù zuò fēijī huí guó.", "en": "is dying to fly home right now."},
+          {"zh": "b. 恨不得天天在网上聊天儿、玩儿游戏。", "py": "b. Hènbude tiāntiān zài wǎngshang liáo tiānr, wánr yóuxì.", "en": "wishes he could chat and game online every day."},
+          {"zh": "c. 恨不得玩儿遍中国。", "py": "c. Hènbude wánrbiàn Zhōngguó.", "en": "wishes he could travel all over China."},
+          {"zh": "d. 恨不得整天都宅在家里。", "py": "d. Hènbude zhěngtiān dōu zhái zài jiā li.", "en": "would stay in all day if she could."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "他是个有名的网虫，一______就______。", "py": "Tā shì ge yǒumíng de wǎngchóng, yī ______ jiù ______.", "en": "①"},
+         "answer": [{"en": "① → b"}, {"zh": "他是个有名的网虫，一回家就上网。", "en": "He's a famous internet addict — the moment he gets home he goes online. (model answer)"}]},
+        {"prompt": {"zh": "她是个“宅女”，一______就______。", "py": "Tā shì ge “zháinǚ”, yī ______ jiù ______.", "en": "②"},
+         "answer": [{"en": "② → d"}, {"zh": "她是个“宅女”，一到周末就待在家里。", "py": "Tā shì ge “zháinǚ”, yí dào zhōumò jiù dāi zài jiā li.", "en": "She's a homebody — as soon as the weekend comes she stays in. (model answer)"}]},
+        {"prompt": {"zh": "她特别想家，一______就______。", "py": "Tā tèbié xiǎng jiā, yī ______ jiù ______.", "en": "③"},
+         "answer": [{"en": "③ → a"}, {"zh": "她特别想家，一放假就回国。", "en": "She's very homesick — as soon as the holidays start she goes home. (model answer)"}]},
+        {"prompt": {"zh": "他酷爱旅行，一______就______。", "py": "Tā kù'ài lǚxíng, yī ______ jiù ______.", "en": "④"},
+         "answer": [{"en": "④ → c"}, {"zh": "他酷爱旅行，一有时间就去旅行。", "en": "He loves travelling — whenever he has time he goes on a trip. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "谁的朋友最牛", "py": "Shéi de péngyou zuì niú", "en": "Whose friend is the most fantastic"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "说说你有没有这样的朋友，他/她喜欢这个爱好到什么程度。比一比，同样的爱好，谁的朋友最厉害。", "en": "Do you have a friend who's crazy about a hobby? How crazy? Compare: for the same hobby, whose friend is the most extreme? Answer with 一……就…… and 恨不得."},
+      "items": [
+        {"prompt": {"zh": "你有没有特别喜欢健身的朋友？", "en": "Do you have a friend who loves working out?"}, "answer": [{"zh": "有，我的朋友一有空儿就去健身房，恨不得住在那儿。", "en": "Yes — whenever my friend has free time he goes to the gym; he'd live there if he could. (model answer)"}]},
+        {"prompt": {"zh": "你有没有特别喜欢唱歌的朋友？", "en": "…a friend who loves singing?"}, "answer": [{"zh": "有，她一唱就是三个小时，恨不得天天去卡拉OK。", "py": "Yǒu, tā yí chàng jiù shì sān ge xiǎoshí, hènbude tiāntiān qù kǎlā OK.", "en": "Yes — once she starts singing it's three hours; she'd go to karaoke every day if she could. (model answer)"}]},
+        {"prompt": {"zh": "你有没有特别喜欢吃的朋友？", "en": "…a friend who loves eating?"}, "answer": [{"zh": "有，他一看到好吃的就走不动了。", "py": "Yǒu, tā yí kàndào hǎochī de jiù zǒu bu dòng le.", "en": "Yes — the moment he sees good food he can't move another step. (model answer)"}]},
+        {"prompt": {"zh": "你有没有特别喜欢旅行的朋友？", "en": "…a friend who loves travelling?"}, "answer": [{"zh": "有，她一放假就出去旅行，恨不得玩儿遍全世界。", "py": "Yǒu, tā yí fàng jià jiù chūqu lǚxíng, hènbude wánrbiàn quán shìjiè.", "en": "Yes — as soon as the holidays start she's off travelling; she'd love to see the whole world. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "这是为什么", "py": "Zhè shì wèi shénme", "en": "Why is it"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据“任务示范”内容和现实情况说说各个称号产生的原因。", "en": "Using the lesson text and what you know, explain why each person (or country) got their nickname."},
+      "body": [
+        {"type": "example", "zh": "艾娜被朋友们称为“麦霸”，是因为她一有空儿就喜欢去卡拉OK唱歌，经常一个人一唱就是两三个小时。", "py": "Àinà bèi péngyoumen chēngwéi “màibà”, shì yīnwèi tā yì yǒu kòngr jiù xǐhuan qù kǎlā OK chàng gē, jīngcháng yí ge rén yí chàng jiù shì liǎng sān ge xiǎoshí.", "en": "Edna's friends call her “karaoke queen” because whenever she's free she goes to karaoke, often singing on her own for two or three hours."}
+      ],
+      "items": [
+        {"prompt": {"zh": "麦克——“宅男”", "py": "Màikè —— “zháinán”", "en": "Mike — “homebody”"}, "answer": [{"zh": "麦克被称为“宅男”，是因为他整天就喜欢宅在家里玩儿游戏。", "py": "Màikè bèi chēngwéi “zháinán”, shì yīnwèi tā zhěngtiān jiù xǐhuan zhái zài jiā li wánr yóuxì.", "en": "Mike is called a homebody because all he likes is staying in playing games. (model answer)"}]},
+        {"prompt": {"zh": "李伟——健身达人", "py": "Lǐ Wěi —— jiànshēn dárén", "en": "Li Wei — fitness expert"}, "answer": [{"zh": "李伟被称为“健身达人”，是因为他一有时间就去健身房。", "en": "Li Wei is called a fitness expert because whenever he has time he goes to the gym. (model answer)"}]},
+        {"picture": "A basketball player soaring towards the basket in a no. 23 jersey.", "prompt": {"zh": "飞人——乔丹", "py": "Fēirén —— Qiáodān", "en": "“Air” — Jordan"}, "answer": [{"zh": "乔丹被称为“飞人”，是因为他打篮球的时候跳得特别高，好像会飞一样。", "py": "Qiáodān bèi chēngwéi “fēirén”, shì yīnwèi tā dǎ lánqiú de shíhou tiào de tèbié gāo, hǎoxiàng huì fēi yíyàng.", "en": "Jordan is called “Air” because he jumped so high playing basketball it was as if he could fly. (model answer)"}]},
+        {"picture": "A smiling swimmer.", "prompt": {"zh": "飞鱼——菲尔普斯", "py": "Fēiyú —— Fēi'ěrpǔsī", "en": "“Flying Fish” — Phelps"}, "answer": [{"zh": "菲尔普斯被称为“飞鱼”，是因为他游泳游得特别快。", "py": "Fēi'ěrpǔsī bèi chēngwéi “fēiyú”, shì yīnwèi tā yóu yǒng yóu de tèbié kuài.", "en": "Phelps is called the “Flying Fish” because he swims incredibly fast. (model answer)"}]},
+        {"picture": "An older man in a suit giving a thumbs-up (Pelé).", "prompt": {"zh": "球王——贝利", "py": "Qiúwáng —— Bèilì", "en": "“King of Football” — Pelé"}, "answer": [{"zh": "贝利被称为“球王”，是因为他足球踢得最好。", "py": "Bèilì bèi chēngwéi “qiúwáng”, shì yīnwèi tā zúqiú tī de zuì hǎo.", "en": "Pelé is called the King of Football because he played the best. (model answer)"}]},
+        {"picture": "A father and son wrapped in a Brazilian flag.", "prompt": {"zh": "巴西——足球王国", "py": "Bāxī —— zúqiú wángguó", "en": "Brazil — the kingdom of football"}, "answer": [{"zh": "巴西被称为“足球王国”，是因为巴西人一有空儿就踢足球，巴西队也特别厉害。", "py": "Bāxī bèi chēngwéi “zúqiú wángguó”, shì yīnwèi Bāxī rén yì yǒu kòngr jiù tī zúqiú, Bāxī duì yě tèbié lìhai.", "en": "Brazil is called the kingdom of football because Brazilians play whenever they can, and their team is amazing. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "发生了什么", "py": "Fāshēngle shénme", "en": "What happened (passive sentences)"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "看图，用被动句说说发生了什么，为什么会这样。", "en": "Look at the pictures and use passive sentences to say what happened and why."},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "淋湿", "py": "línshī", "en": "drenched"},
+          {"zh": "撞坏", "py": "zhuànghuài", "en": "smashed (in a crash)"},
+          {"zh": "刮倒", "py": "guādǎo", "en": "blown over"}
+        ]},
+        {"type": "picture", "en": "Example picture: a man soaked to the skin in the rain."},
+        {"type": "example", "zh": "他被（雨）淋湿了，因为他没带伞。", "py": "Tā bèi (yǔ) línshī le, yīnwèi tā méi dài sǎn.", "en": "He got soaked (by the rain) because he didn't bring an umbrella."}
+      ],
+      "items": [
+        {"picture": "A car with its front badly smashed after a crash.", "answer": [{"zh": "这辆车被撞坏了，因为司机开得太快了。", "py": "Zhè liàng chē bèi zhuànghuài le, yīnwèi sījī kāi de tài kuài le.", "en": "The car was smashed because the driver was going too fast. (model answer)"}]},
+        {"picture": "A big tree lying blown over across a street.", "answer": [{"zh": "那棵树被大风刮倒了，因为昨天晚上风特别大。", "py": "Nà kē shù bèi dàfēng guādǎo le, yīnwèi zuótiān wǎnshang fēng tèbié dà.", "en": "The tree was blown over by the wind because it was really windy last night. (model answer)"}]},
+        {"prompt": {"en": "Say the rain example in spoken style with 叫 or 让."}, "answer": [{"zh": "他让雨淋湿了。", "py": "Tā ràng yǔ línshī le.", "en": "He got soaked by the rain. (让/叫 must keep the doer, 雨)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the correct sentence to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "他一喝酒，就头疼。", "py": "Tā yì hē jiǔ, jiù tóuténg."}, {"zh": "一他喝酒，就他头疼。", "py": "Yì tā hē jiǔ, jiù tā tóuténg."}],
+       "answer": 0, "explain": "The subject goes before 一; 就 goes right before the verb. (grammar note 1)"},
+      {"options": [{"zh": "艾娜很想家，她恨不得明天就回国。", "py": "Àinà hěn xiǎng jiā, tā hènbude míngtiān jiù huí guó."}, {"zh": "艾娜很想家，恨不得她明天就回国。", "py": "Àinà hěn xiǎng jiā, hènbude tā míngtiān jiù huí guó."}],
+       "answer": 0, "explain": "The subject comes before 恨不得. (grammar note 2)"},
+      {"options": [{"zh": "他一到冬天就感冒。", "py": "Tā yí dào dōngtiān jiù gǎnmào."}, {"zh": "一到冬天，就他感冒。", "py": "Yí dào dōngtiān, jiù tā gǎnmào."}],
+       "answer": 0, "explain": "就 goes right before the verb, never before the subject. (grammar note 1)"},
+      {"options": [{"zh": "我恨不得现在就去吃法国菜。", "py": "Wǒ hènbude xiànzài jiù qù chī Fǎguó cài."}, {"zh": "你想吃法国菜吗？我恨不得。", "py": "Nǐ xiǎng chī Fǎguó cài ma? Wǒ hènbude."}],
+       "answer": 0, "explain": "恨不得 must be followed by what you're dying to do. (grammar note 2)"},
+      {"options": [{"zh": "自行车被大龙没骑走。", "py": "Zìxíngchē bèi Dàlóng méi qízǒu."}, {"zh": "自行车没被大龙骑走。", "py": "Zìxíngchē méi bèi Dàlóng qízǒu."}],
+       "answer": 1, "explain": "The negative word goes before 被. (grammar note 3)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — negation goes before 被 (note 3). Missed Q1 or Q3 — review 一……就…… (note 1). Missed Q2 or Q4 — review 恨不得 (note 2)."
+  }
+}

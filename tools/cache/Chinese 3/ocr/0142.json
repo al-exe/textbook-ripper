@@ -1,0 +1,847 @@
+{
+ "page": 142,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［31",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 0.3,
+   "bbox": [
+    0.04264,
+    0.26308,
+    0.05814,
+    0.27616
+   ]
+  },
+  {
+   "text": "128",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34012,
+    0.06977,
+    0.3561
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12209,
+    0.33721,
+    0.14147,
+    0.3532
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12403,
+    0.70203,
+    0.13953,
+    0.71657
+   ]
+  },
+  {
+   "text": "① 他是个 有名的网虫，一",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.125,
+    0.47481,
+    0.14551
+   ]
+  },
+  {
+   "text": "Ta shi ge youming de wangchong,yi",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.14826,
+    0.47287,
+    0.1657
+   ]
+  },
+  {
+   "text": "② 她是个“宅女”",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.16992,
+    0.33915,
+    0.18896
+   ]
+  },
+  {
+   "text": "Ta shi ge “zhdind”",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.19477,
+    0.33333,
+    0.21094
+   ]
+  },
+  {
+   "text": "yi",
+   "conf": 0.3,
+   "bbox": [
+    0.37016,
+    0.19622,
+    0.38953,
+    0.21094
+   ]
+  },
+  {
+   "text": "③ 她特别 想家，一",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.21924,
+    0.36434,
+    0.23837
+   ]
+  },
+  {
+   "text": "Ta tebie xidng jid, yi",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.24268,
+    0.35853,
+    0.25879
+   ]
+  },
+  {
+   "text": "④ 他酷爱旅行，一",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.26744,
+    0.34496,
+    0.28488
+   ]
+  },
+  {
+   "text": "Ta kiai ltxing,yi",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.2876,
+    0.34109,
+    0.30523
+   ]
+  },
+  {
+   "text": "就",
+   "conf": 0.5,
+   "bbox": [
+    0.66279,
+    0.125,
+    0.68798,
+    0.14244
+   ]
+  },
+  {
+   "text": "jid",
+   "conf": 0.3,
+   "bbox": [
+    0.66279,
+    0.1468,
+    0.68798,
+    0.16279
+   ]
+  },
+  {
+   "text": "_就",
+   "conf": 0.5,
+   "bbox": [
+    0.56589,
+    0.17285,
+    0.60465,
+    0.19189
+   ]
+  },
+  {
+   "text": "jid",
+   "conf": 0.3,
+   "bbox": [
+    0.57946,
+    0.19477,
+    0.60465,
+    0.21094
+   ]
+  },
+  {
+   "text": "就",
+   "conf": 1.0,
+   "bbox": [
+    0.55039,
+    0.21802,
+    0.57558,
+    0.23547
+   ]
+  },
+  {
+   "text": "jd",
+   "conf": 0.3,
+   "bbox": [
+    0.55039,
+    0.24121,
+    0.57364,
+    0.25732
+   ]
+  },
+  {
+   "text": "就",
+   "conf": 0.5,
+   "bbox": [
+    0.53101,
+    0.26599,
+    0.5562,
+    0.28343
+   ]
+  },
+  {
+   "text": "jd",
+   "conf": 0.3,
+   "bbox": [
+    0.53101,
+    0.2876,
+    0.55426,
+    0.30378
+   ]
+  },
+  {
+   "text": "谁的朋友最牛 Whose friend is the most fantastic",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.33576,
+    0.61628,
+    0.3532
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17439,
+    0.37638,
+    0.25584,
+    0.39252
+   ]
+  },
+  {
+   "text": "说说你有没有这样的朋友，他/她喜欢这个爱好到什么程度。比一比，同样",
+   "conf": 0.5,
+   "bbox": [
+    0.27907,
+    0.37645,
+    0.89147,
+    0.39697
+   ]
+  },
+  {
+   "text": "的爱好，谁的朋友最厉害。",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.3968,
+    0.49612,
+    0.4157
+   ]
+  },
+  {
+   "text": "Group work: Tell if you have any friends who are crazy about something and how crazy he/she is",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.42432,
+    0.89147,
+    0.43896
+   ]
+  },
+  {
+   "text": "about it. Make a comparison to see whose friend is the most fantastic in one hobby.",
+   "conf": 0.5,
+   "bbox": [
+    0.27709,
+    0.44301,
+    0.8857,
+    0.45978
+   ]
+  },
+  {
+   "text": "① 你有 没有 特别喜欢 健身的朋友？",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.47363,
+    0.69186,
+    0.49419
+   ]
+  },
+  {
+   "text": "Ni you meiyou tebie xihuan jianshen de pengyou？",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.49561,
+    0.69961,
+    0.51025
+   ]
+  },
+  {
+   "text": "② 你有没有特别喜欢 唱歌的朋友？",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.51599,
+    0.70543,
+    0.53634
+   ]
+  },
+  {
+   "text": "Ni you meiyou tebie xihuan chang ge de pengyou？",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.5376,
+    0.71124,
+    0.55523
+   ]
+  },
+  {
+   "text": "③ 你有没有特别喜欢 户外 运动 的朋友？",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.55811,
+    0.74806,
+    0.57861
+   ]
+  },
+  {
+   "text": "Ni you meiyou tebie xihuan huwai yundong de pengyou？",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.5814,
+    0.75388,
+    0.59593
+   ]
+  },
+  {
+   "text": "④ 你有 没有 特别喜欢 吃的 朋友？",
+   "conf": 0.3,
+   "bbox": [
+    0.27907,
+    0.59717,
+    0.65116,
+    0.61919
+   ]
+  },
+  {
+   "text": "Ni you meiyou tebie xihuan chi de pengyou？",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.62061,
+    0.65891,
+    0.63672
+   ]
+  },
+  {
+   "text": "⑤ 你有 没有特别喜欢旅行的 朋友？",
+   "conf": 0.3,
+   "bbox": [
+    0.27907,
+    0.64099,
+    0.67248,
+    0.66134
+   ]
+  },
+  {
+   "text": "Ni you meiyou tebie xihuan ldxingde pengyou？",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.6626,
+    0.68217,
+    0.67878
+   ]
+  },
+  {
+   "text": "这是为什么 Why is it",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.70203,
+    0.36822,
+    0.71948
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17434,
+    0.74106,
+    0.2559,
+    0.75894
+   ]
+  },
+  {
+   "text": "根据“任务示范”内容和现实情况说说各个称号产生的原因。",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.74121,
+    0.81589,
+    0.76318
+   ]
+  },
+  {
+   "text": "Pair work: Talk about the reasons why the following people have got their nicknames according to",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.77616,
+    0.89147,
+    0.78924
+   ]
+  },
+  {
+   "text": "the information provided in the \"Task Demonstration” and the actual situations.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.79492,
+    0.82946,
+    0.80959
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.82267,
+    0.18217,
+    0.84157
+   ]
+  },
+  {
+   "text": "艾娜被 朋友们 称为“麦霸”，是因为她一有 空儿就喜欢",
+   "conf": 0.3,
+   "bbox": [
+    0.22844,
+    0.8298,
+    0.86451,
+    0.85748
+   ]
+  },
+  {
+   "text": "Aind bei pengyoumen chengwei \"maibd”， shi yinwei ta yi you kongr jitu xihuan",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.85596,
+    0.87209,
+    0.875
+   ]
+  },
+  {
+   "text": "去卡拉OK 唱歌，经常一个人一唱 就是两三个小时。",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.88081,
+    0.80426,
+    0.90137
+   ]
+  },
+  {
+   "text": "qu kala OK chang ge, jingchang yi ge ren yi chang jiu shi liang san ge xidoshi.",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.90407,
+    0.80233,
+    0.92006
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ( 3]",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "128",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34012,
+    0.06977,
+    0.3561
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.33721,
+    0.14147,
+    0.3532
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12403,
+    0.70203,
+    0.13953,
+    0.71657
+   ]
+  },
+  {
+   "text": "Tã shì ge yõuming de wăngchóng, vì",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.14826,
+    0.47287,
+    0.1657
+   ]
+  },
+  {
+   "text": "D HE1\"ЁK\"",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.16992,
+    0.33915,
+    0.18896
+   ]
+  },
+  {
+   "text": "Tã shì ge \"zháin\"",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.19477,
+    0.33333,
+    0.21094
+   ]
+  },
+  {
+   "text": "yi",
+   "conf": 0.3,
+   "bbox": [
+    0.37016,
+    0.19622,
+    0.38953,
+    0.21076
+   ]
+  },
+  {
+   "text": "jiù",
+   "conf": 0.3,
+   "bbox": [
+    0.66279,
+    0.1468,
+    0.68798,
+    0.16279
+   ]
+  },
+  {
+   "text": "jiù",
+   "conf": 0.5,
+   "bbox": [
+    0.57946,
+    0.19477,
+    0.60465,
+    0.21076
+   ]
+  },
+  {
+   "text": "Tà tèbié xiăng jia, yì",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.24268,
+    0.35853,
+    0.25879
+   ]
+  },
+  {
+   "text": "ДНБКЖЙT, -",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.26744,
+    0.34496,
+    0.28488
+   ]
+  },
+  {
+   "text": "Tã kừ ài lũxíng, yĩ",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.2876,
+    0.34109,
+    0.30523
+   ]
+  },
+  {
+   "text": "jiù",
+   "conf": 1.0,
+   "bbox": [
+    0.55039,
+    0.24128,
+    0.57364,
+    0.25727
+   ]
+  },
+  {
+   "text": "jiù",
+   "conf": 0.5,
+   "bbox": [
+    0.53101,
+    0.28779,
+    0.55426,
+    0.30378
+   ]
+  },
+  {
+   "text": "MÁAZI+ Whose friend is the most fantastic",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.33576,
+    0.61628,
+    0.3532
+   ]
+  },
+  {
+   "text": "MMHХHИИ, RХEHAHД 1- FH",
+   "conf": 0.3,
+   "bbox": [
+    0.27907,
+    0.37645,
+    0.89147,
+    0.39697
+   ]
+  },
+  {
+   "text": "Group work: Tell if you have any friends who are crazy about something and how crazy he/she is",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.42432,
+    0.89147,
+    0.43896
+   ]
+  },
+  {
+   "text": "about it. Make a comparison to see whose friend is the most fantastic in one hobby.",
+   "conf": 1.0,
+   "bbox": [
+    0.27709,
+    0.44301,
+    0.8857,
+    0.45978
+   ]
+  },
+  {
+   "text": "DIH H HN XK NH N ME?",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.47363,
+    0.69186,
+    0.49419
+   ]
+  },
+  {
+   "text": "Nĩ yõu méiyõu tèbié xihuan jiànshén de péngyou?",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.49561,
+    0.69961,
+    0.51025
+   ]
+  },
+  {
+   "text": "Ká тл?",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.51599,
+    0.70543,
+    0.53634
+   ]
+  },
+  {
+   "text": "Nĩ yõu méiyõu tèbié xihuan chàng gẽ de péngyou?",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.5376,
+    0.71124,
+    0.55523
+   ]
+  },
+  {
+   "text": "ра n mк?",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.55811,
+    0.74806,
+    0.57861
+   ]
+  },
+  {
+   "text": "Nì yỗu méiyõu tèbié xihuan hùwài yùndòng de péngyou?",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.5814,
+    0.75388,
+    0.59593
+   ]
+  },
+  {
+   "text": "Đ 14 A RH H9I ES TE Á ĐAE?",
+   "conf": 0.3,
+   "bbox": [
+    0.27907,
+    0.59717,
+    0.65116,
+    0.61919
+   ]
+  },
+  {
+   "text": "Nĩ yõu méiyõu tèbié xihuan chi de péngyou?",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.62061,
+    0.65891,
+    0.63672
+   ]
+  },
+  {
+   "text": "BДД ДНЯ КжНюЛЕ?",
+   "conf": 0.3,
+   "bbox": [
+    0.27907,
+    0.64099,
+    0.67248,
+    0.66134
+   ]
+  },
+  {
+   "text": "Nĩ yõu méiyõu tèbié xihuan luxíng de péngyou?",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.6626,
+    0.68217,
+    0.67878
+   ]
+  },
+  {
+   "text": "iEAIT4 Why is it",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.70203,
+    0.36822,
+    0.71948
+   ]
+  },
+  {
+   "text": "МИ \"ИВЛИ\" ВОНОСНОЙВХ ТАЕРАИЛИ",
+   "conf": 0.3,
+   "bbox": [
+    0.27713,
+    0.74121,
+    0.81589,
+    0.76318
+   ]
+  },
+  {
+   "text": "Pair work: Talk about the reasons why the following people have got their nicknames according to",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.77616,
+    0.89147,
+    0.78924
+   ]
+  },
+  {
+   "text": "the information provided in the \"Task Demonstration\" and the actual situations.",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.79492,
+    0.82946,
+    0.80959
+   ]
+  },
+  {
+   "text": "45J",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.82267,
+    0.18217,
+    0.84157
+   ]
+  },
+  {
+   "text": "Àinà bèi péngyoumen chêngwéi \"màibà\", shì yinwèi tã yì yõu kòngr jiù xĩhuan",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.85596,
+    0.87209,
+    0.875
+   ]
+  },
+  {
+   "text": "qù kắlã OK chàng gẽ, jĩngcháng yí ge rén yí chàng jiù shì liăng sãn ge xiãoshí.",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.90407,
+    0.80233,
+    0.92006
+   ]
+  }
+ ]
+}

@@ -1,0 +1,727 @@
+{
+ "page": 95,
+ "cjk_pass": [
+  {
+   "text": "第六单元",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.29053,
+    0.28295,
+    0.32422
+   ]
+  },
+  {
+   "text": "Unit 6",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.33285,
+    0.27326,
+    0.36337
+   ]
+  },
+  {
+   "text": "话题",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.55371,
+    0.1938,
+    0.56982
+   ]
+  },
+  {
+   "text": "Topic",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.57413,
+    0.19767,
+    0.59033
+   ]
+  },
+  {
+   "text": "任务目标",
+   "conf": 1.0,
+   "bbox": [
+    0.13175,
+    0.61328,
+    0.21321,
+    0.6309
+   ]
+  },
+  {
+   "text": "Instructional",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.63372,
+    0.22868,
+    0.64697
+   ]
+  },
+  {
+   "text": "Objectives",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.65262,
+    0.21899,
+    0.66715
+   ]
+  },
+  {
+   "text": "重点词语",
+   "conf": 1.0,
+   "bbox": [
+    0.13169,
+    0.69306,
+    0.21521,
+    0.71101
+   ]
+  },
+  {
+   "text": "Key Words",
+   "conf": 0.5,
+   "bbox": [
+    0.12398,
+    0.71348,
+    0.22098,
+    0.72983
+   ]
+  },
+  {
+   "text": "重点语句",
+   "conf": 1.0,
+   "bbox": [
+    0.13169,
+    0.78898,
+    0.21327,
+    0.80549
+   ]
+  },
+  {
+   "text": "Key",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.80811,
+    0.18992,
+    0.82568
+   ]
+  },
+  {
+   "text": "Sentences",
+   "conf": 1.0,
+   "bbox": [
+    0.1317,
+    0.82671,
+    0.2152,
+    0.83899
+   ]
+  },
+  {
+   "text": "语法点",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.90262,
+    0.20349,
+    0.9186
+   ]
+  },
+  {
+   "text": "Grammar",
+   "conf": 1.0,
+   "bbox": [
+    0.1317,
+    0.92259,
+    0.21714,
+    0.93497
+   ]
+  },
+  {
+   "text": "Points",
+   "conf": 1.0,
+   "bbox": [
+    0.14532,
+    0.94033,
+    0.19965,
+    0.95357
+   ]
+  },
+  {
+   "text": "网络与手机",
+   "conf": 1.0,
+   "bbox": [
+    0.33527,
+    0.44186,
+    0.66667,
+    0.49564
+   ]
+  },
+  {
+   "text": "Internet and Mobile Phones",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.50581,
+    0.76744,
+    0.53488
+   ]
+  },
+  {
+   "text": "网络与手机",
+   "conf": 0.5,
+   "bbox": [
+    0.24419,
+    0.55664,
+    0.33527,
+    0.57129
+   ]
+  },
+  {
+   "text": "Internet and mobile phones",
+   "conf": 0.5,
+   "bbox": [
+    0.24419,
+    0.57413,
+    0.43992,
+    0.5874
+   ]
+  },
+  {
+   "text": "能够讨论网络与手机给人们生活带来的影响，表达自己对于现代化信息手段的",
+   "conf": 1.0,
+   "bbox": [
+    0.24419,
+    0.59863,
+    0.87984,
+    0.61483
+   ]
+  },
+  {
+   "text": "态度；能够讨论自己对人与人交流模式的看法；能够表达抱怨情绪",
+   "conf": 1.0,
+   "bbox": [
+    0.24419,
+    0.61768,
+    0.77132,
+    0.63525
+   ]
+  },
+  {
+   "text": "Students can discuss the influence exerted by the Internet and mobile phones on people's",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.63953,
+    0.88178,
+    0.65576
+   ]
+  },
+  {
+   "text": "lives, and express their attitudes towards modern means of information; they can express",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.65407,
+    0.88178,
+    0.6686
+   ]
+  },
+  {
+   "text": "their opinions on the modes of communication between persons; they can also complain.",
+   "conf": 0.5,
+   "bbox": [
+    0.24419,
+    0.66846,
+    0.86822,
+    0.68314
+   ]
+  },
+  {
+   "text": "脾气 piqi、信息 xinxi、感触gdnchu、网络 wangluo、发达 fadd、先进 xianjin、",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.69477,
+    0.87209,
+    0.71094
+   ]
+  },
+  {
+   "text": "随时随地 suishisuidl、面对面 mianduimian、交流jidolid、珍惜 zhenxi",
+   "conf": 0.5,
+   "bbox": [
+    0.24419,
+    0.71512,
+    0.80039,
+    0.7311
+   ]
+  },
+  {
+   "text": "1.自从手机可以上网以后，方便倒是方便了，可是这却让我们的距离变大了。",
+   "conf": 0.5,
+   "bbox": [
+    0.24419,
+    0.73828,
+    0.85465,
+    0.75586
+   ]
+  },
+  {
+   "text": "Zicong shouji keyi shang wang yihou, fangbian ddoshi fangbidn le, keshi zhe",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.75581,
+    0.88178,
+    0.77197
+   ]
+  },
+  {
+   "text": "que rang women de juli bian da le.",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.77326,
+    0.53101,
+    0.78779
+   ]
+  },
+  {
+   "text": "2. 以前吃饭的时候有说有笑，可是现在大家要么用手机上网看信息，要么用手",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.79199,
+    0.87984,
+    0.80814
+   ]
+  },
+  {
+   "text": "机玩儿游戏。Yiqian chi fan de shihou you shuo ydu xido, keshi xinzai ddjia",
+   "conf": 0.3,
+   "bbox": [
+    0.26163,
+    0.80811,
+    0.88178,
+    0.82568
+   ]
+  },
+  {
+   "text": "yaome yong shouji shang wang kan xinxi, ydome yong shouji wanr youxi.",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.82558,
+    0.83333,
+    0.8418
+   ]
+  },
+  {
+   "text": "3. 可是从某种程度上来说，我们却忽略了人与人之间面对面的交流。Keshi cong",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.84424,
+    0.87984,
+    0.86047
+   ]
+  },
+  {
+   "text": "mou zhong chengdd shang ldi shuo, women que huluele ren yu ren zhi jian",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.86182,
+    0.88178,
+    0.87793
+   ]
+  },
+  {
+   "text": "mianduimian de jidolid.",
+   "conf": 0.3,
+   "bbox": [
+    0.26163,
+    0.87791,
+    0.4438,
+    0.89258
+   ]
+  },
+  {
+   "text": "1.自从 The usage of“自从”",
+   "conf": 0.3,
+   "bbox": [
+    0.24195,
+    0.89957,
+    0.47139,
+    0.92067
+   ]
+  },
+  {
+   "text": "2.要么 The usage of“要么”",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.91992,
+    0.47287,
+    0.9375
+   ]
+  },
+  {
+   "text": "3. 从某种程度上来说 The usage of “从某种程度上来说”",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.94041,
+    0.68992,
+    0.95801
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97093,
+    0.99273
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 6",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.33285,
+    0.27326,
+    0.36337
+   ]
+  },
+  {
+   "text": "Internet and Mobile Phones",
+   "conf": 1.0,
+   "bbox": [
+    0.23062,
+    0.50581,
+    0.76744,
+    0.53488
+   ]
+  },
+  {
+   "text": "Topic",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.57413,
+    0.19767,
+    0.59012
+   ]
+  },
+  {
+   "text": "Instructional",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.63372,
+    0.22868,
+    0.6468
+   ]
+  },
+  {
+   "text": "Objectives",
+   "conf": 1.0,
+   "bbox": [
+    0.12597,
+    0.65262,
+    0.21899,
+    0.66715
+   ]
+  },
+  {
+   "text": "Emiae",
+   "conf": 0.3,
+   "bbox": [
+    0.13169,
+    0.69306,
+    0.21521,
+    0.71101
+   ]
+  },
+  {
+   "text": "Key Words",
+   "conf": 1.0,
+   "bbox": [
+    0.12398,
+    0.71348,
+    0.22098,
+    0.72983
+   ]
+  },
+  {
+   "text": "Ensa",
+   "conf": 0.3,
+   "bbox": [
+    0.13169,
+    0.78898,
+    0.21327,
+    0.80549
+   ]
+  },
+  {
+   "text": "Key",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.80814,
+    0.18992,
+    0.82558
+   ]
+  },
+  {
+   "text": "Sentences",
+   "conf": 1.0,
+   "bbox": [
+    0.1317,
+    0.82671,
+    0.2152,
+    0.83899
+   ]
+  },
+  {
+   "text": "Grammar",
+   "conf": 1.0,
+   "bbox": [
+    0.1317,
+    0.92259,
+    0.21714,
+    0.93497
+   ]
+  },
+  {
+   "text": "Points",
+   "conf": 1.0,
+   "bbox": [
+    0.14532,
+    0.94033,
+    0.19965,
+    0.95357
+   ]
+  },
+  {
+   "text": "Internet and mobile phones",
+   "conf": 1.0,
+   "bbox": [
+    0.24419,
+    0.57413,
+    0.43992,
+    0.5874
+   ]
+  },
+  {
+   "text": "НШИШЖТТДДЛДЛТЖКШ АДАСХТЕМСИВ FЕК",
+   "conf": 0.3,
+   "bbox": [
+    0.24419,
+    0.59863,
+    0.87984,
+    0.61483
+   ]
+  },
+  {
+   "text": "хВт",
+   "conf": 0.3,
+   "bbox": [
+    0.61914,
+    0.61768,
+    0.77132,
+    0.63525
+   ]
+  },
+  {
+   "text": "Students can discuss the influence exerted by the Internet and mobile phones on people's",
+   "conf": 1.0,
+   "bbox": [
+    0.24225,
+    0.63953,
+    0.88178,
+    0.65576
+   ]
+  },
+  {
+   "text": "lives, and express their attitudes towards modern means of information; they can express",
+   "conf": 1.0,
+   "bbox": [
+    0.24225,
+    0.65407,
+    0.88178,
+    0.6686
+   ]
+  },
+  {
+   "text": "their opinions on the modes of communication between persons; they can also complain.",
+   "conf": 1.0,
+   "bbox": [
+    0.24419,
+    0.66846,
+    0.86822,
+    0.68314
+   ]
+  },
+  {
+   "text": "N4 C píai, THB xinxĩ, xttn gănchù, xzH wăngluò, liit fadá. Sti xianjìn.",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.69477,
+    0.87209,
+    0.71094
+   ]
+  },
+  {
+   "text": "Ptinffütt suishí suídì. IHiXJ Hi mianduimiàn, Xhi jiãoliú, EiH zhēnxi",
+   "conf": 0.3,
+   "bbox": [
+    0.24419,
+    0.71512,
+    0.80039,
+    0.7311
+   ]
+  },
+  {
+   "text": "1 НИТАДОЕИОЛ, ЛИЛЕЛИТ, ПАХДІТИІКНАЕХТ•",
+   "conf": 0.3,
+   "bbox": [
+    0.24419,
+    0.73828,
+    0.85465,
+    0.75586
+   ]
+  },
+  {
+   "text": "Zicóng shoujĩ kẽyĩ shàng wằng yĩhòu, făngbiàn dàoshì fãngbiàn le, kẽshì zhè",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.75581,
+    0.88178,
+    0.77197
+   ]
+  },
+  {
+   "text": "què ràng women de jùlí biàn dà le.",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.77326,
+    0.53101,
+    0.78779
+   ]
+  },
+  {
+   "text": "Г ЦНІТТВЦНК ВИАВАДТАВВ Д3Т",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.79199,
+    0.87984,
+    0.80814
+   ]
+  },
+  {
+   "text": "#/LFt)Ln xào Yĩgián chi fàn de shíhou yõu shuô yõu xiào, kẽshì xiànzài dàjia",
+   "conf": 0.3,
+   "bbox": [
+    0.26163,
+    0.80811,
+    0.88178,
+    0.82568
+   ]
+  },
+  {
+   "text": "yàome yồng shõuji shàng wăng kàn xinxĩ, yàome yồng shõuji wánr yóuxì.",
+   "conf": 0.3,
+   "bbox": [
+    0.25969,
+    0.82558,
+    0.83333,
+    0.8418
+   ]
+  },
+  {
+   "text": "cóng",
+   "conf": 0.3,
+   "bbox": [
+    0.83838,
+    0.84424,
+    0.87984,
+    0.86047
+   ]
+  },
+  {
+   "text": "mỗu zhăng chéngdù shang lái shuố, wămen què húlüèle rén yũ rén zhì jiăn",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.86182,
+    0.88178,
+    0.87793
+   ]
+  },
+  {
+   "text": "miànduimiàn de jiãoliú.",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.87791,
+    0.4438,
+    0.89258
+   ]
+  },
+  {
+   "text": "1. HM The usage of \"HM\"",
+   "conf": 0.3,
+   "bbox": [
+    0.24195,
+    0.89957,
+    0.47139,
+    0.92067
+   ]
+  },
+  {
+   "text": "2. T 4 The usage of \"TH4\"",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.91992,
+    0.47287,
+    0.9375
+   ]
+  },
+  {
+   "text": "3 ДНПТEЖі The usage of \"MТ|ТЛ L*і\"",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.94041,
+    0.68992,
+    0.95801
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 1.0,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97093,
+    0.99273
+   ]
+  }
+ ]
+}

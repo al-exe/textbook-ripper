@@ -1,0 +1,627 @@
+{
+ "page": 41,
+ "cjk_pass": [
+  {
+   "text": "Unit 2 Talking about Fashion",
+   "conf": 0.5,
+   "bbox": [
+    0.56008,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "提示：",
+   "conf": 0.5,
+   "bbox": [
+    0.11018,
+    0.12303,
+    0.16113,
+    0.14005
+   ]
+  },
+  {
+   "text": "Clues：",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.1439,
+    0.15891,
+    0.15698
+   ]
+  },
+  {
+   "text": "美善最喜欢短发，因为短发既干练又时尚。她最喜欢黑色的",
+   "conf": 1.0,
+   "bbox": [
+    0.25,
+    0.13663,
+    0.86434,
+    0.15843
+   ]
+  },
+  {
+   "text": "服装，因为黑色很经典不会过时。她皮肤很白，黑色服装也很适",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.1626,
+    0.86434,
+    0.18314
+   ]
+  },
+  {
+   "text": "合她。我的朋友",
+   "conf": 1.0,
+   "bbox": [
+    0.20349,
+    0.1875,
+    0.36822,
+    0.20801
+   ]
+  },
+  {
+   "text": "最喜欢",
+   "conf": 1.0,
+   "bbox": [
+    0.55426,
+    0.1875,
+    0.63372,
+    0.20508
+   ]
+  },
+  {
+   "text": "，因",
+   "conf": 0.3,
+   "bbox": [
+    0.81589,
+    0.18895,
+    0.8624,
+    0.20801
+   ]
+  },
+  {
+   "text": "为",
+   "conf": 1.0,
+   "bbox": [
+    0.20736,
+    0.21221,
+    0.2345,
+    0.22965
+   ]
+  },
+  {
+   "text": "_，她最喜欢",
+   "conf": 0.5,
+   "bbox": [
+    0.38178,
+    0.21366,
+    0.50581,
+    0.23256
+   ]
+  },
+  {
+   "text": "Meishan zui xihuan dudn fd, yinwei dudn fa j ganlidn you shishdng. Ta zui xihuan",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.25872,
+    0.86434,
+    0.2749
+   ]
+  },
+  {
+   "text": "heise de fuzhuang, yinwei heise hen jingdian bu hui guo shi. Ta pifu hen bdi, heise",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.28174,
+    0.86434,
+    0.29797
+   ]
+  },
+  {
+   "text": "fuzhuang ye hen shihe to. Wo de pengyou",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.30371,
+    0.52132,
+    0.31982
+   ]
+  },
+  {
+   "text": "zui xihuan",
+   "conf": 0.5,
+   "bbox": [
+    0.64525,
+    0.30341,
+    0.7249,
+    0.31578
+   ]
+  },
+  {
+   "text": "Yinwei",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.32703,
+    0.25581,
+    0.3418
+   ]
+  },
+  {
+   "text": "_，ta zul xihuan",
+   "conf": 0.3,
+   "bbox": [
+    0.36822,
+    0.32703,
+    0.48062,
+    0.34326
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.43169,
+    0.13566,
+    0.44622
+   ]
+  },
+  {
+   "text": "时尚达人",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.42725,
+    0.25,
+    0.44629
+   ]
+  },
+  {
+   "text": "Fashionista",
+   "conf": 1.0,
+   "bbox": [
+    0.25775,
+    0.43164,
+    0.36434,
+    0.44482
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17048,
+    0.4693,
+    0.25394,
+    0.4871
+   ]
+  },
+  {
+   "text": "在组内选择一名模特，根据他/她的特点、喜好，结合流行趋势给他/",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.46924,
+    0.89341,
+    0.48837
+   ]
+  },
+  {
+   "text": "她进行包装。在讨论时尽可能多地运用所学语法和相关词汇。设计完",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.49121,
+    0.89147,
+    0.51172
+   ]
+  },
+  {
+   "text": "后，一起完成报告。",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.51599,
+    0.44961,
+    0.53343
+   ]
+  },
+  {
+   "text": "Group work: Choose a model from your group, and dress him/her up according to his/her",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.54346,
+    0.89147,
+    0.55814
+   ]
+  },
+  {
+   "text": "characteristics and preferences in combination with the fashion trend. Try to use",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.56395,
+    0.89147,
+    0.57715
+   ]
+  },
+  {
+   "text": "the grammar and relevant vocabularies you have learned in your discussion. Then",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.58285,
+    0.88953,
+    0.59738
+   ]
+  },
+  {
+   "text": "complete the report together.",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.60449,
+    0.48837,
+    0.61773
+   ]
+  },
+  {
+   "text": "班级活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17049,
+    0.65247,
+    0.25393,
+    0.6702
+   ]
+  },
+  {
+   "text": "每个小组的模特逐一上场，先由模特自己介绍自己喜欢的发型和服",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.65262,
+    0.89147,
+    0.67151
+   ]
+  },
+  {
+   "text": "装，然后由其他组员介绍设计的理念和缘由。最后评选出同学们觉得",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.67432,
+    0.88953,
+    0.69482
+   ]
+  },
+  {
+   "text": "设计最成功的一组。",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.69913,
+    0.44961,
+    0.7168
+   ]
+  },
+  {
+   "text": "Class work: The models in each group enter the stage one by one. Firstly, the model introduces",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.72656,
+    0.89147,
+    0.74128
+   ]
+  },
+  {
+   "text": "his/her favorite hairstyles and clothes, and other members in the group present the",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.74707,
+    0.89147,
+    0.76172
+   ]
+  },
+  {
+   "text": "idea and reason for the design. Finally, the students will choose the most successful",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.76744,
+    0.89147,
+    0.78198
+   ]
+  },
+  {
+   "text": "design.",
+   "conf": 1.0,
+   "bbox": [
+    0.27708,
+    0.78768,
+    0.33144,
+    0.80098
+   ]
+  },
+  {
+   "text": "25",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 2 Talking about Fashion",
+   "conf": 1.0,
+   "bbox": [
+    0.56008,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "Clues:",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.1439,
+    0.15891,
+    0.15698
+   ]
+  },
+  {
+   "text": "пАжжеж",
+   "conf": 0.3,
+   "bbox": [
+    0.69043,
+    0.13663,
+    0.86434,
+    0.15843
+   ]
+  },
+  {
+   "text": "Д# нжк, коАНвіє",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.1626,
+    0.86434,
+    0.18314
+   ]
+  },
+  {
+   "text": "Ato Húnt",
+   "conf": 0.3,
+   "bbox": [
+    0.20349,
+    0.1875,
+    0.36822,
+    0.20801
+   ]
+  },
+  {
+   "text": "F$-xk",
+   "conf": 0.3,
+   "bbox": [
+    0.55426,
+    0.1875,
+    0.63372,
+    0.20494
+   ]
+  },
+  {
+   "text": "→ tк ж щхк",
+   "conf": 0.3,
+   "bbox": [
+    0.38178,
+    0.21366,
+    0.50581,
+    0.23256
+   ]
+  },
+  {
+   "text": "Mẽishàn zuì xihuan duăn fà, yĩnwèi duăn fà jì gànliàn yàu shíshàng. T zui xĩhuan",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.25872,
+    0.86434,
+    0.2749
+   ]
+  },
+  {
+   "text": "hẽisè de fúzhuãng, yinwèi hẽisè hèn jĩngdiăn bú hui guò shí. Tã pífũ hẽn bái, hẽisè",
+   "conf": 0.3,
+   "bbox": [
+    0.20349,
+    0.28174,
+    0.86434,
+    0.29797
+   ]
+  },
+  {
+   "text": "fúzhuãng yẽ hẽn shìhé tã. Wõ de péngyou",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.30371,
+    0.52132,
+    0.31982
+   ]
+  },
+  {
+   "text": "zui xĩhuan",
+   "conf": 0.5,
+   "bbox": [
+    0.64525,
+    0.30341,
+    0.7249,
+    0.31578
+   ]
+  },
+  {
+   "text": "yinwei",
+   "conf": 1.0,
+   "bbox": [
+    0.20155,
+    0.32703,
+    0.25581,
+    0.34157
+   ]
+  },
+  {
+   "text": "_, tã zui xihuan",
+   "conf": 0.3,
+   "bbox": [
+    0.36822,
+    0.32703,
+    0.48062,
+    0.34326
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.43169,
+    0.13566,
+    0.44622
+   ]
+  },
+  {
+   "text": "Fashionista",
+   "conf": 1.0,
+   "bbox": [
+    0.25775,
+    0.43169,
+    0.36434,
+    0.44477
+   ]
+  },
+  {
+   "text": "MДтАSШЕЛОТТИХИРС. ВИSО",
+   "conf": 0.3,
+   "bbox": [
+    0.3916,
+    0.49121,
+    0.89147,
+    0.51172
+   ]
+  },
+  {
+   "text": "Group work: Choose a model from your group, and dress him/her up according to his/her",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.54346,
+    0.89147,
+    0.55814
+   ]
+  },
+  {
+   "text": "characteristics and preferences in combination with the fashion trend. Try to use",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.56395,
+    0.89147,
+    0.57715
+   ]
+  },
+  {
+   "text": "the grammar and relevant vocabularies you have learned in your discussion. Then",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.58285,
+    0.88953,
+    0.59738
+   ]
+  },
+  {
+   "text": "complete the report together.",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.60449,
+    0.48837,
+    0.61773
+   ]
+  },
+  {
+   "text": "#, МЛИИИВЛДКИЖТАТКИ КЛИАИН1И",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.67432,
+    0.88953,
+    0.69482
+   ]
+  },
+  {
+   "text": "Class work: The models in each group enter the stage one by one. Firstly, the model introduces",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.72656,
+    0.89147,
+    0.74128
+   ]
+  },
+  {
+   "text": "his/her favorite hairstyles and clothes, and other members in the group present the",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.74707,
+    0.89147,
+    0.76172
+   ]
+  },
+  {
+   "text": "idea and reason for the design. Finally, the students will choose the most successful",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.76744,
+    0.89147,
+    0.78198
+   ]
+  },
+  {
+   "text": "design.",
+   "conf": 1.0,
+   "bbox": [
+    0.27708,
+    0.78768,
+    0.33144,
+    0.80098
+   ]
+  },
+  {
+   "text": "25",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  }
+ ]
+}

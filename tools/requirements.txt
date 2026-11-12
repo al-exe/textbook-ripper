@@ -1,0 +1,6 @@
+pymupdf
+pyobjc-framework-Vision
+pyobjc-framework-Quartz
+pypinyin
+jieba
+markdown-it-py

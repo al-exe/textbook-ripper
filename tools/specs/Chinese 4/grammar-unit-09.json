@@ -1,0 +1,129 @@
+{
+  "book": "Chinese 4",
+  "unit": 9,
+  "kind": "grammar",
+  "title": {"zh": "地理", "py": "Dìlǐ", "en": "Geography"},
+  "source": "PDF pp. 141, 147–149, 153–155 (printed pp. 127, 133–135, 139–141)",
+  "intro": "This unit is about geography — area, population and what places are famous for (using Xinjiang as the example). Grammar: (1) saying fractions and percentages (三分之二, 百分之六十); (2) 凡是……都…… “every… / all…”; (3) double negatives (没有不……, 不……不行) for strong positives. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "它的面积有166万平方公里，相当于意大利的五倍多。", "py": "Tā de miànjī yǒu yì bǎi liùshíliù wàn píngfāng gōnglǐ, xiāngdāng yú Yìdàlì de wǔ bèi duō.", "en": "Its area is 1.66 million square kilometres — more than five times the size of Italy."},
+    {"zh": "新疆的少数民族占人口总数的60%。", "py": "Xīnjiāng de shǎoshù mínzú zhàn rénkǒu zǒngshù de bǎi fēn zhī liùshí.", "en": "Ethnic minorities make up 60% of Xinjiang's population."},
+    {"zh": "新疆有“瓜果之乡”之称，葡萄、西瓜都好吃得不得了。", "py": "Xīnjiāng yǒu “guāguǒ zhī xiāng” zhī chēng, pútao, xīguā dōu hǎochī de bùdéliǎo.", "en": "Xinjiang is known as “the home of melons and fruit” — its grapes and watermelons are incredibly delicious."},
+    {"zh": "凡是去过新疆的人，没有不提到“吃”的。", "py": "Fánshì qùguo Xīnjiāng de rén, méiyǒu bù tídào “chī” de.", "en": "Everyone who has been to Xinjiang mentions the food."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "分数的表达", "py": "fēnshù de biǎodá", "en": "Saying fractions"},
+      "body": [
+        {"type": "pattern", "zh": "分母 + 分之 + 分子", "py": "fēnmǔ + fēn zhī + fēnzǐ", "en": "denominator (bottom) + 分之 + numerator (top) — the bottom number comes first!"},
+        {"type": "example", "zh": "1/2：二分之一", "py": "èr fēn zhī yī", "en": "one half"},
+        {"type": "example", "zh": "2/3：三分之二", "py": "sān fēn zhī èr", "en": "two thirds"},
+        {"type": "example", "zh": "1%：百分之一", "py": "bǎi fēn zhī yī", "en": "one percent"},
+        {"type": "example", "zh": "60%：百分之六十", "py": "bǎi fēn zhī liùshí", "en": "sixty percent"},
+        {"type": "note", "en": "“A makes up … of B” = A 占 B 的 …: 新疆的少数民族占人口总数的百分之六十. ✓ 百分之九十以上 (over 90%), ✗ 九十百分之; ✓ 三分之二 (2/3), ✗ 二分之三 (that's 3/2)."}
+      ]
+    },
+    {
+      "title": {"zh": "凡是", "py": "fánshì", "en": "The usage of 凡是"},
+      "body": [
+        {"type": "text", "zh": "副词“凡是”有“所有”的意思，表示在某个范围中无一例外。在“凡是……，（都）……”结构中，“凡是”的后边一般是名词短语。例如：", "en": "The adverb “凡是” means “all / every”: there's no exception within a certain range. In “凡是……，（都）……”, what follows 凡是 is usually a noun phrase, e.g.,"},
+        {"type": "pattern", "zh": "凡是 + 名词短语（……的人／……的事），都 + ……", "py": "fánshì + míngcí duǎnyǔ (…… de rén / …… de shì), dōu + ……", "en": "every + (noun phrase, usually ending in 的 + noun), 都 + …"},
+        {"type": "example", "zh": "凡是认识她的人，都说她漂亮。", "py": "Fánshì rènshi tā de rén, dōu shuō tā piàoliang.", "en": "Everyone who knows her says she's beautiful."},
+        {"type": "example", "zh": "凡是应该做的事，都要努力做好。", "py": "Fánshì yīnggāi zuò de shì, dōu yào nǔlì zuòhǎo.", "en": "Everything that should be done must be done well."},
+        {"type": "note", "en": "After 凡是 you need a noun phrase, so keep the 的 + noun: ✓ 凡是他写的书 / ✓ 凡是去过那儿的人. ✗ 凡是他写书 / ✗ 凡是去过那儿，…"}
+      ]
+    },
+    {
+      "title": {"zh": "双重否定", "py": "shuāngchóng fǒudìng", "en": "Double negation"},
+      "body": [
+        {"type": "text", "zh": "双重否定表示肯定，有时表示强调。常见的形式有“没有不……”“没有……不……”“没有……没有……”“不……不……”等。例如：", "en": "A double negative expresses a positive, sometimes with emphasis. Common forms: “没有不……”, “没有……不……”, “没有……没有……”, “不……不……”, e.g.,"},
+        {"type": "example", "zh": "那个电影非常有名，没有人不知道。", "py": "Nàge diànyǐng fēicháng yǒumíng, méiyǒu rén bù zhīdào.", "en": "That film is very famous — there's no one who doesn't know it."},
+        {"type": "example", "zh": "凡是听过她的歌的人，没有不喜欢的。", "py": "Fánshì tīngguo tā de gē de rén, méiyǒu bù xǐhuan de.", "en": "Everyone who's heard her songs loves them."},
+        {"type": "pattern", "zh": "A. ……没有不……的　B. 没有……不……　C. 没有／不……就没有／不……　D. 不……不行", "py": "A. …… méiyǒu bù…… de · B. méiyǒu…… bù…… · C. méiyǒu / bù…… jiù méiyǒu / bù…… · D. bù…… bùxíng", "en": "A. none who don't… · B. there's no… that doesn't… · C. without… you can't… · D. you must… (not … won't do)"},
+        {"type": "example", "zh": "这个歌没有不会唱的。", "py": "Zhège gē méiyǒu bú huì chàng de.", "en": "Everyone can sing this song. (A)"},
+        {"type": "example", "zh": "成龙非常有名，在中国没有人不知道他。", "py": "Chéng Lóng fēicháng yǒumíng, zài Zhōngguó méiyǒu rén bù zhīdào tā.", "en": "Jackie Chan is very famous — everyone in China knows him. (B)"},
+        {"type": "example", "zh": "没有护照就不能出国。", "py": "Méiyǒu hùzhào jiù bù néng chū guó.", "en": "Without a passport you can't go abroad. (C)"},
+        {"type": "example", "zh": "想获得冠军，不努力不行。", "py": "Xiǎng huòdé guànjūn, bù nǔlì bùxíng.", "en": "If you want to win, you have to work hard. (D)"},
+        {"type": "note", "en": "Both negatives are needed for the positive meaning: ✓ 还没有不喜欢她做的菜的 (everyone likes it). Dropping one (✗ 还没有喜欢她做的菜的) means nobody likes it."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "占多大比例？", "py": "Zhàn duō dà bǐlì?", "en": "What percentage does it account for?"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "模仿例句，根据所给信息问答。", "en": "Ask and answer using the information, following the example."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "新疆的少数民族占人口总数的多大比例？", "py": "Xīnjiāng de shǎoshù mínzú zhàn rénkǒu zǒngshù de duō dà bǐlì?", "en": "What proportion of Xinjiang's population are ethnic minorities?"},
+          {"speaker": "B", "zh": "新疆的少数民族占人口总数的60%。", "py": "Xīnjiāng de shǎoshù mínzú zhàn rénkǒu zǒngshù de bǎi fēn zhī liùshí.", "en": "Ethnic minorities make up 60% of the population."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "新疆面积：166万平方公里　中国面积：960万平方公里", "py": "Xīnjiāng miànjī: yì bǎi liùshíliù wàn píngfāng gōnglǐ · Zhōngguó miànjī: jiǔ bǎi liùshí wàn píngfāng gōnglǐ", "en": "Area of Xinjiang: 1.66 million km² · Area of China: 9.6 million km²"},
+         "answer": [{"zh": "新疆的面积大约占中国面积的六分之一。", "py": "Xīnjiāng de miànjī dàyuē zhàn Zhōngguó miànjī de liù fēn zhī yī.", "en": "Xinjiang is about one sixth of China's area (≈17%)."}]},
+        {"prompt": {"zh": "中国人口：13.6亿　世界人口：72.2亿（2014年）", "py": "Zhōngguó rénkǒu: shísān diǎn liù yì · shìjiè rénkǒu: qīshí'èr diǎn èr yì (èr líng yī sì nián)", "en": "Population of China: 1.36 billion · World: 7.22 billion (2014)"},
+         "answer": [{"zh": "中国人口大约占世界人口的五分之一。", "py": "Zhōngguó rénkǒu dàyuē zhàn shìjiè rénkǒu de wǔ fēn zhī yī.", "en": "China has about one fifth of the world's population (≈19%)."}]},
+        {"prompt": {"zh": "维吾尔族人口：1000万　新疆人口总数：2200万（2014年）", "py": "Wéiwú'ěrzú rénkǒu: yì qiān wàn · Xīnjiāng rénkǒu zǒngshù: liǎng qiān èr bǎi wàn (èr líng yī sì nián)", "en": "Uyghur population: 10 million · Total population of Xinjiang: 22 million (2014)"},
+         "answer": [{"zh": "维吾尔族人口大约占新疆人口总数的百分之四十五。", "py": "Wéiwú'ěrzú rénkǒu dàyuē zhàn Xīnjiāng rénkǒu zǒngshù de bǎi fēn zhī sìshíwǔ.", "en": "Uyghurs make up about 45% of Xinjiang's population."}]},
+        {"prompt": {"zh": "选择你感兴趣的问题在班里展开调查，然后汇报你的调查结果。", "en": "Class activity: survey classmates (e.g. 见过草原 seen grassland / 去过沙漠 been to a desert / 参加过环保活动 joined an environmental activity / 对历史感兴趣 interested in history) and report the ratio. Book's example: 我调查了8位同学，爱吃葡萄的占3/4。"},
+         "answer": [{"zh": "我调查了8位同学，爱吃葡萄的占四分之三。", "py": "Wǒ diàochále bā wèi tóngxué, ài chī pútao de zhàn sì fēn zhī sān.", "en": "I surveyed 8 classmates; three quarters love grapes. (book's example)"},
+                    {"zh": "我调查了10位同学，去过沙漠的占十分之三。", "py": "Wǒ diàochále shí wèi tóngxué, qùguo shāmò de zhàn shí fēn zhī sān.", "en": "I surveyed 10 classmates; three tenths have been to a desert. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "无一例外", "py": "Wú yī lìwài", "en": "Without exception"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "先用“凡是”描述下列各图，然后根据实际情况完成句子。", "en": "Describe each picture with “凡是”, then complete the sentences about yourself."},
+      "body": [
+        {"type": "example", "zh": "凡是去过新疆的人，都说那儿风景美得不得了。", "py": "Fánshì qùguo Xīnjiāng de rén, dōu shuō nàr fēngjǐng měi de bùdéliǎo.", "en": "Everyone who's been to Xinjiang says the scenery is stunning."}
+      ],
+      "items": [
+        {"picture": "A packed rock concert with stage lights and a cheering crowd.", "answer": [{"zh": "凡是去过那个演唱会的人，都说太精彩了。", "py": "Fánshì qùguo nàge yǎnchànghuì de rén, dōu shuō tài jīngcǎi le.", "en": "Everyone who went to that concert says it was fantastic. (model answer)"}]},
+        {"picture": "A circle of laughing friends cheering together.", "answer": [{"zh": "凡是参加聚会的人，都玩儿得很开心。", "py": "Fánshì cānjiā jùhuì de rén, dōu wánr de hěn kāixīn.", "en": "Everyone at the party had a great time. (model answer)"}]},
+        {"picture": "A basket overflowing with fresh vegetables and fruit.", "answer": [{"zh": "凡是新鲜的蔬菜水果，我都爱吃。", "en": "I love all fresh fruit and vegetables. (model answer)"}]},
+        {"picture": "People in a cinema watching a film.", "answer": [{"zh": "凡是好看的电影，我都喜欢看。", "en": "I like watching any good film. (model answer)"}]},
+        {"prompt": {"zh": "凡是老师要求大家做的，______。", "py": "Fánshì lǎoshī yāoqiú dàjiā zuò de, ______.", "en": "Everything the teacher asks us to do, …"}, "answer": [{"zh": "凡是老师要求大家做的，我们都要认真做好。", "en": "…we must all do carefully. (model answer)"}]},
+        {"prompt": {"zh": "凡是你不懂的，______。", "py": "Fánshì nǐ bù dǒng de, ______.", "en": "Anything you don't understand, …"}, "answer": [{"zh": "凡是你不懂的，都可以问我。", "en": "…you can ask me about. (model answer)"}]},
+        {"prompt": {"zh": "______，我都喜欢。", "py": "______, wǒ dōu xǐhuan.", "en": "…, I like them all."}, "answer": [{"zh": "凡是中国电影，我都喜欢。", "en": "I like every Chinese film. (model answer)"}]},
+        {"prompt": {"zh": "______，我都爱吃。", "py": "______, wǒ dōu ài chī.", "en": "…, I love eating them all."}, "answer": [{"zh": "凡是辣的菜，我都爱吃。", "py": "Fánshì là de cài, wǒ dōu ài chī.", "en": "I love every spicy dish. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "双重否定", "py": "Shuāngchóng fǒudìng", "en": "Double negative"},
+      "activity": {"zh": "两人活动／小组活动", "py": "liǎng rén huódòng / xiǎozǔ huódòng", "en": "Pair work / Group work"},
+      "instructions": {"zh": "模仿例句造句。你们的朋友暗恋一个漂亮的女孩，请用双重否定句给他一些建议，说得越多越好。", "en": "Make sentences following patterns A–D (see grammar note 3). Then: your friend has a secret crush on a beautiful girl — give him as much advice as you can using double negatives."},
+      "body": [
+        {"type": "example", "zh": "我觉得你可以送她花，没有女孩子不喜欢花。", "py": "Wǒ juéde nǐ kěyǐ sòng tā huā, méiyǒu nǚ háizi bù xǐhuan huā.", "en": "I think you could give her flowers — there's no girl who doesn't like flowers."}
+      ],
+      "items": [
+        {"prompt": {"en": "Pattern A: ……没有不……的"}, "answer": [{"zh": "这家饭馆的菜，我们班的同学没有不喜欢的。", "en": "Everyone in our class loves this restaurant's food. (model answer)"}]},
+        {"prompt": {"en": "Pattern B: 没有……不……"}, "answer": [{"zh": "在我们学校，没有人不认识他。", "en": "Everyone at our school knows him. (model answer)"}]},
+        {"prompt": {"en": "Pattern C: 没有／不……就没有／不……"}, "answer": [{"zh": "不学汉字就不能看中文书。", "py": "Bù xué Hànzì jiù bù néng kàn Zhōngwén shū.", "en": "If you don't learn characters, you can't read Chinese books. (model answer)"}]},
+        {"prompt": {"en": "Pattern D: 不……不行"}, "answer": [{"zh": "明天要考试，今天不复习不行。", "en": "There's an exam tomorrow — I have to revise today. (model answer)"}]},
+        {"prompt": {"en": "Advice for your friend with a crush"}, "answer": [{"zh": "你得告诉她，不说不行。没有女孩子不喜欢真心的人。", "py": "Nǐ děi gàosu tā, bù shuō bùxíng. Méiyǒu nǚ háizi bù xǐhuan zhēnxīn de rén.", "en": "You've got to tell her — not saying anything won't do. There's no girl who doesn't like someone sincere. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "中国百分之九十以上是汉族人。", "py": "Zhōngguó bǎi fēn zhī jiǔshí yǐshàng shì Hànzú rén."}, {"zh": "中国九十百分之以上是汉族人。", "py": "Zhōngguó jiǔshí bǎi fēn zhī yǐshàng shì Hànzú rén."}],
+       "answer": 0, "explain": "Percent = 百分之 + number. (grammar note 1)"},
+      {"options": [{"zh": "凡是他写书，我都看过。", "py": "Fánshì tā xiě shū, wǒ dōu kànguo."}, {"zh": "凡是他写的书，我都看过。", "py": "Fánshì tā xiě de shū, wǒ dōu kànguo."}],
+       "answer": 1, "explain": "凡是 needs a noun phrase: 他写的书. (grammar note 2)"},
+      {"options": [{"zh": "我们班女同学占三分之二。", "py": "Wǒmen bān nǚ tóngxué zhàn sān fēn zhī èr."}, {"zh": "我们班女同学占二分之三。", "py": "Wǒmen bān nǚ tóngxué zhàn èr fēn zhī sān."}],
+       "answer": 0, "explain": "Denominator first: 三分之二 = 2/3. (grammar note 1)"},
+      {"options": [{"zh": "凡是去过那儿的人，都说那儿的风景很美。", "py": "Fánshì qùguo nàr de rén, dōu shuō nàr de fēngjǐng hěn měi."}, {"zh": "凡是去过那儿，都说那儿的风景很美。", "py": "Fánshì qùguo nàr, dōu shuō nàr de fēngjǐng hěn měi."}],
+       "answer": 0, "explain": "凡是 + noun phrase (……的人). (grammar note 2)"},
+      {"question": {"zh": "她做菜做得真好！", "py": "Tā zuò cài zuò de zhēn hǎo!", "en": "She cooks really well!"},
+       "options": [{"zh": "是啊。我认识的人里，还没有不喜欢她做的菜的。", "py": "Shì a. Wǒ rènshi de rén li, hái méiyǒu bù xǐhuan tā zuò de cài de."}, {"zh": "是啊。我认识的人里，还没有喜欢她做的菜的。", "py": "Shì a. Wǒ rènshi de rén li, hái méiyǒu xǐhuan tā zuò de cài de."}],
+       "answer": 0, "explain": "Agreeing needs a positive meaning: two negatives (没有不喜欢) = everyone likes it. (grammar note 3)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — review double negatives (note 3). Missed Q1 or Q3 — review fractions (note 1). Missed Q2 or Q4 — review 凡是 (note 2)."
+  }
+}

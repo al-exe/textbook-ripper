@@ -1,0 +1,124 @@
+{
+  "book": "Chinese 3",
+  "unit": 6,
+  "kind": "grammar",
+  "title": {"zh": "谈购物", "py": "Tán gòuwù", "en": "Talking about Shopping"},
+  "source": "PDF pp. 99, 106–107, 111–112, 114–115 (printed pp. 83, 90–91, 95–96, 98–99)",
+  "intro": "This unit is about where and how to shop. Grammar: (1) 虽然……，但是…… “although…, (but)…” and how 不过 differs from 但是; (2) A 不如 B “A is not as good as B”; (3) making suggestions with ……，好吗？ / 怎么样？ / 行吗？. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "买衣服、鞋什么的，应该去哪儿啊？", "py": "Mǎi yīfu, xié shénmede, yīnggāi qù nǎr a?", "en": "Where should you go to buy clothes, shoes and things like that?"},
+    {"zh": "（去服装市场）虽然东西便宜得多，但是质量可能不如商场的好。", "py": "(Qù fúzhuāng shìchǎng) suīrán dōngxi piányi de duō, dànshì zhìliàng kěnéng bùrú shāngchǎng de hǎo.", "en": "(At a clothing market) although things are much cheaper, the quality may not be as good as in a department store."},
+    {"zh": "星期天你陪我逛雅秀市场，怎么样？", "py": "Xīngqītiān nǐ péi wǒ guàng Yǎxiù shìchǎng, zěnmeyàng?", "en": "How about you come with me to Yaxiu Market on Sunday?"}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "转折复句：虽然……，但是……", "py": "zhuǎnzhé fùjù: suīrán……, dànshì……", "en": "Transitional compound sentence: 虽然……，但是……"},
+      "body": [
+        {"type": "text", "zh": "“虽然……但是……”构成表示转折关系的复句。“虽然”用于第一个分句，既可以在主语前，也可以在主语后。“但是”应该在第二分句句首。例如：", "py": "“Suīrán…… dànshì……” gòuchéng biǎoshì zhuǎnzhé guānxi de fùjù. “Suīrán” yòngyú dì-yī ge fēnjù, jì kěyǐ zài zhǔyǔ qián, yě kěyǐ zài zhǔyǔ hòu. “Dànshì” yīnggāi zài dì-èr fēnjù jùshǒu. Lìrú:", "en": "“虽然……但是……” forms a transitional compound sentence. “虽然” is used in the first clause, either before or after the subject, and “但是” must be at the beginning of the second clause, e.g.,"},
+        {"type": "pattern", "zh": "（主语）虽然……，但是 + 第二分句", "py": "(zhǔyǔ) suīrán……, dànshì + dì-èr fēnjù", "en": "(subject) although…, but + second clause — 但是 always starts the second clause"},
+        {"type": "example", "zh": "虽然我们很累，但是我们都很高兴。", "py": "Suīrán wǒmen hěn lèi, dànshì wǒmen dōu hěn gāoxìng.", "en": "Although we're tired, we're all very happy."},
+        {"type": "text", "zh": "“不过”和“但是”都是表示转折语气的连词，用在后半句。二者不同之处在于，“不过”只表示轻微的转折，没有“但是”转折的语气强烈；“不过”多用于口语。例如：", "en": "“不过” and “但是” are both conjunctions used in the second clause to indicate a turn. The difference: “不过” shows only a slight turn and is weaker than “但是”; “不过” is mostly used in spoken Chinese, e.g.,"},
+        {"type": "example", "zh": "那个手机很漂亮，不过有点儿贵。", "py": "Nàge shǒujī hěn piàoliang, búguò yǒudiǎnr guì.", "en": "That phone is very nice, though it's a bit expensive."},
+        {"type": "example", "zh": "我很想去，但是没有时间。", "py": "Wǒ hěn xiǎng qù, dànshì méiyǒu shíjiān.", "en": "I'd really like to go, but I don't have time."},
+        {"type": "note", "en": "✓ 虽然这个电视比较贵，但是质量非常好. ✗ …，质量但是非常好 — 但是 can't come after the subject of the second clause."}
+      ]
+    },
+    {
+      "title": {"zh": "“不如”表示比较", "py": "“bùrú” biǎoshì bǐjiào", "en": "不如 indicating comparison"},
+      "body": [
+        {"type": "text", "zh": "“A不如B”的意思是“A没有B好”。例如：", "en": "“A不如B” means “A is not as good as B”, e.g.,"},
+        {"type": "example", "zh": "这本书不如那本书。", "py": "Zhè běn shū bùrú nà běn shū.", "en": "This book isn't as good as that one."},
+        {"type": "text", "zh": "“不如”后边一般是表示积极意义的词语。例如：", "en": "“不如” is generally followed by words with a positive meaning, e.g.,"},
+        {"type": "example", "zh": "他不如哥哥高。", "py": "Tā bùrú gēge gāo.", "en": "He isn't as tall as his elder brother."},
+        {"type": "text", "zh": "“A不如B+形容词”中形容词前没有副词。例如：", "en": "In “A不如B + adjective”, the adjective is not preceded by an adverb, e.g.,"},
+        {"type": "example", "zh": "这个手机质量不如那个好。", "py": "Zhège shǒujī zhìliàng bùrú nàge hǎo.", "en": "The quality of this phone isn't as good as that one's."},
+        {"type": "pattern", "zh": "A + 不如 + B + （积极的形容词）", "py": "A + bùrú + B + (jījí de xíngróngcí)", "en": "A is not as (good/big/many…) as B — positive adjective, no 很"},
+        {"type": "note", "en": "✓ 商店的东西不如市场的多 (not as many) — ✗ 不如市场的少. ✓ 不如水果好吃 — ✗ 不如水果很好吃."}
+      ]
+    },
+    {
+      "title": {"zh": "用“好吗”“怎么样”“行吗”的疑问句", "py": "yòng “hǎo ma” “zěnmeyàng” “xíng ma” de yíwènjù", "en": "Questions with 好吗, 怎么样 and 行吗"},
+      "body": [
+        {"type": "text", "zh": "在提出建议征询对方的意见时，可以使用“好吗”“怎么样”“行吗”提问。问句的前一部分是陈述句。例如：", "en": "When making a suggestion and asking for the other person's opinion, add “好吗”, “怎么样” or “行吗” after a statement, e.g.,"},
+        {"type": "pattern", "zh": "陈述句（建议），+ 好吗？／怎么样？／行吗？", "py": "chénshùjù (jiànyì), + hǎo ma? / zěnmeyàng? / xíng ma?", "en": "suggestion, + OK? / how about it? / is that alright?"},
+        {"type": "example", "zh": "我们喝茶，好吗？", "py": "Wǒmen hē chá, hǎo ma?", "en": "Let's have some tea, OK?"},
+        {"type": "example", "zh": "星期天你陪我逛雅秀市场，怎么样？", "py": "Xīngqītiān nǐ péi wǒ guàng Yǎxiù shìchǎng, zěnmeyàng?", "en": "How about you come with me to Yaxiu Market on Sunday?"},
+        {"type": "example", "zh": "我明天去，行吗？", "py": "Wǒ míngtiān qù, xíng ma?", "en": "Is it alright if I go tomorrow?"},
+        {"type": "text", "zh": "表示同意时可以用“好”“行”回答。", "en": "Reply with “好” or “行” to show agreement."},
+        {"type": "note", "en": "These ask for agreement, so answer with agreement or refusal (好啊 / 行 / 不行，我…), not with a description: ✗ 雅秀市场很好."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "宜居城市", "py": "Yíjū chéngshì", "en": "Livable cities"},
+      "activity": {"zh": "单人活动", "py": "dān rén huódòng", "en": "Individual work"},
+      "instructions": {"zh": "比较北京和你的家乡（或者别的地方）有什么不同，哪个地方更适合居住。请用“不如”进行介绍，说得越多越好。", "en": "Compare Beijing and your hometown (or another place): how are they different, and which is more livable? Use “不如”, and say as much as you can."},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "大，多，干净，漂亮，热，冷，高楼大厦，出租车，公共汽车，自行车，超市，商场，名胜古迹……", "py": "dà, duō, gānjìng, piàoliang, rè, lěng, gāolóu dàshà, chūzūchē, gōnggòng qìchē, zìxíngchē, chāoshì, shāngchǎng, míngshèng gǔjì……", "en": "Useful words: big, many, clean, beautiful, hot, cold, high-rises, taxis, buses, bicycles, supermarkets, malls, historic sites…"}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"en": "Size / number of tall buildings"}, "answer": [{"zh": "我的家乡不如北京大，高楼大厦也不如北京多。", "en": "My hometown isn't as big as Beijing, and it doesn't have as many high-rises. (model answer)"}]},
+        {"prompt": {"en": "Transport"}, "answer": [{"zh": "我们那儿的公共汽车不如北京的多，不过骑自行车很方便。", "en": "There aren't as many buses where I'm from as in Beijing, but cycling is convenient. (model answer)"}]},
+        {"prompt": {"en": "Weather / environment — and your conclusion"}, "answer": [{"zh": "北京冬天很冷，空气也不如我的家乡干净。我觉得我的家乡更适合居住。", "en": "Beijing is very cold in winter, and the air isn't as clean as in my hometown. I think my hometown is more livable. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "联欢筹备会", "py": "Liánhuān chóubèi huì", "en": "Preparing for a party"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "班里要举办一次联欢活动，商量一下具体的活动细节。请用“……，好吗？”“……，怎么样？”“……，行吗？”尽量多地进行提议。并向全班表演你们组的讨论过程。", "en": "Your class is going to have a party. Discuss the details, making as many suggestions as possible with “……，好吗？”, “……，怎么样？” and “……，行吗？”. Then act out your group's discussion for the class."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "我们去爬山，怎么样？", "py": "Wǒmen qù pá shān, zěnmeyàng?", "en": "How about we go hiking?"},
+          {"speaker": "B", "zh": "晚上一起去唱卡拉OK，好吗？", "py": "Wǎnshang yìqǐ qù chàng kǎlā OK, hǎo ma?", "en": "Let's go to karaoke together in the evening, OK?"}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"en": "Suggest a day for the party."}, "answer": [{"zh": "我们星期六晚上开联欢会，怎么样？", "en": "How about we have the party on Saturday evening? (model answer)"}]},
+        {"prompt": {"en": "Suggest a place."}, "answer": [{"zh": "在教室里开，好吗？", "en": "Let's have it in the classroom, OK? (model answer)"}]},
+        {"prompt": {"en": "Offer to bring something."}, "answer": [{"zh": "我带水果和饮料，行吗？", "en": "I'll bring fruit and drinks — is that alright? (model answer)"}]},
+        {"prompt": {"en": "Agree / disagree with a suggestion."}, "answer": [{"zh": "好啊！／行，没问题。／不行，星期六我有事。", "en": "Great! / Sure, no problem. / No good — I'm busy on Saturday. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "仁者见仁，智者见智", "py": "Rénzhě jiàn rén, zhìzhě jiàn zhì", "en": "The benevolent see benevolence and the wise see wisdom"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一位同学根据图片谈论自己的印象，另一位同学用“虽然……但是……”发表不同的见解。", "en": "One student says what he/she thinks of each picture; the partner gives a different opinion using “虽然……但是……”."},
+      "items": [
+        {"picture": "A shiny red apple.",
+         "answer": [{"zh": "A：苹果很好吃。B：虽然苹果很好吃，但是我更喜欢吃香蕉。", "en": "A: Apples are tasty. B: Although apples are tasty, I prefer bananas. (model answer)"}]},
+        {"picture": "Someone practising Chinese calligraphy with a brush.",
+         "answer": [{"zh": "A：写毛笔字很有意思。B：虽然很有意思，但是太难了。", "en": "A: Brush calligraphy is fun. B: Although it's fun, it's too hard. (model answer)"}]},
+        {"picture": "A pop-star figure dancing in a black hat and white shirt (a waxwork of a famous singer).",
+         "answer": [{"zh": "A：他跳舞跳得真好。B：虽然他跳得很好，但是我不太喜欢他的歌。", "en": "A: He dances really well. B: Although he dances well, I don't really like his songs. (model answer)"}]},
+        {"picture": "Two people riding bicycles in a green park.",
+         "answer": [{"zh": "A：骑自行车很健康。B：虽然很健康，但是夏天骑车太热了。", "en": "A: Cycling is healthy. B: Although it's healthy, it's too hot to cycle in summer. (model answer)"}]},
+        {"picture": "A bright orange sports car.",
+         "answer": [{"zh": "A：这辆车真漂亮。B：虽然很漂亮，但是太贵了。", "en": "A: This car is gorgeous. B: Although it's gorgeous, it's far too expensive. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "商店的东西不如市场的多。", "py": "Shāngdiàn de dōngxi bùrú shìchǎng de duō."}, {"zh": "商店的东西不如市场的少。", "py": "Shāngdiàn de dōngxi bùrú shìchǎng de shǎo."}],
+       "answer": 0, "explain": "不如 is normally followed by a positive-meaning word (多, 好, 大…). (grammar note 2)"},
+      {"options": [{"zh": "虽然这个电视比较贵，但是质量非常好。", "py": "Suīrán zhège diànshì bǐjiào guì, dànshì zhìliàng fēicháng hǎo."}, {"zh": "虽然这个电视比较贵，质量但是非常好。", "py": "Suīrán zhège diànshì bǐjiào guì, zhìliàng dànshì fēicháng hǎo."}],
+       "answer": 0, "explain": "但是 goes at the very start of the second clause. (grammar note 1)"},
+      {"options": [{"zh": "我觉得蔬菜不如水果好吃。", "py": "Wǒ juéde shūcài bùrú shuǐguǒ hǎochī."}, {"zh": "我觉得蔬菜不如水果很好吃。", "py": "Wǒ juéde shūcài bùrú shuǐguǒ hěn hǎochī."}],
+       "answer": 0, "explain": "No adverb (很) before the adjective in A 不如 B + adjective. (grammar note 2)"},
+      {"options": [{"zh": "那个商场虽然不大，但是东西很多。", "py": "Nàge shāngchǎng suīrán bú dà, dànshì dōngxi hěn duō."}, {"zh": "那个商场虽然不大，东西但是很多。", "py": "Nàge shāngchǎng suīrán bú dà, dōngxi dànshì hěn duō."}],
+       "answer": 0, "explain": "虽然 may follow the subject, but 但是 must start the second clause. (grammar note 1)"},
+      {"question": {"zh": "你陪我去雅秀市场，怎么样？", "py": "Nǐ péi wǒ qù Yǎxiù shìchǎng, zěnmeyàng?", "en": "How about coming with me to Yaxiu Market?"},
+       "options": [{"zh": "雅秀市场很好。", "py": "Yǎxiù shìchǎng hěn hǎo."}, {"zh": "好啊。", "py": "Hǎo a."}],
+       "answer": 1, "explain": "“……，怎么样？” asks for your opinion of a suggestion — answer by agreeing (好啊) or declining. (grammar note 3)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — “……，怎么样？” asks whether you accept a suggestion (note 3). Missed Q1 or Q3 — review 不如 (note 2). Missed Q2 or Q4 — review 虽然……但是…… (note 1)."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "book": "Chinese 4",
+  "unit": 7,
+  "kind": "grammar",
+  "title": {"zh": "谈私家车", "py": "Tán sījiāchē", "en": "Talking about Private Cars"},
+  "source": "PDF pp. 111, 117–118, 121–124 (printed pp. 95, 101–102, 105–108)",
+  "intro": "This unit is about owning a car — costs, traffic, freedom. Grammar: (1) 早知道……，还不如…… “if I'd known…, I'd rather have…” (regret); (2) 想……就…… “do whatever you like”; (3) 反正 “anyway, in any case”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "早知道这样，咱们还不如坐地铁呢。", "py": "Zǎo zhīdào zhèyàng, zánmen hái bùrú zuò dìtiě ne.", "en": "If we'd known it would be like this, we'd have been better off taking the subway."},
+    {"zh": "买辆车，周末的时候咱们想去哪儿玩儿就去哪儿玩儿。", "py": "Mǎi liàng chē, zhōumò de shíhou zánmen xiǎng qù nǎr wánr jiù qù nǎr wánr.", "en": "If we buy a car, at weekends we can go wherever we like."},
+    {"zh": "反正我不想买。", "py": "Fǎnzhèng wǒ bù xiǎng mǎi.", "en": "Anyway, I don't want to buy one."},
+    {"zh": "咱们没有必要非得买车。", "py": "Zánmen méiyǒu bìyào fēiděi mǎi chē.", "en": "There's no need for us to buy a car."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "早知道……，还不如……", "py": "zǎo zhīdào……, hái bùrú……", "en": "The usage of 早知道……，还不如……"},
+      "body": [
+        {"type": "text", "zh": "该句型表示一种虚拟语气，表明说话者很后悔。例如：", "en": "This pattern expresses the subjunctive mood: the speaker deeply regrets something, e.g.,"},
+        {"type": "pattern", "zh": "早知道 + （没想到的情况），（主语）+ 还不如 + （本来应该做的事）", "py": "zǎo zhīdào + (méi xiǎngdào de qíngkuàng), (zhǔyǔ) + hái bùrú + (běnlái yīnggāi zuò de shì)", "en": "if I'd known + (what turned out), (subject) + would rather have + (the better choice)"},
+        {"type": "example", "zh": "早知道这个电影这么没意思，还不如在家睡觉。", "py": "Zǎo zhīdào zhège diànyǐng zhème méi yìsi, hái bùrú zài jiā shuì jiào.", "en": "If I'd known this film was so boring, I'd have stayed home and slept."},
+        {"type": "example", "zh": "早知道这家饭馆的菜这么难吃，咱们还不如去别家。", "py": "Zǎo zhīdào zhè jiā fànguǎn de cài zhème nánchī, zánmen hái bùrú qù bié jiā.", "en": "If we'd known the food here was this bad, we'd have gone somewhere else."},
+        {"type": "note", "en": "早知道 starts the sentence; 还不如 goes right before the better option: ✓ 早知道这个电影这么无聊，还不如在家看电视. ✗ 这个电影早知道…，在家还不如看电视."}
+      ]
+    },
+    {
+      "title": {"zh": "想……就……", "py": "xiǎng…… jiù……", "en": "The usage of 想……就……"},
+      "body": [
+        {"type": "text", "zh": "该句型表示可以随心所欲做某事。例如：", "en": "This pattern means you can do whatever you please, e.g.,"},
+        {"type": "pattern", "zh": "想 + 动词 + 疑问词……就 + 动词 + 同一疑问词……", "py": "xiǎng + dòngcí + yíwèncí…… jiù + dòngcí + tóng yí yíwèncí……", "en": "want to + verb + where/what/how… then + same verb + same question word (= whatever / wherever)"},
+        {"type": "example", "zh": "放假了，你想去哪儿玩儿就去哪儿玩儿。", "py": "Fàng jià le, nǐ xiǎng qù nǎr wánr jiù qù nǎr wánr.", "en": "It's the holidays — go wherever you like."},
+        {"type": "example", "zh": "要想减肥，你不能总是想吃什么就吃什么。", "py": "Yào xiǎng jiǎn féi, nǐ bù néng zǒngshì xiǎng chī shénme jiù chī shénme.", "en": "If you want to lose weight, you can't always eat whatever you feel like."},
+        {"type": "note", "en": "Repeat the same verb and question word on both sides: ✓ 想去哪儿就去哪儿 / ✓ 想怎么去就怎么去. ✗ 想去哪儿就去我去."}
+      ]
+    },
+    {
+      "title": {"zh": "反正", "py": "fǎnzhèng", "en": "The usage of 反正"},
+      "body": [
+        {"type": "text", "zh": "“反正”表示不管在什么条件下，做法、结论不会改变。例如：", "en": "“反正” means that whatever the conditions, the action or conclusion won't change, e.g.,"},
+        {"type": "pattern", "zh": "不管……，反正 + 主语 + 决定／结论", "py": "bùguǎn……, fǎnzhèng + zhǔyǔ + juédìng / jiélùn", "en": "no matter…, anyway + subject + (decision that won't change)"},
+        {"type": "example", "zh": "不管你们怎么说，反正我不同意。", "py": "Bùguǎn nǐmen zěnme shuō, fǎnzhèng wǒ bù tóngyì.", "en": "Whatever you say, I don't agree anyway."},
+        {"type": "example", "zh": "不管刮风还是下雨，反正我要去。", "py": "Bùguǎn guā fēng háishi xià yǔ, fǎnzhèng wǒ yào qù.", "en": "Wind or rain, I'm going anyway."},
+        {"type": "note", "en": "反正 comes before the subject of the decision, at the start of the clause: ✓ 反正我不会改变主意的. ✗ 我不会改变反正主意的."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "悔不当初", "py": "Huǐ bù dāngchū", "en": "Regret having done something"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据图片所给的信息，用“早知道……还不如……”完成句子。", "en": "Complete a sentence for each picture using “早知道……还不如……”."},
+      "body": [
+        {"type": "picture", "en": "Example: a couple sheltering under an umbrella on the Great Wall in the rain, daydreaming of watching TV on the sofa."},
+        {"type": "example", "zh": "早知道周末下雨，我们还不如在家看电视。", "py": "Zǎo zhīdào zhōumò xià yǔ, wǒmen hái bùrú zài jiā kàn diànshì.", "en": "If we'd known it would rain at the weekend, we'd have stayed home watching TV."}
+      ],
+      "items": [
+        {"picture": "Passengers squashed together on a packed bus; one daydreams of riding in a car.", "answer": [{"zh": "早知道公共汽车上这么挤，还不如坐出租车。", "py": "Zǎo zhīdào gōnggòng qìchē shang zhème jǐ, hái bùrú zuò chūzūchē.", "en": "If I'd known the bus would be this packed, I'd have taken a taxi. (model answer)"}]},
+        {"picture": "A man shivering in the snow, daydreaming of sitting warm indoors.", "answer": [{"zh": "早知道今天这么冷，还不如在家待着。", "py": "Zǎo zhīdào jīntiān zhème lěng, hái bùrú zài jiā dāizhe.", "en": "If I'd known it would be this cold, I'd have stayed at home. (model answer)"}]},
+        {"picture": "A woman grimacing at her meal, daydreaming of other dishes.", "answer": [{"zh": "早知道这儿的菜这么难吃，还不如在家自己做。", "py": "Zǎo zhīdào zhèr de cài zhème nánchī, hái bùrú zài jiā zìjǐ zuò.", "en": "If I'd known the food here was this bad, I'd have cooked at home. (model answer)"}]},
+        {"picture": "A couple in a restaurant; the man stares in shock at the bill.", "answer": [{"zh": "早知道这家饭馆这么贵，咱们还不如去吃快餐。", "py": "Zǎo zhīdào zhè jiā fànguǎn zhème guì, zánmen hái bùrú qù chī kuàicān.", "en": "If we'd known this restaurant was so expensive, we'd have gone for fast food. (model answer)"}]},
+        {"prompt": {"zh": "你有没有做过让你后悔的事，用“早知道……还不如……”说一说自己的经历。", "en": "Group work: talk about something you regret, using 早知道……还不如……"},
+         "answer": [{"zh": "早知道学汉语这么有意思，我还不如早点儿开始学。", "py": "Zǎo zhīdào xué Hànyǔ zhème yǒu yìsi, wǒ hái bùrú zǎo diǎnr kāishǐ xué.", "en": "If I'd known learning Chinese was this much fun, I'd have started sooner. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "随心所欲", "py": "Suíxīn-suǒyù", "en": "Do whatever one wants"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "你有没有可以随心所欲的时候，用“想……就……”说一说。", "en": "Are there times you can do whatever you want? Talk about them with “想……就……”."},
+      "body": [
+        {"type": "example", "zh": "放假的时候我想睡到几点就睡到几点。", "py": "Fàng jià de shíhou wǒ xiǎng shuì dào jǐ diǎn jiù shuì dào jǐ diǎn.", "en": "On holiday I sleep until whatever time I like."}
+      ],
+      "items": [
+        {"prompt": {"en": "At the weekend…"}, "answer": [{"zh": "周末我想做什么就做什么。", "en": "At the weekend I do whatever I like. (model answer)"}]},
+        {"prompt": {"en": "When you have your own car…"}, "answer": [{"zh": "有了车，我想什么时候走就什么时候走。", "py": "Yǒule chē, wǒ xiǎng shénme shíhou zǒu jiù shénme shíhou zǒu.", "en": "With a car, I can leave whenever I want. (model answer)"}]},
+        {"prompt": {"en": "At a buffet…"}, "answer": [{"zh": "在自助餐厅，你想吃多少就吃多少。", "py": "Zài zìzhù cāntīng, nǐ xiǎng chī duōshao jiù chī duōshao.", "en": "At a buffet, you can eat as much as you like. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "不改初衷", "py": "Bù gǎi chūzhōng", "en": "Adhere to the original intention"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "你有没有不管在什么情况下都不会改变的做法、想法或决定？用“反正”和你的朋友说一说。", "en": "Is there something you'd never change your mind about, whatever happens? Tell your friends using “反正”."},
+      "body": [
+        {"type": "example", "zh": "不管刮风还是下雨，反正我要去。", "py": "Bùguǎn guā fēng háishi xià yǔ, fǎnzhèng wǒ yào qù.", "en": "Wind or rain, I'm going anyway."}
+      ],
+      "items": [
+        {"prompt": {"en": "About buying a car"}, "answer": [{"zh": "不管别人怎么说，反正我不买车。", "en": "Whatever others say, I'm not buying a car anyway. (model answer)"}]},
+        {"prompt": {"en": "About exercise"}, "answer": [{"zh": "不管工作多忙，反正我每天都要跑步。", "en": "However busy work is, I run every day regardless. (model answer)"}]},
+        {"prompt": {"en": "About going to China"}, "answer": [{"zh": "不管多贵，反正我明年一定要去中国。", "en": "However expensive it is, I'm definitely going to China next year. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "早知道这个电影这么无聊，还不如在家看电视。", "py": "Zǎo zhīdào zhège diànyǐng zhème wúliáo, hái bùrú zài jiā kàn diànshì."}, {"zh": "这个电影早知道这么无聊，在家还不如看电视。", "py": "Zhège diànyǐng zǎo zhīdào zhème wúliáo, zài jiā hái bùrú kàn diànshì."}],
+       "answer": 0, "explain": "早知道 opens the sentence; 还不如 goes before the whole better option. (grammar note 1)"},
+      {"options": [{"zh": "我想去哪儿就去哪儿，不关你事。", "py": "Wǒ xiǎng qù nǎr jiù qù nǎr, bù guān nǐ shì."}, {"zh": "我想去哪儿就去我去，不关你事。", "py": "Wǒ xiǎng qù nǎr jiù qù wǒ qù, bù guān nǐ shì."}],
+       "answer": 0, "explain": "Repeat the same verb + question word: 想去哪儿就去哪儿. (grammar note 2)"},
+      {"options": [{"zh": "早知道你不喜欢吃中餐，我们还不如去吃西餐。", "py": "Zǎo zhīdào nǐ bù xǐhuan chī zhōngcān, wǒmen hái bùrú qù chī xīcān."}, {"zh": "你早知道不喜欢吃中餐，我们去吃还不如西餐。", "py": "Nǐ zǎo zhīdào bù xǐhuan chī zhōngcān, wǒmen qù chī hái bùrú xīcān."}],
+       "answer": 0, "explain": "早知道 + what you didn't know; 还不如 + the better choice. (grammar note 1)"},
+      {"options": [{"zh": "不管你怎么说，反正我不会改变主意的。", "py": "Bùguǎn nǐ zěnme shuō, fǎnzhèng wǒ bú huì gǎibiàn zhǔyi de."}, {"zh": "不管你怎么说，我不会改变反正主意的。", "py": "Bùguǎn nǐ zěnme shuō, wǒ bú huì gǎibiàn fǎnzhèng zhǔyi de."}],
+       "answer": 0, "explain": "反正 opens the clause with the unchanging decision. (grammar note 3)"},
+      {"options": [{"zh": "你想怎么去就怎么去，我听你的。", "py": "Nǐ xiǎng zěnme qù jiù zěnme qù, wǒ tīng nǐ de."}, {"zh": "你想怎么去我就怎么听你的去。", "py": "Nǐ xiǎng zěnme qù wǒ jiù zěnme tīng nǐ de qù."}],
+       "answer": 0, "explain": "想怎么去就怎么去 — same verb and question word on both sides. (grammar note 2)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q4 — review 反正 (note 3). Missed Q2 or Q5 — review 想……就…… (note 2). Missed Q1 or Q3 — review 早知道……还不如…… (note 1)."
+  }
+}

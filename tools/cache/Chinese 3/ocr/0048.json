@@ -1,0 +1,327 @@
+{
+ "page": 48,
+ "cjk_pass": [
+  {
+   "text": "Unit 2 Talking about Hometown",
+   "conf": 0.5,
+   "bbox": [
+    0.54264,
+    0.06104,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "population has totaled over 20 million, ranking the 2nd in China. Known as one of the",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.12645,
+    0.85853,
+    0.14111
+   ]
+  },
+  {
+   "text": "Four Ancient Chinese Capitals and having the largest number of the world cultural",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.14826,
+    0.85853,
+    0.16279
+   ]
+  },
+  {
+   "text": "heritage sites in the world, it was built more than 3,000 years ago and has a history of",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.16992,
+    0.86047,
+    0.1875
+   ]
+  },
+  {
+   "text": "over 850 years as the capital of the country. Today, Beijing has the headquarters of 21 of",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.19331,
+    0.86047,
+    0.20947
+   ]
+  },
+  {
+   "text": "the World Top 500 Enterprises, ranking the first in the world.",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.21512,
+    0.63178,
+    0.2311
+   ]
+  },
+  {
+   "text": "（二）图片看中国 China in Pictures",
+   "conf": 0.3,
+   "bbox": [
+    0.31783,
+    0.29346,
+    0.66279,
+    0.31105
+   ]
+  },
+  {
+   "text": "31",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96512,
+    0.3561
+   ]
+  },
+  {
+   "text": "北京的胡同",
+   "conf": 1.0,
+   "bbox": [
+    0.39719,
+    0.42699,
+    0.51366,
+    0.44656
+   ]
+  },
+  {
+   "text": "Beijing de hutong",
+   "conf": 0.3,
+   "bbox": [
+    0.39535,
+    0.45058,
+    0.53488,
+    0.46533
+   ]
+  },
+  {
+   "text": "A bystreet in Beijing",
+   "conf": 0.5,
+   "bbox": [
+    0.39535,
+    0.46924,
+    0.56977,
+    0.48547
+   ]
+  },
+  {
+   "text": "上海外滩",
+   "conf": 1.0,
+   "bbox": [
+    0.39527,
+    0.62479,
+    0.49038,
+    0.64411
+   ]
+  },
+  {
+   "text": "Shanghdi Waitan",
+   "conf": 0.3,
+   "bbox": [
+    0.39341,
+    0.6468,
+    0.53101,
+    0.66279
+   ]
+  },
+  {
+   "text": "The Bund in Shanghai",
+   "conf": 0.3,
+   "bbox": [
+    0.39341,
+    0.66553,
+    0.58333,
+    0.68169
+   ]
+  },
+  {
+   "text": "贵州山区",
+   "conf": 1.0,
+   "bbox": [
+    0.39532,
+    0.82696,
+    0.4884,
+    0.84601
+   ]
+  },
+  {
+   "text": "Guizhou shanqu",
+   "conf": 0.5,
+   "bbox": [
+    0.39535,
+    0.84863,
+    0.52132,
+    0.86337
+   ]
+  },
+  {
+   "text": "A mountainous area in Guizhou",
+   "conf": 0.5,
+   "bbox": [
+    0.39729,
+    0.86768,
+    0.65891,
+    0.88086
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 2 Talking about Hometown",
+   "conf": 1.0,
+   "bbox": [
+    0.54264,
+    0.06104,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "population has totaled over 20 million, ranking the 2nd in China. Known as one of the",
+   "conf": 1.0,
+   "bbox": [
+    0.14341,
+    0.12645,
+    0.85853,
+    0.14111
+   ]
+  },
+  {
+   "text": "Four Ancient Chinese Capitals and having the largest number of the world cultural",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.14826,
+    0.85853,
+    0.16279
+   ]
+  },
+  {
+   "text": "heritage sites in the world, it was built more than 3,000 years ago and has a history of",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.16992,
+    0.86047,
+    0.1875
+   ]
+  },
+  {
+   "text": "over 850 years as the capital of the country. Today, Beijing has the headquarters of 21 of",
+   "conf": 1.0,
+   "bbox": [
+    0.14341,
+    0.19331,
+    0.86047,
+    0.20947
+   ]
+  },
+  {
+   "text": "the World Top 500 Enterprises, ranking the first in the world.",
+   "conf": 1.0,
+   "bbox": [
+    0.14147,
+    0.21512,
+    0.63178,
+    0.2311
+   ]
+  },
+  {
+   "text": "(E) AHЕФЕ China in Pictures",
+   "conf": 0.3,
+   "bbox": [
+    0.31783,
+    0.29346,
+    0.66279,
+    0.31105
+   ]
+  },
+  {
+   "text": "31",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96512,
+    0.3561
+   ]
+  },
+  {
+   "text": "16 N",
+   "conf": 0.3,
+   "bbox": [
+    0.39719,
+    0.42699,
+    0.51366,
+    0.44656
+   ]
+  },
+  {
+   "text": "Beijing de hútồng",
+   "conf": 1.0,
+   "bbox": [
+    0.39535,
+    0.45058,
+    0.53488,
+    0.46533
+   ]
+  },
+  {
+   "text": "A bystreet in Beijing",
+   "conf": 1.0,
+   "bbox": [
+    0.39535,
+    0.46924,
+    0.56977,
+    0.48547
+   ]
+  },
+  {
+   "text": "Shànghăi Wàităn",
+   "conf": 0.5,
+   "bbox": [
+    0.39341,
+    0.6468,
+    0.53101,
+    0.66279
+   ]
+  },
+  {
+   "text": "The Bund in Shanghai",
+   "conf": 1.0,
+   "bbox": [
+    0.39341,
+    0.66553,
+    0.58333,
+    0.68169
+   ]
+  },
+  {
+   "text": "Guizhõu shãnqũ",
+   "conf": 0.3,
+   "bbox": [
+    0.39535,
+    0.84863,
+    0.52132,
+    0.86337
+   ]
+  },
+  {
+   "text": "A mountainous area in Guizhou",
+   "conf": 1.0,
+   "bbox": [
+    0.39729,
+    0.86768,
+    0.65891,
+    0.88086
+   ]
+  }
+ ]
+}

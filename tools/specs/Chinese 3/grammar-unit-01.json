@@ -1,0 +1,173 @@
+{
+  "book": "Chinese 3",
+  "unit": 1,
+  "kind": "grammar",
+  "title": {"zh": "谈人物特征", "py": "Tán rénwù tèzhēng", "en": "Talking about the Characteristics of a Person"},
+  "source": "PDF pp. 18, 24–26, 29–32, 200 (printed pp. 1, 7–9, 12–15, 186)",
+  "intro": "This unit is about describing people — looks, age, height, hair and personality. Grammar: (1) ……，只是…… “…, only/but…” (good point first, drawback second); (2) 既……又…… “both… and…”; (3) reduplicated adjectives (大大的眼睛, 高高兴兴). Translations and answers marked “model answer” were written for this sheet; the listening transcript and its answer come from the book's appendix.",
+
+  "key_sentences": [
+    {"zh": "她长什么样？", "py": "Tā zhǎng shénme yàng?", "en": "What does she look like?"},
+    {"zh": "她很苗条，只是个子不太高。", "py": "Tā hěn miáotiao, zhǐshì gèzi bú tài gāo.", "en": "She's very slim, only she isn't very tall."},
+    {"zh": "她有多高？", "py": "Tā yǒu duō gāo?", "en": "How tall is she?"},
+    {"zh": "我觉得中国女孩儿大都既文静又腼腆。", "py": "Wǒ juéde Zhōngguó nǚháir dàdōu jì wénjìng yòu miǎntiǎn.", "en": "I think Chinese girls are mostly both quiet and shy."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "转折复句：……，只是……", "py": "zhuǎnzhé fùjù: ……, zhǐshì……", "en": "Transitional compound sentence: ……，只是……"},
+      "body": [
+        {"type": "text", "zh": "“只是”是表转折的关联词语，前边通常为积极意义，后边通常为消极意义。例如：", "en": "“只是” is a conjunction indicating transition, usually with the former part indicating positive meanings and the latter part indicating negative meanings, e.g.,"},
+        {"type": "pattern", "zh": "（好的方面），只是（不太好的方面）", "py": "(hǎo de fāngmiàn), zhǐshì (bú tài hǎo de fāngmiàn)", "en": "(good point), 只是 (drawback) — “…, it's just that…”"},
+        {"type": "example", "zh": "她长得真漂亮，只是个子有点儿矮。", "py": "Tā zhǎng de zhēn piàoliang, zhǐshì gèzi yǒudiǎnr ǎi.", "en": "She's really pretty, only she's a bit short."},
+        {"type": "example", "zh": "今天的天气不错，只是听说晚上有雨。", "py": "Jīntiān de tiānqì búcuò, zhǐshì tīngshuō wǎnshang yǒu yǔ.", "en": "The weather is nice today, but I hear it will rain tonight."},
+        {"type": "note", "en": "Keep the order: positive first, negative after 只是. “昨天的菜真好吃，只是有点儿少” (tasty, only a bit little) is right; flipping it (“真少，只是很好吃”) sounds wrong. 只是 is softer than 但是/可是."}
+      ]
+    },
+    {
+      "title": {"zh": "并列复句：既……又……", "py": "bìngliè fùjù: jì…… yòu……", "en": "Coordinate compound sentence: 既……又……"},
+      "body": [
+        {"type": "text", "zh": "“既……又……”连接结构和音节数目相同或相似的形容词、动词及动词词组。例如：", "en": "“既……又……” is used to connect adjectives, verbs or verb phrases with similar structures or the same number of syllables, e.g.,"},
+        {"type": "pattern", "zh": "既 + A + 又 + B", "py": "jì + A + yòu + B", "en": "both A and B (A and B have the same structure)"},
+        {"type": "example", "zh": "他既是我的朋友，又是我的老师。", "py": "Tā jì shì wǒ de péngyou, yòu shì wǒ de lǎoshī.", "en": "He is both my friend and my teacher."},
+        {"type": "example", "zh": "她既热情，又开朗。", "py": "Tā jì rèqíng, yòu kāilǎng.", "en": "She is both warm and cheerful."},
+        {"type": "text", "zh": "否定形式是“既不……也不……”或“既没……也没……”。", "en": "Its negative form is “既不……也不……” or “既没……也没……” (from the book's self-test explanation)."},
+        {"type": "example", "zh": "我在那儿既没吃过意大利菜，也没吃过法国菜。", "py": "Wǒ zài nàr jì méi chīguo Yìdàlì cài, yě méi chīguo Fǎguó cài.", "en": "There I've eaten neither Italian food nor French food."},
+        {"type": "note", "en": "Both halves must match: 既会说汉语，又会做中国菜 (both 会 + verb). You can't mix a positive and a negative half (✗ 既会说汉语，不会做中国菜), and 没 goes after 既, not before it (✗ 没既吃过)."}
+      ]
+    },
+    {
+      "title": {"zh": "形容词重叠做定语", "py": "xíngróngcí chóngdié zuò dìngyǔ", "en": "Reduplication of an adjective used as an attributive"},
+      "body": [
+        {"type": "text", "zh": "形容词重叠有加深程度的意思，同时带有一定的感情色彩。单音节形容词重叠形式为“AA”，如“黑黑的头发”，双音节重叠形式为“AABB”，如“高高兴兴”、“漂漂亮亮”。形容词重叠形式做定语的前边不再受程度副词的修饰。例如：", "en": "An adjective can be reduplicated for intensification to show certain emotion. The reduplicative form of a monosyllabic adjective is “AA”, for example “黑黑的头发”; and the reduplicative form of a disyllabic adjective is “AABB”, for example “高高兴兴”, “漂漂亮亮”. If an adjective is reduplicated to serve as an attributive, it is not modified by an adverb of degree preceding it, e.g.,"},
+        {"type": "pattern", "zh": "AA的 + 名词 ／ AABB的", "py": "AA de + míngcí / AABB de", "en": "黑 → 黑黑的头发; 高兴 → 高高兴兴的"},
+        {"type": "example", "zh": "她有一双大大的眼睛。", "py": "Tā yǒu yì shuāng dàdà de yǎnjing.", "en": "She has a pair of big, big eyes."},
+        {"type": "example", "zh": "在北京，大龙每天都高高兴兴的。", "py": "Zài Běijīng, Dàlóng měi tiān dōu gāogāoxìngxìng de.", "en": "In Beijing, Dalong is happy every day."},
+        {"type": "note", "en": "No 很/非常/真 in front of a reduplicated adjective — the doubling already means “very”: ✓ 长长的黑发, ✗ 很长长的黑发; ✓ 非常漂亮, ✗ 非常漂漂亮亮的."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "描述一个人", "py": "Miáoshù yí ge rén", "en": "Describe a person"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据答句写出问句，然后跟你的同伴对照你们的问句。", "py": "Gēnjù dájù xiěchū wènjù, ránhòu gēn nǐ de tóngbàn duìzhào nǐmen de wènjù.", "en": "Write questions according to the answers and then compare your questions with your partner."},
+      "body": [
+        {"type": "note", "en": "Useful question & answer patterns from the book's table (appearance · age · height · hair):"},
+        {"type": "dialogue", "lines": [
+          {"speaker": "外表 Appearance", "zh": "她长什么样？——她很高，红头发，非常漂亮。", "py": "Tā zhǎng shénme yàng? —— Tā hěn gāo, hóng tóufa, fēicháng piàoliang.", "en": "What does she look like? — She's tall, has red hair and is very pretty."},
+          {"speaker": "外表 Appearance", "zh": "他戴眼镜吗？——他戴一副金边眼镜。", "py": "Tā dài yǎnjìng ma? —— Tā dài yí fù jīn biān yǎnjìng.", "en": "Does he wear glasses? — He wears gold-rimmed glasses."},
+          {"speaker": "年龄 Age", "zh": "她多大年纪？——她22岁。", "py": "Tā duō dà niánjì? —— Tā èrshí'èr suì.", "en": "How old is she? — She's 22."},
+          {"speaker": "年龄 Age", "zh": "他有30岁吗？——他不到……", "py": "Tā yǒu sānshí suì ma? —— Tā bú dào……", "en": "Is he 30? — He's not yet…"},
+          {"speaker": "身高 Height", "zh": "她有多高？——她一米七八。", "py": "Tā yǒu duō gāo? —— Tā yì mǐ qī bā.", "en": "How tall is she? — She's 1.78 m."},
+          {"speaker": "身高 Height", "zh": "他高不高？——他不太……", "py": "Tā gāo bu gāo? —— Tā bú tài……", "en": "Is he tall? — He's not very…"},
+          {"speaker": "头发 Hair", "zh": "她头发长吗？——不太长。", "py": "Tā tóufa cháng ma? —— Bú tài cháng.", "en": "Is her hair long? — Not very."},
+          {"speaker": "头发 Hair", "zh": "他头发是什么颜色的？——深棕色的。", "py": "Tā tóufa shì shénme yánsè de? —— Shēn zōngsè de.", "en": "What colour is his hair? — Dark brown."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "______？我哥哥今年26岁。", "py": "______? Wǒ gēge jīnnián èrshíliù suì.", "en": "______? My elder brother is 26 this year."},
+         "answer": [{"zh": "你哥哥今年多大？", "en": "How old is your brother this year?"}, {"zh": "你哥哥今年多大年纪？", "en": "(also fine)"}]},
+        {"prompt": {"zh": "______？我一米七三。", "py": "______? Wǒ yì mǐ qī sān.", "en": "______? I'm 1.73 m."},
+         "answer": [{"zh": "你有多高？", "py": "Nǐ yǒu duō gāo?", "en": "How tall are you?"}]},
+        {"prompt": {"zh": "______？小爱有一头黑发。", "py": "______? Xiǎo'ài yǒu yì tóu hēi fà.", "en": "______? Xiao'ai has black hair."},
+         "answer": [{"zh": "小爱头发是什么颜色的？", "en": "What colour is Xiao'ai's hair?"}, {"zh": "小爱长什么样？", "en": "What does Xiao'ai look like? (also fine)"}]},
+        {"prompt": {"zh": "______？他长得又高又帅。", "py": "______? Tā zhǎng de yòu gāo yòu shuài.", "en": "______? He's tall and handsome."},
+         "answer": [{"zh": "他长什么样？", "py": "Tā zhǎng shénme yàng?", "en": "What does he look like?"}]},
+        {"prompt": {"zh": "______？他妹妹个子不太高。", "py": "______? Tā mèimei gèzi bú tài gāo.", "en": "______? His younger sister isn't very tall."},
+         "answer": [{"zh": "他妹妹高不高？", "en": "Is his sister tall?"}, {"zh": "他妹妹个子高吗？", "en": "(also fine)"}]},
+        {"prompt": {"zh": "______？我的眼睛是深棕色的。", "py": "______? Wǒ de yǎnjing shì shēn zōngsè de.", "en": "______? My eyes are dark brown."},
+         "answer": [{"zh": "你的眼睛是什么颜色的？", "en": "What colour are your eyes?"}]}
+      ]
+    },
+    {
+      "title": {"zh": "猜猜他是谁", "py": "Cāicai tā shì shéi", "en": "Guess who (pair game)"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "选择班里任意一人，不告诉你的同伴。通过提问，猜这个人是谁。", "en": "Randomly choose one of your classmates without telling your partner. Let your partner guess who he/she is by asking questions about him/her."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "他是男的还是女的？", "py": "Tā shì nán de háishi nǚ de?", "en": "Is it a man or a woman?"},
+          {"speaker": "B", "zh": "他是男的。", "py": "Tā shì nán de.", "en": "It's a man."},
+          {"speaker": "A", "zh": "他有多高？", "py": "Tā yǒu duō gāo?", "en": "How tall is he?"},
+          {"speaker": "B", "zh": "……", "en": "…"}
+        ]},
+        {"type": "note", "en": "Solo version: think of a famous person and write five questions you'd ask to guess them, using the patterns above (多高, 多大年纪, 长什么样, 头发是什么颜色的, 戴眼镜吗)."}
+      ]
+    },
+    {
+      "title": {"zh": "他是谁", "py": "Tā shì shéi", "en": "Who is he"},
+      "activity": {"zh": "单人活动", "py": "dān rén huódòng", "en": "Individual work"},
+      "instructions": {"zh": "听录音，根据录音中对人物形象的描述，写出下列五个人的序号。", "en": "Listen to the recording. Write the number of each person according to the descriptions you hear."},
+      "body": [
+        {"type": "note", "en": "No audio here, so read the book's transcript (from the appendix) instead, then match each description ①–⑤ to a photo."},
+        {"type": "example", "zh": "①他50岁左右，个子不高，头发很短，身材有点儿胖，不过他总是笑口常开。", "en": "He's about 50, not tall, with very short hair and a slightly heavy build, but he's always smiling."},
+        {"type": "example", "zh": "②她有一头漂亮的金色长发，眼睛大大的。她个子不高，可是身材很苗条。", "en": "She has beautiful long golden hair and big eyes. She isn't tall, but she's very slim."},
+        {"type": "example", "zh": "③她有一米八，身材特别好，有一头漂亮的黑黑的卷发。", "en": "She's 1.8 m, has a great figure and beautiful dark curly hair."},
+        {"type": "example", "zh": "④他个子很高，身材非常好，有漂亮的小胡须，让人觉得他非常英俊。", "en": "He's tall with a great build and a neat little moustache — he looks very handsome."},
+        {"type": "example", "zh": "⑤她看上去非常年轻，有一头黑色短发，身材很苗条，看起来文文静静的。", "en": "She looks very young, has short black hair, is slim and seems quiet and gentle."},
+        {"type": "text", "zh": "再听一遍录音，然后讨论一下图片中人物的年纪、外貌特点。", "en": "Listen to the recording again. Discuss the age and the characteristics of the appearance of each person in the pictures."},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "他有多大年纪？", "py": "Tā yǒu duō dà niánjì?", "en": "How old is he?"},
+          {"speaker": "B", "zh": "他20岁左右。", "py": "Tā èrshí suì zuǒyòu.", "en": "He's about 20."},
+          {"speaker": "A", "zh": "他有多高？", "py": "Tā yǒu duō gāo?", "en": "How tall is he?"},
+          {"speaker": "B", "zh": "他大概有一米八五。", "py": "Tā dàgài yǒu yì mǐ bā wǔ.", "en": "He's probably about 1.85 m."}
+        ]}
+      ],
+      "items": [
+        {"picture": "A tall man with a small moustache in a smart grey suit, smiling.", "answer": [{"en": "④"}]},
+        {"picture": "A heavy-set middle-aged man with very short hair, grinning and giving a thumbs-up.", "answer": [{"en": "①"}]},
+        {"picture": "A tall young woman with long dark curly hair wearing a crown and a “Miss World” sash.", "answer": [{"en": "③"}]},
+        {"picture": "A slim woman with long blonde hair in a fluffy pink jacket.", "answer": [{"en": "②"}]},
+        {"picture": "A young-looking woman with short black hair in a navy blazer and striped top.", "answer": [{"en": "⑤"}]}
+      ]
+    },
+    {
+      "title": {"zh": "挑刺儿", "py": "Tiāocìr", "en": "Fault-finding"},
+      "activity": {"zh": "分组接力比赛", "py": "fēnzǔ jiēlì bǐsài", "en": "Group relay competition"},
+      "instructions": {"zh": "看图片，一组学生说出图片中人或事物的优点（至少两个），另一组学生指出其缺点或不足之处加以反驳。", "py": "Kàn túpiàn, yì zǔ xuésheng shuōchū túpiàn zhōng rén huò shìwù de yōudiǎn (zhìshǎo liǎng ge), lìng yì zǔ xuésheng zhǐchū qí quēdiǎn huò bùzú zhī chù jiāyǐ fǎnbó.", "en": "Look at the pictures. One group of students states at least two of the person's/things' merits and another group retorts by pointing out their demerits."},
+      "body": [
+        {"type": "picture", "en": "Example photo: a smiling young woman with short hair in a black dress."},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A组 学生1", "speaker_py": "A zǔ xuésheng yī", "zh": "她既漂亮又聪明。", "py": "Tā jì piàoliang yòu cōngming.", "en": "She's both pretty and clever."},
+          {"speaker": "A组 学生1", "speaker_py": "A zǔ xuésheng yī", "zh": "她既可爱又漂亮。", "py": "Tā jì kě'ài yòu piàoliang.", "en": "She's both cute and pretty."},
+          {"speaker": "B组 学生1", "speaker_py": "B zǔ xuésheng yī", "zh": "只是有点儿矮。", "py": "Zhǐshì yǒudiǎnr ǎi.", "en": "Only she's a bit short."},
+          {"speaker": "B组 学生1", "speaker_py": "B zǔ xuésheng yī", "zh": "只是眼睛有点儿小。", "py": "Zhǐshì yǎnjing yǒudiǎnr xiǎo.", "en": "Only her eyes are a bit small."}
+        ]},
+        {"type": "note", "en": "For each picture: give two merits with 既……又……, then a drawback with 只是……"}
+      ],
+      "items": [
+        {"picture": "A tall, slim fashion model in an elegant white dress on a catwalk.",
+         "answer": [{"zh": "她既漂亮又苗条。——只是有点儿瘦。", "en": "She's both pretty and slim. — Only she's a bit too thin. (model answer)"}]},
+        {"picture": "A shiny silver saloon car (sedan).",
+         "answer": [{"zh": "这辆车既漂亮又舒服。——只是有点儿贵。", "en": "This car is both good-looking and comfortable. — Only it's a bit expensive. (model answer)"}]},
+        {"picture": "A smiling older businessman in glasses and a dark suit, hands pressed together.",
+         "answer": [{"zh": "他既聪明又热情。——只是头发有点儿少。", "py": "Tā jì cōngming yòu rèqíng. —— Zhǐshì tóufa yǒudiǎnr shǎo.", "en": "He's both clever and warm. — Only he's a bit short on hair. (model answer)"}]},
+        {"picture": "A touchscreen smartphone full of app icons.",
+         "answer": [{"zh": "这个手机既好看又好用。——只是有点儿贵。", "en": "This phone is both nice-looking and easy to use. — Only it's a bit expensive. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the correct sentence or the appropriate answer to check how well you have learned the grammar of this lesson."},
+    "questions": [
+      {"question": {"zh": "他的中国女朋友怎么样？", "py": "Tā de Zhōngguó nǚpéngyou zěnmeyàng?", "en": "What's his Chinese girlfriend like?"},
+       "options": [{"zh": "听说非常漂亮。", "py": "Tīngshuō fēicháng piàoliang."}, {"zh": "听说非常漂漂亮亮的。", "py": "Tīngshuō fēicháng piàopiàoliàngliàng de."}],
+       "answer": 0, "explain": "A reduplicated adjective can't take 非常 in front of it. (grammar note 3)"},
+      {"question": {"zh": "你会说汉语吗？会不会做中国菜？", "py": "Nǐ huì shuō Hànyǔ ma? Huì bu huì zuò Zhōngguó cài?", "en": "Can you speak Chinese? Can you cook Chinese food?"},
+       "options": [{"zh": "我既会说汉语，又会做中国菜。", "py": "Wǒ jì huì shuō Hànyǔ, yòu huì zuò Zhōngguó cài."}, {"zh": "我既会说汉语，不会做中国菜。", "py": "Wǒ jì huì shuō Hànyǔ, bú huì zuò Zhōngguó cài."}],
+       "answer": 0, "explain": "Both halves of 既……又…… must have the same structure (会 + verb, 会 + verb). (grammar note 2)"},
+      {"question": {"zh": "你的老师长什么样？", "py": "Nǐ de lǎoshī zhǎng shénme yàng?", "en": "What does your teacher look like?"},
+       "options": [{"zh": "她有一头长长的黑发。", "py": "Tā yǒu yì tóu chángcháng de hēifà."}, {"zh": "她有一头很长长的黑发。", "py": "Tā yǒu yì tóu hěn chángcháng de hēifà."}],
+       "answer": 0, "explain": "No degree adverb (很) before a reduplicated adjective. (grammar note 3)"},
+      {"question": {"zh": "你吃过那个餐厅的意大利菜和法国菜吗？", "py": "Nǐ chīguo nàge cāntīng de Yìdàlì cài hé Fǎguó cài ma?", "en": "Have you had the Italian and French food at that restaurant?"},
+       "options": [{"zh": "我在那儿既没吃过意大利菜，也没吃过法国菜，我只吃过那儿的中国菜。", "py": "Wǒ zài nàr jì méi chīguo Yìdàlì cài, yě méi chīguo Fǎguó cài, wǒ zhǐ chīguo nàr de Zhōngguó cài."}, {"zh": "我没既吃过意大利菜和法国菜。", "py": "Wǒ méi jì chīguo Yìdàlì cài hé Fǎguó cài."}],
+       "answer": 0, "explain": "The negative is 既没……也没…… — 没 comes after 既 in each half. (grammar note 2)"},
+      {"question": {"zh": "昨天的菜好吃吗？", "py": "Zuótiān de cài hǎochī ma?", "en": "Was yesterday's food tasty?"},
+       "options": [{"zh": "昨天的菜真好吃，只是有点儿少。", "py": "Zuótiān de cài zhēn hǎochī, zhǐshì yǒudiǎnr shǎo."}, {"zh": "昨天的菜真少，只是很好吃。", "py": "Zuótiān de cài zhēn shǎo, zhǐshì hěn hǎochī."}],
+       "answer": 0, "explain": "只是 is preceded by the positive point and followed by the drawback. (grammar note 1)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！ (Wonderful!). Missed Q5 — review ……，只是…… (note 1). Missed Q2 or Q4 — review 既……又…… and its negative 既没……也没…… (note 2). Missed Q1 or Q3 — review reduplicated adjectives (note 3)."
+  }
+}

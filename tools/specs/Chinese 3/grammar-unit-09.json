@@ -1,0 +1,130 @@
+{
+  "book": "Chinese 3",
+  "unit": 9,
+  "kind": "grammar",
+  "title": {"zh": "谈职业", "py": "Tán zhíyè", "en": "Talking about Occupations"},
+  "source": "PDF pp. 153, 159–163, 166–169 (printed pp. 139, 145–149, 152–155)",
+  "intro": "This unit is about jobs, part-time work and future plans. Grammar: (1) 看起来 / 听起来 “it looks like / it sounds…”; (2) 一来……，二来…… “for one thing…, for another…”. The self-test also checks how to talk about jobs (当 + job, 在 + place + 工作). Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "听起来真有意思。", "py": "Tīng qǐlai zhēn yǒu yìsi.", "en": "That sounds really interesting."},
+    {"zh": "毕业以后你打算做什么？", "py": "Bì yè yǐhòu nǐ dǎsuan zuò shénme?", "en": "What do you plan to do after you graduate?"},
+    {"zh": "我想当一名外交官。", "py": "Wǒ xiǎng dāng yì míng wàijiāoguān.", "en": "I want to be a diplomat."},
+    {"zh": "一来我学的专业就是国际关系，二来我太喜欢中国了，所以我希望有机会留在中国。", "py": "Yī lái wǒ xué de zhuānyè jiù shì guójì guānxi, èr lái wǒ tài xǐhuan Zhōngguó le, suǒyǐ wǒ xīwàng yǒu jīhuì liú zài Zhōngguó.", "en": "For one thing, my major is international relations; for another, I really love China — so I hope to have the chance to stay here."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "看起来、听起来", "py": "kàn qǐlai, tīng qǐlai", "en": "The structures 看起来 and 听起来"},
+      "body": [
+        {"type": "text", "zh": "“看起来”用作插入语，表示揣摩、估计。例如：", "en": "“看起来” is used as a parenthesis (an inserted phrase) to show a guess or estimate, e.g.,"},
+        {"type": "example", "zh": "天阴了，看起来要下雨了。", "py": "Tiān yīn le, kàn qǐlai yào xià yǔ le.", "en": "It's clouded over — looks like it's going to rain."},
+        {"type": "text", "zh": "“听起来”表示通过听，得到某种印象。例如：", "en": "“听起来” means getting an impression from what you hear, e.g.,"},
+        {"type": "example", "zh": "他说的听起来是对的。", "py": "Tā shuō de tīng qǐlai shì duì de.", "en": "What he said sounds right."},
+        {"type": "pattern", "zh": "看起来／听起来 + 判断　·　主语 + 看起来／听起来 + 形容词", "py": "kàn qǐlai / tīng qǐlai + pànduàn · zhǔyǔ + kàn qǐlai / tīng qǐlai + xíngróngcí", "en": "looks like / sounds like + (your judgement) — at the start of the clause, or right after the thing described"},
+        {"type": "note", "en": "看起来 = judging from what you see or the situation; 听起来 = judging from what you've heard. Put it at the start of the judgement: ✓ 看起来我们的周末会很忙 / ✓ 听起来他说得对. ✗ 我们的周末会很忙看起来, ✗ 他听起来说得对."}
+      ]
+    },
+    {
+      "title": {"zh": "一来……，二来……", "py": "yī lái……, èr lái……", "en": "The structure 一来……，二来……"},
+      "body": [
+        {"type": "text", "zh": "关联词，连接表示原因或目的的分句，用在每个分句的开头。有时候可以继续用“三来……，四来……”。例如：", "en": "A connective linking clauses that give reasons or purposes; it goes at the start of each clause. Sometimes it continues with “三来……，四来……”, e.g.,"},
+        {"type": "pattern", "zh": "……，一来 + 原因1，二来 + 原因2", "py": "……, yī lái + yuányīn yī, èr lái + yuányīn èr", "en": "…, for one thing + reason 1, for another + reason 2"},
+        {"type": "example", "zh": "我想去北京留学，一来因为北京有很好的大学，还有很多名胜古迹，二来听说北京的留学生很多，可以交到很多国家的朋友。", "py": "Wǒ xiǎng qù Běijīng liú xué, yī lái yīnwèi Běijīng yǒu hěn hǎo de dàxué, hái yǒu hěn duō míngshèng gǔjì, èr lái tīngshuō Běijīng de liúxuéshēng hěn duō, kěyǐ jiāodào hěn duō guójiā de péngyou.", "en": "I want to study in Beijing: for one thing, it has great universities and many historic sites; for another, I hear there are lots of international students there, so I can make friends from many countries."},
+        {"type": "note", "en": "一来 / 二来 open their clauses — never at the end (✗ 可以赚一点儿钱一来)."}
+      ]
+    },
+    {
+      "title": {"zh": "职业的说法", "py": "zhíyè de shuōfǎ", "en": "Talking about jobs"},
+      "body": [
+        {"type": "note", "en": "Not a numbered grammar note, but tested in the self-test (result C). “Be/become a…” for a job is 当 or 是一名; “work at…” puts 在 + place before 工作."},
+        {"type": "example", "zh": "我想当一名外交官。", "py": "Wǒ xiǎng dāng yì míng wàijiāoguān.", "en": "I want to be a diplomat. (not ✗ 我的理想是医生 for “my dream job is…”)"},
+        {"type": "example", "zh": "我在一家旅行社工作。", "py": "Wǒ zài yì jiā lǚxíngshè gōngzuò.", "en": "I work at a travel agency. (not ✗ 我工作在一家旅行社)"},
+        {"type": "example", "zh": "我是一名国际导游，我的工作是带着外国游客游览北京。", "py": "Wǒ shì yì míng guójì dǎoyóu, wǒ de gōngzuò shì dàizhe wàiguó yóukè yóulǎn Běijīng.", "en": "I'm an international tour guide; my job is taking foreign tourists around Beijing."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "你做什么工作", "py": "Nǐ zuò shénme gōngzuò", "en": "What do you do"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据抽到的信息卡和例子进行会话。", "en": "Draw a job card and make a dialogue following the example."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "你做什么工作？", "py": "Nǐ zuò shénme gōngzuò?", "en": "What do you do?"},
+          {"speaker": "B", "zh": "我是一名国际导游，我的工作是带着外国游客游览北京。", "py": "Wǒ shì yì míng guójì dǎoyóu, wǒ de gōngzuò shì dàizhe wàiguó yóukè yóulǎn Běijīng.", "en": "I'm an international tour guide; I take foreign tourists around Beijing."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "空乘", "py": "kōngchéng", "en": "flight attendant"}, "answer": [{"zh": "我是一名空乘，我的工作是在飞机上照顾乘客。", "en": "I'm a flight attendant; my job is looking after passengers on the plane. (model answer)"}]},
+        {"prompt": {"zh": "医生", "en": "doctor"}, "answer": [{"zh": "我是一名医生，我的工作是给病人看病。", "en": "I'm a doctor; my job is treating patients. (model answer)"}]},
+        {"prompt": {"zh": "教师", "en": "teacher"}, "answer": [{"zh": "我是一名教师，我在一所大学教汉语。", "en": "I'm a teacher; I teach Chinese at a university. (model answer)"}]},
+        {"prompt": {"zh": "外交官", "en": "diplomat"}, "answer": [{"zh": "我是一名外交官，我在大使馆工作。", "py": "Wǒ shì yì míng wàijiāoguān, wǒ zài dàshǐguǎn gōngzuò.", "en": "I'm a diplomat; I work at an embassy. (model answer)"}]},
+        {"prompt": {"zh": "厨师", "en": "chef"}, "answer": [{"zh": "我是一名厨师，我在饭馆儿做中国菜。", "py": "Wǒ shì yì míng chúshī, wǒ zài fànguǎnr zuò Zhōngguó cài.", "en": "I'm a chef; I cook Chinese food in a restaurant. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "你为什么要找工作", "py": "Nǐ wèi shénme yào zhǎo gōngzuò", "en": "Why are you looking for a job"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "下面的三个人想找工作，朗读她们的信息，完成后面的活动。", "en": "These three people are looking for jobs. Read their information aloud and do the activities."},
+      "body": [
+        {"type": "text", "zh": "①我是大一学生，我没有很多时间工作。但是大学的花费很贵。我周一、周三、周五全天都有课，周二、周四下午有空儿。我没有什么工作经验，但是我会学得很快。", "en": "① I'm a first-year university student and don't have much time to work, but university is expensive. I have classes all day Monday, Wednesday and Friday, and I'm free Tuesday and Thursday afternoons. I don't have much work experience, but I learn fast."},
+        {"type": "text", "zh": "②我们刚有孩子，虽然我爱人的工资不少，但是我们攒的钱不多。所以我想一边在家照顾孩子，一边工作。我要找一个在家可以做的工作，比如打字什么的。", "en": "② We've just had a baby. Although my husband earns quite a lot, we haven't saved much. So I want to look after the baby at home and work at the same time. I'm looking for a job I can do from home, like typing."},
+        {"type": "text", "zh": "③我今年17岁，父母给我的零花钱不多。我想打工赚钱，这样周末可以跟朋友们出去玩儿。每天我早上8点到下午5点上课。我家有一个小饭馆儿，所以我有一些饭馆儿工作经验。", "py": "③ Wǒ jīnnián shíqī suì, fùmǔ gěi wǒ de línghuāqián bù duō. Wǒ xiǎng dǎ gōng zhuàn qián, zhèyàng zhōumò kěyǐ gēn péngyoumen chūqu wánr. Měi tiān wǒ zǎoshang bā diǎn dào xiàwǔ wǔ diǎn shàng kè. Wǒ jiā yǒu yí ge xiǎo fànguǎnr, suǒyǐ wǒ yǒu yìxiē fànguǎnr gōngzuò jīngyàn.", "en": "③ I'm 17 and my parents don't give me much pocket money. I want a part-time job so I can go out with friends at weekends. I have school from 8 a.m. to 5 p.m. every day. My family has a small restaurant, so I have some restaurant experience."},
+        {"type": "note", "en": "Job ads: 1. 健身教练 (fitness coach) — evenings, experience preferred, pay negotiable · 2. 饭店经理 (restaurant manager) — 9:00–22:00, experience preferred, ¥20,000/month · 3. 保姆 (nanny) — childcare, any age, pay negotiable · 4. 咖啡馆服务员 (café waiter) — part-time, under 35, pay negotiable · 5. 英语教师 (English teacher) — weekends, ¥200/hour · 6. 文字录入员 (typist) — any hours, any age, ¥100 per 1,000 characters."},
+        {"type": "example", "zh": "我觉得她可以当英语教师，一来她周末有时间，二来……", "py": "Wǒ juéde tā kěyǐ dāng Yīngyǔ jiàoshī, yī lái tā zhōumò yǒu shíjiān, èr lái……", "en": "I think she could be an English teacher: for one thing she's free at weekends, for another… (book's example)"}
+      ],
+      "items": [
+        {"prompt": {"en": "(1) Person ①: why does she want a job, and what does she need (time / experience)?"},
+         "answer": [{"zh": "她打工的原因是想赚学费。她只有周二、周四下午有时间，也没有什么工作经验。", "en": "She wants to earn money for university fees. She's only free Tuesday and Thursday afternoons and has little experience. (model answer)"}]},
+        {"prompt": {"en": "(1) Person ②: reason and requirements?"},
+         "answer": [{"zh": "她打工的原因是想攒钱。她要找一个在家可以做的工作。", "en": "She wants to save money. She needs a job she can do at home. (model answer)"}]},
+        {"prompt": {"en": "(1) Person ③: reason and requirements?"},
+         "answer": [{"zh": "她打工的原因是想周末出去玩儿。她只有周末有时间，有一些饭馆儿工作经验。", "py": "Tā dǎ gōng de yuányīn shì xiǎng zhōumò chūqu wánr. Tā zhǐyǒu zhōumò yǒu shíjiān, yǒu yìxiē fànguǎnr gōngzuò jīngyàn.", "en": "She wants money to go out at weekends. She's only free at weekends and has some restaurant experience. (model answer)"}]},
+        {"prompt": {"en": "(2) Choose a job for person ① and give two reasons with 一来……二来……"},
+         "answer": [{"zh": "我觉得她可以当咖啡馆服务员，一来这是兼职工作，二来不需要很多经验。", "py": "Wǒ juéde tā kěyǐ dāng kāfēiguǎn fúwùyuán, yī lái zhè shì jiānzhí gōngzuò, èr lái bù xūyào hěn duō jīngyàn.", "en": "She could be a café waiter: for one thing it's part-time, for another it doesn't need much experience. (model answer)"}]},
+        {"prompt": {"en": "(2) …for person ②"},
+         "answer": [{"zh": "我觉得她可以当文字录入员，一来可以在家工作，二来时间不限。", "py": "Wǒ juéde tā kěyǐ dāng wénzì lùrùyuán, yī lái kěyǐ zài jiā gōngzuò, èr lái shíjiān bú xiàn.", "en": "She could be a typist: for one thing she can work from home, for another the hours are flexible. (model answer)"}]},
+        {"prompt": {"en": "(2) …for person ③"},
+         "answer": [{"zh": "我觉得她可以当英语教师，一来她周末有时间，二来工资很高。", "py": "Wǒ juéde tā kěyǐ dāng Yīngyǔ jiàoshī, yī lái tā zhōumò yǒu shíjiān, èr lái gōngzī hěn gāo.", "en": "She could teach English: for one thing she's free at weekends, for another the pay is high. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "看起来很美", "py": "Kàn qǐlai hěn měi", "en": "It looks so beautiful!"},
+      "activity": {"zh": "表演活动", "py": "biǎoyǎn huódòng", "en": "Role-play"},
+      "instructions": {"zh": "选择合适的词语，表演下面的小对话。", "en": "Fill each blank with A. 看起来 or B. 听起来, then act out the dialogues."},
+      "items": [
+        {"prompt": {"zh": "孩子：告诉您一个好消息，我找到了一份工作！妈妈：太好了，______以后不用给你零花钱了。", "py": "Háizi: Gàosu nín yí ge hǎo xiāoxi, wǒ zhǎodàole yí fèn gōngzuò! Māma: Tài hǎo le, ______ yǐhòu bú yòng gěi nǐ línghuāqián le.", "en": "Child: Good news — I found a job! Mum: Great, ___ I won't need to give you pocket money any more."},
+         "answer": [{"zh": "看起来", "py": "kàn qǐlai", "en": "A — Mum is estimating what will happen."}]},
+        {"prompt": {"zh": "妻子：亲爱的，今天下午我看到的那件衣服别提多漂亮了，朋友说我穿起来特别好看。丈夫：______我又要大出血了。", "py": "Qīzi: Qīn'ài de, jīntiān xiàwǔ wǒ kàndào de nà jiàn yīfu biétí duō piàoliang le, péngyou shuō wǒ chuān qǐlai tèbié hǎokàn. Zhàngfu: ______ wǒ yòu yào dà chū xiě le.", "en": "Wife: Darling, the dress I saw this afternoon was gorgeous, and my friend says it looks great on me. Husband: ___ I'm going to bleed money again. (大出血 = spend a fortune)"},
+         "answer": [{"zh": "看起来", "py": "kàn qǐlai", "en": "A — he's guessing the consequence."}]},
+        {"prompt": {"zh": "老师：告诉大家一个好消息，下个星期二上午我们开运动会。学生1：______不错！学生2：______下个星期二我们没有作业。", "py": "Lǎoshī: Gàosu dàjiā yí ge hǎo xiāoxi, xià ge xīngqī'èr shàngwǔ wǒmen kāi yùndònghuì. Xuésheng yī: ______ búcuò! Xuésheng èr: ______ xià ge xīngqī'èr wǒmen méiyǒu zuòyè.", "en": "Teacher: Good news — we're holding a sports meeting next Tuesday morning. Student 1: ___ great! Student 2: ___ we won't have homework next Tuesday."},
+         "answer": [{"zh": "学生1：听起来不错！", "py": "Xuésheng yī: Tīng qǐlai búcuò!", "en": "B — an impression from what was just heard."}, {"zh": "学生2：看起来下个星期二我们没有作业。", "py": "Xuésheng èr: Kàn qǐlai xià ge xīngqī'èr wǒmen méiyǒu zuòyè.", "en": "A — a guess about the result."}]},
+        {"prompt": {"zh": "老板：最近工作比较多，今天晚上加班。员工：______我跟女朋友的约会又要泡汤了。", "py": "Lǎobǎn: Zuìjìn gōngzuò bǐjiào duō, jīntiān wǎnshang jiā bān. Yuángōng: ______ wǒ gēn nǚpéngyou de yuēhuì yòu yào pào tāng le.", "en": "Boss: There's a lot of work lately — overtime tonight. Employee: ___ my date with my girlfriend is ruined again. (泡汤 = fall through)"},
+         "answer": [{"zh": "看起来", "py": "kàn qǐlai", "en": "A — a guess about the consequence."}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"question": {"zh": "你在哪儿工作？", "py": "Nǐ zài nǎr gōngzuò?", "en": "Where do you work?"},
+       "options": [{"zh": "我在一家旅行社工作。", "py": "Wǒ zài yì jiā lǚxíngshè gōngzuò."}, {"zh": "我工作在一家旅行社。", "py": "Wǒ gōngzuò zài yì jiā lǚxíngshè."}],
+       "answer": 0, "explain": "在 + place goes before 工作. (jobs note)"},
+      {"question": {"zh": "老板说这个周末不休息。", "py": "Lǎobǎn shuō zhège zhōumò bù xiūxi.", "en": "The boss says no rest this weekend."},
+       "options": [{"zh": "看起来我们的周末会很忙。", "py": "Kàn qǐlai wǒmen de zhōumò huì hěn máng."}, {"zh": "我们的周末会很忙看起来。", "py": "Wǒmen de zhōumò huì hěn máng kàn qǐlai."}],
+       "answer": 0, "explain": "看起来 goes in front of the judgement, not at the end. (grammar note 1)"},
+      {"question": {"zh": "你理想的职业是什么？", "py": "Nǐ lǐxiǎng de zhíyè shì shénme?", "en": "What's your ideal job?"},
+       "options": [{"zh": "我的理想是医生。", "py": "Wǒ de lǐxiǎng shì yīshēng."}, {"zh": "我想当医生。", "py": "Wǒ xiǎng dāng yīshēng."}],
+       "answer": 1, "explain": "Say you want to be something with 想当 + job. (jobs note)"},
+      {"question": {"zh": "你觉得我和她谁说的对？", "py": "Nǐ juéde wǒ hé tā shéi shuō de duì?", "en": "Who do you think is right, me or her?"},
+       "options": [{"zh": "听起来他说得对。", "py": "Tīng qǐlai tā shuō de duì."}, {"zh": "他听起来说得对。", "py": "Tā tīng qǐlai shuō de duì."}],
+       "answer": 0, "explain": "听起来 introduces the whole judgement 他说得对. (grammar note 1)"},
+      {"options": [{"zh": "周末我想打工，可以赚一点儿钱一来，可以让我忙一点儿二来。", "py": "Zhōumò wǒ xiǎng dǎ gōng, kěyǐ zhuàn yìdiǎnr qián yī lái, kěyǐ ràng wǒ máng yìdiǎnr èr lái."}, {"zh": "周末我想打工，一来可以赚一点儿钱，二来可以让我忙一点儿。", "py": "Zhōumò wǒ xiǎng dǎ gōng, yī lái kěyǐ zhuàn yìdiǎnr qián, èr lái kěyǐ ràng wǒ máng yìdiǎnr."}],
+       "answer": 1, "explain": "一来 and 二来 open their clauses. (grammar note 2)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — 一来/二来 go at the start of each clause (note 2). Missed Q1 or Q3 — review how to talk about jobs. Missed Q2 or Q4 — review 看起来/听起来 (note 1)."
+  }
+}

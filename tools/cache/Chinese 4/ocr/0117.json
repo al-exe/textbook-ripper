@@ -1,0 +1,267 @@
+{
+ "page": 117,
+ "cjk_pass": [
+  {
+   "text": "Unit7 Talking about Private Cars",
+   "conf": 0.5,
+   "bbox": [
+    0.53488,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "（二）分步任务活动 Implement the Tasks Step by Step",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.13227,
+    0.79651,
+    0.15137
+   ]
+  },
+  {
+   "text": "L",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.1875,
+    0.14341,
+    0.21221
+   ]
+  },
+  {
+   "text": "悔不当初",
+   "conf": 1.0,
+   "bbox": [
+    0.15865,
+    0.18523,
+    0.25802,
+    0.20576
+   ]
+  },
+  {
+   "text": "Regret having done something",
+   "conf": 0.5,
+   "bbox": [
+    0.25581,
+    0.19041,
+    0.52713,
+    0.20654
+   ]
+  },
+  {
+   "text": "（1）看图说话",
+   "conf": 0.3,
+   "bbox": [
+    0.16078,
+    0.22495,
+    0.28496,
+    0.24162
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 0.3,
+   "bbox": [
+    0.15878,
+    0.2554,
+    0.26176,
+    0.27513
+   ]
+  },
+  {
+   "text": "Talk about the pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.30039,
+    0.22656,
+    0.50194,
+    0.24273
+   ]
+  },
+  {
+   "text": "根据图片所给的信息，用“早知道••还不如•••”完成句子。",
+   "conf": 0.3,
+   "bbox": [
+    0.27132,
+    0.25727,
+    0.8314,
+    0.27783
+   ]
+  },
+  {
+   "text": "Pair work: Complete the sentence according to the information given in the pictures using“早",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.29199,
+    0.88953,
+    0.30669
+   ]
+  },
+  {
+   "text": "知道⋯⋯还不如⋯•”.",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.3125,
+    0.46512,
+    0.32715
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.20155,
+    0.57994,
+    0.22868,
+    0.60029
+   ]
+  },
+  {
+   "text": "早知道 周末 下雨，我们还不如在家看电视。",
+   "conf": 0.3,
+   "bbox": [
+    0.25194,
+    0.59302,
+    0.74419,
+    0.61192
+   ]
+  },
+  {
+   "text": "Zdo zhiddo zhoumo xid yu, women hdi burd zdi jid kan didnshi.",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.61621,
+    0.74806,
+    0.63086
+   ]
+  },
+  {
+   "text": "101",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97093,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Umit 7 Talking about Private Cars",
+   "conf": 0.5,
+   "bbox": [
+    0.53488,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "(=) 7ES2) Implement the Tasks Step by Step",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.13227,
+    0.79651,
+    0.15137
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.1875,
+    0.14341,
+    0.21221
+   ]
+  },
+  {
+   "text": "(1) FBiti",
+   "conf": 0.3,
+   "bbox": [
+    0.16078,
+    0.22495,
+    0.28496,
+    0.24162
+   ]
+  },
+  {
+   "text": "Regret having done something",
+   "conf": 1.0,
+   "bbox": [
+    0.25581,
+    0.19041,
+    0.52713,
+    0.20654
+   ]
+  },
+  {
+   "text": "Talk about the pictures",
+   "conf": 1.0,
+   "bbox": [
+    0.30039,
+    0.22656,
+    0.50194,
+    0.24273
+   ]
+  },
+  {
+   "text": "Pair work: Complete the sentence according to the information given in the pictures using \"!!",
+   "conf": 1.0,
+   "bbox": [
+    0.18023,
+    0.29199,
+    0.88953,
+    0.30669
+   ]
+  },
+  {
+   "text": "нЙ ККШ.\".",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.3125,
+    0.46512,
+    0.32715
+   ]
+  },
+  {
+   "text": "101",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97093,
+    0.3561
+   ]
+  },
+  {
+   "text": "15J",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.57994,
+    0.22868,
+    0.60029
+   ]
+  },
+  {
+   "text": "Zão zhidào zhõumò xià yũ, wămen hái bùrú zài jiã kàn diànshì.",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.61621,
+    0.74806,
+    0.63086
+   ]
+  }
+ ]
+}

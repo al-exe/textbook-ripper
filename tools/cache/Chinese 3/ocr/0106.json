@@ -1,0 +1,427 @@
+{
+ "page": 106,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［31",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "90",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "艾娜：真的？我很想去 逛逛。 这个 周末 你有 空儿吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.13808,
+    0.81783,
+    0.15843
+   ]
+  },
+  {
+   "text": "Aind: Zhen de? Wo hen xidng qu guangguang. Zhege zhoumo ni you kongr ma？",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.1582,
+    0.81783,
+    0.17587
+   ]
+  },
+  {
+   "text": "我们 一起去吧。",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.18604,
+    0.3876,
+    0.20508
+   ]
+  },
+  {
+   "text": "Women yiqi qu ba.",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.21076,
+    0.38372,
+    0.22529
+   ]
+  },
+  {
+   "text": "小丽：我星期天 有时间，星期六我 得去 中关村 买台电脑。",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.23535,
+    0.83721,
+    0.25293
+   ]
+  },
+  {
+   "text": "Xidoli: Wo xingqitian you shijion, xingqilid wo dei qu Zhongguancun mdi tdi dianndo.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.25727,
+    0.84109,
+    0.27344
+   ]
+  },
+  {
+   "text": "艾娜：那 我星期六 陪你 逛 中关村 电子市场，星期天你",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.28174,
+    0.82752,
+    0.29942
+   ]
+  },
+  {
+   "text": "Aind: Nd wo xingqilid pei ni guang Zhongguancin didnzi shichang,xingqition ni",
+   "conf": 0.5,
+   "bbox": [
+    0.17236,
+    0.30372,
+    0.82954,
+    0.32414
+   ]
+  },
+  {
+   "text": "陪我逛 雅秀市场，怎么样？",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.32994,
+    0.56202,
+    0.35174
+   ]
+  },
+  {
+   "text": "pei wo guang Yaxid shichang,zenmeydng？",
+   "conf": 0.5,
+   "bbox": [
+    0.22481,
+    0.35449,
+    0.57171,
+    0.37064
+   ]
+  },
+  {
+   "text": "小丽：好啊！星期五 晚上 我给你打电话。",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.37791,
+    0.63566,
+    0.39844
+   ]
+  },
+  {
+   "text": "Xiaoll: Hao al Xingqiwu wanshang wo gei ni da dianhud.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.40262,
+    0.6376,
+    0.4186
+   ]
+  },
+  {
+   "text": "（二）分步任务活动 Perform the Tasks Step by step",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.69622,
+    0.75,
+    0.71533
+   ]
+  },
+  {
+   "text": "宜居城市 Livable cities",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.75581,
+    0.38372,
+    0.77197
+   ]
+  },
+  {
+   "text": "单人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17241,
+    0.79777,
+    0.25394,
+    0.81415
+   ]
+  },
+  {
+   "text": "比较北京和你的家乡（或者别的地方）有什么不同，哪个地方更适合",
+   "conf": 1.0,
+   "bbox": [
+    0.27907,
+    0.79785,
+    0.89147,
+    0.81836
+   ]
+  },
+  {
+   "text": "居住。请用“不如”进行介绍，说得越多越好。",
+   "conf": 0.5,
+   "bbox": [
+    0.27907,
+    0.81831,
+    0.68411,
+    0.83887
+   ]
+  },
+  {
+   "text": "Individual work: Compare Beijing and your hometown （or another place） and discuss the advantages",
+   "conf": 0.5,
+   "bbox": [
+    0.12209,
+    0.85156,
+    0.89147,
+    0.86773
+   ]
+  },
+  {
+   "text": "and disadvantages of each. Make a presentation using “不如”.Include as much",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.87354,
+    0.88953,
+    0.88818
+   ]
+  },
+  {
+   "text": "information as possible.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.8939,
+    0.45349,
+    0.90698
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "90",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language (3 ]",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "Ainà: Zhẽn de? Wõ hẽn xiăng qù guàngguang. Zhège zhõumò nĩ yõu kòngr ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.1582,
+    0.81783,
+    0.17587
+   ]
+  },
+  {
+   "text": "F1] -*z*e.",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.18604,
+    0.3876,
+    0.20508
+   ]
+  },
+  {
+   "text": "Women yìqi qù ba.",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.21076,
+    0.38372,
+    0.22529
+   ]
+  },
+  {
+   "text": "Xiãolì: Wõ xingqitiăn you shí giàn, xingqiliù wõ dễi qù Zhõngguãncăn mãi tái diànnào.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.25727,
+    0.84109,
+    0.27344
+   ]
+  },
+  {
+   "text": "Àinà: Nà wõ xingqiliù péi nĩ guàng Zhõngguãncũn diànzĩ shìchăng, xingqitiăn nĩ",
+   "conf": 0.5,
+   "bbox": [
+    0.17236,
+    0.30372,
+    0.82954,
+    0.32414
+   ]
+  },
+  {
+   "text": "4777",
+   "conf": 0.3,
+   "bbox": [
+    0.47363,
+    0.32994,
+    0.56202,
+    0.35174
+   ]
+  },
+  {
+   "text": "péi wò guàng Yăxiù shìchăng, zẽnmeyàng?",
+   "conf": 0.5,
+   "bbox": [
+    0.22481,
+    0.35449,
+    0.57171,
+    0.37064
+   ]
+  },
+  {
+   "text": "NE HHAЕИ.",
+   "conf": 0.3,
+   "bbox": [
+    0.382,
+    0.37791,
+    0.63566,
+    0.39844
+   ]
+  },
+  {
+   "text": "Xiaoli: Hao a! Xingqiwu wănshang wò gẽi ni dã diànhuà.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.40262,
+    0.6376,
+    0.4186
+   ]
+  },
+  {
+   "text": "(=) 12S5) Perform the Tasks Step by step",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.69622,
+    0.75,
+    0.71533
+   ]
+  },
+  {
+   "text": "(1)",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.75145,
+    0.14922,
+    0.77762
+   ]
+  },
+  {
+   "text": "AEN Livable cities",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.75581,
+    0.38372,
+    0.77197
+   ]
+  },
+  {
+   "text": "#1)",
+   "conf": 0.3,
+   "bbox": [
+    0.17241,
+    0.79777,
+    0.25394,
+    0.81415
+   ]
+  },
+  {
+   "text": "1HДТ ВTА",
+   "conf": 0.3,
+   "bbox": [
+    0.62109,
+    0.79785,
+    0.89147,
+    0.81836
+   ]
+  },
+  {
+   "text": "ЕЛ Мл \"КАп\" МИТЛШИ, ВУшЕШИ",
+   "conf": 0.3,
+   "bbox": [
+    0.27907,
+    0.81831,
+    0.68411,
+    0.83887
+   ]
+  },
+  {
+   "text": "Individual work: Compare Beijing and your hometown (or another place) and discuss the advantages",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.85156,
+    0.89147,
+    0.86773
+   ]
+  },
+  {
+   "text": "and disadvantages of each. Make a presentation using \"Kfil\". Include as much",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.87354,
+    0.88953,
+    0.88818
+   ]
+  },
+  {
+   "text": "information as possible.",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.8939,
+    0.45349,
+    0.90698
+   ]
+  }
+ ]
+}

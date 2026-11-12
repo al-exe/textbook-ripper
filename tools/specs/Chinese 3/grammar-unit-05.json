@@ -1,0 +1,124 @@
+{
+  "book": "Chinese 3",
+  "unit": 5,
+  "kind": "grammar",
+  "title": {"zh": "谈考试", "py": "Tán kǎoshì", "en": "Talking about an Examination"},
+  "source": "PDF pp. 85, 91–97 (printed pp. 69, 75–81)",
+  "intro": "This unit is about exams, studying and how you feel about them. Grammar: (1) 连……也/都…… “even…”; (2) ……是……，不过…… “it's true that…, but…”; (3) 哪怕……也…… “even if…, still…”. Also: 可不 “exactly / you said it”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "连回家的时间都没有。", "py": "Lián huí jiā de shíjiān dōu méiyǒu.", "en": "(I) don't even have time to go home."},
+    {"zh": "据说这几年考翻译的人越来越多，考试也越来越难。", "py": "Jùshuō zhè jǐ nián kǎo fānyì de rén yuè lái yuè duō, kǎoshì yě yuè lái yuè nán.", "en": "They say more and more people have been taking the translation exam these past few years, and it's getting harder and harder."},
+    {"zh": "报纸上说今年参加考试的人数是去年的三倍！", "py": "Bàozhǐ shang shuō jīnnián cānjiā kǎoshì de rénshù shì qùnián de sān bèi!", "en": "The paper says the number of people taking the exam this year is three times last year's!"},
+    {"zh": "复习是复习了，不过自己不太有把握。", "py": "Fùxí shì fùxí le, búguò zìjǐ bú tài yǒu bǎwò.", "en": "I did revise, but I'm not very confident."},
+    {"zh": "哪怕不睡觉我也要复习完。", "py": "Nǎpà bú shuì jiào wǒ yě yào fùxí wán.", "en": "Even if I don't sleep, I'm going to finish revising."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "连……也/都……", "py": "lián…… yě / dōu……", "en": "The structure 连……也/都……"},
+      "body": [
+        {"type": "text", "zh": "“连……也/都……”是汉语中的强调句式。“连”后是要强调的对象，后面用“也”或“都”与之呼应。意思是强调极端的对象或典型代表的情况尚且如此，其他对象就更不用说了。例如：", "en": "“连……也/都……” is one of the Chinese emphatic sentence patterns. Followed by what is to be emphasized and often with “也” or “都”, “连” means even something extreme or typical is like this, let alone other cases, e.g.,"},
+        {"type": "pattern", "zh": "连 + 极端的人／事物 + 也／都 + 动词", "py": "lián + jíduān de rén / shìwù + yě / dōu + dòngcí", "en": "even + (the most extreme case) + 也/都 + verb"},
+        {"type": "example", "zh": "他很忙，连吃饭的时间都没有。", "py": "Tā hěn máng, lián chī fàn de shíjiān dōu méiyǒu.", "en": "He's so busy he doesn't even have time to eat."},
+        {"type": "example", "zh": "这个汉字连老师都不认识，学生更不认识了。", "py": "Zhège Hànzì lián lǎoshī dōu bú rènshi, xuésheng gèng bú rènshi le.", "en": "Even the teacher doesn't know this character, let alone the students."},
+        {"type": "note", "en": "Put the most extreme/unlikely example after 连: 这个字连小孩子都认识 “even little kids know this character” (so of course I do). Switching the roles (✗ 小孩子连这个字都认识) makes the character the “extreme” case and loses the point."}
+      ]
+    },
+    {
+      "title": {"zh": "……是……，不过……", "py": "…… shì……, búguò……", "en": "The structure ……是……，不过……"},
+      "body": [
+        {"type": "text", "zh": "“……是……，不过……”结构用以承认一种事实，但也提出另一个观点或事实。例如：", "en": "The structure “……是……，不过……” is used to acknowledge a fact and also propose another idea or fact, e.g.,"},
+        {"type": "pattern", "zh": "A是A，不过……", "py": "A shì A, búguò……", "en": "(it's) A, all right, but… — the same word on both sides of 是"},
+        {"type": "example", "zh": "汉字难是难，不过很有意思。", "py": "Hànzì nán shì nán, búguò hěn yǒu yìsi.", "en": "Chinese characters are hard, sure, but they're very interesting."},
+        {"type": "example", "zh": "吃是吃了，不过我现在又饿了。", "py": "Chī shì chī le, búguò wǒ xiànzài yòu è le.", "en": "I did eat, but I'm hungry again now."},
+        {"type": "example", "zh": "看是看见了，不过我不能说。", "py": "Kàn shì kànjiàn le, búguò wǒ bù néng shuō.", "en": "I did see it, but I can't say."},
+        {"type": "note", "en": "Repeat the verb/adjective around 是: 好吃是好吃 / 看是看过. The concession (A) comes first and your real point after 不过: ✓ 好吃是好吃，不过有点儿油; ✗ 好吃是有点儿油，不过好吃."}
+      ]
+    },
+    {
+      "title": {"zh": "让步复句：哪怕……也……", "py": "ràngbù fùjù: nǎpà…… yě……", "en": "Concession compound sentence: 哪怕……也……"},
+      "body": [
+        {"type": "text", "zh": "“哪怕……也……”表示的是没有发生但已经可以预见结果的事情。“哪怕”后面接最极端的可能性，“也”后面常常是决定。例如：", "en": "“哪怕……也……” indicates something that hasn't happened but whose result is already predictable. “哪怕” is followed by the most extreme possibility, and “也” is often followed by a decision, e.g.,"},
+        {"type": "pattern", "zh": "哪怕 + 最极端的情况，（我）也 + 决定", "py": "nǎpà + zuì jíduān de qíngkuàng, (wǒ) yě + juédìng", "en": "even if + (worst case), (I) still + (decision)"},
+        {"type": "example", "zh": "哪怕熬夜，我也要把作业做完。", "py": "Nǎpà áoyè, wǒ yě yào bǎ zuòyè zuòwán.", "en": "Even if I have to stay up all night, I'll finish my homework."},
+        {"type": "example", "zh": "哪怕再累，我也要坚持。", "py": "Nǎpà zài lèi, wǒ yě yào jiānchí.", "en": "However tired I get, I'll keep going."},
+        {"type": "note", "en": "The hardship goes after 哪怕, the decision after 也: ✓ 哪怕熬夜，我也要做完; ✗ 哪怕做完，我也要熬夜."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "唱反调", "py": "Chàng fǎndiào", "en": "You say “yes”, but I say “no”"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一个人评论一下下图中的物品或地方，另一个人用“……是……，不过……”唱反调。", "en": "One person comments on the things or places in the pictures; the other deliberately disagrees using “……是……，不过……”."},
+      "items": [
+        {"picture": "A plate of boiled dumplings (jiaozi) with a dish of dipping sauce.",
+         "answer": [{"zh": "A：饺子真好吃。B：好吃是好吃，不过包饺子太麻烦了。", "en": "A: Dumplings are delicious. B: Delicious, sure, but making them is too much trouble. (model answer)"}]},
+        {"picture": "A dish of mapo tofu in red chilli sauce.",
+         "answer": [{"zh": "A：麻婆豆腐很好吃。B：好吃是好吃，不过太辣了。", "py": "A: Mápó dòufu hěn hǎochī. B: Hǎochī shì hǎochī, búguò tài là le.", "en": "A: Mapo tofu is tasty. B: Tasty, yes, but it's too spicy. (model answer)"}]},
+        {"picture": "A tall snow-capped mountain under a blue sky.",
+         "answer": [{"zh": "A：这座山真漂亮。B：漂亮是漂亮，不过太高了，我爬不上去。", "en": "A: This mountain is beautiful. B: Beautiful, sure, but it's too high — I couldn't climb it. (model answer)"}]},
+        {"picture": "A tablet computer (iPad-style).",
+         "answer": [{"zh": "A：这个平板电脑很好用。B：好用是好用，不过太贵了。", "en": "A: This tablet is easy to use. B: Easy to use, yes, but too expensive. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "下定决心", "py": "Xiàdìng juéxīn", "en": "Make up one's mind"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一个人说自己要做的一件事，另一个人说出困难，第一个人用“哪怕……也……”下决心。", "en": "One student says something he/she wants to do, the other points out the difficulties, and the first uses “哪怕……也……” to show determination."},
+      "items": [
+        {"prompt": {"en": "You want to pass the HSK in a month; your friend says there isn't enough time."},
+         "answer": [{"zh": "A：我下个月要参加汉语考试。B：只有一个月了，你复习得完吗？A：哪怕每天熬夜，我也要复习完。", "en": "A: I'm taking the Chinese exam next month. B: Only a month left — can you finish revising? A: Even if I stay up every night, I'll finish. (model answer)"}]},
+        {"prompt": {"en": "You want to climb the mountain; your friend says it's very high and tiring."},
+         "answer": [{"zh": "A：明天我想去爬山。B：那座山很高，太累了。A：哪怕再累，我也要爬上去。", "en": "A: I want to go climbing tomorrow. B: That mountain is high — it's exhausting. A: However tired I get, I'll make it to the top. (model answer)"}]},
+        {"prompt": {"en": "You want to study in China next year; your friend says it's expensive."},
+         "answer": [{"zh": "A：明年我想去中国留学。B：去中国留学要很多钱。A：哪怕每天打工，我也要去。", "en": "A: I want to study in China next year. B: That costs a lot of money. A: Even if I have to work part-time every day, I'm going. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "有理有据", "py": "Yǒu lǐ yǒu jù", "en": "Be well-grounded"},
+      "activity": {"zh": "班级活动", "py": "bānjí huódòng", "en": "Class activity"},
+      "instructions": {"zh": "一个人用一句话评价一下自己或一个地方、事物。其他同学轮流用“可不，连……都……”来提供证据。后面的同学不能重复前面的句子，如果接不上来，要用“连……都……”造个句子。", "en": "One student makes a one-sentence evaluation of himself/herself or of a place or thing. The others take turns giving evidence with “可不，连……都……”. No repeating earlier sentences; anyone who gets stuck must make up a sentence with “连……都……”."},
+      "body": [
+        {"type": "note", "en": "可不 = “Exactly! / You can say that again!” (agreeing). The book's group-work example combines it with ……是……，不过……:"},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "北京烤鸭真好吃。", "py": "Běijīng kǎoyā zhēn hǎochī.", "en": "Peking duck is really delicious."},
+          {"speaker": "B", "zh": "可不，很多外国人都喜欢吃。", "py": "Kěbù, hěn duō wàiguórén dōu xǐhuan chī.", "en": "Exactly — lots of foreigners love it."},
+          {"speaker": "C", "zh": "烤鸭好吃是好吃，不过太油了。", "py": "Kǎoyā hǎochī shì hǎochī, búguò tài yóu le.", "en": "Roast duck is tasty all right, but it's too greasy."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "他汉语说得特别好。", "en": "His Chinese is especially good."},
+         "answer": [{"zh": "可不，连中国人都以为他是中国人。", "en": "Exactly — even Chinese people think he's Chinese. (model answer)"}]},
+        {"prompt": {"zh": "这家饭馆很有名。", "en": "This restaurant is very famous."},
+         "answer": [{"zh": "可不，连外国人都知道。", "en": "You said it — even foreigners know it. (model answer)"}]},
+        {"prompt": {"zh": "最近我太忙了。", "en": "I've been too busy lately."},
+         "answer": [{"zh": "可不，你连周末都在加班。", "en": "Tell me about it — you're even working overtime at weekends. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"question": {"zh": "这本书你看过吗？", "py": "Zhè běn shū nǐ kànguo ma?", "en": "Have you read this book?"},
+       "options": [{"zh": "我看是看过，不过里面的内容早就忘了。", "py": "Wǒ kàn shì kànguo, búguò lǐmiàn de nèiróng zǎo jiù wàng le."}, {"zh": "我看看是过，不过里面的内容早就忘了。", "py": "Wǒ kànkan shì guo, búguò lǐmiàn de nèiróng zǎo jiù wàng le."}],
+       "answer": 0, "explain": "The pattern is verb 是 verb(+过): 看是看过. (grammar note 2)"},
+      {"question": {"zh": "今天的作业太多了，你做得完吗？", "py": "Jīntiān de zuòyè tài duō le, nǐ zuò de wán ma?", "en": "There's too much homework today — can you finish it?"},
+       "options": [{"zh": "哪怕熬夜，我也要把作业做完。", "py": "Nǎpà áoyè, wǒ yě yào bǎ zuòyè zuòwán."}, {"zh": "哪怕把作业做完，我也要熬夜。", "py": "Nǎpà bǎ zuòyè zuòwán, wǒ yě yào áoyè."}],
+       "answer": 0, "explain": "The hardship (staying up) follows 哪怕; the decision follows 也. (grammar note 3)"},
+      {"question": {"zh": "中国菜好吃吗？", "py": "Zhōngguó cài hǎochī ma?", "en": "Is Chinese food tasty?"},
+       "options": [{"zh": "好吃是好吃，不过有点儿油。", "py": "Hǎochī shì hǎochī, búguò yǒudiǎnr yóu."}, {"zh": "好吃是有点儿油，不过好吃。", "py": "Hǎochī shì yǒudiǎnr yóu, búguò hǎochī."}],
+       "answer": 0, "explain": "Same word on both sides of 是, then the other point after 不过. (grammar note 2)"},
+      {"question": {"zh": "你太累了，别干了，休息一下吧。", "py": "Nǐ tài lèi le, bié gàn le, xiūxi yíxià ba.", "en": "You're too tired — stop and have a rest."},
+       "options": [{"zh": "哪怕再累，我也要把工作做完。", "py": "Nǎpà zài lèi, wǒ yě yào bǎ gōngzuò zuòwán."}, {"zh": "哪怕把工作做完，我也再累。", "py": "Nǎpà bǎ gōngzuò zuòwán, wǒ yě zài lèi."}],
+       "answer": 0, "explain": "哪怕 + the extreme case (再累), 也 + the decision. (grammar note 3)"},
+      {"question": {"zh": "你认识这个字吗？", "py": "Nǐ rènshi zhège zì ma?", "en": "Do you know this character?"},
+       "options": [{"zh": "当然，这个字连小孩子都认识。", "py": "Dāngrán, zhège zì lián xiǎoháizi dōu rènshi."}, {"zh": "当然，小孩子连这个字都认识。", "py": "Dāngrán, xiǎoháizi lián zhège zì dōu rènshi."}],
+       "answer": 0, "explain": "连 marks the extreme case — “even little kids” know it, so of course I do. (grammar note 1)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — review 连……都…… (note 1). Missed Q2 or Q4 — review 哪怕……也…… (note 3). Missed Q1 or Q3 — review ……是……，不过…… (note 2)."
+  }
+}

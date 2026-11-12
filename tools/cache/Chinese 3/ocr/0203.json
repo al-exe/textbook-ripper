@@ -1,0 +1,287 @@
+{
+ "page": 203,
+ "cjk_pass": [
+  {
+   "text": "Brief Introduction to Some Celebrities in This Book",
+   "conf": 0.5,
+   "bbox": [
+    0.34302,
+    0.05957,
+    0.88953,
+    0.08008
+   ]
+  },
+  {
+   "text": "第二单元",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.13081,
+    0.2655,
+    0.14551
+   ]
+  },
+  {
+   "text": "15.姚明：中国著名篮球运动员，曾效力于美国NBA休斯敦火箭队",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.15552,
+    0.68992,
+    0.17151
+   ]
+  },
+  {
+   "text": "Yao Ming: a famous Chinese basketball player who once played for the Houston Rockets of",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.17578,
+    0.89341,
+    0.19043
+   ]
+  },
+  {
+   "text": "America's NBA",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.19331,
+    0.33333,
+    0.20654
+   ]
+  },
+  {
+   "text": "第六单元",
+   "conf": 1.0,
+   "bbox": [
+    0.18984,
+    0.21635,
+    0.25977,
+    0.23133
+   ]
+  },
+  {
+   "text": "16. 迈克尔•杰克逊：美国著名男歌手，被誉为流行音乐之王",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.24121,
+    0.6531,
+    0.25879
+   ]
+  },
+  {
+   "text": "Michael Jackson: a famous American singer recognized as the \"King of Pop”",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.26017,
+    0.76163,
+    0.27637
+   ]
+  },
+  {
+   "text": "第八单元",
+   "conf": 1.0,
+   "bbox": [
+    0.18983,
+    0.28609,
+    0.25978,
+    0.30112
+   ]
+  },
+  {
+   "text": "17.菲尔普斯：美国著名游泳运动员",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.31104,
+    0.46705,
+    0.32715
+   ]
+  },
+  {
+   "text": "Michael Phelps: a famous American swimmer",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.33285,
+    0.54457,
+    0.34448
+   ]
+  },
+  {
+   "text": "18. 贝利：巴西著名足球运动员",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.35596,
+    0.42829,
+    0.37064
+   ]
+  },
+  {
+   "text": "Pele: a famous Brazilian football player",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.37645,
+    0.49806,
+    0.38965
+   ]
+  },
+  {
+   "text": "189",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Brief Introduction to Some Celebrities in This Book",
+   "conf": 1.0,
+   "bbox": [
+    0.34302,
+    0.05957,
+    0.88953,
+    0.08008
+   ]
+  },
+  {
+   "text": "#=#7",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.13081,
+    0.2655,
+    0.14535
+   ]
+  },
+  {
+   "text": "15. ВИ: ФЕАНКАВАА, МАДТЕВИВАЛИЕКТОВА",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.15552,
+    0.68992,
+    0.17151
+   ]
+  },
+  {
+   "text": "Yao Ming: a famous Chinese basketball player who once played for the Houston Rockets of",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.17578,
+    0.89341,
+    0.19043
+   ]
+  },
+  {
+   "text": "America's NBA",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.19331,
+    0.33333,
+    0.20654
+   ]
+  },
+  {
+   "text": "#АФА",
+   "conf": 0.3,
+   "bbox": [
+    0.18984,
+    0.21635,
+    0.25977,
+    0.23133
+   ]
+  },
+  {
+   "text": "16. W/ • MEW: ХHAKDKF, DАУМИAZE",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.24121,
+    0.6531,
+    0.25879
+   ]
+  },
+  {
+   "text": "Michael Jackson: a famous American singer recognized as the \"King of Pop\"",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.26017,
+    0.76163,
+    0.27637
+   ]
+  },
+  {
+   "text": "#Л9Л",
+   "conf": 0.3,
+   "bbox": [
+    0.18983,
+    0.28609,
+    0.25978,
+    0.30112
+   ]
+  },
+  {
+   "text": "17. ПЕ/Н: 140805",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.31104,
+    0.46705,
+    0.32715
+   ]
+  },
+  {
+   "text": "Michael Phelps: a famous American swimmer",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.33285,
+    0.54457,
+    0.34448
+   ]
+  },
+  {
+   "text": "18",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.3561,
+    0.42829,
+    0.37064
+   ]
+  },
+  {
+   "text": "Pele: a famous Brazilian football player",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.37645,
+    0.49806,
+    0.38965
+   ]
+  },
+  {
+   "text": "189",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ]
+}

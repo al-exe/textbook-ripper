@@ -1,0 +1,577 @@
+{
+ "page": 121,
+ "cjk_pass": [
+  {
+   "text": "Unit7 Talking about Private Cars",
+   "conf": 0.5,
+   "bbox": [
+    0.53488,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "儿",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.13663,
+    0.16085,
+    0.16134
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.19186,
+    0.14147,
+    0.21366
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 0.5,
+   "bbox": [
+    0.18406,
+    0.13647,
+    0.33338,
+    0.16005
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.32752,
+    0.13808,
+    0.65116,
+    0.15698
+   ]
+  },
+  {
+   "text": "早知道⋯•，还不如•••••The usage of“早知道⋯⋯，还不如⋯••”",
+   "conf": 0.3,
+   "bbox": [
+    0.15304,
+    0.19182,
+    0.77333,
+    0.2125
+   ]
+  },
+  {
+   "text": "该句型表示一种虚拟语气，表明说话者很后悔。例如：",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.22949,
+    0.65891,
+    0.24709
+   ]
+  },
+  {
+   "text": "The sentence pattern “早知道•，还不如••••” is used to form a subjunctive mood，",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.25436,
+    0.89147,
+    0.27051
+   ]
+  },
+  {
+   "text": "indicating the speaker is very regretful. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.27616,
+    0.54264,
+    0.29215
+   ]
+  },
+  {
+   "text": "①早 知道这个 电影 这么没意思，还不如在家睡觉。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.30518,
+    0.77907,
+    0.32422
+   ]
+  },
+  {
+   "text": "Zdo zhiddo zhege didnying zheme mei yisi, hai burd zdi jia shui jido.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.32703,
+    0.77907,
+    0.34326
+   ]
+  },
+  {
+   "text": "②早 知道 这家 饭馆 的菜 这么难吃，咱们 还不如去别家。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.35156,
+    0.82558,
+    0.37209
+   ]
+  },
+  {
+   "text": "Zdo zhidao zhe jia fanguan de cai zheme nan chi, zanmen hai buru qu bie jid.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.375,
+    0.82171,
+    0.38965
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.45203,
+    0.13566,
+    0.46657
+   ]
+  },
+  {
+   "text": "想⋯⋯就⋯•",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.45058,
+    0.28876,
+    0.4668
+   ]
+  },
+  {
+   "text": "The usage of想⋯•⋯就⋯…”",
+   "conf": 0.3,
+   "bbox": [
+    0.29634,
+    0.4501,
+    0.56046,
+    0.4706
+   ]
+  },
+  {
+   "text": "该句型表示可以随心所欲做某事。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.48535,
+    0.5407,
+    0.50146
+   ]
+  },
+  {
+   "text": "This sentence pattern can be used to express a person can do whatever he wants. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.51017,
+    0.88566,
+    0.5249
+   ]
+  },
+  {
+   "text": "①放假了，你想 去哪儿玩 儿就去哪儿玩儿。",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.5376,
+    0.6686,
+    0.55814
+   ]
+  },
+  {
+   "text": "Fang jid le, ni xiang qu nar wanr jid qu nar wanr.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.56104,
+    0.65891,
+    0.57715
+   ]
+  },
+  {
+   "text": "② 要想减肥，你不能总是想吃什么就吃 什么。",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.58576,
+    0.7907,
+    0.60465
+   ]
+  },
+  {
+   "text": "Yao xidng jidn fei, ni bu neng z0ngshi xidng chi shenme jid chi shenme.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.60742,
+    0.79651,
+    0.62355
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.68314,
+    0.1376,
+    0.69913
+   ]
+  },
+  {
+   "text": "反正 The usage of“反正”",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.68311,
+    0.39341,
+    0.70068
+   ]
+  },
+  {
+   "text": "“反正”表示不管在什么条件下，做法、结论不会改变。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.71657,
+    0.6938,
+    0.73401
+   ]
+  },
+  {
+   "text": "“反正” indicates an action or conclusion will not change under whatever conditions. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.74121,
+    0.87209,
+    0.75586
+   ]
+  },
+  {
+   "text": "① 不管你们 怎么说，反正我不同意。",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.77035,
+    0.62597,
+    0.78924
+   ]
+  },
+  {
+   "text": "Buguan nimen zenme shuo, fanzheng wo bu tongyi.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.79199,
+    0.62403,
+    0.80814
+   ]
+  },
+  {
+   "text": "②不管刮风还是下雨，反正 我要去。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.81831,
+    0.63566,
+    0.8374
+   ]
+  },
+  {
+   "text": "Buguan gua feng haishi xid yu, fanzheng wo yao qu.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.84012,
+    0.62984,
+    0.8561
+   ]
+  },
+  {
+   "text": "105",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34012,
+    0.97481,
+    0.3561
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94186,
+    0.97384,
+    0.97287,
+    0.99564
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.19186,
+    0.14147,
+    0.21366
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.45203,
+    0.13566,
+    0.46657
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.68314,
+    0.1376,
+    0.69913
+   ]
+  },
+  {
+   "text": "Umit 7 Talking about Private Cars",
+   "conf": 0.5,
+   "bbox": [
+    0.53488,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "iEiZWiFIZ",
+   "conf": 0.3,
+   "bbox": [
+    0.18406,
+    0.13647,
+    0.33338,
+    0.16005
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.32752,
+    0.13808,
+    0.65116,
+    0.15698
+   ]
+  },
+  {
+   "text": "7IE, іTJД The usage of \"F*t, іТt\"",
+   "conf": 0.3,
+   "bbox": [
+    0.15304,
+    0.19182,
+    0.77333,
+    0.2125
+   ]
+  },
+  {
+   "text": "The sentence pattern \"ФАпИ..., ікtп.....\" is used to form a subjunctive mood,",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.25436,
+    0.89147,
+    0.27051
+   ]
+  },
+  {
+   "text": "indicating the speaker is very regretful. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.27616,
+    0.54264,
+    0.29215
+   ]
+  },
+  {
+   "text": "ддт іТшАRНї",
+   "conf": 0.3,
+   "bbox": [
+    0.24992,
+    0.30518,
+    0.77907,
+    0.32422
+   ]
+  },
+  {
+   "text": "Zão zhĩ dào zhège diànying zhème méi yìsi, hái bùrú zài jiã shui jiào.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.32703,
+    0.77907,
+    0.34326
+   ]
+  },
+  {
+   "text": "Zào zhidào zhè jia fànguăn de cài zhème nán chí, zánmen hái bùrú qù bié jiã.",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.375,
+    0.82171,
+    0.38965
+   ]
+  },
+  {
+   "text": "A..À...",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.45058,
+    0.28876,
+    0.46657
+   ]
+  },
+  {
+   "text": "The usage of \"X?\"",
+   "conf": 0.3,
+   "bbox": [
+    0.29634,
+    0.4501,
+    0.56046,
+    0.4706
+   ]
+  },
+  {
+   "text": "ГНТТРНННЖ:",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.48547,
+    0.5407,
+    0.50145
+   ]
+  },
+  {
+   "text": "This sentence pattern can be used to express a person can do whatever he wants. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.19767,
+    0.51017,
+    0.88566,
+    0.5249
+   ]
+  },
+  {
+   "text": "Fàng jià le, nĩ xiăng qù năr wánr jiù qù năr wánr.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.56104,
+    0.65891,
+    0.57715
+   ]
+  },
+  {
+   "text": "Yào xiăng jiăn féi, nĩ bù néng zongshì xiăng chi shénme jiù chi shénme.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.60742,
+    0.79651,
+    0.62355
+   ]
+  },
+  {
+   "text": "KIE The usage of \"SIE\"",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.68311,
+    0.39341,
+    0.70068
+   ]
+  },
+  {
+   "text": "ТНННТ",
+   "conf": 0.3,
+   "bbox": [
+    0.22225,
+    0.71657,
+    0.6938,
+    0.73401
+   ]
+  },
+  {
+   "text": "\"IXIE\" indicates an action or conclusion will not change under whatever conditions. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.74121,
+    0.87209,
+    0.75586
+   ]
+  },
+  {
+   "text": "DTÊ MMELЙ, REATAR.",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.77035,
+    0.62597,
+    0.78924
+   ]
+  },
+  {
+   "text": "Bùguăn nimen zenme shuo, fănzhèng w bù tóngyì.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.79199,
+    0.62403,
+    0.80814
+   ]
+  },
+  {
+   "text": "Bùguăn guã tăng háishi xià yũ, fănzhèng wõ vào qù.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.84012,
+    0.62984,
+    0.8561
+   ]
+  },
+  {
+   "text": "105",
+   "conf": 0.5,
+   "bbox": [
+    0.93411,
+    0.34012,
+    0.97481,
+    0.3561
+   ]
+  }
+ ]
+}

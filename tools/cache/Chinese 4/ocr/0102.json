@@ -1,0 +1,577 @@
+{
+ "page": 102,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "86",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34012,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.1686,
+    0.12791,
+    0.25,
+    0.14551
+   ]
+  },
+  {
+   "text": "介绍相应活动给你的生活带来了哪些改变，看看改变是否一致。",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.12791,
+    0.82558,
+    0.14697
+   ]
+  },
+  {
+   "text": "Pair work：",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.16113,
+    0.26163,
+    0.17297
+   ]
+  },
+  {
+   "text": "How is your life changed by the corresponding activities? Tell the changes to each",
+   "conf": 0.5,
+   "bbox": [
+    0.26357,
+    0.16113,
+    0.88953,
+    0.17442
+   ]
+  },
+  {
+   "text": "other and see if your lives are changed in the same way.",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.18164,
+    0.68411,
+    0.19482
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.20349,
+    0.18411,
+    0.22384
+   ]
+  },
+  {
+   "text": "自从手机可以 上网以后，方便 倒是 方便了，可是",
+   "conf": 0.3,
+   "bbox": [
+    0.25,
+    0.21924,
+    0.83527,
+    0.23837
+   ]
+  },
+  {
+   "text": "Zicong shouji keyi shang wang yihou, fangbian ddoshi fangbian le, keshi",
+   "conf": 0.5,
+   "bbox": [
+    0.24806,
+    0.24121,
+    0.83915,
+    0.25732
+   ]
+  },
+  {
+   "text": "这却让我们的距离变大了。",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.26599,
+    0.52132,
+    0.28634
+   ]
+  },
+  {
+   "text": "zhe que rang women de juli bidn dd le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.2876,
+    0.51357,
+    0.30523
+   ]
+  },
+  {
+   "text": "自从打工以后，倒是有钱了，可是很多事情都",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.3125,
+    0.8062,
+    0.33301
+   ]
+  },
+  {
+   "text": "Zicong dd gong yihou, daoshi you qian le. keshi hen duo shiqing dou",
+   "conf": 0.5,
+   "bbox": [
+    0.24806,
+    0.33576,
+    0.81395,
+    0.35174
+   ]
+  },
+  {
+   "text": "没有 时间去做。",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.36035,
+    0.37597,
+    0.37939
+   ]
+  },
+  {
+   "text": "meiyou shijian qu zuo.",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.38372,
+    0.37403,
+    0.39844
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.46221,
+    0.1376,
+    0.47674
+   ]
+  },
+  {
+   "text": "请给我出出主意 What shall ldo？",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.46076,
+    0.47674,
+    0.4782
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.16858,
+    0.5072,
+    0.25196,
+    0.52478
+   ]
+  },
+  {
+   "text": "结合下文小丽的苦恼，给小丽出几个主意。然后比比，看哪一组的主",
+   "conf": 1.0,
+   "bbox": [
+    0.27326,
+    0.50727,
+    0.88953,
+    0.52783
+   ]
+  },
+  {
+   "text": "意最有用。",
+   "conf": 1.0,
+   "bbox": [
+    0.27511,
+    0.52737,
+    0.3683,
+    0.54675
+   ]
+  },
+  {
+   "text": "Group work: Give some advice to Xiaoli on her troubles. Compare and choose the group",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.55664,
+    0.88953,
+    0.57129
+   ]
+  },
+  {
+   "text": "providing the most practical and effective ideas.",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.57849,
+    0.62791,
+    0.5918
+   ]
+  },
+  {
+   "text": "小丽的苦恼：自从手机可以上网以后，我的事情越来越多。我随时",
+   "conf": 1.0,
+   "bbox": [
+    0.17829,
+    0.61328,
+    0.86434,
+    0.63525
+   ]
+  },
+  {
+   "text": "随地都要查看邮件，查看朋友从微信发来的信息，并及时回复这些信",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.63808,
+    0.86434,
+    0.65988
+   ]
+  },
+  {
+   "text": "息。我觉得自己的时间越来越少，一天里大部分时候都在低头看手机，",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.66113,
+    0.85465,
+    0.68459
+   ]
+  },
+  {
+   "text": "工作常常做不完，就连陪父母和朋友的时间也被手机占用了。可是我又",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.6875,
+    0.86434,
+    0.70947
+   ]
+  },
+  {
+   "text": "离不开手机。我该怎么办呢？请给我出出主意。",
+   "conf": 1.0,
+   "bbox": [
+    0.14147,
+    0.71221,
+    0.61822,
+    0.73401
+   ]
+  },
+  {
+   "text": "Xidoli de kindo: Zicong shouji keyi shang wang yihou, wo de shiqing yueldiyue duo.",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.74268,
+    0.87016,
+    0.75879
+   ]
+  },
+  {
+   "text": "Wo suishi suidi dou yao chakan youjian, chakan pengyou cong weixin falai de xinxi, bing jishi",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.76599,
+    0.86822,
+    0.78076
+   ]
+  },
+  {
+   "text": "huifu zhexie xinxi. Wo juede ziji de shfjian yueldiyue shdo. yi tian li dd bufen shihou dou zdi",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.7876,
+    0.86822,
+    0.80378
+   ]
+  },
+  {
+   "text": "di tou kan shouji, gongzuo changchang zuo bu wan, jid lidn pei fumi he pengyou de shfjian",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.80957,
+    0.86822,
+    0.82568
+   ]
+  },
+  {
+   "text": "ye bei shouji zhanyong le. Keshi wo you li bu kai shouji. Wo gai zenme ban ne? Qing gei wo",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.83285,
+    0.86822,
+    0.84884
+   ]
+  },
+  {
+   "text": "chuchu zhuyi.",
+   "conf": 0.5,
+   "bbox": [
+    0.13755,
+    0.85444,
+    0.24617,
+    0.8694
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "TNAДHтЖТОШСС TТCRAE EX",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.12791,
+    0.82558,
+    0.14697
+   ]
+  },
+  {
+   "text": "Pair work:",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.16113,
+    0.26163,
+    0.17297
+   ]
+  },
+  {
+   "text": "How is your life changed by the corresponding activities? Tell the changes to each",
+   "conf": 1.0,
+   "bbox": [
+    0.26357,
+    0.16113,
+    0.88953,
+    0.17442
+   ]
+  },
+  {
+   "text": "other and see if your lives are changed in the same way.",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.18164,
+    0.68411,
+    0.19482
+   ]
+  },
+  {
+   "text": "15J",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.20349,
+    0.18411,
+    0.22384
+   ]
+  },
+  {
+   "text": "86",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34012,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "Zicóng shouji kẽyi shàng wăng yĩhòu, făngbiàn dàoshì făngbiàn le, kẽshì",
+   "conf": 0.3,
+   "bbox": [
+    0.24806,
+    0.24121,
+    0.83915,
+    0.25732
+   ]
+  },
+  {
+   "text": "đ HIERE XI.",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.26599,
+    0.52132,
+    0.28634
+   ]
+  },
+  {
+   "text": "zhè què ràng wămen de jùlí biàn dà le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.2876,
+    0.51357,
+    0.30523
+   ]
+  },
+  {
+   "text": "Zicóng dã gõng yihòu, dàoshì you qián le, kẽshì hẽn duõ shìging dõu",
+   "conf": 0.3,
+   "bbox": [
+    0.24806,
+    0.33576,
+    0.81395,
+    0.35174
+   ]
+  },
+  {
+   "text": "méiyou shíjiân qu zuò.",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.38372,
+    0.37403,
+    0.39844
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.46221,
+    0.1376,
+    0.47674
+   ]
+  },
+  {
+   "text": "iH#ШШES What shall I do?",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.46076,
+    0.47674,
+    0.4782
+   ]
+  },
+  {
+   "text": "ПАТХЛNИЙ, ПЛWИЛТЕÉ КEШН, TШ-ANE",
+   "conf": 0.3,
+   "bbox": [
+    0.27326,
+    0.50727,
+    0.88953,
+    0.52783
+   ]
+  },
+  {
+   "text": "Group work: Give some advice to Xiaoli on her troubles. Compare and choose the group",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.55664,
+    0.88953,
+    0.57129
+   ]
+  },
+  {
+   "text": "providing the most practical and effective ideas.",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.57849,
+    0.62791,
+    0.5918
+   ]
+  },
+  {
+   "text": "Xiăolì de kunăo: Zìcóng shõujt kẽyi shàng wăng yĩhòu, wõ de shìqing yuèláiyuè duo.",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.74268,
+    0.87016,
+    0.75879
+   ]
+  },
+  {
+   "text": "Wó suishí suídi dõu yào chákàn yóugiàn, chákàn péngyou cóng weixin fälai de xinxi, bìng jíshí",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.76599,
+    0.86822,
+    0.78076
+   ]
+  },
+  {
+   "text": "huífù zhèxie xinxĩ. Wõ juéde zijĩ de shíjian yuèláiyue shão, yì tiăn li dà bùfen shíhou dõu zài",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.7876,
+    0.86822,
+    0.80378
+   ]
+  },
+  {
+   "text": "dĩ tóu kàn shoujĩ, gõngzuò chángcháng zuò bu wán, jiù lián péi fùm hé péngyou de shíjiãn",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.80957,
+    0.86822,
+    0.82568
+   ]
+  },
+  {
+   "text": "ye bèi shouji zhànyòng le. Keshi wó yàu lí bu kãi shoujĩ. Wó gãi zenme bàn ne? Qing gẽi wó",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.83285,
+    0.86822,
+    0.84884
+   ]
+  },
+  {
+   "text": "chũchu zhuyi.",
+   "conf": 0.5,
+   "bbox": [
+    0.13755,
+    0.85444,
+    0.24617,
+    0.8694
+   ]
+  }
+ ]
+}

@@ -1,0 +1,567 @@
+{
+ "page": 79,
+ "cjk_pass": [
+  {
+   "text": "Unit 4 Congratulations",
+   "conf": 0.5,
+   "bbox": [
+    0.63178,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好。",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.12354,
+    0.46899,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.1468,
+    0.66085,
+    0.16279
+   ]
+  },
+  {
+   "text": "B. 你的语法学得不错。不过要注意“其实”的用法。",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.18311,
+    0.62791,
+    0.20215
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.2064,
+    0.66085,
+    0.22238
+   ]
+  },
+  {
+   "text": "need to pay attention to the usage of “其实”",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.22217,
+    0.58915,
+    0.23983
+   ]
+  },
+  {
+   "text": "C. 注意“明明”的用法，请认真看一下语法注释2。",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.25436,
+    0.61628,
+    0.2749
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of“明明”.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.27762,
+    0.66279,
+    0.29506
+   ]
+  },
+  {
+   "text": "You can find some details in the second part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.29639,
+    0.66085,
+    0.3125
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.31395,
+    0.34302,
+    0.32568
+   ]
+  },
+  {
+   "text": "D.注意“择不得”的用法，请认真看一下语法注释3。",
+   "conf": 0.5,
+   "bbox": [
+    0.17419,
+    0.3473,
+    0.62822,
+    0.37218
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of“怪不得”.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.37207,
+    0.66279,
+    0.38965
+   ]
+  },
+  {
+   "text": "You can find some details in the third part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.38808,
+    0.66085,
+    0.40576
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.40674,
+    0.3469,
+    0.42006
+   ]
+  },
+  {
+   "text": "文化川贴土",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.50291,
+    0.33333,
+    0.52637
+   ]
+  },
+  {
+   "text": "CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35465,
+    0.50436,
+    0.6531,
+    0.52344
+   ]
+  },
+  {
+   "text": "（一）你知道吗",
+   "conf": 0.5,
+   "bbox": [
+    0.34884,
+    0.56541,
+    0.48643,
+    0.58301
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.50969,
+    0.56686,
+    0.64341,
+    0.58301
+   ]
+  },
+  {
+   "text": "人生四喜 Four Happy Events in Life",
+   "conf": 0.5,
+   "bbox": [
+    0.31395,
+    0.61914,
+    0.68992,
+    0.63818
+   ]
+  },
+  {
+   "text": "过去，人们常说人生有四喜：“久旱逢甘冧，他乡遇故知，洞房花烛夜，金榜题名时。”",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.65674,
+    0.89341,
+    0.67878
+   ]
+  },
+  {
+   "text": "意思是说干早了很久后下雨，在他乡遇到老朋友，结婚还有在重要的考试中取得好成绩，",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.68164,
+    0.89147,
+    0.70068
+   ]
+  },
+  {
+   "text": "这些都是人生中的喜事。当然，人生中的喜事不止这四种。",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.70349,
+    0.62209,
+    0.72384
+   ]
+  },
+  {
+   "text": "In the past, people often said that there were four happy events in life： “久早逢甘槑，他",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.73828,
+    0.88953,
+    0.75586
+   ]
+  },
+  {
+   "text": "乡遇故知，洞房花烛夜，金榜题名时”.That is to say, raining after a long time of drought，",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.76017,
+    0.89147,
+    0.77783
+   ]
+  },
+  {
+   "text": "running across old friends in a place far away from home, getting married and getting a good",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.7832,
+    0.88953,
+    0.79942
+   ]
+  },
+  {
+   "text": "result in important examinations are happy events in life. Of course, happy events in life are far",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.80518,
+    0.89147,
+    0.82129
+   ]
+  },
+  {
+   "text": "more than the four ones.",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.82849,
+    0.3062,
+    0.8418
+   ]
+  },
+  {
+   "text": "63",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 4 Congratulations",
+   "conf": 1.0,
+   "bbox": [
+    0.63178,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "A. AHT, WHUEZT11HH",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.12354,
+    0.46899,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.19961,
+    0.1468,
+    0.66085,
+    0.16279
+   ]
+  },
+  {
+   "text": "B. 1HA2$11/ КURN \"HS\" #Л",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.18311,
+    0.62791,
+    0.20215
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you",
+   "conf": 1.0,
+   "bbox": [
+    0.19961,
+    0.2064,
+    0.66085,
+    0.22238
+   ]
+  },
+  {
+   "text": "need to pay attention to the usage of \"It:g:\"",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.22217,
+    0.58915,
+    0.23983
+   ]
+  },
+  {
+   "text": "CMC \"DE\" HOAR, MANT-FHRYR2",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.25436,
+    0.61628,
+    0.2749
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"HJU]\".",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.27762,
+    0.66279,
+    0.29506
+   ]
+  },
+  {
+   "text": "You can find some details in the second part of the",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.29639,
+    0.66085,
+    0.3125
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.19961,
+    0.31395,
+    0.34302,
+    0.32568
+   ]
+  },
+  {
+   "text": "D.₴M \"Xл#\" клод, мллА-ТШж3.",
+   "conf": 0.3,
+   "bbox": [
+    0.17419,
+    0.3473,
+    0.62822,
+    0.37218
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"I1119\".",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.37207,
+    0.66279,
+    0.38965
+   ]
+  },
+  {
+   "text": "You can find some details in the third part of the",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.38808,
+    0.66085,
+    0.40576
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.19767,
+    0.40674,
+    0.3469,
+    0.42006
+   ]
+  },
+  {
+   "text": "ХІКІЛЛЬI",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.50291,
+    0.33333,
+    0.52616
+   ]
+  },
+  {
+   "text": "CULTURAL NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35465,
+    0.50436,
+    0.6531,
+    0.52344
+   ]
+  },
+  {
+   "text": "(-) 1я9",
+   "conf": 0.3,
+   "bbox": [
+    0.34884,
+    0.56541,
+    0.48643,
+    0.58301
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 1.0,
+   "bbox": [
+    0.50969,
+    0.56686,
+    0.64341,
+    0.58301
+   ]
+  },
+  {
+   "text": "NEM& Four Happy Events in Life",
+   "conf": 0.5,
+   "bbox": [
+    0.31395,
+    0.61914,
+    0.68992,
+    0.63818
+   ]
+  },
+  {
+   "text": "N, МіжалАнд \"лРиНк, МЕшК, МБНКВ, АЮНхн\"",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.65674,
+    0.89341,
+    0.67878
+   ]
+  },
+  {
+   "text": "СЕЙТИТАЛИТИ ИИЕШЛВИИ СИИИИИСВ ВИТИМИЛА.",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.68164,
+    0.89147,
+    0.70068
+   ]
+  },
+  {
+   "text": "МАЛАТАВВ КИ ЛЕТАВОТА",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.70349,
+    0.62209,
+    0.72384
+   ]
+  },
+  {
+   "text": "In the past, people often said that there were four happy events in life: \"A TE H'*k, 1t",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.73828,
+    0.88953,
+    0.75586
+   ]
+  },
+  {
+   "text": "43\". That is to say, raining after a long time of drought,",
+   "conf": 0.5,
+   "bbox": [
+    0.33529,
+    0.76017,
+    0.89147,
+    0.77783
+   ]
+  },
+  {
+   "text": "running across old friends in a place far away from home, getting married and getting a good",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.7832,
+    0.88953,
+    0.79942
+   ]
+  },
+  {
+   "text": "result in important examinations are happy events in life. Of course, happy events in life are far",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.80518,
+    0.89147,
+    0.82129
+   ]
+  },
+  {
+   "text": "more than the four ones.",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.82849,
+    0.3062,
+    0.8418
+   ]
+  },
+  {
+   "text": "63",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  }
+ ]
+}

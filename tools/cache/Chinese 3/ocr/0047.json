@@ -1,0 +1,597 @@
+{
+ "page": 47,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［31",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "30",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34012,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.125,
+    0.46318,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, You have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.14826,
+    0.65504,
+    0.16424
+   ]
+  },
+  {
+   "text": "B. 你的语法学的不错。不过要注意动词重叠后不能带补语。",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.17725,
+    0.69186,
+    0.19482
+   ]
+  },
+  {
+   "text": "再做一遍第⑤题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.19913,
+    0.3624,
+    0.2168
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.22217,
+    0.69961,
+    0.23692
+   ]
+  },
+  {
+   "text": "that when a verb is reduplicated, it is not followed by a",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.24268,
+    0.69961,
+    0.26025
+   ]
+  },
+  {
+   "text": "complement. Please do question ⑤ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.26599,
+    0.56395,
+    0.28198
+   ]
+  },
+  {
+   "text": "C.“别看•⋯，•⋯可••••”常用来承认别人的观点，但也",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.29346,
+    0.69767,
+    0.31396
+   ]
+  },
+  {
+   "text": "提出不同的观点。“别看”后面是别人的观点。现在你明",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.31104,
+    0.69961,
+    0.33301
+   ]
+  },
+  {
+   "text": "白了吗？再做一遍第②和第④题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.33285,
+    0.50581,
+    0.35174
+   ]
+  },
+  {
+   "text": "“别看•…，可••..\" is often used to admit what somebody",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.35596,
+    0.69961,
+    0.37355
+   ]
+  },
+  {
+   "text": "said is right, but also put forward a contrasting",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.37936,
+    0.69767,
+    0.39404
+   ]
+  },
+  {
+   "text": "view. \"别看”is followed by others' opinion. Understand",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.40116,
+    0.69767,
+    0.41715
+   ]
+  },
+  {
+   "text": "now? Please do questions ② and ④ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.42432,
+    0.56589,
+    0.44043
+   ]
+  },
+  {
+   "text": "D.注意“够•⋯的”的用法。详见语法注释2。现在你明白",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.45203,
+    0.69574,
+    0.47093
+   ]
+  },
+  {
+   "text": "了吗？再做一遍第①和第③题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.47363,
+    0.48256,
+    0.49128
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of“够……的”and refer to",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.49414,
+    0.69961,
+    0.51025
+   ]
+  },
+  {
+   "text": "Grammar Note 2 for more details. Understand now？",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.51744,
+    0.69961,
+    0.53198
+   ]
+  },
+  {
+   "text": "Please do questions ① and ③ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.54053,
+    0.51744,
+    0.55669
+   ]
+  },
+  {
+   "text": "七",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.63227,
+    0.16667,
+    0.65698
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.63081,
+    0.64922,
+    0.6543
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.3469,
+    0.69913,
+    0.62984,
+    0.71533
+   ]
+  },
+  {
+   "text": "北京",
+   "conf": 1.0,
+   "bbox": [
+    0.42829,
+    0.74268,
+    0.48256,
+    0.76025
+   ]
+  },
+  {
+   "text": "Beijing",
+   "conf": 0.5,
+   "bbox": [
+    0.49031,
+    0.74561,
+    0.57558,
+    0.76465
+   ]
+  },
+  {
+   "text": "北京市简称京，是中华人民共和国的首都，是全国政治、文化和国际交流中",
+   "conf": 1.0,
+   "bbox": [
+    0.18605,
+    0.77616,
+    0.84884,
+    0.79651
+   ]
+  },
+  {
+   "text": "心。北京常住人口 2000多万，居中国第二。北京有着3000余年的建城史和850余",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.80518,
+    0.8469,
+    0.82275
+   ]
+  },
+  {
+   "text": "年的建都史，是“中国四大古都”之一，是全球拥有世界文化遗产最多的城市。",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.82994,
+    0.83915,
+    0.85029
+   ]
+  },
+  {
+   "text": "今天的北京拥有21家世界500强企业总部，位居全球第一。",
+   "conf": 1.0,
+   "bbox": [
+    0.1472,
+    0.85896,
+    0.64738,
+    0.8794
+   ]
+  },
+  {
+   "text": "Beijing, abbreviated as Jing, is the capital of the People's Republic of China and",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.88663,
+    0.84884,
+    0.9043
+   ]
+  },
+  {
+   "text": "the country’s political, cultural and international communication center. Its permanent",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.90967,
+    0.85078,
+    0.92442
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (3)",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "30",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34012,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "A. AHT, KHE:27151NH!",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.125,
+    0.46318,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, You have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.14826,
+    0.65504,
+    0.16424
+   ]
+  },
+  {
+   "text": "В ИКТККт КАEAВАTAAeTA.",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.17725,
+    0.69186,
+    0.19482
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.22217,
+    0.69961,
+    0.23692
+   ]
+  },
+  {
+   "text": "that when a verb is reduplicated, it is not followed by a",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.24268,
+    0.69961,
+    0.26025
+   ]
+  },
+  {
+   "text": "complement. Please do question 5 again.",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.26599,
+    0.56395,
+    0.28198
+   ]
+  },
+  {
+   "text": "С. \"ШИ, •П\" ПЛжкЛдЛИмЯ, 1ш",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.29346,
+    0.69767,
+    0.31396
+   ]
+  },
+  {
+   "text": "НТЦ? НЖ-ИИОНИАНЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.33285,
+    0.50581,
+    0.35174
+   ]
+  },
+  {
+   "text": "\"Slfi..., j..\" is often used to admit what somebody",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.35596,
+    0.69961,
+    0.37355
+   ]
+  },
+  {
+   "text": "said is right, but also put forward a contrasting",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.37936,
+    0.69767,
+    0.39404
+   ]
+  },
+  {
+   "text": "view. \"Hl Fi\" is followed by others' opinion. Understand",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.40116,
+    0.69767,
+    0.41715
+   ]
+  },
+  {
+   "text": "now? Please do questions 2 and * again.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.42432,
+    0.56589,
+    0.44043
+   ]
+  },
+  {
+   "text": "\"IW\" КЛА МЛТ2 ВAНА",
+   "conf": 0.3,
+   "bbox": [
+    0.24202,
+    0.45203,
+    0.69574,
+    0.47093
+   ]
+  },
+  {
+   "text": "ТШ? ТИХ МИОНАВд",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.47363,
+    0.48256,
+    0.49128
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of \"llf......!y\" and refer to",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.49414,
+    0.69961,
+    0.51025
+   ]
+  },
+  {
+   "text": "Grammar Note 2 for more details. Understand now?",
+   "conf": 1.0,
+   "bbox": [
+    0.19767,
+    0.51744,
+    0.69961,
+    0.53198
+   ]
+  },
+  {
+   "text": "Please do questions 1 and 3 again.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.54053,
+    0.51744,
+    0.55669
+   ]
+  },
+  {
+   "text": "XIZ/JN6* CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.63081,
+    0.64922,
+    0.6543
+   ]
+  },
+  {
+   "text": "(-) 1TADig Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.3469,
+    0.69913,
+    0.62984,
+    0.71533
+   ]
+  },
+  {
+   "text": "Beijing",
+   "conf": 1.0,
+   "bbox": [
+    0.49031,
+    0.74564,
+    0.57558,
+    0.76453
+   ]
+  },
+  {
+   "text": "НАОТВЙ, ДТЕЛЕДИВОВАВ, ДЕНЕТ ХИАВВКИТ",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.77616,
+    0.84884,
+    0.79651
+   ]
+  },
+  {
+   "text": "СО НТЛТ 200047, Т0 1173000444Т8504",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.80518,
+    0.8469,
+    0.82275
+   ]
+  },
+  {
+   "text": "1H21Ш5ОО5ИКЛOИВ, БЛEЕТО",
+   "conf": 0.3,
+   "bbox": [
+    0.1472,
+    0.85896,
+    0.64738,
+    0.8794
+   ]
+  },
+  {
+   "text": "Beijing, abbreviated as Jing, is the capital of the People's Republic of China and",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.88663,
+    0.84884,
+    0.9043
+   ]
+  },
+  {
+   "text": "the country's political, cultural and international communication center. Its permanent",
+   "conf": 1.0,
+   "bbox": [
+    0.14922,
+    0.90967,
+    0.85078,
+    0.92442
+   ]
+  }
+ ]
+}

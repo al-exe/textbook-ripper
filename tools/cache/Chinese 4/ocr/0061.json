@@ -1,0 +1,677 @@
+{
+ "page": 61,
+ "cjk_pass": [
+  {
+   "text": "Unit 3 After-sale Service",
+   "conf": 0.5,
+   "bbox": [
+    0.5969,
+    0.05811,
+    0.89147,
+    0.07715
+   ]
+  },
+  {
+   "text": "① 要是 没有实力，即便想赢，也赢不了。［-②］",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.12354,
+    0.6938,
+    0.14404
+   ]
+  },
+  {
+   "text": "Ydoshi meiyou shill, jibian xidng ying, ye ying bu lido.",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.1439,
+    0.62791,
+    0.15988
+   ]
+  },
+  {
+   "text": "要是没有实力，即便想赢，就赢不了。［-③］",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.16846,
+    0.69961,
+    0.18896
+   ]
+  },
+  {
+   "text": "Ydoshi meiyou shill，",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.18895,
+    0.3624,
+    0.20361
+   ]
+  },
+  {
+   "text": "jbian xiang ying, jid ying bu lido.",
+   "conf": 0.3,
+   "bbox": [
+    0.36047,
+    0.18895,
+    0.62984,
+    0.20508
+   ]
+  },
+  {
+   "text": "②我担心这种手机用不住。［一⑤」",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.21366,
+    0.57364,
+    0.23256
+   ]
+  },
+  {
+   "text": "Wo dan xin zhe zhong shouji yong bu zhu.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.23389,
+    0.50775,
+    0.25
+   ]
+  },
+  {
+   "text": "我担心这种手机不用住。一④」",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.25872,
+    0.57171,
+    0.27783
+   ]
+  },
+  {
+   "text": "Wo don xin zhe zhong shouji bu yong zhd.",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.27762,
+    0.50581,
+    0.2936
+   ]
+  },
+  {
+   "text": "③学 语言得多听多说，即便 说错了，就不用不好意思。［-C］",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.30225,
+    0.85853,
+    0.32275
+   ]
+  },
+  {
+   "text": "Xue yiyan dei duo ting duo shuo, jibian shuocuo le, jio bdyong bu hdoyisi.",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.32267,
+    0.78488,
+    0.34033
+   ]
+  },
+  {
+   "text": "学 语言得多听多说，即便 说错了，也不用 不好意思。［一②］",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.34717,
+    0.85853,
+    0.36628
+   ]
+  },
+  {
+   "text": "Xue yuyan de duo ting duo shuo. jlbian shuocuo le, ye buyong bu haoyisi.",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.36768,
+    0.78101,
+    0.38379
+   ]
+  },
+  {
+   "text": "④快 帮帮我，我拿不住了！一⑤」",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.39244,
+    0.55426,
+    0.41134
+   ]
+  },
+  {
+   "text": "Kuai bangbang wo. wo na bu zhu le！.",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.41406,
+    0.47674,
+    0.43023
+   ]
+  },
+  {
+   "text": "快帮帮我，我拿得住了！［-D］",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.43604,
+    0.54651,
+    0.45508
+   ]
+  },
+  {
+   "text": "Kuai bangbang wd, wo nd de zhi le！",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.45785,
+    0.47481,
+    0.47384
+   ]
+  },
+  {
+   "text": "⑤小票你得留好，要不然就不能退货了。［-A］",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.48096,
+    0.69186,
+    0.50146
+   ]
+  },
+  {
+   "text": "Xidopido ni dei lidhdo, yaoburan jid bu neng tui huo le.",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.50145,
+    0.61628,
+    0.51611
+   ]
+  },
+  {
+   "text": "要不然 小票 你得留好，就不能 退货了。一B」",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.52616,
+    0.67248,
+    0.54651
+   ]
+  },
+  {
+   "text": "Ydoburan xidopido ni deilid hdo. ju bu neng tui huo le.",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.54492,
+    0.59884,
+    0.56105
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好。",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.59012,
+    0.46705,
+    0.60756
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.61328,
+    0.65698,
+    0.62939
+   ]
+  },
+  {
+   "text": "B.你的语法学得不错。不过要注意“要不然”的用法。",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.63953,
+    0.64535,
+    0.65988
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you need",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.66553,
+    0.68411,
+    0.68169
+   ]
+  },
+  {
+   "text": "to pay attention to the usage of“要不然”.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.6875,
+    0.56783,
+    0.70508
+   ]
+  },
+  {
+   "text": "C.注意“即便”的用法，请认真看一下语法注释2。",
+   "conf": 0.5,
+   "bbox": [
+    0.17223,
+    0.71093,
+    0.61467,
+    0.73531
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of “即便\". You can",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.73828,
+    0.68411,
+    0.75586
+   ]
+  },
+  {
+   "text": "find some details in the second part of the Grammar",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.76163,
+    0.68605,
+    0.77783
+   ]
+  },
+  {
+   "text": "Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.78467,
+    0.25581,
+    0.79942
+   ]
+  },
+  {
+   "text": "D.注意“•得住”“•⋯不住”的用法，请认真看一下语",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.8125,
+    0.68217,
+    0.83154
+   ]
+  },
+  {
+   "text": "法注释3。",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.8343,
+    0.27907,
+    0.8532
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"•⋯得",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.85889,
+    0.68217,
+    0.87355
+   ]
+  },
+  {
+   "text": "住”and“.⋯不住”. You can find some details in the",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.87936,
+    0.68411,
+    0.89697
+   ]
+  },
+  {
+   "text": "thira part of the Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.90407,
+    0.49225,
+    0.92006
+   ]
+  },
+  {
+   "text": "45",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 3 After-sale Service",
+   "conf": 1.0,
+   "bbox": [
+    0.5969,
+    0.05811,
+    0.89147,
+    0.07715
+   ]
+  },
+  {
+   "text": "Yàoshi méiyöu shílì, jíbiàn xiăng yíng, yẽ yíng bu lião.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.1439,
+    0.62791,
+    0.15988
+   ]
+  },
+  {
+   "text": "І-3",
+   "conf": 0.3,
+   "bbox": [
+    0.59831,
+    0.16846,
+    0.69961,
+    0.18896
+   ]
+  },
+  {
+   "text": "Yaoshi méiyou shili,",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.18895,
+    0.3624,
+    0.20361
+   ]
+  },
+  {
+   "text": "jíbiàn xiăng ying, jiù yíng bu lião.",
+   "conf": 0.5,
+   "bbox": [
+    0.36047,
+    0.18895,
+    0.62984,
+    0.20508
+   ]
+  },
+  {
+   "text": "1→0",
+   "conf": 0.3,
+   "bbox": [
+    0.51286,
+    0.21366,
+    0.57364,
+    0.23256
+   ]
+  },
+  {
+   "text": "Wó dăn xin zhè zhống shoujĩ yồng bu zhù.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.23389,
+    0.50775,
+    0.25
+   ]
+  },
+  {
+   "text": "Wõ dăn xin zhè zhăng shõuji bú yòng zhù.",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.27762,
+    0.50581,
+    0.2936
+   ]
+  },
+  {
+   "text": "Xué yuyán dễi duõ tĩng duo shuo, jíbiàn shuõcuò le, jiù búyòng bù hãoyisi.",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.32267,
+    0.78488,
+    0.34033
+   ]
+  },
+  {
+   "text": "Xué yuyán de duo ting duõ shuo, jíbiàn shuốcuò le, yẽ búyòng bù hãoyisi.",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.36768,
+    0.78101,
+    0.38379
+   ]
+  },
+  {
+   "text": "Kưài bàngbang wõ, wò ná bu zhù le!",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.41406,
+    0.47674,
+    0.43023
+   ]
+  },
+  {
+   "text": "Kuài băngbang wò, wõ ná de zhù le!",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.45785,
+    0.47481,
+    0.47384
+   ]
+  },
+  {
+   "text": "Xiăopiào ni dễi liúhão, yàobùrán jiù bù néng tuì huò le.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.50145,
+    0.61628,
+    0.51611
+   ]
+  },
+  {
+   "text": "A iENT. -BІ",
+   "conf": 0.3,
+   "bbox": [
+    0.48145,
+    0.52616,
+    0.67248,
+    0.54651
+   ]
+  },
+  {
+   "text": "Yàobùrán xiăopiào nĩ dặi líu hão, jiù bù néng tuì huò le.",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.54492,
+    0.59884,
+    0.56105
+   ]
+  },
+  {
+   "text": "A AHT, МHTHNT",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.59012,
+    0.46705,
+    0.60756
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.61328,
+    0.65698,
+    0.62939
+   ]
+  },
+  {
+   "text": "в.1H7271М КАЛИВ \"ШЛА\" К0ЛО",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.63953,
+    0.64535,
+    0.65988
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you need",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.66553,
+    0.68411,
+    0.68169
+   ]
+  },
+  {
+   "text": "to pay attention to the usage of \"* 1%\".",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.6875,
+    0.56783,
+    0.70508
+   ]
+  },
+  {
+   "text": "С.ЙС \"ПИС\" МЛІД, МИЛТ-ТИТЖН2",
+   "conf": 0.3,
+   "bbox": [
+    0.17223,
+    0.71093,
+    0.61467,
+    0.73531
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"gftl\" . You can",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.73828,
+    0.68411,
+    0.75586
+   ]
+  },
+  {
+   "text": "find some details in the second part of the Grammar",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.76163,
+    0.68605,
+    0.77783
+   ]
+  },
+  {
+   "text": "Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.78488,
+    0.25581,
+    0.79942
+   ]
+  },
+  {
+   "text": "D.РМ\" ИЛ\"\"...Т\" млд, жимт- ті",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.8125,
+    0.68217,
+    0.83154
+   ]
+  },
+  {
+   "text": "727:873",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.8343,
+    0.27907,
+    0.8532
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"......í}",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.85889,
+    0.68217,
+    0.87355
+   ]
+  },
+  {
+   "text": "1:\" and \".....KfÈ:\". You can find some details in the",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.87936,
+    0.68411,
+    0.89697
+   ]
+  },
+  {
+   "text": "third part of the Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.90407,
+    0.49225,
+    0.92006
+   ]
+  },
+  {
+   "text": "45",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  }
+ ]
+}

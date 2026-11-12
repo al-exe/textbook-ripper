@@ -1,0 +1,697 @@
+{
+ "page": 79,
+ "cjk_pass": [
+  {
+   "text": "Unit4 Talking about Housing",
+   "conf": 0.5,
+   "bbox": [
+    0.56783,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "四",
+   "conf": 0.3,
+   "bbox": [
+    0.12597,
+    0.12064,
+    0.1686,
+    0.15116
+   ]
+  },
+  {
+   "text": "（1",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.17871,
+    0.14341,
+    0.20215
+   ]
+  },
+  {
+   "text": "语法点注释 GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.12645,
+    0.6531,
+    0.14844
+   ]
+  },
+  {
+   "text": "存在句",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.18018,
+    0.22093,
+    0.19775
+   ]
+  },
+  {
+   "text": "Sentence indicating existence",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.18311,
+    0.50581,
+    0.19775
+   ]
+  },
+  {
+   "text": "动词“有”、“是”、“在”都可以表示存在，它们做谓语时，句子的语序分别是：",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.21512,
+    0.87984,
+    0.23401
+   ]
+  },
+  {
+   "text": "The verbs“有”，“是”and“在” can be used to indicate existence. If used as the predicate，",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.23828,
+    0.89147,
+    0.25586
+   ]
+  },
+  {
+   "text": "the word order of the sentence is as follows：",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.25872,
+    0.5,
+    0.27051
+   ]
+  },
+  {
+   "text": "（1） 某处—有/ 是—某人（物）",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.28052,
+    0.50194,
+    0.29651
+   ]
+  },
+  {
+   "text": "location—有/是一",
+   "conf": 0.5,
+   "bbox": [
+    0.2345,
+    0.30078,
+    0.40116,
+    0.31543
+   ]
+  },
+  {
+   "text": "somebody （something）",
+   "conf": 0.5,
+   "bbox": [
+    0.42155,
+    0.30225,
+    0.59884,
+    0.31689
+   ]
+  },
+  {
+   "text": "（2）某人（物）—在—某处",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.32267,
+    0.47287,
+    0.3374
+   ]
+  },
+  {
+   "text": "somebody （something）——“在”—location",
+   "conf": 0.5,
+   "bbox": [
+    0.23419,
+    0.33939,
+    0.59908,
+    0.36174
+   ]
+  },
+  {
+   "text": "①楼上有三个房间。②北边 是书房。",
+   "conf": 0.3,
+   "bbox": [
+    0.2345,
+    0.375,
+    0.72481,
+    0.39404
+   ]
+  },
+  {
+   "text": "Lou shang you san ge fangjidn.",
+   "conf": 0.5,
+   "bbox": [
+    0.25581,
+    0.3968,
+    0.50194,
+    0.41279
+   ]
+  },
+  {
+   "text": "Beibian shi shufdng.",
+   "conf": 0.5,
+   "bbox": [
+    0.56589,
+    0.3968,
+    0.73062,
+    0.40988
+   ]
+  },
+  {
+   "text": "③厨房 在客厅 旁边。",
+   "conf": 0.3,
+   "bbox": [
+    0.2345,
+    0.42285,
+    0.47674,
+    0.44189
+   ]
+  },
+  {
+   "text": "Chufang zdi keting pangbian.",
+   "conf": 0.5,
+   "bbox": [
+    0.25775,
+    0.44622,
+    0.48837,
+    0.46094
+   ]
+  },
+  {
+   "text": "用“有”表示存在的句子跟用“是”表示存在的句子不同之处在于：",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.47217,
+    0.78101,
+    0.49128
+   ]
+  },
+  {
+   "text": "Both a sentence with“有”and a sentence with“是”can be used to indicate existence.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.49707,
+    0.89147,
+    0.51172
+   ]
+  },
+  {
+   "text": "Their differences are as follows：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.52035,
+    0.40891,
+    0.53343
+   ]
+  },
+  {
+   "text": "（1）用“有”的句子宾语是不确指的，而用“是”的句子宾语可以是确指的，也",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.54639,
+    0.90116,
+    0.56689
+   ]
+  },
+  {
+   "text": "可以是不确指的。因此，不说“书房旁边有我的卧室。”而是说“书房旁边是我的卧室。”",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.56977,
+    0.89147,
+    0.58887
+   ]
+  },
+  {
+   "text": "The object of a sentence with “有” is indefinite, while the object of a sentence with “是”is",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.59302,
+    0.88953,
+    0.61047
+   ]
+  },
+  {
+   "text": "either definite or indefinite. As a result， “书房旁边有我的卧室。”would be incorrect, and “书",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.61621,
+    0.88953,
+    0.63379
+   ]
+  },
+  {
+   "text": "房旁边是我的卧室”is correct.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.63808,
+    0.39147,
+    0.6543
+   ]
+  },
+  {
+   "text": "（2）用“有”的句子只说明某处存在某人或某物，用“是”的句子是已知某处存",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.66553,
+    0.88953,
+    0.68459
+   ]
+  },
+  {
+   "text": "在某人或某物，而要进一步说明是谁或是什么。",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.69041,
+    0.56395,
+    0.70801
+   ]
+  },
+  {
+   "text": "A sentence with“有” just indicates a person or thing is located somewhere, while a",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.71221,
+    0.88953,
+    0.7282
+   ]
+  },
+  {
+   "text": "sentence with “是” indicates it is already known that somebody/something is there, and who/",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.73389,
+    0.89147,
+    0.75146
+   ]
+  },
+  {
+   "text": "what it is further stated.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.75727,
+    0.34109,
+    0.77051
+   ]
+  },
+  {
+   "text": "“的”字结构 The”的”phrase",
+   "conf": 0.3,
+   "bbox": [
+    0.14691,
+    0.80165,
+    0.44801,
+    0.82499
+   ]
+  },
+  {
+   "text": "名词、代词、形容词、动词等后边加上“的”，可以组成“的”字结构。“的”字",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.84302,
+    0.88953,
+    0.86337
+   ]
+  },
+  {
+   "text": "结构相当于一个名词或名词短语。例如：",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.86621,
+    0.50969,
+    0.88379
+   ]
+  },
+  {
+   "text": "If a noun, pronoun, adjective or verb is followed by ”的”，the ”的” phrase is formed，",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.88953,
+    0.89147,
+    0.90576
+   ]
+  },
+  {
+   "text": "which is equivalent to a noun or noun phrase, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.9126,
+    0.54845,
+    0.92587
+   ]
+  },
+  {
+   "text": "63",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 4 Talking about Housing",
+   "conf": 1.0,
+   "bbox": [
+    0.56783,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "iBiZmiEi GRAMMAR NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.12645,
+    0.6531,
+    0.14844
+   ]
+  },
+  {
+   "text": "Sentence indicating existence",
+   "conf": 1.0,
+   "bbox": [
+    0.23643,
+    0.18311,
+    0.50581,
+    0.19775
+   ]
+  },
+  {
+   "text": "\"В \"д\". \"И\" Жлидттт, СиинАи, рткИОЛ:",
+   "conf": 0.3,
+   "bbox": [
+    0.23844,
+    0.21512,
+    0.87984,
+    0.23401
+   ]
+  },
+  {
+   "text": "The verbs \"1j\", \"A\" and \"{\" can be used to indicate existence. If used as the predicate,",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.23828,
+    0.89147,
+    0.25586
+   ]
+  },
+  {
+   "text": "the word order of the sentence is as follows:",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.25872,
+    0.5,
+    0.27051
+   ]
+  },
+  {
+   "text": "(1) 14- 71211(4)",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.28052,
+    0.50194,
+    0.29651
+   ]
+  },
+  {
+   "text": "location—1/X-",
+   "conf": 0.3,
+   "bbox": [
+    0.2345,
+    0.30087,
+    0.40116,
+    0.31541
+   ]
+  },
+  {
+   "text": "-somebody (something)",
+   "conf": 1.0,
+   "bbox": [
+    0.40698,
+    0.30225,
+    0.59884,
+    0.31689
+   ]
+  },
+  {
+   "text": "(2) 11 (11)-1E-1A",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.32267,
+    0.47287,
+    0.3374
+   ]
+  },
+  {
+   "text": "somebody (something)— \"/E\"-location",
+   "conf": 0.3,
+   "bbox": [
+    0.23419,
+    0.33939,
+    0.59908,
+    0.36174
+   ]
+  },
+  {
+   "text": "Lóu shàng yõu sân ge fángjiăn.",
+   "conf": 0.5,
+   "bbox": [
+    0.25581,
+    0.3968,
+    0.50194,
+    0.41279
+   ]
+  },
+  {
+   "text": "Beibian shì shũfáng.",
+   "conf": 1.0,
+   "bbox": [
+    0.56589,
+    0.3968,
+    0.73062,
+    0.40988
+   ]
+  },
+  {
+   "text": "Chútáng zài kèting pángbiăn.",
+   "conf": 1.0,
+   "bbox": [
+    0.25775,
+    0.44622,
+    0.48837,
+    0.46094
+   ]
+  },
+  {
+   "text": "Both a sentence with \"*j\" and a sentence with \"#\" can be used to indicate existence.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.49707,
+    0.89147,
+    0.51172
+   ]
+  },
+  {
+   "text": "Their differences are as follows:",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.52035,
+    0.40891,
+    0.53343
+   ]
+  },
+  {
+   "text": "(1) л \"Н\" НптлалонИ, пл \"д\" кАтлИНОЕтИ, И",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.54639,
+    0.90116,
+    0.56689
+   ]
+  },
+  {
+   "text": "ПОЛЛТИ ТИ,КИ ВЕЗДИНКЕС \"ПЕЙ\"ВЕЗАЕ.\"",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.56977,
+    0.89147,
+    0.58887
+   ]
+  },
+  {
+   "text": "The object of a sentence with \"4j\" is indefinite, while the object of a sentence with \"Xl\" is",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.59302,
+    0.88953,
+    0.61047
+   ]
+  },
+  {
+   "text": "either definite or indefinite. As a result, \" +55iL1FiJEN \" would be incorrect, and \"t;",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.61621,
+    0.88953,
+    0.63379
+   ]
+  },
+  {
+   "text": "LSAA FKJEME\" is correct.",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.63808,
+    0.39147,
+    0.6543
+   ]
+  },
+  {
+   "text": "[2Л \"И\" ШИТЯВОтШТААЛАИ, Т\"А\" КЛТАСТИНИ",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.66553,
+    0.88953,
+    0.68459
+   ]
+  },
+  {
+   "text": "ИЖЛХАИ, ШДД СООЛИ ЛНДО",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.69041,
+    0.56395,
+    0.70801
+   ]
+  },
+  {
+   "text": "A sentence with \"(i\" just indicates a person or thing is located somewhere, while a",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.71221,
+    0.88953,
+    0.7282
+   ]
+  },
+  {
+   "text": "sentence with \"XL\" indicates it is already known that somebody/something is there, and who/",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.73389,
+    0.89147,
+    0.75146
+   ]
+  },
+  {
+   "text": "what it is further stated.",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.75727,
+    0.34109,
+    0.77051
+   ]
+  },
+  {
+   "text": "\"*J\" 74* The \"#J\" phrase",
+   "conf": 0.3,
+   "bbox": [
+    0.14691,
+    0.80165,
+    0.44801,
+    0.82499
+   ]
+  },
+  {
+   "text": "НШ, 1Ш. WШ IGEТE \"К\", DOAо \"К\" 74114. \"К\" 7",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.84302,
+    0.88953,
+    0.86337
+   ]
+  },
+  {
+   "text": "If a noun, pronoun, adjective or verb is followed by \"#J\", the \"#J\" phrase is formed,",
+   "conf": 1.0,
+   "bbox": [
+    0.18992,
+    0.88953,
+    0.89147,
+    0.90576
+   ]
+  },
+  {
+   "text": "which is equivalent to a noun or noun phrase, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.9126,
+    0.54845,
+    0.92587
+   ]
+  },
+  {
+   "text": "63",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  }
+ ]
+}

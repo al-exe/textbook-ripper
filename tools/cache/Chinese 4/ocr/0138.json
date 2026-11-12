@@ -1,0 +1,637 @@
+{
+ "page": 138,
+ "cjk_pass": [
+  {
+   "text": "Unit 8 Environment",
+   "conf": 0.5,
+   "bbox": [
+    0.67054,
+    0.05811,
+    0.89922,
+    0.07861
+   ]
+  },
+  {
+   "text": "认识18~21个：太棒了！",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.12354,
+    0.37403,
+    0.13965
+   ]
+  },
+  {
+   "text": "Knowing 18-21 words: Wonderful！",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.1468,
+    0.46705,
+    0.16279
+   ]
+  },
+  {
+   "text": "认识14~17个：不错，要更加努力。",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.19331,
+    0.47481,
+    0.21094
+   ]
+  },
+  {
+   "text": "Knowing 14-17 words: Good. Please make more efforts.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.21512,
+    0.65698,
+    0.2311
+   ]
+  },
+  {
+   "text": "认识14个以下：得复习复习。加油啊！",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.26308,
+    0.50194,
+    0.2793
+   ]
+  },
+  {
+   "text": "Knowing fewer than 14 words: Please review the lesson. Come on！",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.28467,
+    0.74806,
+    0.30087
+   ]
+  },
+  {
+   "text": "123",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.35756,
+    0.13566,
+    0.37209
+   ]
+  },
+  {
+   "text": "选一选，测一测",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.35596,
+    0.3062,
+    0.375
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 0.5,
+   "bbox": [
+    0.32558,
+    0.35742,
+    0.47093,
+    0.37064
+   ]
+  },
+  {
+   "text": "在正确的句子或合适的答句前打v，看看你语法学得怎么样。",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.39535,
+    0.68605,
+    0.41279
+   ]
+  },
+  {
+   "text": "Tick v before the nght sentences or answers to check how well you have learned the grammar.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.41846,
+    0.87984,
+    0.43314
+   ]
+  },
+  {
+   "text": "①A. 这里的 环境 污染很 严重，幸亏 越来越多的人开始保护",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.44767,
+    0.83333,
+    0.4668
+   ]
+  },
+  {
+   "text": "Zheli de hudnjing wuran hen ydnzhong, xingkui yueldiyue duo de ren kaishi bdohd",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.46924,
+    0.83721,
+    0.48547
+   ]
+  },
+  {
+   "text": "环境。【 ②」",
+   "conf": 0.3,
+   "bbox": [
+    0.19755,
+    0.49226,
+    0.32183,
+    0.5121
+   ]
+  },
+  {
+   "text": "huanjing.",
+   "conf": 0.5,
+   "bbox": [
+    0.19555,
+    0.51404,
+    0.2715,
+    0.53102
+   ]
+  },
+  {
+   "text": "B. 这里的 环境 污染 很 严重，幸亏 越来越多的人开始破坏",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.53613,
+    0.83527,
+    0.55523
+   ]
+  },
+  {
+   "text": "Zheli de hudnjing wiran hen yanzhong, xingkui yueldiyue duo de ren kaishi pohudi",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.55957,
+    0.84302,
+    0.57568
+   ]
+  },
+  {
+   "text": "环境。［一③」",
+   "conf": 0.3,
+   "bbox": [
+    0.19745,
+    0.58061,
+    0.32193,
+    0.60253
+   ]
+  },
+  {
+   "text": "huanjing.",
+   "conf": 0.5,
+   "bbox": [
+    0.19567,
+    0.60445,
+    0.27139,
+    0.61939
+   ]
+  },
+  {
+   "text": "②为 什么 这 条河污染得这么厉害？",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.62354,
+    0.56008,
+    0.64551
+   ]
+  },
+  {
+   "text": "Wei shenme zhe tido he wuran de zheme lihai？",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.64826,
+    0.54845,
+    0.66279
+   ]
+  },
+  {
+   "text": "A. 有些工厂 排放 污水，再加上 河边垃圾越来越多，就",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.66992,
+    0.82171,
+    0.69043
+   ]
+  },
+  {
+   "text": "Youxie gongchang pdifang wishui, zai jiashang he bian laji yueldiyue duo. jd",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.69331,
+    0.81977,
+    0.70947
+   ]
+  },
+  {
+   "text": "变成 这样了。一⑤」",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.71657,
+    0.45349,
+    0.73547
+   ]
+  },
+  {
+   "text": "biancheng zheyang le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.73828,
+    0.37403,
+    0.75439
+   ]
+  },
+  {
+   "text": "B.河里有很多垃圾，再加上 人们 开始意识到 环保 的 重要性，",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.76017,
+    0.87403,
+    0.7793
+   ]
+  },
+  {
+   "text": "He li you hen duo laji, zdi jiashang renmen kaishi yishi ddo hudnbdo de zhongydoxing，",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.78174,
+    0.89147,
+    0.79797
+   ]
+  },
+  {
+   "text": "就变成 这样了。一④」",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.80518,
+    0.47093,
+    0.82568
+   ]
+  },
+  {
+   "text": "jid biancheng zheyang le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.82703,
+    0.39729,
+    0.84326
+   ]
+  },
+  {
+   "text": "③A.我的手机 坏了，幸亏我的发票还在，可以换一个新的。［-②］",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.84863,
+    0.87597,
+    0.86919
+   ]
+  },
+  {
+   "text": "Wo de shouji huai le, xingkui wo de fapido hai zai, keyi huan yi ge xin de.",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.87207,
+    0.80426,
+    0.88818
+   ]
+  },
+  {
+   "text": "B. 我的手机 坏了，幸亏 我没有发票，不能换新的。［一D",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.8939,
+    0.83721,
+    0.91424
+   ]
+  },
+  {
+   "text": "Wo de shouji huai le, xingkui wo meiyou fapido, bu neng huan xin de.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.91699,
+    0.76744,
+    0.93314
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 8 Environment",
+   "conf": 1.0,
+   "bbox": [
+    0.67054,
+    0.05811,
+    0.89922,
+    0.07861
+   ]
+  },
+  {
+   "text": "1іД18-211: АНТ!",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.12354,
+    0.37403,
+    0.13965
+   ]
+  },
+  {
+   "text": "Knowing 18-21 words: Wonderful!",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.1468,
+    0.46705,
+    0.16279
+   ]
+  },
+  {
+   "text": "і14-171: ВМ, ВШ.",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.19331,
+    0.47481,
+    0.21094
+   ]
+  },
+  {
+   "text": "Knowing 14-17 words: Good. Please make more efforts.",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.21512,
+    0.65698,
+    0.2311
+   ]
+  },
+  {
+   "text": "Knowing fewer than 14 words: Please review the lesson. Come on!",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.28467,
+    0.74806,
+    0.30087
+   ]
+  },
+  {
+   "text": "123",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.35756,
+    0.13566,
+    0.37209
+   ]
+  },
+  {
+   "text": "—іду",
+   "conf": 0.3,
+   "bbox": [
+    0.23234,
+    0.35596,
+    0.3062,
+    0.375
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 1.0,
+   "bbox": [
+    0.32558,
+    0.35742,
+    0.47093,
+    0.37064
+   ]
+  },
+  {
+   "text": "ШКДтКдЛю ПЕКИТНEдН",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.39535,
+    0.68605,
+    0.41279
+   ]
+  },
+  {
+   "text": "Tick v before the right sentences or answers to check how well you have learned the grammar.",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.41846,
+    0.87984,
+    0.43314
+   ]
+  },
+  {
+   "text": "Zhèli de huánjing wurăn hẽn yánzhòng, xingkui yuèláiyuè duo de rén kãishĩ băohù",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.46924,
+    0.83721,
+    0.48547
+   ]
+  },
+  {
+   "text": "FTR. -2",
+   "conf": 0.3,
+   "bbox": [
+    0.19755,
+    0.49226,
+    0.32183,
+    0.5121
+   ]
+  },
+  {
+   "text": "huánjìng.",
+   "conf": 0.3,
+   "bbox": [
+    0.19555,
+    0.51404,
+    0.2715,
+    0.53102
+   ]
+  },
+  {
+   "text": "Zhèli de huánjing wurăn hẽn yánzhòng, xingkui yuèláiyuè duõ de rén kãishi pòhuài",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.55957,
+    0.84302,
+    0.57568
+   ]
+  },
+  {
+   "text": "1TJ2. (→3]",
+   "conf": 0.3,
+   "bbox": [
+    0.19745,
+    0.58061,
+    0.32193,
+    0.60253
+   ]
+  },
+  {
+   "text": "huánjìng.",
+   "conf": 0.3,
+   "bbox": [
+    0.19567,
+    0.60445,
+    0.27139,
+    0.61939
+   ]
+  },
+  {
+   "text": "Wèi shénme zhè tiáo hé wúrăn de zhème lihai?",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.64826,
+    0.54845,
+    0.66279
+   ]
+  },
+  {
+   "text": "Yöuxie gõngchăng páifàng wũshui, zài giãshàng hé biăn lãji yuèláiyue duo, jiù",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.69331,
+    0.81977,
+    0.70947
+   ]
+  },
+  {
+   "text": "ES iH J.1→0",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.71657,
+    0.45349,
+    0.73547
+   ]
+  },
+  {
+   "text": "biànchéng zhèyàng le.",
+   "conf": 1.0,
+   "bbox": [
+    0.19767,
+    0.73828,
+    0.37403,
+    0.75439
+   ]
+  },
+  {
+   "text": "Hé li yõu hèn du lãjĩ, zài jiãshàng rénmen kãishĩ yìshí dào huánbão de zhòngyàoxing,",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.78174,
+    0.89147,
+    0.79797
+   ]
+  },
+  {
+   "text": "T•-A",
+   "conf": 0.3,
+   "bbox": [
+    0.30729,
+    0.80518,
+    0.47093,
+    0.82568
+   ]
+  },
+  {
+   "text": "jiù biànchéng zhèyàng le.",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.82703,
+    0.39729,
+    0.84326
+   ]
+  },
+  {
+   "text": "Wõ de shoujĩ huài le, xingkui wò de fapiào hái zài, kẽyi huàn yí ge xìn de.",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.87207,
+    0.80426,
+    0.88818
+   ]
+  },
+  {
+   "text": "B Đ 0 8 DO 1 1-D]",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.8939,
+    0.83721,
+    0.91424
+   ]
+  },
+  {
+   "text": "Wó de shoujĩ huài le, xingkui wò méiyou tăpiào, bù néng huàn xin de.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.91699,
+    0.76744,
+    0.93314
+   ]
+  }
+ ]
+}

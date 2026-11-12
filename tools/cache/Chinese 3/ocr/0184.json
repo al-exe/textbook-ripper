@@ -1,0 +1,707 @@
+{
+ "page": 184,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［3〕",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "匹",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.30814,
+    0.16667,
+    0.33285
+   ]
+  },
+  {
+   "text": "170",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.35901,
+    0.14341,
+    0.37645
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12403,
+    0.71512,
+    0.13953,
+    0.72965
+   ]
+  },
+  {
+   "text": "（3）说说你的北京旅行计划。",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.125,
+    0.41473,
+    0.14258
+   ]
+  },
+  {
+   "text": "Talk about your travel plan in Beijing.",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.14971,
+    0.4845,
+    0.16424
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.2093,
+    0.18314,
+    0.23837,
+    0.20349
+   ]
+  },
+  {
+   "text": "这个假期我 想 陪家人/ 好 朋友 去北京 旅游。",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.1875,
+    0.76938,
+    0.20947
+   ]
+  },
+  {
+   "text": "Zhege jidqi wo xiang pei jiaren /hdo pengyou qu Beiing ltybu.",
+   "conf": 0.3,
+   "bbox": [
+    0.2655,
+    0.21221,
+    0.76163,
+    0.22965
+   ]
+  },
+  {
+   "text": "这次旅行我打算…",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.23682,
+    0.49806,
+    0.25586
+   ]
+  },
+  {
+   "text": "Zhe ci ltxing wo ddsuan.....",
+   "conf": 0.3,
+   "bbox": [
+    0.2655,
+    0.25727,
+    0.49419,
+    0.2749
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 0.5,
+   "bbox": [
+    0.18407,
+    0.30945,
+    0.33531,
+    0.33299
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.36628,
+    0.31104,
+    0.6531,
+    0.33008
+   ]
+  },
+  {
+   "text": "“或者” 与“还是”的区别 Difference between “或者”",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.35742,
+    0.67442,
+    0.37646
+   ]
+  },
+  {
+   "text": "and“还是”",
+   "conf": 0.3,
+   "bbox": [
+    0.67054,
+    0.35742,
+    0.79264,
+    0.37646
+   ]
+  },
+  {
+   "text": "“或者”和“还是”都可以表示选择关系，但“或者”用于陈述句里，而“还",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.39826,
+    0.88953,
+    0.4186
+   ]
+  },
+  {
+   "text": "是”则用在表示疑问的句子里。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.42139,
+    0.4845,
+    0.44043
+   ]
+  },
+  {
+   "text": "“或者” and“还是” are both used to indicate a selective relationship. However， “或者”",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.44477,
+    0.87597,
+    0.4624
+   ]
+  },
+  {
+   "text": "is used in a declarative sentence, while “还是” is used in an interrogative sentence, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.46802,
+    0.85078,
+    0.48401
+   ]
+  },
+  {
+   "text": "①今天 去或者明天去都行。",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.49268,
+    0.53682,
+    0.51318
+   ]
+  },
+  {
+   "text": "Jintian qu huozhe mingtian qu dou xing.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.51599,
+    0.53876,
+    0.53198
+   ]
+  },
+  {
+   "text": "② 你喝可乐还是茶？",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.53613,
+    0.40891,
+    0.55523
+   ]
+  },
+  {
+   "text": "Ni he Kele hdishi cha？",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.55957,
+    0.40698,
+    0.57422
+   ]
+  },
+  {
+   "text": "“或者”还可以表示等同关系。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.58721,
+    0.51938,
+    0.6061
+   ]
+  },
+  {
+   "text": "“或者“can also be used to indicate an equivalent relationship, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.61035,
+    0.74225,
+    0.62793
+   ]
+  },
+  {
+   "text": "③您对哪些 城市 或者景点感兴趣呢？",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.63953,
+    0.6531,
+    0.65843
+   ]
+  },
+  {
+   "text": "Nin dui ndxie chengshihuozhe jingdin ganxingaine？",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.66113,
+    0.64922,
+    0.67733
+   ]
+  },
+  {
+   "text": "假设复句：如果/要是⋯•⋯的话，⋯⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.70203,
+    0.50969,
+    0.71948
+   ]
+  },
+  {
+   "text": "Hypothetical compound sentence：如果/要是⋯⋯的话，⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.7207,
+    0.72287,
+    0.73983
+   ]
+  },
+  {
+   "text": "“如果/要是⋯⋯的话”表示假设，后一分句常用副词“就”承接上文，得出结",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.75872,
+    0.88953,
+    0.77783
+   ]
+  },
+  {
+   "text": "论。“如果/要是⋯⋯的话”也可以说“如果/要是•⋯”或“•的话”。“如果”",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.78052,
+    0.88178,
+    0.80087
+   ]
+  },
+  {
+   "text": "和“要是”意思基本相同，但“如果”更正式。“的话”用在表示假设的分句后",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.80225,
+    0.88953,
+    0.82275
+   ]
+  },
+  {
+   "text": "面，引起下文，一般用于口语。例如：",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.82703,
+    0.48643,
+    0.84448
+   ]
+  },
+  {
+   "text": "“如果/要是⋯⋯的话”indicates hypothesis, often with the second clause using the",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.84863,
+    0.89147,
+    0.86337
+   ]
+  },
+  {
+   "text": "adverb “就” to continue from the preceding paragraph and draw a conclusion. It is equivalent",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.87061,
+    0.89147,
+    0.88672
+   ]
+  },
+  {
+   "text": "to “如果/要是",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.8939,
+    0.27295,
+    0.90843
+   ]
+  },
+  {
+   "text": "：” or “…的话”，“如果”means“要是”，but it is more formal. “的话”is",
+   "conf": 0.3,
+   "bbox": [
+    0.29845,
+    0.89244,
+    0.89147,
+    0.90843
+   ]
+  },
+  {
+   "text": "usually used after a hypothesis clause in spoken Chinese to introduce the following paragraph, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.91699,
+    0.88178,
+    0.93023
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ( 3]",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "Talk about your travel plan in Beijing.",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.14971,
+    0.4845,
+    0.16424
+   ]
+  },
+  {
+   "text": "iSiZWiER",
+   "conf": 0.3,
+   "bbox": [
+    0.18407,
+    0.30945,
+    0.33531,
+    0.33299
+   ]
+  },
+  {
+   "text": "170",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.35901,
+    0.14341,
+    0.37645
+   ]
+  },
+  {
+   "text": "Zhège jiàqì wò xiăng péi jiãrén / hão péngyou qù Bẽijĩng lũyóu.",
+   "conf": 0.5,
+   "bbox": [
+    0.2655,
+    0.21221,
+    0.76163,
+    0.22965
+   ]
+  },
+  {
+   "text": "її КжіА t#.",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.23682,
+    0.49806,
+    0.25586
+   ]
+  },
+  {
+   "text": "Zhè cì lũxing wõ dăsuan......",
+   "conf": 0.3,
+   "bbox": [
+    0.2655,
+    0.25727,
+    0.49419,
+    0.2749
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.36628,
+    0.31104,
+    0.6531,
+    0.33008
+   ]
+  },
+  {
+   "text": "Difference between \"&*\"",
+   "conf": 0.5,
+   "bbox": [
+    0.41764,
+    0.35742,
+    0.67442,
+    0.37646
+   ]
+  },
+  {
+   "text": "and \"iE\"",
+   "conf": 0.3,
+   "bbox": [
+    0.67054,
+    0.35742,
+    0.79264,
+    0.37646
+   ]
+  },
+  {
+   "text": "Т \"1",
+   "conf": 0.3,
+   "bbox": [
+    0.81909,
+    0.39826,
+    0.88953,
+    0.4186
+   ]
+  },
+  {
+   "text": "Д\" ШЛИВЛGNКТ ТІ:",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.42139,
+    0.4845,
+    0.44043
+   ]
+  },
+  {
+   "text": "\"ni#i\" and \"it\" are both used to indicate a selective relationship. However, \"I}*:\"",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.44477,
+    0.87597,
+    0.4624
+   ]
+  },
+  {
+   "text": "is used in a declarative sentence, while \"if\" is used in an interrogative sentence, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.46802,
+    0.85078,
+    0.48401
+   ]
+  },
+  {
+   "text": "Jintiăn qù huòzhe míngtiăn qù dõu xíng.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.51599,
+    0.53876,
+    0.53198
+   ]
+  },
+  {
+   "text": "Ni hẽ Kẽlè háishi chá?",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.55957,
+    0.40698,
+    0.57422
+   ]
+  },
+  {
+   "text": "тІм:",
+   "conf": 0.3,
+   "bbox": [
+    0.46159,
+    0.58721,
+    0.51938,
+    0.6061
+   ]
+  },
+  {
+   "text": "\"Ili*i\" can also be used to indicate an equivalent relationship, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.61035,
+    0.74225,
+    0.62793
+   ]
+  },
+  {
+   "text": "B тВХН?",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.63953,
+    0.6531,
+    0.65843
+   ]
+  },
+  {
+   "text": "Nín dui năxie chéngshì huòzhẽ jĩngdiăn găn xingqù ne?",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.66113,
+    0.64922,
+    0.67733
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12403,
+    0.71512,
+    0.13953,
+    0.72965
+   ]
+  },
+  {
+   "text": "Hypothetical compound sentence: 2П7/==i, ••",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.7207,
+    0.72287,
+    0.73983
+   ]
+  },
+  {
+   "text": "ТЕEК,",
+   "conf": 0.3,
+   "bbox": [
+    0.72038,
+    0.75872,
+    0.88953,
+    0.77783
+   ]
+  },
+  {
+   "text": "В \"МАЛКИ\" ШШОК \"МАСЛ\" К\"КИ\" • \"МЯ\"",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.78052,
+    0.88178,
+    0.80087
+   ]
+  },
+  {
+   "text": "АВЛІВН",
+   "conf": 0.3,
+   "bbox": [
+    0.67497,
+    0.80225,
+    0.88953,
+    0.82275
+   ]
+  },
+  {
+   "text": "Н, ТХ, —ШТПШ ФІМ:",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.82703,
+    0.48643,
+    0.84448
+   ]
+  },
+  {
+   "text": "\"Anя/WXÉJiT\" indicates hypothesis, often with the second clause using the",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.84863,
+    0.89147,
+    0.86337
+   ]
+  },
+  {
+   "text": "adverb \"jL\" to continue from the preceding paragraph and draw a conclusion. It is equivalent",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.87061,
+    0.89147,
+    0.88672
+   ]
+  },
+  {
+   "text": "..\" or \"....WJifi\". \"AnA!\" means \"Tf\" , but it is more formal. \"#Jifi\" is",
+   "conf": 0.3,
+   "bbox": [
+    0.29845,
+    0.89244,
+    0.89147,
+    0.90843
+   ]
+  },
+  {
+   "text": "usually used after a hypothesis clause in spoken Chinese to introduce the following paragraph, e.g.,",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.91699,
+    0.88178,
+    0.93023
+   ]
+  }
+ ]
+}

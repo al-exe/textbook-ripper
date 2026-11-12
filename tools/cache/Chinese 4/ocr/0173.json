@@ -1,0 +1,617 @@
+{
+ "page": 173,
+ "cjk_pass": [
+  {
+   "text": "Unit 10 History",
+   "conf": 0.5,
+   "bbox": [
+    0.72287,
+    0.05957,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "选一选，测一测",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.12645,
+    0.31008,
+    0.14697
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 0.5,
+   "bbox": [
+    0.32558,
+    0.12936,
+    0.46899,
+    0.14111
+   ]
+  },
+  {
+   "text": "在正确的句子或合适的答句前打v，看看你语法学得怎么样。",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.16406,
+    0.67054,
+    0.18314
+   ]
+  },
+  {
+   "text": "Tick v before the right sentences or answers to check how well you have learned the grammar.",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.19041,
+    0.88178,
+    0.20361
+   ]
+  },
+  {
+   "text": "①A. 唐代 有很多著名的历史人物，其中我认为最有意思",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.21512,
+    0.8062,
+    0.23547
+   ]
+  },
+  {
+   "text": "Tangdai ydu hen duo zhuming de lishi renwd, qizhong wa renwei zui you yisi",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.23828,
+    0.80233,
+    0.25586
+   ]
+  },
+  {
+   "text": "的是武则天。一②」",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.26453,
+    0.4031,
+    0.28343
+   ]
+  },
+  {
+   "text": "de shi Wu Zetian.",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.28613,
+    0.33333,
+    0.30087
+   ]
+  },
+  {
+   "text": "B. 其中 唐代的很多著名的历史人物，我认为最有意思",
+   "conf": 0.3,
+   "bbox": [
+    0.1686,
+    0.30957,
+    0.81202,
+    0.33008
+   ]
+  },
+  {
+   "text": "Qizhong Tangdai de hen duo zhiming de lishi renwd, wd renwei zui you yisi",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.33285,
+    0.80814,
+    0.34884
+   ]
+  },
+  {
+   "text": "的是武则天。一③」",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.35889,
+    0.40116,
+    0.37793
+   ]
+  },
+  {
+   "text": "de shi Wu Zetian.",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.38081,
+    0.33333,
+    0.39404
+   ]
+  },
+  {
+   "text": "② 你认为 发展经济 更 重要 还是保护 环境更重要？",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.40552,
+    0.7655,
+    0.42442
+   ]
+  },
+  {
+   "text": "Ni renwei fazhdn jingi geng zhongydo hdishi bdohd huanjing geng zhongydo？",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.42725,
+    0.78295,
+    0.44336
+   ]
+  },
+  {
+   "text": "A. 在 我看来，保护 环境 比发展经济更 重要。一⑤」",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.45058,
+    0.74225,
+    0.46948
+   ]
+  },
+  {
+   "text": "Zdi wo kanldi，|",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.47217,
+    0.32364,
+    0.48547
+   ]
+  },
+  {
+   "text": "baohd huanjing bi fazhan jingi geng zhongydo.",
+   "conf": 0.5,
+   "bbox": [
+    0.31977,
+    0.47217,
+    0.69186,
+    0.48837
+   ]
+  },
+  {
+   "text": "B.我 在看来，保护 环境 比发展经济更 重要。［一④",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.49414,
+    0.74225,
+    0.51465
+   ]
+  },
+  {
+   "text": "Wo zai kanlai, bdond huanjing bi fozhan jingi geng zhongydo.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.51744,
+    0.68798,
+    0.53343
+   ]
+  },
+  {
+   "text": "③A.在 中国的四大发明中，有两个是在 唐朝发明的。［一②」",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.54199,
+    0.88566,
+    0.5625
+   ]
+  },
+  {
+   "text": "Zai Zhongguo de si dd faming zhong. you lidng ge shi zdi Tangchao faming de.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.5625,
+    0.81395,
+    0.58008
+   ]
+  },
+  {
+   "text": "B.其中中国",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.58866,
+    0.32752,
+    0.6061
+   ]
+  },
+  {
+   "text": "的四大发明，有两个是在 唐朝发明的。［一C］",
+   "conf": 0.3,
+   "bbox": [
+    0.34302,
+    0.58866,
+    0.87209,
+    0.60756
+   ]
+  },
+  {
+   "text": "Qizhong Zhongguo de si da faming, you lidng ge shi zai Tangchao faming de.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.61182,
+    0.80426,
+    0.62793
+   ]
+  },
+  {
+   "text": "④A. 在我看来，李白是最有名的诗人之一。［-⑤］",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.63517,
+    0.70543,
+    0.65576
+   ]
+  },
+  {
+   "text": "Zdi wo kanldi, Li Bdi shi zui youming de shiren zhi yi.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.6582,
+    0.63178,
+    0.67442
+   ]
+  },
+  {
+   "text": "B.我看来，李白是最有名的诗人之一。［D」",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.68311,
+    0.67636,
+    0.70361
+   ]
+  },
+  {
+   "text": "Wo kanldi，",
+   "conf": 0.3,
+   "bbox": [
+    0.19567,
+    0.70472,
+    0.28689,
+    0.72115
+   ]
+  },
+  {
+   "text": "Li Bdi shi zui youming de shiren zhi yi.",
+   "conf": 0.5,
+   "bbox": [
+    0.28295,
+    0.70494,
+    0.60271,
+    0.72093
+   ]
+  },
+  {
+   "text": "⑤A. 你 报告 的题目究竟是什么？［一A］",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.72949,
+    0.5562,
+    0.74709
+   ]
+  },
+  {
+   "text": "Ni bdogdo de timu jujing shi shenme？",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.75291,
+    0.50194,
+    0.76904
+   ]
+  },
+  {
+   "text": "B. 你报告的题目是 什么究竟？［一B」",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.77762,
+    0.56395,
+    0.79506
+   ]
+  },
+  {
+   "text": "Ni bdogdo de timd shi shenme jiujing？",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.79932,
+    0.50194,
+    0.81543
+   ]
+  },
+  {
+   "text": "159",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 10 History",
+   "conf": 1.0,
+   "bbox": [
+    0.72287,
+    0.05957,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "—і, іл—іду",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.12645,
+    0.31008,
+    0.14697
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 1.0,
+   "bbox": [
+    0.32558,
+    0.12936,
+    0.46899,
+    0.14111
+   ]
+  },
+  {
+   "text": "MIETOKOTOAENOZTRUTV, TiTКAZT1EдН",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.16406,
+    0.67054,
+    0.18314
+   ]
+  },
+  {
+   "text": "Tick v before the right sentences or answers to check how well you have learned the grammar.",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.19041,
+    0.88178,
+    0.20361
+   ]
+  },
+  {
+   "text": "Tángdài yõu hẽn duỗ zhùmíng de lishi rénwù, qízhõng wõ rènwéi zui yõu yisi",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.23828,
+    0.80233,
+    0.25586
+   ]
+  },
+  {
+   "text": "de shì Wu Zétiān.",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.28613,
+    0.33333,
+    0.30087
+   ]
+  },
+  {
+   "text": "Qízhõng Tángdài de hăn duo zhùmíng de lishi rénwù, wõ rènwéi zuì yõu yisi",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.33285,
+    0.80814,
+    0.34884
+   ]
+  },
+  {
+   "text": "-BI",
+   "conf": 0.3,
+   "bbox": [
+    0.34123,
+    0.35889,
+    0.40116,
+    0.37793
+   ]
+  },
+  {
+   "text": "de shì Wũ Zétian.",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.38081,
+    0.33333,
+    0.39404
+   ]
+  },
+  {
+   "text": "159",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "Nĩ rènwéi fãzhăn jĩngjì gèng zhòngyào háishi bằohù huánjìng gèng zhòngyào?",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.42725,
+    0.78295,
+    0.44336
+   ]
+  },
+  {
+   "text": "Zài wõ kànlái,",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.47217,
+    0.32364,
+    0.48547
+   ]
+  },
+  {
+   "text": "bãohù huánjìng bĩ fãzhăn jĩngjì gèng zhòngyào.",
+   "conf": 0.5,
+   "bbox": [
+    0.31977,
+    0.47217,
+    0.69186,
+    0.48837
+   ]
+  },
+  {
+   "text": "Wó zài kànlái, baohu huánjìng bì tàzhăn jĩngjì gèng zhòngyào.",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.51744,
+    0.68798,
+    0.53343
+   ]
+  },
+  {
+   "text": "Zài Zhôngguó de sì dà fămíng zhông, yõu liăng ge shì zài Tángchão fămíng de.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.5625,
+    0.81395,
+    0.58008
+   ]
+  },
+  {
+   "text": "Qízhông Zhôngguó de sì dà fâmíng, yõu liăng ge shì zài Tángchão fămíng de.",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.61182,
+    0.80426,
+    0.62793
+   ]
+  },
+  {
+   "text": "Zài wõ kànlái, Lĩ Bái shì zuì yõumíng de shirén zhì yĩ.",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.6582,
+    0.63178,
+    0.67442
+   ]
+  },
+  {
+   "text": "Wõ kànlái,",
+   "conf": 0.5,
+   "bbox": [
+    0.19567,
+    0.70472,
+    0.28689,
+    0.72115
+   ]
+  },
+  {
+   "text": "Lĩ Bái shì zuì yõumíng de shirén zhì yĩ.",
+   "conf": 0.5,
+   "bbox": [
+    0.28295,
+    0.70494,
+    0.60271,
+    0.72093
+   ]
+  },
+  {
+   "text": "[→А]",
+   "conf": 0.3,
+   "bbox": [
+    0.50163,
+    0.72949,
+    0.5562,
+    0.74709
+   ]
+  },
+  {
+   "text": "Nì bàogào de tímù jiũjing shì shénme?",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.75291,
+    0.50194,
+    0.76904
+   ]
+  },
+  {
+   "text": "→ВІ",
+   "conf": 0.3,
+   "bbox": [
+    0.50667,
+    0.77762,
+    0.56395,
+    0.79506
+   ]
+  },
+  {
+   "text": "Nĩ bàogào de tímù shì shénme jiũjìng?",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.79932,
+    0.50194,
+    0.81543
+   ]
+  }
+ ]
+}

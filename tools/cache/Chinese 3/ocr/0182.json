@@ -1,0 +1,717 @@
+{
+ "page": 182,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.13081,
+    0.13953,
+    0.14535
+   ]
+  },
+  {
+   "text": "168",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "我的自由行 My self-guided tour",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.12936,
+    0.46318,
+    0.14844
+   ]
+  },
+  {
+   "text": "（1）看下面的文章，然后回答问题。",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.16553,
+    0.47481,
+    0.18314
+   ]
+  },
+  {
+   "text": "Read the following passage and then answer the questions.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.1875,
+    0.63566,
+    0.20361
+   ]
+  },
+  {
+   "text": "欢迎（to welcome）",
+   "conf": 0.3,
+   "bbox": [
+    0.38953,
+    0.23682,
+    0.53488,
+    0.25293
+   ]
+  },
+  {
+   "text": "您来北京旅游",
+   "conf": 1.0,
+   "bbox": [
+    0.54457,
+    0.23535,
+    0.68217,
+    0.25439
+   ]
+  },
+  {
+   "text": "如果您想在中国旅游的话，您",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.26453,
+    0.5814,
+    0.28488
+   ]
+  },
+  {
+   "text": "可以来北京看看。北京是中国的首",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.28613,
+    0.58333,
+    0.30814
+   ]
+  },
+  {
+   "text": "都（capital），也是中国的历史名城之",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.30957,
+    0.5814,
+    0.33008
+   ]
+  },
+  {
+   "text": "一，有很多名胜古迹，比如长城、",
+   "conf": 1.0,
+   "bbox": [
+    0.22674,
+    0.3314,
+    0.57364,
+    0.3532
+   ]
+  },
+  {
+   "text": "故宫、天安门等。要是您想看看北",
+   "conf": 1.0,
+   "bbox": [
+    0.22868,
+    0.35303,
+    0.58333,
+    0.375
+   ]
+  },
+  {
+   "text": "京新景点的话，您可以游览鸟巢、",
+   "conf": 1.0,
+   "bbox": [
+    0.22674,
+    0.375,
+    0.57364,
+    0.39844
+   ]
+  },
+  {
+   "text": "水立方等。要是您想买东西的话，",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.39826,
+    0.57364,
+    0.42006
+   ]
+  },
+  {
+   "text": "可以去王府井看看，那儿有很多商店。在北京旅游，您可以",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.41992,
+    0.84302,
+    0.44189
+   ]
+  },
+  {
+   "text": "坐出租车，坐公共汽车，也可以坐地铁，又方便又便宜。北",
+   "conf": 1.0,
+   "bbox": [
+    0.22674,
+    0.44331,
+    0.84302,
+    0.46387
+   ]
+  },
+  {
+   "text": "京有很多小吃，还有非常好吃的北京烤鸭，您想不想来尝尝",
+   "conf": 1.0,
+   "bbox": [
+    0.22674,
+    0.46366,
+    0.84302,
+    0.48547
+   ]
+  },
+  {
+   "text": "呢？当然，如果您不习惯（get used to, habit） 中国菜的话，在北",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.48828,
+    0.84302,
+    0.50732
+   ]
+  },
+  {
+   "text": "京也可以找到非常好吃的汉堡、意大利菜、法国菜、泰国菜",
+   "conf": 1.0,
+   "bbox": [
+    0.22674,
+    0.50872,
+    0.84302,
+    0.53076
+   ]
+  },
+  {
+   "text": "等。北京欢迎您！",
+   "conf": 0.5,
+   "bbox": [
+    0.22663,
+    0.53004,
+    0.40128,
+    0.55427
+   ]
+  },
+  {
+   "text": "Huanying Nin Lai Beiing Luyou",
+   "conf": 0.5,
+   "bbox": [
+    0.41085,
+    0.57994,
+    0.66085,
+    0.59593
+   ]
+  },
+  {
+   "text": "Rugud nin xiding zdi Zhongguo ldyou dehud, nin keyi loi Beijing kankan.",
+   "conf": 0.3,
+   "bbox": [
+    0.27713,
+    0.60596,
+    0.8469,
+    0.62355
+   ]
+  },
+  {
+   "text": "Beijing shi Zhonggud de shoudd, ye shi Zhonggud de lishi ming cheng zhi",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.62645,
+    0.8469,
+    0.64258
+   ]
+  },
+  {
+   "text": "yi,you hen duo mingshengguji, biru Changcheng、Gugong、Tian'anmen",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.6468,
+    0.8469,
+    0.66279
+   ]
+  },
+  {
+   "text": "deng. Yaoshi nin xidng kankan Beijing xin jingdion dehud, nin keyi youldn",
+   "conf": 0.3,
+   "bbox": [
+    0.22481,
+    0.66406,
+    0.84496,
+    0.68169
+   ]
+  },
+  {
+   "text": "Nidochdo,Shuilifang deng. Yaoshi nin xidng mai dngxi dhud, keyi gu",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.68457,
+    0.84496,
+    0.70215
+   ]
+  },
+  {
+   "text": "Wangfujing kankan, nar you hen duo shangdian. Zai Beijing ldyou, nin keyi",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.70494,
+    0.84496,
+    0.72238
+   ]
+  },
+  {
+   "text": "zuo chazuche, zuo gonggong qiche, ye keyi zuo ditie, you fangbian you",
+   "conf": 0.3,
+   "bbox": [
+    0.22481,
+    0.7251,
+    0.84496,
+    0.74273
+   ]
+  },
+  {
+   "text": "pianyl. Beijing you hen duo xidochi,hai",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.74561,
+    0.8469,
+    0.76172
+   ]
+  },
+  {
+   "text": "you feichang hdo chi de Beiing Kdoya，",
+   "conf": 0.3,
+   "bbox": [
+    0.51744,
+    0.76453,
+    0.83721,
+    0.78076
+   ]
+  },
+  {
+   "text": "nin xidng bu xidng ldi changchang ne？",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.78467,
+    0.83527,
+    0.79942
+   ]
+  },
+  {
+   "text": "Dangran, ruguo nin bu xiguan Zhongguo",
+   "conf": 0.5,
+   "bbox": [
+    0.51938,
+    0.80371,
+    0.84496,
+    0.82129
+   ]
+  },
+  {
+   "text": "cai dehua, zoi Beijing ye keyi zhdoddo",
+   "conf": 0.3,
+   "bbox": [
+    0.51744,
+    0.82413,
+    0.84496,
+    0.84033
+   ]
+  },
+  {
+   "text": "feichang hdochi de hanbdo、Yiddli cai、",
+   "conf": 0.3,
+   "bbox": [
+    0.51744,
+    0.84302,
+    0.83527,
+    0.86047
+   ]
+  },
+  {
+   "text": "Fagud cdi、Taiguo cai deng. Beijing",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.86328,
+    0.84496,
+    0.87939
+   ]
+  },
+  {
+   "text": "huanying nin！",
+   "conf": 0.5,
+   "bbox": [
+    0.51932,
+    0.88349,
+    0.62797,
+    0.89994
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [ 3]",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.13081,
+    0.13953,
+    0.14535
+   ]
+  },
+  {
+   "text": "168",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "FHJHET My self-guided tour",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.12936,
+    0.46318,
+    0.14844
+   ]
+  },
+  {
+   "text": "(1) Пгнкхй, клОдпи",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.16553,
+    0.47481,
+    0.18314
+   ]
+  },
+  {
+   "text": "Read the following passage and then answer the questions.",
+   "conf": 1.0,
+   "bbox": [
+    0.20736,
+    0.1875,
+    0.63566,
+    0.20361
+   ]
+  },
+  {
+   "text": "sk if (to welcome)",
+   "conf": 0.3,
+   "bbox": [
+    0.38953,
+    0.23682,
+    0.53488,
+    0.25293
+   ]
+  },
+  {
+   "text": "1 #1073004",
+   "conf": 0.3,
+   "bbox": [
+    0.54457,
+    0.23535,
+    0.68217,
+    0.25439
+   ]
+  },
+  {
+   "text": "Ha 71 B AФ EsHi, X",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.26453,
+    0.5814,
+    0.28488
+   ]
+  },
+  {
+   "text": "T*HÀHA. NÀEФДNА",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.28613,
+    0.58333,
+    0.30814
+   ]
+  },
+  {
+   "text": "#S (capital) , *=+Д45*3жz",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.30957,
+    0.5814,
+    0.33008
+   ]
+  },
+  {
+   "text": "- ПZAлtіE, ШtKt.",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.3314,
+    0.57364,
+    0.3532
+   ]
+  },
+  {
+   "text": "КВ. ЕФ# *АДА",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.35303,
+    0.58333,
+    0.375
+   ]
+  },
+  {
+   "text": "домі, тилкдя.",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.375,
+    0.57364,
+    0.39844
+   ]
+  },
+  {
+   "text": "ПТВЙ, АТИ",
+   "conf": 0.3,
+   "bbox": [
+    0.62207,
+    0.41992,
+    0.84302,
+    0.44189
+   ]
+  },
+  {
+   "text": "ТF1R30*IH=*7*»ЖВ, 4#Т****",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.46366,
+    0.84302,
+    0.48547
+   ]
+  },
+  {
+   "text": "7? 3k, toRT.7l (get used to, habit *tit, tttt",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.48828,
+    0.84302,
+    0.50732
+   ]
+  },
+  {
+   "text": "*. tri xkl!",
+   "conf": 0.3,
+   "bbox": [
+    0.22663,
+    0.53004,
+    0.40128,
+    0.55427
+   ]
+  },
+  {
+   "text": "Huanying Nín Lái Bẽijĩng Lũyóu",
+   "conf": 0.3,
+   "bbox": [
+    0.41085,
+    0.57994,
+    0.66085,
+    0.59593
+   ]
+  },
+  {
+   "text": "Rúguõ nín xiăng zài Zhôngguó lũyóu dehuà, nín kẽyĩ lái Bẽijĩng kànkan.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.60596,
+    0.8469,
+    0.62355
+   ]
+  },
+  {
+   "text": "Băijing shì Zhôngguó de shoudũ, yẽ shì Zhôngguó de lìshi ming chéng zhì",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.62645,
+    0.8469,
+    0.64258
+   ]
+  },
+  {
+   "text": "yì, yêu hèn duo mingshèng guji, birú Chángchéng, Gugõng, Tiăn ănmén",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.6468,
+    0.8469,
+    0.66279
+   ]
+  },
+  {
+   "text": "dăng. Yàoshi nín xiăng kànkan Beijing xin jĩngdiăn dehuà, nín kẽyĩ yóulăn",
+   "conf": 0.5,
+   "bbox": [
+    0.22481,
+    0.66406,
+    0.84496,
+    0.68169
+   ]
+  },
+  {
+   "text": "Niãocháo, Shuĩlifãng dăng. Yàoshi nín xiăng mãi dõngxi dehuà, kẽyĩ qù",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.68457,
+    0.84496,
+    0.70215
+   ]
+  },
+  {
+   "text": "Wángfujĩng kànkan, nà yõu hèn duõ shãngdiàn. Zài Bẽijĩng lũyóu, nín kẽyĩ",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.70494,
+    0.84496,
+    0.72238
+   ]
+  },
+  {
+   "text": "zuò chũzuche, zuò gõnggòng qichẽ, yẽ kẽyĩ zuò dìtiẽ, yàu tăng biàn yồu",
+   "conf": 0.3,
+   "bbox": [
+    0.22481,
+    0.7251,
+    0.84496,
+    0.74273
+   ]
+  },
+  {
+   "text": "piányi. Beijing yõu hèn duo xiăochĩ, hái",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.74561,
+    0.8469,
+    0.76172
+   ]
+  },
+  {
+   "text": "yõu fẽicháng hão chi de Beijĩng Kãoyã,",
+   "conf": 0.3,
+   "bbox": [
+    0.51744,
+    0.76453,
+    0.83721,
+    0.78076
+   ]
+  },
+  {
+   "text": "nín xiăng bu xiăng lái chángchang ne?",
+   "conf": 1.0,
+   "bbox": [
+    0.51938,
+    0.78467,
+    0.83527,
+    0.79942
+   ]
+  },
+  {
+   "text": "Dàngrán, rúguõ nín bù xíguàn Zhôngguó",
+   "conf": 0.5,
+   "bbox": [
+    0.51938,
+    0.80371,
+    0.84496,
+    0.82129
+   ]
+  },
+  {
+   "text": "cài dehuà, zài Beijĩng yẽ kẽyĩ zhăodào",
+   "conf": 0.3,
+   "bbox": [
+    0.51744,
+    0.82413,
+    0.84496,
+    0.84033
+   ]
+  },
+  {
+   "text": "fẽicháng hãochĩ de hànbão, Yidàlì cài.",
+   "conf": 0.5,
+   "bbox": [
+    0.51744,
+    0.84302,
+    0.83527,
+    0.86047
+   ]
+  },
+  {
+   "text": "Făguó cài, Tàiguó cài dăng. Băijing",
+   "conf": 0.5,
+   "bbox": [
+    0.51938,
+    0.86328,
+    0.84496,
+    0.87939
+   ]
+  },
+  {
+   "text": "huãnying nín!",
+   "conf": 0.3,
+   "bbox": [
+    0.51932,
+    0.88349,
+    0.62797,
+    0.89994
+   ]
+  }
+ ]
+}

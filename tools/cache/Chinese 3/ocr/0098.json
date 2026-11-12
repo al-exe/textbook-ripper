@@ -1,0 +1,307 @@
+{
+ "page": 98,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "of which are independent, with the former one including levels 1~6 and the latter one including",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.12645,
+    0.88953,
+    0.14258
+   ]
+  },
+  {
+   "text": "levels of elementary, intermediate and advanced. If you want to study in a Chinese college or",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.14826,
+    0.89147,
+    0.16279
+   ]
+  },
+  {
+   "text": "university, you should pass the New HSK Level 4 at least.",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.16992,
+    0.57752,
+    0.1875
+   ]
+  },
+  {
+   "text": "（二）图片看中国",
+   "conf": 0.3,
+   "bbox": [
+    0.32364,
+    0.23828,
+    0.48256,
+    0.25586
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.50194,
+    0.24121,
+    0.67636,
+    0.25586
+   ]
+  },
+  {
+   "text": "82",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.34012,
+    0.06395,
+    0.35756
+   ]
+  },
+  {
+   "text": "高考",
+   "conf": 1.0,
+   "bbox": [
+    0.42248,
+    0.3939,
+    0.46899,
+    0.41279
+   ]
+  },
+  {
+   "text": "gaokdo",
+   "conf": 0.3,
+   "bbox": [
+    0.4186,
+    0.41846,
+    0.47868,
+    0.43314
+   ]
+  },
+  {
+   "text": "College Entrance Examination",
+   "conf": 0.5,
+   "bbox": [
+    0.42248,
+    0.4375,
+    0.66473,
+    0.45215
+   ]
+  },
+  {
+   "text": "红榜",
+   "conf": 1.0,
+   "bbox": [
+    0.42248,
+    0.60596,
+    0.46899,
+    0.62355
+   ]
+  },
+  {
+   "text": "hongbang",
+   "conf": 0.5,
+   "bbox": [
+    0.42054,
+    0.62936,
+    0.49806,
+    0.64551
+   ]
+  },
+  {
+   "text": "Honor roll",
+   "conf": 0.5,
+   "bbox": [
+    0.41852,
+    0.64939,
+    0.5059,
+    0.66311
+   ]
+  },
+  {
+   "text": "公务员考试",
+   "conf": 1.0,
+   "bbox": [
+    0.42248,
+    0.8125,
+    0.53876,
+    0.83154
+   ]
+  },
+  {
+   "text": "gongwuyuan kaoshi",
+   "conf": 0.5,
+   "bbox": [
+    0.4186,
+    0.83721,
+    0.57752,
+    0.85174
+   ]
+  },
+  {
+   "text": "Civil service examination",
+   "conf": 0.5,
+   "bbox": [
+    0.42054,
+    0.85596,
+    0.62597,
+    0.87064
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [ 3 ]",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "of which are independent, with the former one including levels 1~6 and the latter one including",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.12645,
+    0.88953,
+    0.14258
+   ]
+  },
+  {
+   "text": "levels of elementary, intermediate and advanced. If you want to study in a Chinese college or",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.14826,
+    0.89147,
+    0.16279
+   ]
+  },
+  {
+   "text": "university, you should pass the New HSK Level 4 at least.",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.16992,
+    0.57752,
+    0.1875
+   ]
+  },
+  {
+   "text": "8НЕФЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.37044,
+    0.23828,
+    0.48256,
+    0.25586
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 1.0,
+   "bbox": [
+    0.50194,
+    0.24121,
+    0.67636,
+    0.25586
+   ]
+  },
+  {
+   "text": "82",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.34012,
+    0.06395,
+    0.35756
+   ]
+  },
+  {
+   "text": "gãokão",
+   "conf": 0.5,
+   "bbox": [
+    0.4186,
+    0.4186,
+    0.47868,
+    0.43314
+   ]
+  },
+  {
+   "text": "College Entrance Examination",
+   "conf": 1.0,
+   "bbox": [
+    0.42248,
+    0.4375,
+    0.66473,
+    0.45215
+   ]
+  },
+  {
+   "text": "41 t%",
+   "conf": 0.3,
+   "bbox": [
+    0.42248,
+    0.60596,
+    0.46899,
+    0.62355
+   ]
+  },
+  {
+   "text": "hóngbăng",
+   "conf": 0.5,
+   "bbox": [
+    0.42054,
+    0.62936,
+    0.49806,
+    0.64535
+   ]
+  },
+  {
+   "text": "Honor roll",
+   "conf": 1.0,
+   "bbox": [
+    0.41852,
+    0.64939,
+    0.5059,
+    0.66311
+   ]
+  },
+  {
+   "text": "gõngwuyuán kaoshì",
+   "conf": 0.3,
+   "bbox": [
+    0.4186,
+    0.83721,
+    0.57752,
+    0.85174
+   ]
+  },
+  {
+   "text": "Civil service examination",
+   "conf": 1.0,
+   "bbox": [
+    0.42054,
+    0.85596,
+    0.62597,
+    0.87064
+   ]
+  }
+ ]
+}

@@ -1,0 +1,647 @@
+{
+ "page": 31,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4〕",
+   "conf": 0.5,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "14",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34157,
+    0.05814,
+    0.3561
+   ]
+  },
+  {
+   "text": "②A：今天 早上堵车，我差点儿迟到。［一④］",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.12354,
+    0.69186,
+    0.14404
+   ]
+  },
+  {
+   "text": "Jintian zdoshang dt che, wo chadianr chiddo.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.1439,
+    0.62597,
+    0.15988
+   ]
+  },
+  {
+   "text": "B：今天 早上堵车，我差点儿不迟到。［一⑤］",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.16846,
+    0.71705,
+    0.18896
+   ]
+  },
+  {
+   "text": "Jintian zdoshang di che, wo chadidnr bu chiddo.",
+   "conf": 0.3,
+   "bbox": [
+    0.25194,
+    0.18895,
+    0.65116,
+    0.20508
+   ]
+  },
+  {
+   "text": "③A：这么多工作，别说一天就是一个星期也做不完。一②」",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.21366,
+    0.88372,
+    0.23256
+   ]
+  },
+  {
+   "text": "Zheme duo gongzuo, bieshuo yi tian jiushi yi ge xingqi ye zuo bu wan.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.23389,
+    0.81977,
+    0.24855
+   ]
+  },
+  {
+   "text": "B：这么多工作，别说一个星期 就是一天也做不完。一D」",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.25872,
+    0.87984,
+    0.27783
+   ]
+  },
+  {
+   "text": "Zheme duo gongzuo, bieshuo yi ge xingqi jiushi yi tion ye zuo bu wan.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.27762,
+    0.81589,
+    0.2936
+   ]
+  },
+  {
+   "text": "④小明病了。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.30371,
+    0.36822,
+    0.32275
+   ]
+  },
+  {
+   "text": "Xidoming bing le.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.32413,
+    0.35853,
+    0.34033
+   ]
+  },
+  {
+   "text": "A：我说呢，怪不得这几天 没看见他。［一AJ",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.34717,
+    0.72093,
+    0.36773
+   ]
+  },
+  {
+   "text": "Wo shuo ne, guaibude zhe ji tian mei kan jian to.",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.36914,
+    0.65116,
+    0.38525
+   ]
+  },
+  {
+   "text": "B： 我说呢，他常常 生病。［一B］",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.39099,
+    0.64729,
+    0.41134
+   ]
+  },
+  {
+   "text": "Wo shuo ne. ta changchang sheng bing.",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.41406,
+    0.58527,
+    0.43023
+   ]
+  },
+  {
+   "text": "⑤A：我没好好儿复习，所以这次考试 差点儿没及格。［-④］",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.43604,
+    0.83527,
+    0.45654
+   ]
+  },
+  {
+   "text": "Wo mei hdohdor fuxi, suoyi zhe ci kaoshi chadianr mei ji ge.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.45785,
+    0.76357,
+    0.47384
+   ]
+  },
+  {
+   "text": "B：我没好好儿复习，所以这次差点儿及格。［-C］",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.48096,
+    0.74612,
+    0.5
+   ]
+  },
+  {
+   "text": "Wo mei haohdor fuxi, suoyi zhe ci chadianr ji ge.",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.50145,
+    0.67636,
+    0.51758
+   ]
+  },
+  {
+   "text": "A：太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.55078,
+    0.45155,
+    0.56836
+   ]
+  },
+  {
+   "text": "Wonderfu！： You have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.57413,
+    0.63953,
+    0.58887
+   ]
+  },
+  {
+   "text": "B：你的语法学得不错。不过要注意“我说呢”的用法。",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.62061,
+    0.62791,
+    0.63965
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you need to",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.64535,
+    0.68605,
+    0.66134
+   ]
+  },
+  {
+   "text": "pay attention to the usage of “我说呢”.",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.66553,
+    0.5155,
+    0.68314
+   ]
+  },
+  {
+   "text": "C：注意“差点儿”的用法，请认真看一下语法注释2。",
+   "conf": 0.5,
+   "bbox": [
+    0.1471,
+    0.71061,
+    0.61852,
+    0.73489
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"差点儿”. You",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.73535,
+    0.68605,
+    0.75293
+   ]
+  },
+  {
+   "text": "can find some details in the second part of the Grammar",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.75872,
+    0.68605,
+    0.7749
+   ]
+  },
+  {
+   "text": "Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.78174,
+    0.23837,
+    0.79506
+   ]
+  },
+  {
+   "text": "D：注意“别说⋯⋯，就是⋯⋯也•⋯”的用法，请认真看一",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.82558,
+    0.68798,
+    0.84593
+   ]
+  },
+  {
+   "text": "下语法注释1。",
+   "conf": 0.5,
+   "bbox": [
+    0.18008,
+    0.84973,
+    0.30248,
+    0.86975
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of“别说⋯⋯，就",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.87207,
+    0.68411,
+    0.88965
+   ]
+  },
+  {
+   "text": "是⋯⋯也•⋯•”. You can find some details in the first part",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.8939,
+    0.68605,
+    0.91134
+   ]
+  },
+  {
+   "text": "of the Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.91846,
+    0.3876,
+    0.93314
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94767,
+    0.97384,
+    0.97093,
+    0.99273
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4]",
+   "conf": 1.0,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "14",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34157,
+    0.05814,
+    0.3561
+   ]
+  },
+  {
+   "text": "Jintiăn zaoshang dũ chẽ, wõ chàdiănr chídào.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.1439,
+    0.62597,
+    0.15988
+   ]
+  },
+  {
+   "text": "Jintiän zàoshang dũ chẽ, wõ chàdiănr bù chí dào.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.18895,
+    0.65116,
+    0.20508
+   ]
+  },
+  {
+   "text": "Zhème duõ gõngzuò, biéshuo yì tiăn jiùshì yí ge xingqi yẽ zuò bu wán.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.23389,
+    0.81977,
+    0.24855
+   ]
+  },
+  {
+   "text": "Zhème duõ gõngzuò, biéshuo yí ge xingại jiùshì yì tiăn yẽ zuò bu wán.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.27762,
+    0.81589,
+    0.2936
+   ]
+  },
+  {
+   "text": "Đ• H TAJ.",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.30371,
+    0.36822,
+    0.32275
+   ]
+  },
+  {
+   "text": "Xiăoming bìng le.",
+   "conf": 1.0,
+   "bbox": [
+    0.21705,
+    0.32413,
+    0.35853,
+    0.34033
+   ]
+  },
+  {
+   "text": "THEіH-A]",
+   "conf": 0.3,
+   "bbox": [
+    0.36572,
+    0.34717,
+    0.72093,
+    0.36773
+   ]
+  },
+  {
+   "text": "Wõ shuô ne, guàibude zhè jĩ tiàn méi kàn giàn tã.",
+   "conf": 0.3,
+   "bbox": [
+    0.25,
+    0.36914,
+    0.65116,
+    0.38525
+   ]
+  },
+  {
+   "text": "BA i,н *r I I.[-B]",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.39099,
+    0.64729,
+    0.41134
+   ]
+  },
+  {
+   "text": "Wó shuô ne, tã chángcháng shẽng bìng.",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.41406,
+    0.58527,
+    0.43023
+   ]
+  },
+  {
+   "text": "Wõ méi hãohãor fùxí, suõyi zhè cì kãoshì chàdiănr méi jí gé.",
+   "conf": 0.5,
+   "bbox": [
+    0.25194,
+    0.45785,
+    0.76357,
+    0.47384
+   ]
+  },
+  {
+   "text": "B (→0]",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.48096,
+    0.74612,
+    0.5
+   ]
+  },
+  {
+   "text": "Wó méi hãohãor tùxí, suoyi zhè cì chàdiănr jí gé.",
+   "conf": 0.5,
+   "bbox": [
+    0.25,
+    0.50145,
+    0.67636,
+    0.51758
+   ]
+  },
+  {
+   "text": "A: AHT, IHJAETAIENIS!",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.55078,
+    0.45155,
+    0.56836
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.17829,
+    0.57413,
+    0.63953,
+    0.58887
+   ]
+  },
+  {
+   "text": "в 1HAHИH \"KAV\" AЛE",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.62061,
+    0.62791,
+    0.63965
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you need to",
+   "conf": 1.0,
+   "bbox": [
+    0.18023,
+    0.64535,
+    0.68605,
+    0.66134
+   ]
+  },
+  {
+   "text": "pay attention to the usage of \"FbtvE\".",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.66553,
+    0.5155,
+    0.68314
+   ]
+  },
+  {
+   "text": "C YO \"ZAUL\" WЛ WMT-FWAH2",
+   "conf": 0.3,
+   "bbox": [
+    0.1471,
+    0.71061,
+    0.61852,
+    0.73489
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"ZHiJL\". You",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.73535,
+    0.68605,
+    0.75293
+   ]
+  },
+  {
+   "text": "can find some details in the second part of the Grammar",
+   "conf": 1.0,
+   "bbox": [
+    0.17829,
+    0.75872,
+    0.68605,
+    0.7749
+   ]
+  },
+  {
+   "text": "Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.18217,
+    0.78198,
+    0.23837,
+    0.79506
+   ]
+  },
+  {
+   "text": "D \"HЙ ЛЕ D\" КЛД, МИЛT-",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.82558,
+    0.68798,
+    0.84593
+   ]
+  },
+  {
+   "text": "TiYM1.",
+   "conf": 0.3,
+   "bbox": [
+    0.18008,
+    0.84973,
+    0.30248,
+    0.86975
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"Slit....., it",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.87207,
+    0.68411,
+    0.88965
+   ]
+  },
+  {
+   "text": "*....t.....\". You can find some details in the first part",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.8939,
+    0.68605,
+    0.91134
+   ]
+  },
+  {
+   "text": "of the Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.17829,
+    0.91846,
+    0.3876,
+    0.93314
+   ]
+  }
+ ]
+}

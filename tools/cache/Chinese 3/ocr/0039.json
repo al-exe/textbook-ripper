@@ -1,0 +1,657 @@
+{
+ "page": 39,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［31",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "任务及活动 TASKS AND ACTIVITIES",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.125,
+    0.7345,
+    0.14697
+   ]
+  },
+  {
+   "text": "（一）任务示 Task Demonstration",
+   "conf": 0.5,
+   "bbox": [
+    0.3062,
+    0.18018,
+    0.67054,
+    0.19775
+   ]
+  },
+  {
+   "text": "几",
+   "conf": 0.3,
+   "bbox": [
+    0.8314,
+    0.17878,
+    0.86628,
+    0.20203
+   ]
+  },
+  {
+   "text": "22",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.34012,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "故事场景",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.23682,
+    0.27519,
+    0.25439
+   ]
+  },
+  {
+   "text": "艾娜在张丽家，两人聊天儿。",
+   "conf": 1.0,
+   "bbox": [
+    0.32171,
+    0.23828,
+    0.57171,
+    0.25732
+   ]
+  },
+  {
+   "text": "The scene of the story: Anna and Zhang Li are chatting at Zhang Li's home.",
+   "conf": 0.5,
+   "bbox": [
+    0.12209,
+    0.2832,
+    0.72287,
+    0.29797
+   ]
+  },
+  {
+   "text": "张丽：你来 北京已经 好几个月了，你对北京的 印象 怎么样？",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.32122,
+    0.81783,
+    0.34326
+   ]
+  },
+  {
+   "text": "Zhang Li: Ni lai Beujing yiring hdo j ge yue le, ni dui Beijing de yinxiang zenmeydng？",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.34424,
+    0.82364,
+    0.36192
+   ]
+  },
+  {
+   "text": "艾娜：北京 是个 现代化 的国际大都市。在北京 有很多高楼大厦，",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.36475,
+    0.88178,
+    0.38672
+   ]
+  },
+  {
+   "text": "Aind: Bejing shi ge xidnddihud de gudji dd dishi. Zai Beijing you hen duo gao lu dshdt.，",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.38663,
+    0.88178,
+    0.4043
+   ]
+  },
+  {
+   "text": "还有很多商业 中心，买东西非常方便。",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.40967,
+    0.7345,
+    0.42878
+   ]
+  },
+  {
+   "text": "hai you hen duo shangye zhongxin, mdi dongxi feichang fangbidn.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.43164,
+    0.74225,
+    0.44775
+   ]
+  },
+  {
+   "text": "张丽：你呀，只说对了一半。除了高楼大厦以外，北京还有很多",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.45349,
+    0.86628,
+    0.47238
+   ]
+  },
+  {
+   "text": "Zhang Li: Niya, zhi shuo duile yiban. Chule gao lou dashd yiwai, Beiing hdi you hen duo",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.4751,
+    0.87209,
+    0.49128
+   ]
+  },
+  {
+   "text": "名胜 古迹，我来给你介绍介绍……",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.49707,
+    0.61822,
+    0.51465
+   ]
+  },
+  {
+   "text": "mingsheng guj, wo lai gei ni jieshao jieshao.",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.5189,
+    0.58721,
+    0.53488
+   ]
+  },
+  {
+   "text": "（张丽拿出相册 Zhang Li takes out a photo album.）",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.54492,
+    0.53295,
+    0.56105
+   ]
+  },
+  {
+   "text": "艾娜：这张照片真漂亮！",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.56831,
+    0.48643,
+    0.58594
+   ]
+  },
+  {
+   "text": "Aind: Zhe zhang zhdopidn zhen pidoliang！",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.58866,
+    0.5,
+    0.6061
+   ]
+  },
+  {
+   "text": "张丽：这是北京的胡同。",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.61182,
+    0.42442,
+    0.63086
+   ]
+  },
+  {
+   "text": "Zhang Li: Zhe shi Beijing de hutong.",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.63372,
+    0.42636,
+    0.64844
+   ]
+  },
+  {
+   "text": "艾娜：这条胡同真够窄的！",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.65552,
+    0.48837,
+    0.67297
+   ]
+  },
+  {
+   "text": "Aind: Zhe tido hutong zhen gou zhdi de！",
+   "conf": 0.5,
+   "bbox": [
+    0.16255,
+    0.67431,
+    0.48663,
+    0.69331
+   ]
+  },
+  {
+   "text": "张丽：你别看它窄，里面的故事可",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.69767,
+    0.5155,
+    0.7168
+   ]
+  },
+  {
+   "text": "Zhang Li: Ni bie kan to zhai, limian de gushi ke",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.71924,
+    0.5155,
+    0.73547
+   ]
+  },
+  {
+   "text": "多着呢。俗话 说：远亲不如",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.74121,
+    0.52132,
+    0.76025
+   ]
+  },
+  {
+   "text": "duo zhene. Suhud shuo: yuanqin buru",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.76308,
+    0.52132,
+    0.77637
+   ]
+  },
+  {
+   "text": "近邻，住在胡同里的人们",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.78467,
+    0.49419,
+    0.80233
+   ]
+  },
+  {
+   "text": "jinlin, zhu zdi hutong li de renmen",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.80664,
+    0.50194,
+    0.82275
+   ]
+  },
+  {
+   "text": "就像一家人一样。",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.82849,
+    0.41667,
+    0.84593
+   ]
+  },
+  {
+   "text": "jiu xiang yi jia ren yiyang.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.8501,
+    0.41667,
+    0.86483
+   ]
+  },
+  {
+   "text": "（艾娜指着另一张照片 Anna is pointing at another photo.）",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.87645,
+    0.57558,
+    0.89258
+   ]
+  },
+  {
+   "text": "艾娜：这张 照片 是在哪儿照的？",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.89971,
+    0.5407,
+    0.9186
+   ]
+  },
+  {
+   "text": "Aind: Zhe zhang zhaopian shi zdi ndr zhao de？",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.91846,
+    0.53876,
+    0.93605
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (3)",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "=",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.12064,
+    0.16279,
+    0.14535
+   ]
+  },
+  {
+   "text": "17IXIT TASKS AND ACTIVITIES",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.125,
+    0.7345,
+    0.14697
+   ]
+  },
+  {
+   "text": "(-) 1ESE Task Demonstration",
+   "conf": 0.3,
+   "bbox": [
+    0.3062,
+    0.18018,
+    0.67054,
+    0.19775
+   ]
+  },
+  {
+   "text": "22",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.34012,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "ХHВSKR, МіЛШE®",
+   "conf": 0.3,
+   "bbox": [
+    0.32171,
+    0.23828,
+    0.57171,
+    0.25732
+   ]
+  },
+  {
+   "text": "The scene of the story: Anna and Zhang Li are chatting at Zhang Li's home.",
+   "conf": 0.5,
+   "bbox": [
+    0.12209,
+    0.2832,
+    0.72287,
+    0.29797
+   ]
+  },
+  {
+   "text": "SN 1 HG CH TMT AT, 1A HÀ Ng EPR ELA?",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.32122,
+    0.81783,
+    0.34326
+   ]
+  },
+  {
+   "text": "Zhăng Lì: Nĩ lái Beijing yijĩng hão jĩ ge yuè le, nĩ dui Beijing de yìnxiàng zẽnmeyàng?",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.34424,
+    0.82364,
+    0.36192
+   ]
+  },
+  {
+   "text": "Ainà: Bẽijĩng shì ge xiàndàihuà de guójì dà dũshì. Zài Bẽijĩng yõu hèn duo gão lóu dàshà,",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.38663,
+    0.88178,
+    0.4043
+   ]
+  },
+  {
+   "text": "дЛ",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.40988,
+    0.7345,
+    0.42878
+   ]
+  },
+  {
+   "text": "hái yõu hẽn duo shàngyè zhõngxĩn, mãi dõngxi fẽicháng făng biàn.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.43164,
+    0.74225,
+    0.44775
+   ]
+  },
+  {
+   "text": "Zhăng Lì: Nĩ ya, zhĩ shuo duile yíbàn. Chúle gão lóu dàshà yĩwài, Bẽijĩng hái yõu hẽn duõ",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.4751,
+    0.87209,
+    0.49128
+   ]
+  },
+  {
+   "text": "З Б ДИЛ 14.",
+   "conf": 0.3,
+   "bbox": [
+    0.21318,
+    0.49707,
+    0.61822,
+    0.51465
+   ]
+  },
+  {
+   "text": "míngshèng guji, wó lái géi ni jieshão jièshão•",
+   "conf": 0.3,
+   "bbox": [
+    0.21318,
+    0.5189,
+    0.58721,
+    0.53488
+   ]
+  },
+  {
+   "text": "(5KNN €.1HJ Zhang Li takes out a photo album. )",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.54492,
+    0.53295,
+    0.56105
+   ]
+  },
+  {
+   "text": "Ainà: Zhè zhãng zhàopiàn zhēn pidoliang!",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.58866,
+    0.5,
+    0.6061
+   ]
+  },
+  {
+   "text": "Zhăng Lì: Zhè shì Beijing de hútòng.",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.63372,
+    0.42636,
+    0.64844
+   ]
+  },
+  {
+   "text": "дFH!",
+   "conf": 0.3,
+   "bbox": [
+    0.35059,
+    0.65552,
+    0.48837,
+    0.67297
+   ]
+  },
+  {
+   "text": "Ainà: Zhè tiáo hútòng zhẽn gòu zhải de!",
+   "conf": 0.5,
+   "bbox": [
+    0.16255,
+    0.67431,
+    0.48663,
+    0.69331
+   ]
+  },
+  {
+   "text": "Zhãng Lì: Nĩ bié kàn tã zhãi, lĩmian de gùshi kẽ",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.71924,
+    0.5155,
+    0.73547
+   ]
+  },
+  {
+   "text": "дк ші ї: іжти",
+   "conf": 0.3,
+   "bbox": [
+    0.24536,
+    0.74121,
+    0.52132,
+    0.76025
+   ]
+  },
+  {
+   "text": "duõ zhene. Súhuà shuo: yuănqin bùrú",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.76308,
+    0.52132,
+    0.77637
+   ]
+  },
+  {
+   "text": "jinlín, zhù zài hútòng li de rénmen",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.80664,
+    0.50194,
+    0.82275
+   ]
+  },
+  {
+   "text": "SL 15 - R1-17.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.82849,
+    0.41667,
+    0.84593
+   ]
+  },
+  {
+   "text": "jiù xiàng yì jiã rén yíyàng.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.8501,
+    0.41667,
+    0.86483
+   ]
+  },
+  {
+   "text": "(XW4H75JKJ Anna is pointing at another photo. )",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.87645,
+    0.57558,
+    0.89258
+   ]
+  },
+  {
+   "text": "Д од з деа сл н?",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.89971,
+    0.5407,
+    0.9186
+   ]
+  },
+  {
+   "text": "Àinà: Zhè zhãng zhàopiàn shì zài năr zhào de?",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.91846,
+    0.53876,
+    0.93605
+   ]
+  }
+ ]
+}

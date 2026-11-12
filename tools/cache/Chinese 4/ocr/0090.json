@@ -1,0 +1,707 @@
+{
+ "page": 90,
+ "cjk_pass": [
+  {
+   "text": "74",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.05814,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12791,
+    0.1376,
+    0.14244
+   ]
+  },
+  {
+   "text": "压力山大 Under high pressure",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.12645,
+    0.45155,
+    0.14551
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.17139,
+    0.25581,
+    0.1875
+   ]
+  },
+  {
+   "text": "三到四人一组说说自己或朋友的压力，组员们互相给建议。注意尽量",
+   "conf": 1.0,
+   "bbox": [
+    0.27907,
+    0.17432,
+    0.8876,
+    0.19189
+   ]
+  },
+  {
+   "text": "使用本单元学习的语法：“省得”“形容词＋得不得了”“不妨”。然后完",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.19041,
+    0.88953,
+    0.2124
+   ]
+  },
+  {
+   "text": "成报告。",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.21221,
+    0.35271,
+    0.23256
+   ]
+  },
+  {
+   "text": "Group work: Work in groups of three or four to talk about your pressure or your friend's",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.23975,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "pressure. Give advice to one another using the words or structures learned in",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.26017,
+    0.88953,
+    0.27344
+   ]
+  },
+  {
+   "text": "this unit whenever possible： “省得”，“adjective + 得不得了”，and “不妨”，Then",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.27907,
+    0.88953,
+    0.29506
+   ]
+  },
+  {
+   "text": "complete the report.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.30225,
+    0.42636,
+    0.31543
+   ]
+  },
+  {
+   "text": "班级活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17238,
+    0.33548,
+    0.25592,
+    0.35348
+   ]
+  },
+  {
+   "text": "根据小组活动完成的报告在班里说一说你的压力和朋友们给你的建议。",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.33721,
+    0.87984,
+    0.3561
+   ]
+  },
+  {
+   "text": "Class work: Talk about your pressure and your friend's advice in the class based on the report in",
+   "conf": 0.5,
+   "bbox": [
+    0.1686,
+    0.36914,
+    0.89147,
+    0.38379
+   ]
+  },
+  {
+   "text": "the group work.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.39099,
+    0.39535,
+    0.4043
+   ]
+  },
+  {
+   "text": "匹",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.47384,
+    0.16279,
+    0.5
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.53198,
+    0.14341,
+    0.55523
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.47656,
+    0.33527,
+    0.5
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35465,
+    0.47803,
+    0.6531,
+    0.49709
+   ]
+  },
+  {
+   "text": "省得",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.53174,
+    0.19961,
+    0.55087
+   ]
+  },
+  {
+   "text": "The usage of “省得”",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.5332,
+    0.39729,
+    0.55233
+   ]
+  },
+  {
+   "text": "连词“省得”用在后一句的开头，表示避免发生不希望发生的情况。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.56541,
+    0.83721,
+    0.58447
+   ]
+  },
+  {
+   "text": "“省得”，a conjunction, is used at the beginning of the latter clause, indicating to avoid",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.58866,
+    0.88953,
+    0.6032
+   ]
+  },
+  {
+   "text": "something unexpected. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.61035,
+    0.42636,
+    0.625
+   ]
+  },
+  {
+   "text": "①多穿点儿，省得感冒。",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.63953,
+    0.5,
+    0.65843
+   ]
+  },
+  {
+   "text": "Duo chuan didnr, shengde ganmdo.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.6582,
+    0.50581,
+    0.67442
+   ]
+  },
+  {
+   "text": "② 到了 学校 打个 电话，省得 家人担心。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.68311,
+    0.63566,
+    0.70215
+   ]
+  },
+  {
+   "text": "Daole xuexico dd ge dianhud, shengde jiaren dan xin.",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.70349,
+    0.63178,
+    0.71948
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.7689,
+    0.13566,
+    0.78488
+   ]
+  },
+  {
+   "text": "形容词＋得不得了 Adjective+得不得了",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.7689,
+    0.52713,
+    0.78634
+   ]
+  },
+  {
+   "text": "“得不得了”用在形容词后做补语，表示程度高。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.79932,
+    0.63178,
+    0.81836
+   ]
+  },
+  {
+   "text": "“得不得了”is used as a complement after an adjective, indicating a high degree. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.82267,
+    0.84884,
+    0.8374
+   ]
+  },
+  {
+   "text": "①他跑 步的速度真是快得不得了。",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.85449,
+    0.54457,
+    0.87355
+   ]
+  },
+  {
+   "text": "Ta pao bu de sudu zhen shi kudi de budelido.",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.875,
+    0.53876,
+    0.88965
+   ]
+  },
+  {
+   "text": "②最近 北京热得不得了。",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.8968,
+    0.41667,
+    0.91715
+   ]
+  },
+  {
+   "text": "Zujin Beijing re de budelido.",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.91846,
+    0.40891,
+    0.93459
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "74",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.05814,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12791,
+    0.1376,
+    0.14244
+   ]
+  },
+  {
+   "text": "ÆAШt Under high pressure",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.12645,
+    0.45155,
+    0.14551
+   ]
+  },
+  {
+   "text": "=щтлдийнсшлхклд, сыл4М4лХ АвА",
+   "conf": 0.3,
+   "bbox": [
+    0.27907,
+    0.17432,
+    0.8876,
+    0.19189
+   ]
+  },
+  {
+   "text": "ШКМЛТДАР: \"M15\" \"ERiN +111 T\" \"XW)\" ARЛSö",
+   "conf": 0.3,
+   "bbox": [
+    0.27713,
+    0.19041,
+    0.88953,
+    0.2124
+   ]
+  },
+  {
+   "text": "sktEtio",
+   "conf": 0.3,
+   "bbox": [
+    0.27713,
+    0.21221,
+    0.35271,
+    0.23256
+   ]
+  },
+  {
+   "text": "Group work: Work in groups of three or four to talk about your pressure or your friend's",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.23975,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "pressure. Give advice to one another using the words or structures learned in",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.26017,
+    0.88953,
+    0.27344
+   ]
+  },
+  {
+   "text": "this unit whenever possible: \"(1\", \"adjective + 151-15 T\", and \"1sW)j\". Then",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.27907,
+    0.88953,
+    0.29506
+   ]
+  },
+  {
+   "text": "complete the report.",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.30225,
+    0.42636,
+    0.31543
+   ]
+  },
+  {
+   "text": "FEEZ)",
+   "conf": 0.3,
+   "bbox": [
+    0.17238,
+    0.33548,
+    0.25592,
+    0.35348
+   ]
+  },
+  {
+   "text": "NE MZCAUE EDETDC DUMКОEDAНRLЛTAИSNEIX®",
+   "conf": 0.3,
+   "bbox": [
+    0.27713,
+    0.33721,
+    0.87984,
+    0.3561
+   ]
+  },
+  {
+   "text": "Class work: Talk about your pressure and your friend's advice in the class based on the report in",
+   "conf": 1.0,
+   "bbox": [
+    0.1686,
+    0.36914,
+    0.89147,
+    0.38379
+   ]
+  },
+  {
+   "text": "the group work.",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.39099,
+    0.39535,
+    0.4043
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.53198,
+    0.14341,
+    0.55523
+   ]
+  },
+  {
+   "text": "iBizmitiz",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.47674,
+    0.33527,
+    0.5
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35465,
+    0.47803,
+    0.6531,
+    0.49709
+   ]
+  },
+  {
+   "text": "#15",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.53198,
+    0.19961,
+    0.55087
+   ]
+  },
+  {
+   "text": "The usage of \"A19\"",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.5332,
+    0.39729,
+    0.55233
+   ]
+  },
+  {
+   "text": "сТТ»",
+   "conf": 0.3,
+   "bbox": [
+    0.23649,
+    0.56541,
+    0.83721,
+    0.58447
+   ]
+  },
+  {
+   "text": "\"A1\", a conjunction, is used at the beginning of the latter clause, indicating to avoid",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.58866,
+    0.88953,
+    0.6032
+   ]
+  },
+  {
+   "text": "something unexpected. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.61035,
+    0.42636,
+    0.625
+   ]
+  },
+  {
+   "text": "03 7AЛ, A7 КН.",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.63953,
+    0.5,
+    0.65843
+   ]
+  },
+  {
+   "text": "Duo chuân diănr, shengde gănmào.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.6582,
+    0.50581,
+    0.67442
+   ]
+  },
+  {
+   "text": "Dàole xuéxiào dã ge diànhuà, shengde jiärén dãn xin.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.70349,
+    0.63178,
+    0.71948
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.7689,
+    0.13566,
+    0.78488
+   ]
+  },
+  {
+   "text": "HAI +1115T Adjective+197157",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.7689,
+    0.52713,
+    0.78634
+   ]
+  },
+  {
+   "text": "\"ЩИНТ\" МЕЛАіИИВ, ВЛЕЛА ТУ:",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.79932,
+    0.63178,
+    0.81836
+   ]
+  },
+  {
+   "text": "\"4H151H J\" is used as a complement after an adjective, indicating a high degree. For example:",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.82267,
+    0.84884,
+    0.8374
+   ]
+  },
+  {
+   "text": "Tã pào bù de sùdù zhẽn shì kuài de bùdélião.",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.875,
+    0.53876,
+    0.88965
+   ]
+  },
+  {
+   "text": "H7713.",
+   "conf": 0.3,
+   "bbox": [
+    0.28174,
+    0.8968,
+    0.41667,
+    0.91715
+   ]
+  },
+  {
+   "text": "Zuijìn Beijing rè de bùdélião.",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.91846,
+    0.40891,
+    0.93459
+   ]
+  }
+ ]
+}

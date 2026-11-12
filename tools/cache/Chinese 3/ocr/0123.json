@@ -1,0 +1,487 @@
+{
+ "page": 123,
+ "cjk_pass": [
+  {
+   "text": "Unit7 Talking about Experiences on a Day off",
+   "conf": 0.5,
+   "bbox": [
+    0.40116,
+    0.05957,
+    0.89341,
+    0.08008
+   ]
+  },
+  {
+   "text": "艾娜：那还用说。我们两个人谁都没白去。我们从",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.13372,
+    0.78488,
+    0.15283
+   ]
+  },
+  {
+   "text": "Aind: Nd hdi yong shuo. Women lidng ge ren shei dou mei bai qu. women cong",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.15407,
+    0.79264,
+    0.17151
+   ]
+  },
+  {
+   "text": "上午一直 逛到 晚上，累得走不动了才回来。",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.18018,
+    0.74031,
+    0.19922
+   ]
+  },
+  {
+   "text": "shangwu yizhi guangdao wanshang, lei de zou bu dong le cai huilai.",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.20494,
+    0.73256,
+    0.21948
+   ]
+  },
+  {
+   "text": "查理：逛街这么累，真不明白为什么那么多女人爱逛街。",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.22656,
+    0.84302,
+    0.24564
+   ]
+  },
+  {
+   "text": "Chali: Guang jie zheme lei, zhen bu mingbai wei shenme name duo nuren di guang jie.",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.25,
+    0.83721,
+    0.26465
+   ]
+  },
+  {
+   "text": "艾娜：逛街不但能买东西，还能锻炼身体，多好啊！",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.27471,
+    0.76938,
+    0.29215
+   ]
+  },
+  {
+   "text": "Aind: Guang jie budan neng mdi dongxi, hdi neng duanlidn shenti, duo hdo d！",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.29492,
+    0.76163,
+    0.3125
+   ]
+  },
+  {
+   "text": "查理：这哪是锻炼身体啊？像我们一样去登山，那才叫",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.32122,
+    0.80814,
+    0.34033
+   ]
+  },
+  {
+   "text": "Chall: Zhe nd shi duanlian shenti a? Xiang women yiyang qu deng shan, nd cai jido",
+   "conf": 0.3,
+   "bbox": [
+    0.12791,
+    0.34424,
+    0.81395,
+    0.36047
+   ]
+  },
+  {
+   "text": "锻炼 身体 呢。",
+   "conf": 0.3,
+   "bbox": [
+    0.19377,
+    0.36761,
+    0.33917,
+    0.38675
+   ]
+  },
+  {
+   "text": "duanlian shenti ne.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.39099,
+    0.34302,
+    0.40283
+   ]
+  },
+  {
+   "text": "艾娜：你又爬山去了？",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.4126,
+    0.37209,
+    0.43023
+   ]
+  },
+  {
+   "text": "Aind: Ni you pa shan qu le？",
+   "conf": 0.3,
+   "bbox": [
+    0.13529,
+    0.43295,
+    0.36265,
+    0.45261
+   ]
+  },
+  {
+   "text": "查理：是啊。星期六 我们爬香山来着。",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.4593,
+    0.57171,
+    0.4782
+   ]
+  },
+  {
+   "text": "Chali: Shi a. Xingqiliu women pa Xiang Shan laizhe.",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.48242,
+    0.56589,
+    0.49709
+   ]
+  },
+  {
+   "text": "艾娜：香山？不是很多老人特别爱去吗？多容易爬啊。",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.50581,
+    0.74806,
+    0.5249
+   ]
+  },
+  {
+   "text": "Aind: Xiang Shan? Bu shi hen duo ldoren tebie di qu ma? Duo rongyi pd a.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.52762,
+    0.74225,
+    0.5436
+   ]
+  },
+  {
+   "text": "查理：哪儿啊，我们选的可不是 老人们走的那条路，那天",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.55371,
+    0.7907,
+    0.57275
+   ]
+  },
+  {
+   "text": "Chali: Nar a, Women xuan de ke bu shi ldorenmen zoude na tido ld, na tian",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.57703,
+    0.79651,
+    0.5918
+   ]
+  },
+  {
+   "text": "我们 走了七八个小时的山路呢！",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.6001,
+    0.54845,
+    0.61773
+   ]
+  },
+  {
+   "text": "women zoule qi bd ge xidoshi de shanli ne！",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.62207,
+    0.54457,
+    0.63818
+   ]
+  },
+  {
+   "text": "艾娜：你们一定 很累吧？",
+   "conf": 0.5,
+   "bbox": [
+    0.13155,
+    0.64311,
+    0.39367,
+    0.66364
+   ]
+  },
+  {
+   "text": "Aind: Nimen yiding hen lei ba？",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.66406,
+    0.3876,
+    0.68169
+   ]
+  },
+  {
+   "text": "查理：累是累，但是 心情 愉快！",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.69186,
+    0.46705,
+    0.70947
+   ]
+  },
+  {
+   "text": "Chali: Lei shi lei, ddnshi xinqing yukudi！",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.71366,
+    0.46705,
+    0.72965
+   ]
+  },
+  {
+   "text": "107",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 7 Talking about Experiences on a Day off",
+   "conf": 1.0,
+   "bbox": [
+    0.40116,
+    0.05957,
+    0.89341,
+    0.08008
+   ]
+  },
+  {
+   "text": "д H N",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.13372,
+    0.78488,
+    0.15283
+   ]
+  },
+  {
+   "text": "Ainà: Nà hái yòng shuò. Wămen liăng ge rén shéi dõu méi bái qù. Wõmen cóng",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.15407,
+    0.79264,
+    0.17151
+   ]
+  },
+  {
+   "text": "shàngwu yìzhí guàngdào wănshang, lèi de zòu bu dồng le cái huílai.",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.20494,
+    0.73256,
+    0.21948
+   ]
+  },
+  {
+   "text": "Chálĩ: Guàng jiẽ zhème lèi, zhẽn bù mingbai wèi shénme nàme duo nürén ài guàng jiẽ.",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.25,
+    0.83721,
+    0.26465
+   ]
+  },
+  {
+   "text": "Ainà: Guàng jiẽ búdàn néng mãi dõngxi, hái néng duànliàn shêntĩ, duõ hão a!",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.29492,
+    0.76163,
+    0.3125
+   ]
+  },
+  {
+   "text": "Chálĩ : Zhè nă shì duànliàn shêntĩ a? Xiàng wămen yíyàng qù dēng shăn, nà cái jiào",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.34424,
+    0.81395,
+    0.36047
+   ]
+  },
+  {
+   "text": "*E** $1K",
+   "conf": 0.3,
+   "bbox": [
+    0.19377,
+    0.36761,
+    0.33917,
+    0.38675
+   ]
+  },
+  {
+   "text": "duanlian shênti ne.",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.39099,
+    0.34302,
+    0.40283
+   ]
+  },
+  {
+   "text": "XHB: 1XM",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.4126,
+    0.37209,
+    0.43023
+   ]
+  },
+  {
+   "text": "Ainà : Nĩ yòu pá shãn qũ lẻ?",
+   "conf": 0.3,
+   "bbox": [
+    0.13529,
+    0.43295,
+    0.36265,
+    0.45261
+   ]
+  },
+  {
+   "text": "Cháhi: Shì a. Xingqiliù women pá Xiãng Shăn láizhe.",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.48242,
+    0.56589,
+    0.49709
+   ]
+  },
+  {
+   "text": "Ainà: Xiãng Shãn? Bú shì hèn duõ lãorén tèbié ài qù ma? Duô róngyì pá a.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.52762,
+    0.74225,
+    0.5436
+   ]
+  },
+  {
+   "text": "Chálĩ: Năr a, Wõmen xuăn de kẽ bú shì lăorénmen zõu de nà tiáo lù, nà tiăn",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.57703,
+    0.79651,
+    0.5918
+   ]
+  },
+  {
+   "text": "wömen zõule qì bã ge xiãoshí de shãnlù ne!",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.62207,
+    0.54457,
+    0.63818
+   ]
+  },
+  {
+   "text": "1717 — 1Rж\"Е?",
+   "conf": 0.3,
+   "bbox": [
+    0.18721,
+    0.64369,
+    0.39367,
+    0.66364
+   ]
+  },
+  {
+   "text": "Àinà : Nĩmen yíding hẽn lèi ba?",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.66406,
+    0.3876,
+    0.68169
+   ]
+  },
+  {
+   "text": "BR CnK!",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.69186,
+    0.46705,
+    0.70947
+   ]
+  },
+  {
+   "text": "Chálĩ: Lèi shì lèi, dànshì xingíng yúkuài!",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.71366,
+    0.46705,
+    0.72965
+   ]
+  },
+  {
+   "text": "107",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ]
+}

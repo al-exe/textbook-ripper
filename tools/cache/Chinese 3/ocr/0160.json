@@ -1,0 +1,577 @@
+{
+ "page": 160,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3〕",
+   "conf": 0.3,
+   "bbox": [
+    0.09884,
+    0.05957,
+    0.5562,
+    0.08008
+   ]
+  },
+  {
+   "text": "146",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34302,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "你为什么要找工作 Why are you looking for a job",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.12936,
+    0.62209,
+    0.14697
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17636,
+    0.16846,
+    0.25775,
+    0.18605
+   ]
+  },
+  {
+   "text": "下面的三个人想找工作，朗读她们的信息，完成后面的活动。",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.16992,
+    0.81977,
+    0.19043
+   ]
+  },
+  {
+   "text": "Pair work: The following three people are looking for jobs. Read the information about them",
+   "conf": 0.5,
+   "bbox": [
+    0.18205,
+    0.20161,
+    0.88963,
+    0.22063
+   ]
+  },
+  {
+   "text": "and do the following activities.",
+   "conf": 0.5,
+   "bbox": [
+    0.28845,
+    0.21971,
+    0.51987,
+    0.24158
+   ]
+  },
+  {
+   "text": "我是大一学生，我没有很多时间工作。但是大学",
+   "conf": 1.0,
+   "bbox": [
+    0.36628,
+    0.26017,
+    0.87209,
+    0.28198
+   ]
+  },
+  {
+   "text": "的花费（expense）很贵。我周一、周三、周五全天都有",
+   "conf": 0.5,
+   "bbox": [
+    0.32171,
+    0.28613,
+    0.86822,
+    0.30669
+   ]
+  },
+  {
+   "text": "课，周二、周四下午有空儿。我没有什么工作经验，",
+   "conf": 1.0,
+   "bbox": [
+    0.31977,
+    0.30957,
+    0.8624,
+    0.33154
+   ]
+  },
+  {
+   "text": "但是我会学得很快。",
+   "conf": 1.0,
+   "bbox": [
+    0.31977,
+    0.3343,
+    0.51744,
+    0.3561
+   ]
+  },
+  {
+   "text": "Wo shi dd yi xuesheng, wo mei you hen duo shjian gongzuo. Danshi",
+   "conf": 0.5,
+   "bbox": [
+    0.36628,
+    0.36621,
+    0.87403,
+    0.38086
+   ]
+  },
+  {
+   "text": "daxue de huafei hen gui. Wo zhou yi, zhou san、zhou wu quan tian dou",
+   "conf": 0.3,
+   "bbox": [
+    0.31977,
+    0.38808,
+    0.87209,
+    0.40283
+   ]
+  },
+  {
+   "text": "you ke, zhou er、zhou si xidwi you kongr. Wo mei you shenme gongzuo",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.40967,
+    0.87209,
+    0.42733
+   ]
+  },
+  {
+   "text": "jingyan, danshi wo hui xue de hen kuai.",
+   "conf": 0.3,
+   "bbox": [
+    0.31783,
+    0.43164,
+    0.62016,
+    0.44629
+   ]
+  },
+  {
+   "text": "我们刚有孩子，虽然我爱人的工资不少，但是我",
+   "conf": 1.0,
+   "bbox": [
+    0.36822,
+    0.5,
+    0.87016,
+    0.52197
+   ]
+  },
+  {
+   "text": "们攒的钱不多。所以我想一边在家照顾孩子，一边工",
+   "conf": 1.0,
+   "bbox": [
+    0.31783,
+    0.52471,
+    0.87016,
+    0.54651
+   ]
+  },
+  {
+   "text": "作。我要找一个在家可以做的工作，比如打字（to type）",
+   "conf": 0.5,
+   "bbox": [
+    0.31977,
+    0.54932,
+    0.86434,
+    0.56982
+   ]
+  },
+  {
+   "text": "什么的。",
+   "conf": 1.0,
+   "bbox": [
+    0.31977,
+    0.57413,
+    0.4031,
+    0.59593
+   ]
+  },
+  {
+   "text": "Women gang you hdizi, suiran wo diren de gongzi bu shdo, danshi",
+   "conf": 0.3,
+   "bbox": [
+    0.36434,
+    0.6001,
+    0.87403,
+    0.61628
+   ]
+  },
+  {
+   "text": "women zan de qidn bd duo. Suoyi wo xidng yibian zdi jid zhdog hdizi.，",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.62207,
+    0.86434,
+    0.63818
+   ]
+  },
+  {
+   "text": "yibian gongzuo. Wo yao zhdo yi ge zai jia keyi zuo de gongzuo, biru dozi",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.64535,
+    0.87403,
+    0.66134
+   ]
+  },
+  {
+   "text": "shenmede.",
+   "conf": 1.0,
+   "bbox": [
+    0.31577,
+    0.66674,
+    0.40322,
+    0.6821
+   ]
+  },
+  {
+   "text": "我今年17岁，父母给我的零花钱（Pin money）不多。",
+   "conf": 0.5,
+   "bbox": [
+    0.36434,
+    0.73682,
+    0.86047,
+    0.75732
+   ]
+  },
+  {
+   "text": "我想打工赚钱，这样周末可以跟朋友们出去玩儿。每",
+   "conf": 1.0,
+   "bbox": [
+    0.31977,
+    0.75872,
+    0.87209,
+    0.78198
+   ]
+  },
+  {
+   "text": "天我早上8点到下午5点上课。我家有一个小饭馆儿，",
+   "conf": 0.5,
+   "bbox": [
+    0.31977,
+    0.7832,
+    0.8624,
+    0.80669
+   ]
+  },
+  {
+   "text": "所以我有一些饭馆儿工作经验。",
+   "conf": 1.0,
+   "bbox": [
+    0.31977,
+    0.80811,
+    0.63372,
+    0.83154
+   ]
+  },
+  {
+   "text": "Wo jinnian shiqi sul, fumu gei wo de linghuaqidn bu duo. Wo xiang",
+   "conf": 0.5,
+   "bbox": [
+    0.36628,
+    0.84012,
+    0.87209,
+    0.8561
+   ]
+  },
+  {
+   "text": "dd gong zhuan qidn, zheyang zhoumo keyi gen pengyoumen chiiqu wanr.",
+   "conf": 0.5,
+   "bbox": [
+    0.31783,
+    0.86182,
+    0.87403,
+    0.87793
+   ]
+  },
+  {
+   "text": "Mai tian wo zdoshang ba dian do xidwi wi didn shang ke. wd jid yau yi",
+   "conf": 0.3,
+   "bbox": [
+    0.31783,
+    0.88372,
+    0.87209,
+    0.8999
+   ]
+  },
+  {
+   "text": "ge xido fanguanr, suoyi wo you yixie fanguanr gongzuo jingyan.",
+   "conf": 0.5,
+   "bbox": [
+    0.31783,
+    0.90674,
+    0.80426,
+    0.92297
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ( 3)",
+   "conf": 1.0,
+   "bbox": [
+    0.09884,
+    0.05957,
+    0.5562,
+    0.08008
+   ]
+  },
+  {
+   "text": "IA1T4EtLlF Why are you looking for a job",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.12936,
+    0.62209,
+    0.14697
+   ]
+  },
+  {
+   "text": "ГШШТлнт, ВококМВ, СоЛнКНа.",
+   "conf": 0.3,
+   "bbox": [
+    0.29264,
+    0.16992,
+    0.81977,
+    0.19043
+   ]
+  },
+  {
+   "text": "Pair work: The following three people are looking for jobs. Read the information about them",
+   "conf": 1.0,
+   "bbox": [
+    0.18205,
+    0.20161,
+    0.88963,
+    0.22063
+   ]
+  },
+  {
+   "text": "and do the following activities.",
+   "conf": 1.0,
+   "bbox": [
+    0.28845,
+    0.21971,
+    0.51987,
+    0.24158
+   ]
+  },
+  {
+   "text": "146",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34302,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "iR, Н = ПUFFAZ1 АR77Z1734.",
+   "conf": 0.3,
+   "bbox": [
+    0.31977,
+    0.30957,
+    0.8624,
+    0.33154
+   ]
+  },
+  {
+   "text": "1*#A 771R#.",
+   "conf": 0.3,
+   "bbox": [
+    0.31977,
+    0.3343,
+    0.51744,
+    0.3561
+   ]
+  },
+  {
+   "text": "Wó shì dà yì xuésheng, wõ méi yõu hẽn duo shí iân gôngzuò. Dànshì",
+   "conf": 0.3,
+   "bbox": [
+    0.36628,
+    0.36621,
+    0.87403,
+    0.38086
+   ]
+  },
+  {
+   "text": "dàxué de huãfèi hẽn guì. Wõ zhõu yì, zhõu săn, zhõu wũ quán tiăn dõu",
+   "conf": 0.5,
+   "bbox": [
+    0.31977,
+    0.38808,
+    0.87209,
+    0.40283
+   ]
+  },
+  {
+   "text": "yău kè, zhôu èr, zhôu sì xiàwũ yỗu kòngr. Wõ méi yõu shénme gôngzuò",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.40967,
+    0.87209,
+    0.42733
+   ]
+  },
+  {
+   "text": "jĩngyàn, dànshì wõ hui xué de hẽn kuài.",
+   "conf": 0.5,
+   "bbox": [
+    0.31783,
+    0.43164,
+    0.62016,
+    0.44629
+   ]
+  },
+  {
+   "text": "(tо type)",
+   "conf": 0.3,
+   "bbox": [
+    0.78792,
+    0.54932,
+    0.86434,
+    0.56982
+   ]
+  },
+  {
+   "text": "1 4H3.",
+   "conf": 0.3,
+   "bbox": [
+    0.31977,
+    0.57413,
+    0.4031,
+    0.59593
+   ]
+  },
+  {
+   "text": "Wămen gãng yõu háizi, suirán wò àiren de göngzĩ bù shão, dànshì",
+   "conf": 0.5,
+   "bbox": [
+    0.36434,
+    0.6001,
+    0.87403,
+    0.61628
+   ]
+  },
+  {
+   "text": "wămen zăn de qián bù duo. Suoyĩ wõ xiăng yìbiăn zài jia zhàogù háizi,",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.62207,
+    0.86434,
+    0.63818
+   ]
+  },
+  {
+   "text": "yibiàn gòngzuò. Wó yào zhảo yí ge zài jia kèyi zuò de gõngzuò, birú dàzì",
+   "conf": 0.3,
+   "bbox": [
+    0.31589,
+    0.64535,
+    0.87403,
+    0.66134
+   ]
+  },
+  {
+   "text": "shénmede.",
+   "conf": 1.0,
+   "bbox": [
+    0.31577,
+    0.66674,
+    0.40322,
+    0.6821
+   ]
+  },
+  {
+   "text": "7173, x74743714 (pin money) T-3•",
+   "conf": 0.3,
+   "bbox": [
+    0.41243,
+    0.73682,
+    0.86047,
+    0.75732
+   ]
+  },
+  {
+   "text": "нхтотЕпД А",
+   "conf": 0.3,
+   "bbox": [
+    0.47648,
+    0.75872,
+    0.87209,
+    0.78198
+   ]
+  },
+  {
+   "text": "FH7 184AF45FLiR #*A -1,JETELL,",
+   "conf": 0.3,
+   "bbox": [
+    0.31977,
+    0.7832,
+    0.8624,
+    0.80669
+   ]
+  },
+  {
+   "text": "FT V A HT - HE TR L N1 143.",
+   "conf": 0.3,
+   "bbox": [
+    0.31977,
+    0.80811,
+    0.63372,
+    0.83154
+   ]
+  },
+  {
+   "text": "Wó jinnián shíqi suì, fùmũ gẽi wò de línghuãgián bù duỡ. Wõ xiăng",
+   "conf": 0.5,
+   "bbox": [
+    0.36628,
+    0.84012,
+    0.87209,
+    0.8561
+   ]
+  },
+  {
+   "text": "dã gõng zhun qián, zhèyàng zhõumò kẽyĩ gẽn péngyoumen chũqu wánr.",
+   "conf": 0.3,
+   "bbox": [
+    0.31783,
+    0.86182,
+    0.87403,
+    0.87793
+   ]
+  },
+  {
+   "text": "Mẽi tiăn wõ zàoshang bã diăn dào xiàwũ wũ diăn shàng kè. Wõ jiã yõu yí",
+   "conf": 0.5,
+   "bbox": [
+    0.31783,
+    0.88372,
+    0.87209,
+    0.8999
+   ]
+  },
+  {
+   "text": "ge xiăo tànguăn, suõyi wõ yõu yixiẽ fànguăn gồngzuò jĩngyàn.",
+   "conf": 0.3,
+   "bbox": [
+    0.31783,
+    0.90674,
+    0.80426,
+    0.92297
+   ]
+  }
+ ]
+}

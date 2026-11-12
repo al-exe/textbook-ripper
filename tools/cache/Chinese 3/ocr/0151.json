@@ -1,0 +1,597 @@
+{
+ "page": 151,
+ "cjk_pass": [
+  {
+   "text": "Unit 8 Talking about Hobbies",
+   "conf": 0.5,
+   "bbox": [
+    0.56395,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.125,
+    0.44186,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.14826,
+    0.63178,
+    0.16424
+   ]
+  },
+  {
+   "text": "B. 你的语法学得不错。不过要注意“被”字句的否定形式是否",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.17578,
+    0.69961,
+    0.19482
+   ]
+  },
+  {
+   "text": "定词在介词“被”的前边。",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.19767,
+    0.40698,
+    0.2168
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note in",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.22217,
+    0.69961,
+    0.23692
+   ]
+  },
+  {
+   "text": "the negative form of a “被” sentence, a negative word is used",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.24268,
+    0.69961,
+    0.26025
+   ]
+  },
+  {
+   "text": "before the preposition “被”.",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.26163,
+    0.40698,
+    0.2793
+   ]
+  },
+  {
+   "text": "C. 注意“—••就•⋯”的用法，请认真看一下语法点注释1。",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.29199,
+    0.68798,
+    0.31105
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of “—⋯•就”.Refer to Grammar",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.31541,
+    0.70155,
+    0.33301
+   ]
+  },
+  {
+   "text": "Note 1 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.33576,
+    0.38178,
+    0.35174
+   ]
+  },
+  {
+   "text": "D.注意“恨不得”的意思和用法，请认真看一下语法点注释2。",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.36035,
+    0.68992,
+    0.38086
+   ]
+  },
+  {
+   "text": "Pay attention to the meaning and usage of “恨不得”.Refer to",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.38517,
+    0.69961,
+    0.4043
+   ]
+  },
+  {
+   "text": "Grammar Note z for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.17426,
+    0.40413,
+    0.46146,
+    0.42161
+   ]
+  },
+  {
+   "text": "Y",
+   "conf": 0.3,
+   "bbox": [
+    0.85659,
+    0.13081,
+    0.88372,
+    0.15698
+   ]
+  },
+  {
+   "text": "YYY",
+   "conf": 0.3,
+   "bbox": [
+    0.71512,
+    0.20203,
+    0.83721,
+    0.22965
+   ]
+  },
+  {
+   "text": "YY",
+   "conf": 0.3,
+   "bbox": [
+    0.71512,
+    0.29932,
+    0.7907,
+    0.32715
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18781,
+    0.49341,
+    0.65523,
+    0.51904
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.34496,
+    0.57413,
+    0.63953,
+    0.59033
+   ]
+  },
+  {
+   "text": "琴棋书画",
+   "conf": 1.0,
+   "bbox": [
+    0.28292,
+    0.62348,
+    0.37599,
+    0.64106
+   ]
+  },
+  {
+   "text": "Qin,Qi, Calligraphy and Painting",
+   "conf": 0.3,
+   "bbox": [
+    0.38953,
+    0.625,
+    0.72287,
+    0.64551
+   ]
+  },
+  {
+   "text": "“琴棋书画”中，“琴”指弹琴（多指古琴），“棋”指下棋（多指围棋），“书”",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.6582,
+    0.87984,
+    0.67878
+   ]
+  },
+  {
+   "text": "指书法，“画”指绘画。在中国古代，琴棋书画是文人（包括一些名门闺秀）必须掌握的",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.68164,
+    0.8876,
+    0.70068
+   ]
+  },
+  {
+   "text": "技能。现在人们还常以此表示个人的文化素养，比如说一个人“琴棋书画样样精通”，意",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.70349,
+    0.88953,
+    0.72384
+   ]
+  },
+  {
+   "text": "思是夸赞他/她的文化素养高。",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.7251,
+    0.37016,
+    0.74564
+   ]
+  },
+  {
+   "text": "Qin （mostly referring to guqin）， qi （mostly referring to Chinese chess）， calligraphy and",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.75145,
+    0.88953,
+    0.76758
+   ]
+  },
+  {
+   "text": "painting are the must-have skills for ancient Chinese literati （also for some girls from eminent",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.77326,
+    0.89147,
+    0.78779
+   ]
+  },
+  {
+   "text": "families）. People now still use this phrase to indicate a person's cultivation. For example, if a",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.79492,
+    0.88953,
+    0.80959
+   ]
+  },
+  {
+   "text": "person is said to be proficient in qin, qi, calligraphy and painting, he/she is being complimented to",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.81686,
+    0.89147,
+    0.83447
+   ]
+  },
+  {
+   "text": "be highly cultured.",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.84012,
+    0.2655,
+    0.8561
+   ]
+  },
+  {
+   "text": "137",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 8 Talking about Hobbies",
+   "conf": 0.5,
+   "bbox": [
+    0.56395,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "А. КHT, ККИTWHNH!",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.125,
+    0.44186,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.17248,
+    0.14826,
+    0.63178,
+    0.16424
+   ]
+  },
+  {
+   "text": "ИКЛEААЙ",
+   "conf": 0.3,
+   "bbox": [
+    0.5109,
+    0.17578,
+    0.69961,
+    0.19482
+   ]
+  },
+  {
+   "text": "Ririn \"DE\" AnUdd",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.19767,
+    0.40698,
+    0.2168
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note in",
+   "conf": 1.0,
+   "bbox": [
+    0.17248,
+    0.22217,
+    0.69961,
+    0.23692
+   ]
+  },
+  {
+   "text": "the negative form of a \"il\" sentence, a negative word is used",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.24268,
+    0.69961,
+    0.26025
+   ]
+  },
+  {
+   "text": "before the preposition \"i\".",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.26163,
+    0.40698,
+    0.2793
+   ]
+  },
+  {
+   "text": "С.₴0 \"А\" КЛД, МИлА- FИАAН1",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.29199,
+    0.68798,
+    0.31105
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of \"—.....i)t\". Refer to Grammar",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.31541,
+    0.70155,
+    0.33301
+   ]
+  },
+  {
+   "text": "Note 1 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.33576,
+    0.38178,
+    0.35174
+   ]
+  },
+  {
+   "text": "D.A6 \"КИ\" МеВАЛЕ, ШИДА FHAAR2",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.36035,
+    0.68992,
+    0.38086
+   ]
+  },
+  {
+   "text": "Pay attention to the meaning and usage of \"HY11#\" . Refer to",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.38517,
+    0.69961,
+    0.4043
+   ]
+  },
+  {
+   "text": "Grammar Note 2 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.17426,
+    0.40413,
+    0.46146,
+    0.42161
+   ]
+  },
+  {
+   "text": "Y YY",
+   "conf": 0.3,
+   "bbox": [
+    0.71512,
+    0.20203,
+    0.83721,
+    0.22965
+   ]
+  },
+  {
+   "text": "V Y",
+   "conf": 0.3,
+   "bbox": [
+    0.71512,
+    0.29932,
+    0.7907,
+    0.32715
+   ]
+  },
+  {
+   "text": "137",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "XIKIJA6+ CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18781,
+    0.49341,
+    0.65523,
+    0.51904
+   ]
+  },
+  {
+   "text": "(-) IKAE Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.34496,
+    0.57413,
+    0.63953,
+    0.59033
+   ]
+  },
+  {
+   "text": "Qin, Qi, Calligraphy and Painting",
+   "conf": 1.0,
+   "bbox": [
+    0.38953,
+    0.625,
+    0.72287,
+    0.64551
+   ]
+  },
+  {
+   "text": "\"\"",
+   "conf": 0.3,
+   "bbox": [
+    0.83219,
+    0.6582,
+    0.87984,
+    0.67878
+   ]
+  },
+  {
+   "text": "НІ НЕМЛИВИИКАТЛИХККЯ, ИШЯ ТЛ \"ЕНЕТААЖИ\" , А",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.70349,
+    0.88953,
+    0.72384
+   ]
+  },
+  {
+   "text": "ДЛЕИШШИХИАТА",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.72529,
+    0.37016,
+    0.74564
+   ]
+  },
+  {
+   "text": "Oin (mostly referring to guqin), qi (mostly referring to Chinese chess), calligraphy and",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.75145,
+    0.88953,
+    0.76758
+   ]
+  },
+  {
+   "text": "painting are the must-have skills for ancient Chinese literati (also for some girls from eminent",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.77326,
+    0.89147,
+    0.78779
+   ]
+  },
+  {
+   "text": "families). People now still use this phrase to indicate a person's cultivation. For example, if a",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.79492,
+    0.88953,
+    0.80959
+   ]
+  },
+  {
+   "text": "person is said to be proficient in qin, qi, calligraphy and painting, he/she is being complimented to",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.81686,
+    0.89147,
+    0.83447
+   ]
+  },
+  {
+   "text": "be highly cultured.",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.84012,
+    0.2655,
+    0.8561
+   ]
+  }
+ ]
+}

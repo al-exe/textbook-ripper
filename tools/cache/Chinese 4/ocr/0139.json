@@ -1,0 +1,587 @@
+{
+ "page": 139,
+ "cjk_pass": [
+  {
+   "text": "124",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "④A.最近 工作 特别 忙，再 加上 孩子病了，所以我觉得有点儿累。［-⑤］",
+   "conf": 0.5,
+   "bbox": [
+    0.11628,
+    0.12354,
+    0.89729,
+    0.14404
+   ]
+  },
+  {
+   "text": "Zuijin gongzuo tebie mang, zai jiashang hdizi bing le, suoyi wo juede youdidnr lei.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.1468,
+    0.81977,
+    0.16279
+   ]
+  },
+  {
+   "text": "B. 最近 工作 特别忙，孩子病了再 加上，所以我觉得有点儿累。［一C］",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.16846,
+    0.87597,
+    0.18896
+   ]
+  },
+  {
+   "text": "Zuijin gongzuo tebie mang. haizi bing le zai jiashang, suoyi wo juede youdianr lei.",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.19186,
+    0.8062,
+    0.20801
+   ]
+  },
+  {
+   "text": "⑤A.有的人 关心 只经济发展。【 B」",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.21366,
+    0.50969,
+    0.23401
+   ]
+  },
+  {
+   "text": "You de ren guanxin zhi jingii fazhan.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.23535,
+    0.44767,
+    0.25146
+   ]
+  },
+  {
+   "text": "B. 有的人只关心经济发展。L A」",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.25872,
+    0.50775,
+    0.27783
+   ]
+  },
+  {
+   "text": "You de ren zhi guanxin jingii fozhdn.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.28052,
+    0.44767,
+    0.29651
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.31686,
+    0.43023,
+    0.33594
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.34012,
+    0.62016,
+    0.3561
+   ]
+  },
+  {
+   "text": "B.这里“只”是副词，应该在动词前做状语。",
+   "conf": 0.5,
+   "bbox": [
+    0.13355,
+    0.36691,
+    0.52735,
+    0.3896
+   ]
+  },
+  {
+   "text": "Here \"只\" is an adverb, which should be used as an",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.39244,
+    0.63372,
+    0.40988
+   ]
+  },
+  {
+   "text": "adverbial before a verb.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.41406,
+    0.36822,
+    0.43023
+   ]
+  },
+  {
+   "text": "C. 注意“再加上”的用法，请认真看一下语法注释1。",
+   "conf": 0.5,
+   "bbox": [
+    0.13351,
+    0.4403,
+    0.59721,
+    0.46401
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"再加上”.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.46657,
+    0.63372,
+    0.48401
+   ]
+  },
+  {
+   "text": "You can find some details in the first part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.48682,
+    0.63372,
+    0.50293
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.50727,
+    0.31008,
+    0.52051
+   ]
+  },
+  {
+   "text": "D.注意“幸亏”的用法，请认真看一下语法注释2。",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.53467,
+    0.57752,
+    0.55378
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"幸亏”.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.55811,
+    0.63566,
+    0.57568
+   ]
+  },
+  {
+   "text": "You can find some details in the second part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.57849,
+    0.63372,
+    0.59448
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.59863,
+    0.31008,
+    0.61192
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.68018,
+    0.6531,
+    0.70215
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know？",
+   "conf": 0.3,
+   "bbox": [
+    0.33915,
+    0.74268,
+    0.64535,
+    0.76025
+   ]
+  },
+  {
+   "text": "大熊猫的故乡 The Hometown of Giant Panda",
+   "conf": 0.5,
+   "bbox": [
+    0.28488,
+    0.78906,
+    0.71705,
+    0.80669
+   ]
+  },
+  {
+   "text": "由于世界上最早发现大熊猫的地方在中国四川，并且目前85%的大熊猫栖息在四",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.82558,
+    0.8876,
+    0.84448
+   ]
+  },
+  {
+   "text": "川，因而中国四川被誉为“大熊猫的故乡”。憨态可掬的大熊猫，是人们最喜爱的珍稀",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.84424,
+    0.88953,
+    0.86628
+   ]
+  },
+  {
+   "text": "动物之一，是世界野生动物保护基金会的标志动物。在中国18个大熊猫自然保护区中，",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.86768,
+    0.88178,
+    0.88965
+   ]
+  },
+  {
+   "text": "四川占了16个。世界野生动物保护基金会还在四川的卧龙大熊猫自然保护区建立了“中",
+   "conf": 1.0,
+   "bbox": [
+    0.11037,
+    0.88796,
+    0.88965,
+    0.91155
+   ]
+  },
+  {
+   "text": "国保护大熊猫研究中心”。",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.9126,
+    0.34496,
+    0.93314
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "124",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "Zuiìn gõngzuò tèbié máng, zài jiãshàng háizi bìng le, suoyi wõ juéde youdiănr lèi.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.1468,
+    0.81977,
+    0.16279
+   ]
+  },
+  {
+   "text": "Zuijìn gõngzuò tebié máng, háizi bìng le zài jiashàng, suoyi wó juéde youdianr lei.",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.19186,
+    0.8062,
+    0.20801
+   ]
+  },
+  {
+   "text": "Yõu de rén guănxin zhĩ jĩngjì fãzhăn.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.23535,
+    0.44767,
+    0.25146
+   ]
+  },
+  {
+   "text": "Yõu de rén zhĩ guãnxin jĩngjì fãzhăn.",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.28052,
+    0.44767,
+    0.29651
+   ]
+  },
+  {
+   "text": "A. KHT, 1HEP2E1HFWE!",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.31686,
+    0.43023,
+    0.33594
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.34012,
+    0.62016,
+    0.3561
+   ]
+  },
+  {
+   "text": "B.MM \"д\" Maln, MitEzinktito",
+   "conf": 0.3,
+   "bbox": [
+    0.13355,
+    0.36691,
+    0.52735,
+    0.3896
+   ]
+  },
+  {
+   "text": "Here \"I\" is an adverb, which should be used as an",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.39244,
+    0.63372,
+    0.40988
+   ]
+  },
+  {
+   "text": "adverbial before a verb.",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.41406,
+    0.36822,
+    0.43023
+   ]
+  },
+  {
+   "text": "C.MM \"HONE\" ФЛ, MAлTFHREH1",
+   "conf": 0.3,
+   "bbox": [
+    0.13351,
+    0.4403,
+    0.59721,
+    0.46401
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"H-JIl:\".",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.46657,
+    0.63372,
+    0.48401
+   ]
+  },
+  {
+   "text": "You can find some details in the first part of the",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.48682,
+    0.63372,
+    0.50293
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.50727,
+    0.31008,
+    0.52051
+   ]
+  },
+  {
+   "text": "D.À \"*Т\" КЛД, ИЛлА FZAН2",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.53467,
+    0.57752,
+    0.55378
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"*Tj\".",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.55811,
+    0.63566,
+    0.57568
+   ]
+  },
+  {
+   "text": "You can find some details in the second part of the",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.57849,
+    0.63372,
+    0.59448
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.59863,
+    0.31008,
+    0.61192
+   ]
+  },
+  {
+   "text": "XILIJA6I CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.68018,
+    0.6531,
+    0.70215
+   ]
+  },
+  {
+   "text": "(-) 1кntg Do You Know?",
+   "conf": 0.3,
+   "bbox": [
+    0.33915,
+    0.74268,
+    0.64535,
+    0.76025
+   ]
+  },
+  {
+   "text": "K hE la áh ta4 The Hometown of Giant Panda",
+   "conf": 0.3,
+   "bbox": [
+    0.28488,
+    0.78906,
+    0.71705,
+    0.80669
+   ]
+  },
+  {
+   "text": "НТШИ СТКИАЛТКШВТРТОТІ, ЛН В Т 85% НУ АЛ6 74.81р4",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.82558,
+    0.8876,
+    0.84448
+   ]
+  },
+  {
+   "text": "Л, ВТЕРЛАЖУ ВИАN EЛВNM",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.84424,
+    0.88953,
+    0.86628
+   ]
+  },
+  {
+   "text": "гШ tАА&KдХY.",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.86768,
+    0.88178,
+    0.88965
+   ]
+  },
+  {
+   "text": "ШСТТ НИТЕТИРИАСИМИЛОЕЙСААХИРХАТТ\"+",
+   "conf": 0.3,
+   "bbox": [
+    0.11037,
+    0.88796,
+    0.88965,
+    0.91155
+   ]
+  },
+  {
+   "text": "ПATЛAEBФО\" 0",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.9126,
+    0.34496,
+    0.93314
+   ]
+  }
+ ]
+}

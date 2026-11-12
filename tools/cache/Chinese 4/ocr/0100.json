@@ -1,0 +1,397 @@
+{
+ "page": 100,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "84",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34012,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "时候有说有笑，可是现在大家要么用手机上网看信息，要么用手",
+   "conf": 1.0,
+   "bbox": [
+    0.19186,
+    0.14535,
+    0.84884,
+    0.16715
+   ]
+  },
+  {
+   "text": "机玩儿游戏。根本没有原来热闹温馨的气氛了，饭桌上一点儿乐",
+   "conf": 1.0,
+   "bbox": [
+    0.18992,
+    0.16992,
+    0.84884,
+    0.19189
+   ]
+  },
+  {
+   "text": "趣都没有了。今天妈妈说的话让我感触很深。妈妈的话确实有道",
+   "conf": 1.0,
+   "bbox": [
+    0.18992,
+    0.19477,
+    0.84884,
+    0.2168
+   ]
+  },
+  {
+   "text": "理。虽说现在网络发达了，手机越来越先进。我们可以随时随地",
+   "conf": 1.0,
+   "bbox": [
+    0.19186,
+    0.21924,
+    0.84884,
+    0.24128
+   ]
+  },
+  {
+   "text": "看邮件和新闻、发短信、玩儿游戏。可是从某种程度上来说，我",
+   "conf": 1.0,
+   "bbox": [
+    0.19186,
+    0.24414,
+    0.84884,
+    0.26758
+   ]
+  },
+  {
+   "text": "们却忽略了人与人之间面对面的交流。人和人之间的关系越来越",
+   "conf": 1.0,
+   "bbox": [
+    0.18992,
+    0.2689,
+    0.84884,
+    0.2907
+   ]
+  },
+  {
+   "text": "冷漠。我决定以后吃饭的时候绝对不玩儿手机了，珍惜我和家人",
+   "conf": 1.0,
+   "bbox": [
+    0.19186,
+    0.29346,
+    0.85078,
+    0.31543
+   ]
+  },
+  {
+   "text": "朋友在一起的时光。",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.31977,
+    0.39147,
+    0.34033
+   ]
+  },
+  {
+   "text": "Jintian mama fa piqi le. Yuanyin shi women jintian chiqu chi fan, keshi",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.3501,
+    0.8469,
+    0.36628
+   ]
+  },
+  {
+   "text": "fanzhuo shang ddjia dou dizhe tou wanr shouji. Mama shuo ta juede zicong shouji",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.37061,
+    0.84496,
+    0.38672
+   ]
+  },
+  {
+   "text": "keyi shang wang yihou, fangbian ddoshi fangbian le, keshi zhe que rang women de",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.39099,
+    0.84496,
+    0.40698
+   ]
+  },
+  {
+   "text": "juli bian da le. Yiqidn chi fan de shihouyou shuo you xido, keshi xianzi aujia aaome",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.40967,
+    0.84496,
+    0.42587
+   ]
+  },
+  {
+   "text": "yong shouji shang wang kan xinxi, yaome yong shduji wanr youxi. Genben meiyou",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.43018,
+    0.84496,
+    0.44629
+   ]
+  },
+  {
+   "text": "yudnlai renao wenxin de qifen le, fanzhuo shang yidianr lequ dou meiyou le. Jintian",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.45058,
+    0.84496,
+    0.46533
+   ]
+  },
+  {
+   "text": "mama shuo de hud rang wo ganchi hen shen. Mama de hud queshi you ddoli.",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.46924,
+    0.8469,
+    0.48401
+   ]
+  },
+  {
+   "text": "Suishuo xianzai wangluo fadd le, shouji yueldiyue xianjin. Women keyi suishi suidi",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.48975,
+    0.8469,
+    0.50586
+   ]
+  },
+  {
+   "text": "kan youjian he xinwen, fa duanxin, wanr youxi. Keshi cong mou zhong chengou",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.51017,
+    0.84302,
+    0.52637
+   ]
+  },
+  {
+   "text": "shang lai shuo,women que huluele ren yu ren zhi jian mianduimidn de jidolid. Ren",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.52907,
+    0.84496,
+    0.54506
+   ]
+  },
+  {
+   "text": "he ren zhi jian de guanxi yueldiyue lengmo. Wo jueding yihou chi fan de shihou",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.54932,
+    0.84302,
+    0.56543
+   ]
+  },
+  {
+   "text": "juedui bu wanr shouji le, zhenxi wo he jiaren pengyou zai yiqi de shiguang.",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.56977,
+    0.77519,
+    0.58447
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "84",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34012,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "00000000000000000000",
+   "conf": 0.3,
+   "bbox": [
+    0.11673,
+    0.16217,
+    0.16717,
+    0.56695
+   ]
+  },
+  {
+   "text": "нщтЗдЕшіNііНьлкА ДуиіАЕнЙ",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.19477,
+    0.84884,
+    0.2168
+   ]
+  },
+  {
+   "text": "ЛАZOAНА",
+   "conf": 0.3,
+   "bbox": [
+    0.5804,
+    0.2689,
+    0.84884,
+    0.2907
+   ]
+  },
+  {
+   "text": "Jintiãn mãma fã píqi le. Yuányin shì wămen jĩntiăn chũqu chì fàn, kẽshì",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.3501,
+    0.8469,
+    0.36628
+   ]
+  },
+  {
+   "text": "fànzhuo shang dàjia dõu dizhe tóu wánr shăujĩ. Mãma shuo tà juéde zìcóng shouji",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.37061,
+    0.84496,
+    0.38672
+   ]
+  },
+  {
+   "text": "kẽyi shàng wăng yihòu, tăngbiàn dàoshì făngbiàn le, kẽshì zhè què ràng wămen de",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.39099,
+    0.84496,
+    0.40698
+   ]
+  },
+  {
+   "text": "jùlí biàn dà le. Yĩqián chỉ fàn de shíhou yõu shuo yõu xiào, kẽshì xiànzài dàjia yàome",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.40967,
+    0.84496,
+    0.42587
+   ]
+  },
+  {
+   "text": "yòng shouji shàng wăng kàn xinxĩ, yàome yòng shouji wánr yóuxì. Genbẽn méiyõu",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.43018,
+    0.84496,
+    0.44629
+   ]
+  },
+  {
+   "text": "yuánlái rènao wenxin de qifen le, fanzhuõ shang yìdianr lèqu dõu méiyõu le. Jintiän",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.45058,
+    0.84496,
+    0.46533
+   ]
+  },
+  {
+   "text": "mãma shuô de huà ràng wõ gănchù hẽn shẽn. Mãma de huà quèshí yõu dàolĩ.",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.46924,
+    0.8469,
+    0.48401
+   ]
+  },
+  {
+   "text": "Suishuô xiànzài wăngluò fadá le, shõujì yuèláiyuè xiăn ìn. Wămen kẽyi suíshí suídì",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.48975,
+    0.8469,
+    0.50586
+   ]
+  },
+  {
+   "text": "kàn yóugiàn hé xinwén, fà duănxin, wánr yóuxì. Késhì cóng mỗu zhông chéngdù",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.51017,
+    0.84302,
+    0.52637
+   ]
+  },
+  {
+   "text": "shang lái shuo, wõmen què húlüèle rén yũ rén zhì jiãn miànduimión de jiãoliú. Rén",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.52907,
+    0.84496,
+    0.54506
+   ]
+  },
+  {
+   "text": "hé rén zhì jiãn de guanxì yueláiyue lẽngmò. Wõ juéding yihòu chi fàn de shíhou",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.54932,
+    0.84302,
+    0.56543
+   ]
+  },
+  {
+   "text": "juéduì bù wánr shouji le, zhēnxi wó hé jiarén péngyou zài yìqi de shíguãng.",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.56977,
+    0.77519,
+    0.58447
+   ]
+  }
+ ]
+}

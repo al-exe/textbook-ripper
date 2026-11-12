@@ -1,0 +1,387 @@
+{
+ "page": 75,
+ "cjk_pass": [
+  {
+   "text": "Unit 4 Congratulations",
+   "conf": 0.5,
+   "bbox": [
+    0.63178,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "②",
+   "conf": 1.0,
+   "bbox": [
+    0.19767,
+    0.1439,
+    0.21512,
+    0.15843
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.18605,
+    0.36628,
+    0.21124,
+    0.38663
+   ]
+  },
+  {
+   "text": "生日的时候，最受 欢迎的庆祝方式是⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.23643,
+    0.38081,
+    0.75581,
+    0.3999
+   ]
+  },
+  {
+   "text": "Shengri de shihou, zui shou huanying de qingzhd fangshi shi-",
+   "conf": 0.5,
+   "bbox": [
+    0.2345,
+    0.40262,
+    0.74419,
+    0.4186
+   ]
+  },
+  {
+   "text": "匹",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.51599,
+    0.16279,
+    0.5407
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.51599,
+    0.33333,
+    0.53924
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35465,
+    0.51744,
+    0.65116,
+    0.53634
+   ]
+  },
+  {
+   "text": "其实",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.57122,
+    0.20736,
+    0.58887
+   ]
+  },
+  {
+   "text": "The usage of “其实”",
+   "conf": 0.5,
+   "bbox": [
+    0.21092,
+    0.57016,
+    0.40561,
+    0.59199
+   ]
+  },
+  {
+   "text": "副词“其实”表示所说的情况是真实的。用在动词前或主语前承接上文，常引出",
+   "conf": 0.5,
+   "bbox": [
+    0.18784,
+    0.60191,
+    0.88967,
+    0.62715
+   ]
+  },
+  {
+   "text": "与上文相反的意思，表示对上文的更正或补充。例如：",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.62936,
+    0.62597,
+    0.64697
+   ]
+  },
+  {
+   "text": "The adverb “其实”is often used in front of a verb or the subject of a sentence to indicate",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.65116,
+    0.89147,
+    0.66715
+   ]
+  },
+  {
+   "text": "that what one said is true. It often introduces the meaning opposite to the preceding part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.67432,
+    0.89147,
+    0.69189
+   ]
+  },
+  {
+   "text": "text, indicating a correction or supplement. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.69477,
+    0.5969,
+    0.71094
+   ]
+  },
+  {
+   "text": "①她看起来只有二十多 岁，其实她已经快四十了。",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.72656,
+    0.67829,
+    0.74855
+   ]
+  },
+  {
+   "text": "Ta kan qilai zhiyou ershi duo sul, qishi ta yijing kudi sishi le.",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.75145,
+    0.66667,
+    0.76758
+   ]
+  },
+  {
+   "text": "② 你们 只知道他会 说 英语，其实他的法语也很 好。",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.77471,
+    0.71705,
+    0.79506
+   ]
+  },
+  {
+   "text": "Nimen zhi zhidao ta hui shuo yingyd, qishi ta de fayi ye hen hdo.",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.79785,
+    0.71512,
+    0.81396
+   ]
+  },
+  {
+   "text": "③他说他的成绩不太好，其实他是第一名。",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.82267,
+    0.62597,
+    0.84326
+   ]
+  },
+  {
+   "text": "Ta shuo ta de chengji bu tdi hdo, qishi td shi di yi ming.",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.84424,
+    0.63372,
+    0.86192
+   ]
+  },
+  {
+   "text": "59",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 4 Congratulations",
+   "conf": 1.0,
+   "bbox": [
+    0.63178,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.1439,
+    0.21512,
+    0.15843
+   ]
+  },
+  {
+   "text": "59",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  },
+  {
+   "text": "Shẽngrì de shíhou, zuì shòu huãnying de gìngzhù făngshì shì•.....",
+   "conf": 0.5,
+   "bbox": [
+    0.2345,
+    0.40262,
+    0.74419,
+    0.4186
+   ]
+  },
+  {
+   "text": "iBiZWiETZ",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.51599,
+    0.33333,
+    0.53924
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35465,
+    0.51744,
+    0.65116,
+    0.53634
+   ]
+  },
+  {
+   "text": "The usage of \"\"",
+   "conf": 0.3,
+   "bbox": [
+    0.21092,
+    0.57016,
+    0.40561,
+    0.59199
+   ]
+  },
+  {
+   "text": "НІM \"НO\" АЛЛОИТОАИОН ЛЕДИИИ ЕHWREEX, Ф9Ш",
+   "conf": 0.3,
+   "bbox": [
+    0.18784,
+    0.60191,
+    0.88967,
+    0.62715
+   ]
+  },
+  {
+   "text": "щхСКВ. ВлхЕхкШЕтА т:",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.62936,
+    0.62597,
+    0.64697
+   ]
+  },
+  {
+   "text": "The adverb \"JEs:\" is often used in front of a verb or the subject of a sentence to indicate",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.65116,
+    0.89147,
+    0.66715
+   ]
+  },
+  {
+   "text": "that what one said is true. It often introduces the meaning opposite to the preceding part of the",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.67432,
+    0.89147,
+    0.69189
+   ]
+  },
+  {
+   "text": "text, indicating a correction or supplement. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.69477,
+    0.5969,
+    0.71094
+   ]
+  },
+  {
+   "text": "Tã kàn qilai zhiyếu ershí duo sui, gíshí tã yijĩng kuài sishí le.",
+   "conf": 0.3,
+   "bbox": [
+    0.17248,
+    0.75145,
+    0.66667,
+    0.76758
+   ]
+  },
+  {
+   "text": "Nimen zhì zhidào tã hui shuo yingyũ, qíshí tã de fayù yẽ hẽn hão.",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.79785,
+    0.71512,
+    0.81396
+   ]
+  },
+  {
+   "text": "BH",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.82267,
+    0.62597,
+    0.84302
+   ]
+  },
+  {
+   "text": "Tã shuố tã de chéngjì bú tài hão, qíshí tã shì dì yĩ ming.",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.84424,
+    0.63372,
+    0.86192
+   ]
+  }
+ ]
+}

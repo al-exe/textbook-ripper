@@ -1,0 +1,607 @@
+{
+ "page": 106,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "儿",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.13663,
+    0.16279,
+    0.15988
+   ]
+  },
+  {
+   "text": "自从",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.18895,
+    0.19767,
+    0.20801
+   ]
+  },
+  {
+   "text": "90",
+   "conf": 0.5,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.13808,
+    0.33333,
+    0.16134
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35659,
+    0.13953,
+    0.64922,
+    0.15843
+   ]
+  },
+  {
+   "text": "The usage of “自从”",
+   "conf": 0.3,
+   "bbox": [
+    0.21097,
+    0.1901,
+    0.39971,
+    0.21078
+   ]
+  },
+  {
+   "text": "表示以过去某一时间或某一事情起点，例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.2251,
+    0.60853,
+    0.24273
+   ]
+  },
+  {
+   "text": "“自从”indicates taking a specific time or an event in the past as the starting point. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.25,
+    0.87984,
+    0.26465
+   ]
+  },
+  {
+   "text": "① 自从5 月份 以后，天气就渐渐 暖和 起来了。",
+   "conf": 0.3,
+   "bbox": [
+    0.2345,
+    0.27471,
+    0.74806,
+    0.29506
+   ]
+  },
+  {
+   "text": "Zicong wu yuefen yihou, tianqi jid jianjian nuanhuo qilai le.",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.29639,
+    0.73643,
+    0.3125
+   ]
+  },
+  {
+   "text": "②自从毕业以后，他一直在 银行工作。",
+   "conf": 0.3,
+   "bbox": [
+    0.23643,
+    0.31541,
+    0.65504,
+    0.33594
+   ]
+  },
+  {
+   "text": "Zicong bi ye yihou, td yizhi zdi yinhanggongzuo.",
+   "conf": 0.5,
+   "bbox": [
+    0.25581,
+    0.33576,
+    0.66667,
+    0.35174
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.40843,
+    0.13566,
+    0.42297
+   ]
+  },
+  {
+   "text": "要么",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.40674,
+    0.19767,
+    0.42442
+   ]
+  },
+  {
+   "text": "The usage of “要么”",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.4082,
+    0.40116,
+    0.42587
+   ]
+  },
+  {
+   "text": "表示多种情况中的一种，或在多种可能中选择一种。常用“要么⋯⋯要么",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.44331,
+    0.8876,
+    0.46094
+   ]
+  },
+  {
+   "text": "...”",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.46366,
+    0.21705,
+    0.47529
+   ]
+  },
+  {
+   "text": "，例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.46512,
+    0.2907,
+    0.48401
+   ]
+  },
+  {
+   "text": "“要么”refers to one of many cases, or one choice among multiple possibilities. “要么⋯⋯要",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.48682,
+    0.8876,
+    0.50439
+   ]
+  },
+  {
+   "text": "么•••” is often used. For example：",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.50727,
+    0.43217,
+    0.52197
+   ]
+  },
+  {
+   "text": "①昨天 我给他打 电话，要么打不通，要么没人接。",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.52762,
+    0.78101,
+    0.54797
+   ]
+  },
+  {
+   "text": "Zuotian wo gei ta dd dianhud, ydome da bu tong. ydome mei ren jie.",
+   "conf": 0.3,
+   "bbox": [
+    0.23643,
+    0.54932,
+    0.77519,
+    0.56543
+   ]
+  },
+  {
+   "text": "②不明白 的地方 要么查一下书，要么问老师。",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.56831,
+    0.73256,
+    0.5874
+   ]
+  },
+  {
+   "text": "Bu mingbai de difang yaome cha yixid shd, yaome wen ldoshi.",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.58866,
+    0.73256,
+    0.60465
+   ]
+  },
+  {
+   "text": "从某种程度上来说 The usage of “从某种程度上来说”",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.66406,
+    0.64922,
+    0.68169
+   ]
+  },
+  {
+   "text": "表示在一定深度的考量。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.70058,
+    0.43798,
+    0.7168
+   ]
+  },
+  {
+   "text": "It indicates a further consideration. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.72363,
+    0.52326,
+    0.73692
+   ]
+  },
+  {
+   "text": "①从某种程度",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.74268,
+    0.43023,
+    0.76025
+   ]
+  },
+  {
+   "text": "上来说，网络在拉近人们 之间距离",
+   "conf": 0.5,
+   "bbox": [
+    0.44767,
+    0.74268,
+    0.8624,
+    0.76172
+   ]
+  },
+  {
+   "text": "Cong mou zhong chengdu shang Idi shuo, wdngluo zdi lajin renmen zhi jian juli",
+   "conf": 0.3,
+   "bbox": [
+    0.23643,
+    0.76163,
+    0.85271,
+    0.77783
+   ]
+  },
+  {
+   "text": "的同时也让人们疏远了。",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.7832,
+    0.55233,
+    0.80233
+   ]
+  },
+  {
+   "text": "de tongshi ye rang renmen shuyuan le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.80518,
+    0.54264,
+    0.81982
+   ]
+  },
+  {
+   "text": "②从某种程度",
+   "conf": 0.3,
+   "bbox": [
+    0.21318,
+    0.82558,
+    0.43023,
+    0.8418
+   ]
+  },
+  {
+   "text": "上来说，我有上当受骗的感觉。",
+   "conf": 0.5,
+   "bbox": [
+    0.43605,
+    0.82413,
+    0.88953,
+    0.84448
+   ]
+  },
+  {
+   "text": "Cong mou zhong chengdu shang ldi shuo, wa you shang dang shou pidn de gdnjue.",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.84424,
+    0.89147,
+    0.86047
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.1875,
+    0.14341,
+    0.21221
+   ]
+  },
+  {
+   "text": "iBizmiti",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.13808,
+    0.33333,
+    0.16134
+   ]
+  },
+  {
+   "text": "The usage of \"A!\"",
+   "conf": 0.3,
+   "bbox": [
+    0.21097,
+    0.1901,
+    0.39971,
+    0.21078
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35659,
+    0.13953,
+    0.64922,
+    0.15843
+   ]
+  },
+  {
+   "text": "90",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "\"ÉM\" indicates taking a specific time or an event in the past as the starting point. For example:",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.25,
+    0.87984,
+    0.26465
+   ]
+  },
+  {
+   "text": "Zicóng wũ yuèfèn yĩhòu, tiăngì jiù jiànjiàn nuănhuo qilai le.",
+   "conf": 0.5,
+   "bbox": [
+    0.25969,
+    0.29639,
+    0.73643,
+    0.3125
+   ]
+  },
+  {
+   "text": "ĐẢN HIVE, H-AA AHT I1F.",
+   "conf": 0.3,
+   "bbox": [
+    0.23643,
+    0.31541,
+    0.65504,
+    0.33594
+   ]
+  },
+  {
+   "text": "Zicóng bì yè yĩhòu, tã yìzhí zài yínháng gõngzuò.",
+   "conf": 0.5,
+   "bbox": [
+    0.25581,
+    0.33576,
+    0.66667,
+    0.35174
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.40843,
+    0.13566,
+    0.42297
+   ]
+  },
+  {
+   "text": "The usage of \"*4\"",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.4082,
+    0.40116,
+    0.42587
+   ]
+  },
+  {
+   "text": ".....\"",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.46366,
+    0.21705,
+    0.47529
+   ]
+  },
+  {
+   "text": ", 151 tH :",
+   "conf": 0.3,
+   "bbox": [
+    0.21318,
+    0.46512,
+    0.2907,
+    0.48401
+   ]
+  },
+  {
+   "text": "\"TE/L\" refers to one of many cases, or one choice among multiple possibilities. \"T 4.....",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.48682,
+    0.8876,
+    0.50439
+   ]
+  },
+  {
+   "text": "4......\" is often used. For example:",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.50727,
+    0.43217,
+    0.52197
+   ]
+  },
+  {
+   "text": "Zuótiăn wõ gặi tã dã diànhuà, yàome dã bu tong, yàome méi rén jiẽ.",
+   "conf": 0.3,
+   "bbox": [
+    0.23643,
+    0.54932,
+    0.77519,
+    0.56543
+   ]
+  },
+  {
+   "text": "Bù mingbai de difang yàome chá yíxia shũ, yàome wèn lãoshì.",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.58866,
+    0.73256,
+    0.60465
+   ]
+  },
+  {
+   "text": "16/5ТЕ ЛТЛЕНО 646О 1ДД :",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.70058,
+    0.43798,
+    0.7168
+   ]
+  },
+  {
+   "text": "It indicates a further consideration. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.72363,
+    0.52326,
+    0.73692
+   ]
+  },
+  {
+   "text": "Cóng mõu zhăng chéngdù shang lái shuo, wăngluò zài lăjìn rénmen zhì jiãn jùlí",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.76163,
+    0.85271,
+    0.77783
+   ]
+  },
+  {
+   "text": "H Hшi mhá 3.",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.7832,
+    0.55233,
+    0.80233
+   ]
+  },
+  {
+   "text": "de tóngshí yẻ ràng rénmen shúyuăn le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.80518,
+    0.54264,
+    0.81982
+   ]
+  },
+  {
+   "text": "Cóng mu zhõng chéngdù shang lái shuò, wò yõu shàng dàng shòu piàn de gănjué.",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.84424,
+    0.89147,
+    0.86047
+   ]
+  }
+ ]
+}

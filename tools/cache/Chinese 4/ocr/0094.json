@@ -1,0 +1,307 @@
+{
+ "page": 94,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "level of 48% among all the countries and regions surveyed. Among them, Shanghai and",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.12207,
+    0.87209,
+    0.14111
+   ]
+  },
+  {
+   "text": "Beijing, respectively having 80% and 67% respondents complaining that they have a higher",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.1468,
+    0.87209,
+    0.16424
+   ]
+  },
+  {
+   "text": "pressure than last year, rank higher than other cities surveyed. （From the microblog of",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.16846,
+    0.87403,
+    0.18459
+   ]
+  },
+  {
+   "text": "Shenzhen Economic Daily）",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.19186,
+    0.34496,
+    0.20801
+   ]
+  },
+  {
+   "text": "（二） 图片看中国",
+   "conf": 0.3,
+   "bbox": [
+    0.32171,
+    0.27326,
+    0.48062,
+    0.29215
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.49612,
+    0.27616,
+    0.67442,
+    0.2907
+   ]
+  },
+  {
+   "text": "78",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34012,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "高考考场外等待考生的家长",
+   "conf": 1.0,
+   "bbox": [
+    0.46124,
+    0.39099,
+    0.74031,
+    0.40988
+   ]
+  },
+  {
+   "text": "gaokdo kaochang wai dengddi kdosheng de jiazhang",
+   "conf": 0.5,
+   "bbox": [
+    0.45736,
+    0.41553,
+    0.86822,
+    0.43023
+   ]
+  },
+  {
+   "text": "Parents waiting outside the examination rooms for",
+   "conf": 0.5,
+   "bbox": [
+    0.46105,
+    0.43187,
+    0.86254,
+    0.4504
+   ]
+  },
+  {
+   "text": "their children who are taking the College Entrance",
+   "conf": 0.5,
+   "bbox": [
+    0.4593,
+    0.45349,
+    0.8624,
+    0.4668
+   ]
+  },
+  {
+   "text": "Examination",
+   "conf": 1.0,
+   "bbox": [
+    0.4593,
+    0.4707,
+    0.56202,
+    0.48256
+   ]
+  },
+  {
+   "text": "招聘会现场",
+   "conf": 1.0,
+   "bbox": [
+    0.45923,
+    0.63929,
+    0.57759,
+    0.65868
+   ]
+  },
+  {
+   "text": "zhdopinhui xianchang",
+   "conf": 0.5,
+   "bbox": [
+    0.45736,
+    0.66406,
+    0.62597,
+    0.67878
+   ]
+  },
+  {
+   "text": "Job fair site",
+   "conf": 0.5,
+   "bbox": [
+    0.45728,
+    0.68425,
+    0.55434,
+    0.69802
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "level of 48% among all the countries and regions surveyed. Among them, Shanghai and",
+   "conf": 1.0,
+   "bbox": [
+    0.12597,
+    0.12207,
+    0.87209,
+    0.14111
+   ]
+  },
+  {
+   "text": "Beijing, respectively having 80% and 67% respondents complaining that they have a higher",
+   "conf": 1.0,
+   "bbox": [
+    0.12791,
+    0.1468,
+    0.87209,
+    0.16424
+   ]
+  },
+  {
+   "text": "pressure than last year, rank higher than other cities surveyed. (From the microblog of",
+   "conf": 1.0,
+   "bbox": [
+    0.12791,
+    0.16846,
+    0.87403,
+    0.18459
+   ]
+  },
+  {
+   "text": "Shenzhen Economic Daily)",
+   "conf": 1.0,
+   "bbox": [
+    0.12791,
+    0.19186,
+    0.34496,
+    0.20801
+   ]
+  },
+  {
+   "text": "(Р) ВНЕФЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.32171,
+    0.27326,
+    0.48062,
+    0.29215
+   ]
+  },
+  {
+   "text": "China in Pietures",
+   "conf": 1.0,
+   "bbox": [
+    0.49612,
+    0.27616,
+    0.67442,
+    0.2907
+   ]
+  },
+  {
+   "text": "78",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34012,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "gãokão kãochăng wài déngdài kãoshẽng de jiazhăng",
+   "conf": 0.3,
+   "bbox": [
+    0.45736,
+    0.41553,
+    0.86822,
+    0.43023
+   ]
+  },
+  {
+   "text": "Parents waiting outside the examination rooms for",
+   "conf": 1.0,
+   "bbox": [
+    0.46105,
+    0.43187,
+    0.86254,
+    0.4504
+   ]
+  },
+  {
+   "text": "their children who are taking the College Entrance",
+   "conf": 1.0,
+   "bbox": [
+    0.4593,
+    0.45349,
+    0.8624,
+    0.4668
+   ]
+  },
+  {
+   "text": "Examination",
+   "conf": 1.0,
+   "bbox": [
+    0.4593,
+    0.47093,
+    0.56202,
+    0.48256
+   ]
+  },
+  {
+   "text": "zhãopìnhui xiànchăng",
+   "conf": 0.5,
+   "bbox": [
+    0.45736,
+    0.66406,
+    0.62597,
+    0.67878
+   ]
+  },
+  {
+   "text": "Job fair site",
+   "conf": 1.0,
+   "bbox": [
+    0.45728,
+    0.68425,
+    0.55434,
+    0.69802
+   ]
+  }
+ ]
+}

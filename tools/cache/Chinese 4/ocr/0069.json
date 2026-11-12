@@ -1,0 +1,507 @@
+{
+ "page": 69,
+ "cjk_pass": [
+  {
+   "text": "Unit 4 Congratulations",
+   "conf": 0.5,
+   "bbox": [
+    0.63178,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "大龙：哪里，哪里，你过奖了。",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.13517,
+    0.4845,
+    0.1543
+   ]
+  },
+  {
+   "text": "Ddlong: Nali，",
+   "conf": 0.3,
+   "bbox": [
+    0.1433,
+    0.15649,
+    0.26174,
+    0.17345
+   ]
+  },
+  {
+   "text": "nali, ni guojidng le.",
+   "conf": 0.5,
+   "bbox": [
+    0.28876,
+    0.15674,
+    0.47287,
+    0.17297
+   ]
+  },
+  {
+   "text": "茉莉：对了，艾娜，你周五 晚上有空吗？咱们 约上几个",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.18018,
+    0.82946,
+    0.19775
+   ]
+  },
+  {
+   "text": "Moli: Duile, Aind, ni zhouwd wanshang you kong ma? Zonmen yueshang ji ge",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.19913,
+    0.82558,
+    0.21826
+   ]
+  },
+  {
+   "text": "朋友，一起为 大龙 庆祝 庆祝，怎么样？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.22363,
+    0.66279,
+    0.24273
+   ]
+  },
+  {
+   "text": "pengyou,yiqi wei Ddlong qingzhu qingzhu,zenmeyang？",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.24707,
+    0.67248,
+    0.26465
+   ]
+  },
+  {
+   "text": "艾娜：是该好好儿 庆祝一下，我一定去。",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.2689,
+    0.58915,
+    0.28779
+   ]
+  },
+  {
+   "text": "Aind: Shi gai hdohaor qingzhd yixid, wo yiding qu.",
+   "conf": 0.3,
+   "bbox": [
+    0.16454,
+    0.28907,
+    0.58155,
+    0.30917
+   ]
+  },
+  {
+   "text": "大龙：你们 太客气了，其实没 什么 值得 庆祝的。不过，大家",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.31395,
+    0.8062,
+    0.33447
+   ]
+  },
+  {
+   "text": "Dalong: Nimen tai keqi le, qishi mei shenme zhide qingzhi de. Buguo, dajia",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.33576,
+    0.80233,
+    0.3532
+   ]
+  },
+  {
+   "text": "一起聚聚挺 好的。",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.35889,
+    0.40698,
+    0.37646
+   ]
+  },
+  {
+   "text": "yiqi juju ting hao de.",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.38081,
+    0.40116,
+    0.39551
+   ]
+  },
+  {
+   "text": "茉莉：我们可不跟你客气，到时候别忘了 带上你的奖金给",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.40262,
+    0.8314,
+    0.42151
+   ]
+  },
+  {
+   "text": "Moli: Women ke bu gen ni keqi, ddo shihou bie wangle ddishang ni de jiangjin gei",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.42432,
+    0.83333,
+    0.44043
+   ]
+  },
+  {
+   "text": "我们买单啊。",
+   "conf": 0.3,
+   "bbox": [
+    0.21891,
+    0.44728,
+    0.3683,
+    0.46696
+   ]
+  },
+  {
+   "text": "women maidan a.",
+   "conf": 0.5,
+   "bbox": [
+    0.21691,
+    0.46924,
+    0.35873,
+    0.48264
+   ]
+  },
+  {
+   "text": "大龙：买单 可以，不过那个奖金 你就别 想了，昨天已经 变成",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.49121,
+    0.82558,
+    0.51172
+   ]
+  },
+  {
+   "text": "Ddlong: Maidan keyi, buguo nage jiangiin ni jio bie xiang le, zuotian yjing biancheng",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.51453,
+    0.84496,
+    0.53076
+   ]
+  },
+  {
+   "text": "我 女朋友 的戒指了。",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.53613,
+    0.43798,
+    0.55523
+   ]
+  },
+  {
+   "text": "wo ndpengyou de jiezhi le.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.55811,
+    0.42636,
+    0.57422
+   ]
+  },
+  {
+   "text": "茉莉：戒指？⋯⋯啊！你向 小丽求婚了？",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.5814,
+    0.59109,
+    0.59884
+   ]
+  },
+  {
+   "text": "Moli: Jiezhi？•A! Ni xidng Xidoli qid hin le？",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.60156,
+    0.58527,
+    0.61919
+   ]
+  },
+  {
+   "text": "大龙：对，她同意嫁给我了。",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.62645,
+    0.44961,
+    0.64551
+   ]
+  },
+  {
+   "text": "Dalong: Dul, ta tongyijia gei wo le.",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.64826,
+    0.43992,
+    0.6657
+   ]
+  },
+  {
+   "text": "艾娜：怪不得 你今天 这么开心，原来是 双喜临门啊！",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.66846,
+    0.73643,
+    0.69043
+   ]
+  },
+  {
+   "text": "Aind: Gudibude ni jintian zheme kaixin, yuanldi shi shuangxi Iinmen d！",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.69041,
+    0.72674,
+    0.70801
+   ]
+  },
+  {
+   "text": "53",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 4 Congratulations",
+   "conf": 1.0,
+   "bbox": [
+    0.63178,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "Dàlóng: Nălĩ,",
+   "conf": 0.5,
+   "bbox": [
+    0.1433,
+    0.15649,
+    0.26174,
+    0.17345
+   ]
+  },
+  {
+   "text": "nălĩ, nĩ guòjiăng le.",
+   "conf": 0.5,
+   "bbox": [
+    0.28876,
+    0.15674,
+    0.47287,
+    0.17297
+   ]
+  },
+  {
+   "text": "Mòlì: Duile, Ainà, ni zhouwũ wănshang yõu kòng ma? Zánmen yueshang jĩ ge",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.19913,
+    0.82558,
+    0.21826
+   ]
+  },
+  {
+   "text": "HA, -HA tÀ Ài ÀiR, E4#?",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.22363,
+    0.66279,
+    0.24273
+   ]
+  },
+  {
+   "text": "péngyou, yiqi wèi Dàlóng qìngzhù gìngzhù, zẻnmeyàng?",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.24707,
+    0.67248,
+    0.26465
+   ]
+  },
+  {
+   "text": "Àinà: Shì gãi hăohãor gìngzhù yíxià, wò yíding qu.",
+   "conf": 0.5,
+   "bbox": [
+    0.16454,
+    0.28907,
+    0.58155,
+    0.30917
+   ]
+  },
+  {
+   "text": "Dàlóng: Nimen tài kèqi le, qíshí méi shénme zhídé gingzhù de. Búguò, dàjia",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.33576,
+    0.80233,
+    0.3532
+   ]
+  },
+  {
+   "text": "→**** +7 4.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.35889,
+    0.40698,
+    0.37646
+   ]
+  },
+  {
+   "text": "yìqi jùju ting hão de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.38081,
+    0.40116,
+    0.39551
+   ]
+  },
+  {
+   "text": "Mòlì: Wămen kế bù gẽn nĩ kèqi, dào shíhou bié wàngle dàishang nĩ de jiăngjin gẽi",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.42432,
+    0.83333,
+    0.44043
+   ]
+  },
+  {
+   "text": "women máidãn a.",
+   "conf": 0.5,
+   "bbox": [
+    0.21691,
+    0.46924,
+    0.35873,
+    0.48264
+   ]
+  },
+  {
+   "text": "Dàlóng: Măidãn kẽyĩ, búguò nàge giăngjĩn nĩ jiù bié xiăng le, zuótiăn yijĩng biànchéng",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.51453,
+    0.84496,
+    0.53076
+   ]
+  },
+  {
+   "text": "H tWte HAt T.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.53613,
+    0.43798,
+    0.55523
+   ]
+  },
+  {
+   "text": "wõ nüpéngyou de jièzhi le.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.55811,
+    0.42636,
+    0.57422
+   ]
+  },
+  {
+   "text": "HTH? ! 1 M I * tÃT?",
+   "conf": 0.3,
+   "bbox": [
+    0.21118,
+    0.5814,
+    0.59109,
+    0.59884
+   ]
+  },
+  {
+   "text": "Mòlì: Jièzhi?.... À! Nĩ xiàng Xiăolì qiú hũn le?",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.60156,
+    0.58527,
+    0.61919
+   ]
+  },
+  {
+   "text": "Dàlóng: Dui, tã tóngyì jià gẽi wó le.",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.64826,
+    0.43992,
+    0.6657
+   ]
+  },
+  {
+   "text": "GTMFÜ N* KITM!",
+   "conf": 0.3,
+   "bbox": [
+    0.21037,
+    0.66846,
+    0.73643,
+    0.69043
+   ]
+  },
+  {
+   "text": "Ainà: Guàibude ni jintiăn zhème kãixin, yuánlái shì shuãngxĩ línmén a!",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.69041,
+    0.72674,
+    0.70801
+   ]
+  },
+  {
+   "text": "53",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  }
+ ]
+}

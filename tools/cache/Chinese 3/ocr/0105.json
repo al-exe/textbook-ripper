@@ -1,0 +1,517 @@
+{
+ "page": 105,
+ "cjk_pass": [
+  {
+   "text": "Unit 6 Talking about Shopping",
+   "conf": 0.5,
+   "bbox": [
+    0.55426,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "任务及活动",
+   "conf": 1.0,
+   "bbox": [
+    0.18798,
+    0.13953,
+    0.33527,
+    0.16279
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 0.5,
+   "bbox": [
+    0.35659,
+    0.14099,
+    0.7345,
+    0.15988
+   ]
+  },
+  {
+   "text": "（一）任务示范",
+   "conf": 0.5,
+   "bbox": [
+    0.28295,
+    0.19477,
+    0.45155,
+    0.21533
+   ]
+  },
+  {
+   "text": "Task Demonstration",
+   "conf": 0.5,
+   "bbox": [
+    0.45736,
+    0.19913,
+    0.66279,
+    0.21387
+   ]
+  },
+  {
+   "text": "故事场景",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.27035,
+    0.2655,
+    0.28779
+   ]
+  },
+  {
+   "text": "艾娜和小丽聊天儿。",
+   "conf": 1.0,
+   "bbox": [
+    0.31589,
+    0.27035,
+    0.48837,
+    0.2907
+   ]
+  },
+  {
+   "text": "The scene of the story: Edna and Xiaoli are chatting.",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.32122,
+    0.53488,
+    0.33594
+   ]
+  },
+  {
+   "text": "89",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  },
+  {
+   "text": "艾娜：北京人都喜欢去哪儿买 东西啊？",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.37645,
+    0.60659,
+    0.39551
+   ]
+  },
+  {
+   "text": "Aind: Beijing ren dou xihuan qu ndr mai dongxi a？",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.3968,
+    0.59496,
+    0.41424
+   ]
+  },
+  {
+   "text": "小丽：那要看买 什么东西了。买 生活 用品，喜欢去超市；",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.42285,
+    0.85465,
+    0.44336
+   ]
+  },
+  {
+   "text": "Xidoli: Na yao kan mdi shenme dongxi le. Mai shenghuo yongpin,xihuan qu chaoshi；",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.44767,
+    0.86047,
+    0.46387
+   ]
+  },
+  {
+   "text": "买水果、蔬菜，一般去市场。",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.4707,
+    0.56202,
+    0.48983
+   ]
+  },
+  {
+   "text": "mdi shuiguo, shucai, yiban qu shichang.",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.49561,
+    0.57364,
+    0.51025
+   ]
+  },
+  {
+   "text": "艾娜：那 买衣服，鞋什么的，应该 去哪儿啊？",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.51744,
+    0.64341,
+    0.53634
+   ]
+  },
+  {
+   "text": "Aind: Nd maiyifu、 xie shenmede,yinggai gu ndr o？",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.53906,
+    0.6376,
+    0.55814
+   ]
+  },
+  {
+   "text": "小丽：有人喜欢去王府井、西单的大 商场买，有人喜欢",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.56395,
+    0.84109,
+    0.58447
+   ]
+  },
+  {
+   "text": "Xidoli: You ren xihuan qu Wangfujing、Xidan de dd shangchang mai, you ren xihuan",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.58866,
+    0.8469,
+    0.6061
+   ]
+  },
+  {
+   "text": "去服装 市场买。去大 商场吧，东西 质量 比较好，",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.61182,
+    0.85465,
+    0.63086
+   ]
+  },
+  {
+   "text": "qu fuzhuang shichdng mai. Qu da shangchang ba, dongxi zhiliang bijiao hdo，",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.63517,
+    0.85465,
+    0.65137
+   ]
+  },
+  {
+   "text": "不过 价钱 比较贵；去 服装 市场吧，虽然 东西 便宜",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.6582,
+    0.82364,
+    0.67733
+   ]
+  },
+  {
+   "text": "buguo jiaqian bijido gui; qu fuzhuang shichang ba, suiran dongxi pianyi",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.68311,
+    0.82946,
+    0.69775
+   ]
+  },
+  {
+   "text": "得多，但是质量 可能不如商场的好。",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.70494,
+    0.69186,
+    0.72384
+   ]
+  },
+  {
+   "text": "de duo, danshi zhiliang keneng burd shangchang de hdo.",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.72949,
+    0.68411,
+    0.74564
+   ]
+  },
+  {
+   "text": "艾娜：我常听人说北京有个雅秀 市场，你知道在哪儿吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.75145,
+    0.85659,
+    0.77197
+   ]
+  },
+  {
+   "text": "Aind: Wa chang ting ren shuo Bejing youge Yaxid shichang,ni zhidoo zdi ndr mo？",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.77471,
+    0.85465,
+    0.79215
+   ]
+  },
+  {
+   "text": "小丽：当然 知道，那个 市场 特别 有名，中国人，外国人",
+   "conf": 0.3,
+   "bbox": [
+    0.1686,
+    0.80078,
+    0.83721,
+    0.82129
+   ]
+  },
+  {
+   "text": "Xiaoli: Dangran zhidao, nage shichang tebie youming,Zhongguo ren、waiguo ren",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.82413,
+    0.84109,
+    0.84033
+   ]
+  },
+  {
+   "text": "都爱去。有人说，那儿的外国 顾客比 中国 顾客还多。",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.84863,
+    0.83721,
+    0.86919
+   ]
+  },
+  {
+   "text": "dou di qu. You ren shuo, nar de waiguo guke bi Zhongguo guke hdi duo.",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.87207,
+    0.83333,
+    0.88818
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 6 Talking about Shopping",
+   "conf": 1.0,
+   "bbox": [
+    0.55426,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 1.0,
+   "bbox": [
+    0.35659,
+    0.14099,
+    0.7345,
+    0.15988
+   ]
+  },
+  {
+   "text": "(-) 15TE",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.19477,
+    0.45155,
+    0.21533
+   ]
+  },
+  {
+   "text": "Task Demonstration",
+   "conf": 1.0,
+   "bbox": [
+    0.45736,
+    0.19913,
+    0.66279,
+    0.21387
+   ]
+  },
+  {
+   "text": "The scene of the story: Edna and Xiaoli are chatting.",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.32122,
+    0.53488,
+    0.33594
+   ]
+  },
+  {
+   "text": "89",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  },
+  {
+   "text": "Ainà: Beijĩng rén dõu xĩhuan qù nă mãi dõngxi a?",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.3968,
+    0.59496,
+    0.41424
+   ]
+  },
+  {
+   "text": "Xiăolì: Nà yào kàn mãi shénme dõngxi le. Mãi shẽnghuó yòngpĩn, xihuan qù chãoshì;",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.44767,
+    0.86047,
+    0.46387
+   ]
+  },
+  {
+   "text": "* **. **, -#R E т33.",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.4707,
+    0.56202,
+    0.48983
+   ]
+  },
+  {
+   "text": "mái shui guỏ, shucài, yibãn qù shicháng.",
+   "conf": 0.3,
+   "bbox": [
+    0.22674,
+    0.49561,
+    0.57364,
+    0.51025
+   ]
+  },
+  {
+   "text": "Ainà: Nà mãi yĩfu, xié shénmede, yĩnggài qù năo a?",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.53906,
+    0.6376,
+    0.55814
+   ]
+  },
+  {
+   "text": "Xiaolì: Yõu rén xihuan qù Wángfujing, Xidãn de dà shăngchăng mãi, yỗu rén xihuan",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.58866,
+    0.8469,
+    0.6061
+   ]
+  },
+  {
+   "text": "qù fúzhuãng shìchăng mãi. Qù dà shãngchăng ba, dõngxi zhìliàng bĩ jiào hão,",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.63517,
+    0.85465,
+    0.65137
+   ]
+  },
+  {
+   "text": "búguò jiàqian bijiào gui; qù fúzhuãng shichăng ba, suirán dongxi piányi",
+   "conf": 0.5,
+   "bbox": [
+    0.22868,
+    0.68311,
+    0.82946,
+    0.69775
+   ]
+  },
+  {
+   "text": "87 T TH т 4t",
+   "conf": 0.3,
+   "bbox": [
+    0.22868,
+    0.70494,
+    0.69186,
+    0.72384
+   ]
+  },
+  {
+   "text": "de duõ, dànshì zhiliàng kẽnéng bùrú shãngchăng de hão.",
+   "conf": 1.0,
+   "bbox": [
+    0.22674,
+    0.72949,
+    0.68411,
+    0.74564
+   ]
+  },
+  {
+   "text": "D h o A 1HE T, m t L?",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.75145,
+    0.85659,
+    0.77197
+   ]
+  },
+  {
+   "text": "Ainà: Wõ cháng ting rén shuo Bẽijĩng yõu ge Yăxiù shìchăng, nĩ zhídào zài năn ma?",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.77471,
+    0.85465,
+    0.79215
+   ]
+  },
+  {
+   "text": "Xiaolì: Dăngrán zhidào, nàge shìchăng tèbié youming, Zhôngguó rén, wàiguó rén",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.82413,
+    0.84109,
+    0.84033
+   ]
+  },
+  {
+   "text": "dõu ài qù. Yõu rén shuo, nàr de wàiguó gùkè bĩ Zhôngguó gùkè hái duò.",
+   "conf": 0.5,
+   "bbox": [
+    0.22674,
+    0.87207,
+    0.83333,
+    0.88818
+   ]
+  }
+ ]
+}

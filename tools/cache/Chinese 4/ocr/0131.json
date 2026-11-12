@@ -1,0 +1,637 @@
+{
+ "page": 131,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "④",
+   "conf": 0.5,
+   "bbox": [
+    0.03682,
+    0.25872,
+    0.06008,
+    0.27616
+   ]
+  },
+  {
+   "text": "116",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "变成了黑色的，再加上各种工业垃圾、生活 垃圾，气味",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.13808,
+    0.85659,
+    0.15698
+   ]
+  },
+  {
+   "text": "bidncheng le heise de, zai jiashang ge zhong gongye laji, shenghuo loj，",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.16113,
+    0.78682,
+    0.17733
+   ]
+  },
+  {
+   "text": "qiwei",
+   "conf": 0.5,
+   "bbox": [
+    0.80814,
+    0.16113,
+    0.85853,
+    0.17587
+   ]
+  },
+  {
+   "text": "特别难闻。",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.18164,
+    0.32364,
+    0.20068
+   ]
+  },
+  {
+   "text": "tebie nan wen.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.20494,
+    0.32171,
+    0.2168
+   ]
+  },
+  {
+   "text": "大龙：唉，有的地方只 关心 经济发展，缺乏 环保意识。",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.22656,
+    0.7345,
+    0.24564
+   ]
+  },
+  {
+   "text": "Ddlong: Ai, you de difang zhi guanxin jingji fazhan, quefd huanbdo yishi.",
+   "conf": 0.3,
+   "bbox": [
+    0.12791,
+    0.24707,
+    0.72868,
+    0.26465
+   ]
+  },
+  {
+   "text": "小丽：幸亏 这些年人们认识 到了环保的重要性。",
+   "conf": 0.3,
+   "bbox": [
+    0.1414,
+    0.27012,
+    0.72102,
+    0.29073
+   ]
+  },
+  {
+   "text": "Xidoli: Xingkui zhexie nian renmen renshi ddo le hudnbdo de zhongydoxing.",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.29346,
+    0.7345,
+    0.30959
+   ]
+  },
+  {
+   "text": "大龙：都说环境 破坏起来容易，治理起来难。这里 变化 这么大，",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.31395,
+    0.85659,
+    0.33594
+   ]
+  },
+  {
+   "text": "Ddlong: Dou shuo huanjing pohuai qilai rongyi.",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.34012,
+    0.51357,
+    0.3561
+   ]
+  },
+  {
+   "text": "zhili qilai nan. Zheli bianhud zheme dd，",
+   "conf": 0.5,
+   "bbox": [
+    0.5155,
+    0.34012,
+    0.84884,
+    0.35465
+   ]
+  },
+  {
+   "text": "真不容易。",
+   "conf": 0.5,
+   "bbox": [
+    0.20137,
+    0.35975,
+    0.3277,
+    0.38007
+   ]
+  },
+  {
+   "text": "zhen bu rongyi.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.38372,
+    0.31977,
+    0.39844
+   ]
+  },
+  {
+   "text": "小丽：是啊，希望 以后这里的 环境一直这么好。",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.40407,
+    0.64922,
+    0.42442
+   ]
+  },
+  {
+   "text": "Xidoli: Shi a, xiwang yihou zheli de hudnjing yizhi zheme hdo.",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.42725,
+    0.64729,
+    0.44336
+   ]
+  },
+  {
+   "text": "大龙：保护 环境 太 重要了。如果不保护 环境，最后一定会 受到",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.44913,
+    0.8624,
+    0.46948
+   ]
+  },
+  {
+   "text": "Dalong: Bdohu huanjing tdi zhongydo le. Ruguo bu baohu huanjing, zuihou yiding hui shouddo",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.47217,
+    0.87791,
+    0.48692
+   ]
+  },
+  {
+   "text": "大自然的惩罚。在我看来，",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.49414,
+    0.48643,
+    0.51465
+   ]
+  },
+  {
+   "text": "dazirdn de chengfd. Zdi wo kanlai，",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.51599,
+    0.4845,
+    0.53198
+   ]
+  },
+  {
+   "text": "什么 都不如环境 重要。",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.53906,
+    0.48256,
+    0.55814
+   ]
+  },
+  {
+   "text": "shenme dou buru huanjing zhongyao.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.5625,
+    0.49419,
+    0.57715
+   ]
+  },
+  {
+   "text": "小丽：那我呢？",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.5843,
+    0.28876,
+    0.60029
+   ]
+  },
+  {
+   "text": "Xidoli: Na wo ne？",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.60596,
+    0.28488,
+    0.61919
+   ]
+  },
+  {
+   "text": "大龙：你……",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.62791,
+    0.27132,
+    0.64404
+   ]
+  },
+  {
+   "text": "Ddlong: Ni•••••",
+   "conf": 0.3,
+   "bbox": [
+    0.12791,
+    0.64971,
+    0.25775,
+    0.6657
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.81977,
+    0.13953,
+    0.84157
+   ]
+  },
+  {
+   "text": "（二）分步任务活动 Implement the Tasks Step by Step",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.7718,
+    0.77519,
+    0.79215
+   ]
+  },
+  {
+   "text": "幸亏",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.81977,
+    0.19767,
+    0.8374
+   ]
+  },
+  {
+   "text": "Fortunately ….",
+   "conf": 0.3,
+   "bbox": [
+    0.26159,
+    0.82251,
+    0.39345,
+    0.83882
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17047,
+    0.86464,
+    0.25201,
+    0.88245
+   ]
+  },
+  {
+   "text": "一人读前半句，另一人选择合适的图片，用“幸亏”进行补充。",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.86621,
+    0.82171,
+    0.88525
+   ]
+  },
+  {
+   "text": "Pair work: One reads the first half of the sentences, and another person finds out the proper",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.89826,
+    0.89147,
+    0.91279
+   ]
+  },
+  {
+   "text": "pictures and complete the sentences with “幸亏”.",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.91846,
+    0.63566,
+    0.93314
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "4",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.25872,
+    0.06008,
+    0.27616
+   ]
+  },
+  {
+   "text": "116",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "biànchéng le heise de, zài jiashàng gè zhăng gòngyè lãjĩ, shẽnghuó lãjĩ,",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.16113,
+    0.78682,
+    0.17733
+   ]
+  },
+  {
+   "text": "giwèi",
+   "conf": 0.5,
+   "bbox": [
+    0.80814,
+    0.16134,
+    0.85853,
+    0.17587
+   ]
+  },
+  {
+   "text": "tèbié nán wén.",
+   "conf": 1.0,
+   "bbox": [
+    0.20155,
+    0.20494,
+    0.32171,
+    0.2168
+   ]
+  },
+  {
+   "text": "Dàlóng: Ài, yõu de difang zhĩ guãnxĩn jĩngjì fãzhăn, quẽfá huánbão yìshí.",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.24707,
+    0.72868,
+    0.26465
+   ]
+  },
+  {
+   "text": "Xiăolì: Xingkui zhèxie nián rénmen rènshi dào le huánbão de zhòngyàoxìng.",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.29346,
+    0.7345,
+    0.30959
+   ]
+  },
+  {
+   "text": "Dàlóng: Dõu shuố huánjìng pòhuài qilai róngyì,",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.34012,
+    0.51357,
+    0.3561
+   ]
+  },
+  {
+   "text": "zhili qilai nán. Zhèli biànhuà zhème dà,",
+   "conf": 0.5,
+   "bbox": [
+    0.5155,
+    0.34012,
+    0.84884,
+    0.35465
+   ]
+  },
+  {
+   "text": "A T5.",
+   "conf": 0.3,
+   "bbox": [
+    0.20137,
+    0.35975,
+    0.3277,
+    0.38007
+   ]
+  },
+  {
+   "text": "zhẽn bù róngyì.",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.38372,
+    0.31977,
+    0.39844
+   ]
+  },
+  {
+   "text": "Xiăolì: Shì a, xiwàng yĩhòu zhèli de huánjìng yìzhí zhème hão.",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.42725,
+    0.64729,
+    0.44336
+   ]
+  },
+  {
+   "text": "Dàlóng: Băohù huánjìng tài zhòngyào le. Rúguò bù băohù huánjìng, zuìhòu yídìng hui shòudào",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.47217,
+    0.87791,
+    0.48692
+   ]
+  },
+  {
+   "text": "dàzirán de chéngfá. Zài wò kànlái,",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.51599,
+    0.4845,
+    0.53198
+   ]
+  },
+  {
+   "text": "shénme dõu bùrú huánjing zhòngyào.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.5625,
+    0.49419,
+    0.57715
+   ]
+  },
+  {
+   "text": "CAON: A3 #%?",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.5843,
+    0.28876,
+    0.60029
+   ]
+  },
+  {
+   "text": "Xiăolì: Nà wõ ne?",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.60596,
+    0.28488,
+    0.61919
+   ]
+  },
+  {
+   "text": "Xtì: 14.",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.62791,
+    0.27132,
+    0.64404
+   ]
+  },
+  {
+   "text": "Dàlóng: Nĩ•....•",
+   "conf": 0.3,
+   "bbox": [
+    0.12791,
+    0.64971,
+    0.25775,
+    0.6657
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.81977,
+    0.13953,
+    0.84157
+   ]
+  },
+  {
+   "text": "([) 15132) Implement the Tasks Step by Step",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.7718,
+    0.77519,
+    0.79215
+   ]
+  },
+  {
+   "text": "Fortunately ...",
+   "conf": 0.5,
+   "bbox": [
+    0.26159,
+    0.82251,
+    0.39345,
+    0.83882
+   ]
+  },
+  {
+   "text": "MтА.",
+   "conf": 0.3,
+   "bbox": [
+    0.72485,
+    0.86621,
+    0.82171,
+    0.88525
+   ]
+  },
+  {
+   "text": "Pair work: One reads the first half of the sentences, and another person finds out the proper",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.89826,
+    0.89147,
+    0.91279
+   ]
+  },
+  {
+   "text": "pictures and complete the sentences with \"/Tj\".",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.91846,
+    0.63566,
+    0.93314
+   ]
+  }
+ ]
+}

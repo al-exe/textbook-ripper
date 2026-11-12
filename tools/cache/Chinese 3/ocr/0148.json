@@ -1,0 +1,807 @@
+{
+ "page": 148,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.21802,
+    0.13953,
+    0.23256
+   ]
+  },
+  {
+   "text": "③",
+   "conf": 0.3,
+   "bbox": [
+    0.0407,
+    0.26017,
+    0.06395,
+    0.27762
+   ]
+  },
+  {
+   "text": "134",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "② 最近他忙 极了，他恨不得 每天不睡觉，能早点儿把工作",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.125,
+    0.85465,
+    0.14551
+   ]
+  },
+  {
+   "text": "Zujin ta mang jile，",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.14535,
+    0.37791,
+    0.16134
+   ]
+  },
+  {
+   "text": "ta hen bu de meitian bu shui jido, neng zdo dianr ba gongzuo",
+   "conf": 0.5,
+   "bbox": [
+    0.38372,
+    0.14535,
+    0.86822,
+    0.15988
+   ]
+  },
+  {
+   "text": "做完。",
+   "conf": 1.0,
+   "bbox": [
+    0.20736,
+    0.16699,
+    0.26744,
+    0.18605
+   ]
+  },
+  {
+   "text": "zuowan.",
+   "conf": 0.5,
+   "bbox": [
+    0.20927,
+    0.18742,
+    0.27522,
+    0.20066
+   ]
+  },
+  {
+   "text": "被动句",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.21657,
+    0.22093,
+    0.23401
+   ]
+  },
+  {
+   "text": "Passive sentence",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.21924,
+    0.39147,
+    0.2311
+   ]
+  },
+  {
+   "text": "被动句是指主语与谓语之间是被动关系的句子，即主语是谓语动词所表示的行",
+   "conf": 1.0,
+   "bbox": [
+    0.19767,
+    0.25291,
+    0.89147,
+    0.27051
+   ]
+  },
+  {
+   "text": "为的受动者。被动句有遭受、不情愿的意义。由表示被动的介词“被”及其宾语做",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.27471,
+    0.88953,
+    0.2936
+   ]
+  },
+  {
+   "text": "状语，“被”的作用是引出动作的发出者（施事者），如果不清楚或者不需要强调动",
+   "conf": 0.5,
+   "bbox": [
+    0.1569,
+    0.29623,
+    0.88958,
+    0.31766
+   ]
+  },
+  {
+   "text": "作的发出者，“被”后边的宾语可以省略。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.31686,
+    0.56783,
+    0.33887
+   ]
+  },
+  {
+   "text": "A sentence in passive voice refers to a sentence with the subject and object being in a",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.34717,
+    0.89147,
+    0.36337
+   ]
+  },
+  {
+   "text": "passive relationship, i.e.， the subject is the receiver of the action indicated by the predicate",
+   "conf": 0.5,
+   "bbox": [
+    0.15886,
+    0.37016,
+    0.89152,
+    0.3872
+   ]
+  },
+  {
+   "text": "verb. It often means to be suffered from or to be unwilling to do something. The preposition",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.3939,
+    0.88953,
+    0.40843
+   ]
+  },
+  {
+   "text": "“被”together with its object serves as an adverbial.“被”is used to introduce the doer",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.41406,
+    0.89147,
+    0.43023
+   ]
+  },
+  {
+   "text": "（agent）of the action. If the doer of the action is unclear or unnecessary to be emphasized，",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.4375,
+    0.89147,
+    0.45215
+   ]
+  },
+  {
+   "text": "the object after “被”can be omitted, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.4593,
+    0.4845,
+    0.47529
+   ]
+  },
+  {
+   "text": "① 那双鞋被（他）穿坏了。",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.48828,
+    0.5407,
+    0.50879
+   ]
+  },
+  {
+   "text": "Nd shuang xie bei （ta） chuan hudi le.",
+   "conf": 0.3,
+   "bbox": [
+    0.23062,
+    0.51017,
+    0.53488,
+    0.52637
+   ]
+  },
+  {
+   "text": "② 我的自行车被（朋友）骑走了。",
+   "conf": 0.5,
+   "bbox": [
+    0.19551,
+    0.52747,
+    0.56808,
+    0.55211
+   ]
+  },
+  {
+   "text": "Wo de zixingche bei （pengyou） qi zou le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.55078,
+    0.55814,
+    0.56689
+   ]
+  },
+  {
+   "text": "③ 这不是我们的意见，我们“被”代表了。",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.57122,
+    0.67248,
+    0.59326
+   ]
+  },
+  {
+   "text": "Zhe bi shi women de yjian, women \"ber ddibido le.",
+   "conf": 0.3,
+   "bbox": [
+    0.23062,
+    0.59157,
+    0.66279,
+    0.60901
+   ]
+  },
+  {
+   "text": "口语中常用“让”或“叫”代替“被”，但“让”和“叫”后边的宾语不能省",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.62207,
+    0.8876,
+    0.64111
+   ]
+  },
+  {
+   "text": "略。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.64535,
+    0.24806,
+    0.66279
+   ]
+  },
+  {
+   "text": "“被”is often replaced by “让”or “叫” in spoken Chinese, but the object after “让”or“叫”",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.66553,
+    0.89147,
+    0.68314
+   ]
+  },
+  {
+   "text": "is not omitted, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.68895,
+    0.31395,
+    0.70361
+   ]
+  },
+  {
+   "text": "④那双鞋让他穿坏了。",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.71366,
+    0.52519,
+    0.73256
+   ]
+  },
+  {
+   "text": "Nd shuang xie rang ta chuan hudi le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.73389,
+    0.51744,
+    0.75
+   ]
+  },
+  {
+   "text": "⑤ 我的自行车叫 朋友骑走了。",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.75581,
+    0.54845,
+    0.7749
+   ]
+  },
+  {
+   "text": "Wo de zixingche jido pengyou qi zou le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.77471,
+    0.54264,
+    0.7907
+   ]
+  },
+  {
+   "text": "“••被（⋯••）称作•⋯”有时也可以说“•⋯被（•⋯）叫作⋯•”，前者",
+   "conf": 0.3,
+   "bbox": [
+    0.19755,
+    0.79917,
+    0.88772,
+    0.82151
+   ]
+  },
+  {
+   "text": "语气更正式。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.82558,
+    0.32752,
+    0.84326
+   ]
+  },
+  {
+   "text": "•被（⋯••）称作",
+   "conf": 0.3,
+   "bbox": [
+    0.23256,
+    0.85156,
+    0.37209,
+    0.86628
+   ]
+  },
+  {
+   "text": "..•\" is sometimes equivalent to \".",
+   "conf": 0.3,
+   "bbox": [
+    0.38372,
+    0.85156,
+    0.64922,
+    0.86628
+   ]
+  },
+  {
+   "text": "被（••⋯）叫作•••”，",
+   "conf": 0.3,
+   "bbox": [
+    0.68023,
+    0.8501,
+    0.8624,
+    0.86919
+   ]
+  },
+  {
+   "text": "However, the former one is more formal, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.87354,
+    0.52519,
+    0.88818
+   ]
+  },
+  {
+   "text": "⑥ 艾娜 被 朋友们 称作 “麦霸”",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.8939,
+    0.57558,
+    0.91424
+   ]
+  },
+  {
+   "text": "Aind bei pengyoumen chengzuo “mdibd”.",
+   "conf": 0.5,
+   "bbox": [
+    0.2345,
+    0.91406,
+    0.59109,
+    0.93314
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [3]",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.21802,
+    0.13953,
+    0.23256
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.0407,
+    0.26017,
+    0.06395,
+    0.27762
+   ]
+  },
+  {
+   "text": "134",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "Zuiin tã máng jíle,",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.14535,
+    0.37791,
+    0.16134
+   ]
+  },
+  {
+   "text": "tã hèn bu de mẽitiân bú shui giào, néng zào diănr bă gõngzuò",
+   "conf": 0.5,
+   "bbox": [
+    0.38372,
+    0.14535,
+    0.86822,
+    0.15988
+   ]
+  },
+  {
+   "text": "zuòwán.",
+   "conf": 1.0,
+   "bbox": [
+    0.20927,
+    0.18742,
+    0.27522,
+    0.20066
+   ]
+  },
+  {
+   "text": "Passive sentence",
+   "conf": 1.0,
+   "bbox": [
+    0.23643,
+    0.21924,
+    0.39147,
+    0.2311
+   ]
+  },
+  {
+   "text": "ВДДЩттт<тлхкДт, рЕлтИдИЛЕЛКА",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.25291,
+    0.89147,
+    0.27051
+   ]
+  },
+  {
+   "text": "НШС ттВКх щдЛАдШЛтт\" ВЛАИ",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.27471,
+    0.88953,
+    0.2936
+   ]
+  },
+  {
+   "text": "1ЕдШИ, \"В\" ПДюЛИНИАИ т:",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.31686,
+    0.56783,
+    0.33887
+   ]
+  },
+  {
+   "text": "A sentence in passive voice refers to a sentence with the subject and object being in a",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.34717,
+    0.89147,
+    0.36337
+   ]
+  },
+  {
+   "text": "passive relationship, i.e., the subject is the receiver of the action indicated by the predicate",
+   "conf": 1.0,
+   "bbox": [
+    0.15886,
+    0.37016,
+    0.89152,
+    0.3872
+   ]
+  },
+  {
+   "text": "verb. It often means to be suffered from or to be unwilling to do something. The preposition",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.3939,
+    0.88953,
+    0.40843
+   ]
+  },
+  {
+   "text": "\"**\" together with its object serves as an adverbial. \"ik\" is used to introduce the doer",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.41406,
+    0.89147,
+    0.43023
+   ]
+  },
+  {
+   "text": "( agent ) of the action. If the doer of the action is unclear or unnecessary to be emphasized,",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.4375,
+    0.89147,
+    0.45215
+   ]
+  },
+  {
+   "text": "the object after \"ik\" can be omitted, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.4593,
+    0.4845,
+    0.47529
+   ]
+  },
+  {
+   "text": "Nà shuãng xié bèi (tã) chuan huài le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.51017,
+    0.53488,
+    0.52637
+   ]
+  },
+  {
+   "text": "O # H (A5)",
+   "conf": 0.3,
+   "bbox": [
+    0.19551,
+    0.52747,
+    0.56808,
+    0.55211
+   ]
+  },
+  {
+   "text": "Wõ de zixíngche bèi (péngyou) qí zõu le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.55078,
+    0.55814,
+    0.56689
+   ]
+  },
+  {
+   "text": "BÜT HHER, АШ \"АX\" KEI.",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.57122,
+    0.67248,
+    0.59326
+   ]
+  },
+  {
+   "text": "Zhè bú shì wămen de yijian, women \"bèi\" dàibião le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.59157,
+    0.66279,
+    0.60901
+   ]
+  },
+  {
+   "text": "т\" \"\" Ш\" ліКлК",
+   "conf": 0.3,
+   "bbox": [
+    0.38713,
+    0.62207,
+    0.8876,
+    0.64111
+   ]
+  },
+  {
+   "text": "HM• DП:",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.64535,
+    0.24806,
+    0.66279
+   ]
+  },
+  {
+   "text": "is not omitted, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.68895,
+    0.31395,
+    0.70361
+   ]
+  },
+  {
+   "text": "\"At'\" is often replaced by \"Il.\" or \"Il\" in spoken Chinese, but the object after \"Il.\" or \"пy»",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.66553,
+    0.89147,
+    0.68314
+   ]
+  },
+  {
+   "text": "Nà shuãng xié ràng tã chuãn huài le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.73389,
+    0.51744,
+    0.75
+   ]
+  },
+  {
+   "text": "OHHAHEI ME BET.",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.75581,
+    0.54845,
+    0.7749
+   ]
+  },
+  {
+   "text": "Wõ de zixíngche jido péngyou qí zõu le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23062,
+    0.77471,
+    0.54264,
+    0.7907
+   ]
+  },
+  {
+   "text": "\".* () #\"АнрEИй\"А() ш/.\" , Niti",
+   "conf": 0.3,
+   "bbox": [
+    0.19755,
+    0.79917,
+    0.88772,
+    0.82151
+   ]
+  },
+  {
+   "text": "MCEТ. ФІШ:",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.82558,
+    0.32752,
+    0.84326
+   ]
+  },
+  {
+   "text": "•BX (••.) FN1F",
+   "conf": 0.3,
+   "bbox": [
+    0.23256,
+    0.85156,
+    0.37209,
+    0.86628
+   ]
+  },
+  {
+   "text": "....\" is sometimes equivalent to \".",
+   "conf": 0.5,
+   "bbox": [
+    0.38372,
+    0.85156,
+    0.64922,
+    0.86628
+   ]
+  },
+  {
+   "text": "Вl (......) Ш4/\",",
+   "conf": 0.3,
+   "bbox": [
+    0.68023,
+    0.8501,
+    0.8624,
+    0.86919
+   ]
+  },
+  {
+   "text": "However, the former one is more formal, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.87354,
+    0.52519,
+    0.88818
+   ]
+  },
+  {
+   "text": "O Fт \"\"",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.8939,
+    0.57558,
+    0.91424
+   ]
+  },
+  {
+   "text": "Àinà bèi péngyoumen chẽngzuò \"màibà\" .",
+   "conf": 0.5,
+   "bbox": [
+    0.2345,
+    0.91406,
+    0.59109,
+    0.93314
+   ]
+  }
+ ]
+}

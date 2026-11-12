@@ -1,0 +1,807 @@
+{
+ "page": 44,
+ "cjk_pass": [
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.53343,
+    0.13953,
+    0.54942
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.74855,
+    0.1376,
+    0.76453
+   ]
+  },
+  {
+   "text": "Unit 2 Talking about Hometown",
+   "conf": 0.5,
+   "bbox": [
+    0.54264,
+    0.06104,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "示为“AB一AB”，如“介绍介绍”“休息休息”，不能表示为“介绍一介绍”“休",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.12354,
+    0.90116,
+    0.14258
+   ]
+  },
+  {
+   "text": "息一休息”。",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.14535,
+    0.26938,
+    0.1657
+   ]
+  },
+  {
+   "text": "In Chinese, some verbs can be reduplicated to indicate an action is short, easy or",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.17285,
+    0.89147,
+    0.1875
+   ]
+  },
+  {
+   "text": "casual; sometimes it also indicates a try or shows courtesy. The reduplicative form of a",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.19331,
+    0.89147,
+    0.20801
+   ]
+  },
+  {
+   "text": "monosyllabic verb is “AA” or “A—A”，for example， “看（一）看”，“听（一）听”，“说",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.21076,
+    0.88953,
+    0.2282
+   ]
+  },
+  {
+   "text": "（一）说”.The reduplicative form of a disyllabic verb is “ABAB” rather than “AB - AB”，",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.23096,
+    0.89147,
+    0.24855
+   ]
+  },
+  {
+   "text": "for example， “介绍介绍”，“休息休息”，but not “介绍一介绍”，“休息一休息”.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.25145,
+    0.77907,
+    0.26904
+   ]
+  },
+  {
+   "text": "① 我能看看你的书吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.27907,
+    0.46705,
+    0.29651
+   ]
+  },
+  {
+   "text": "②我们 休息 休息吧。",
+   "conf": 0.3,
+   "bbox": [
+    0.57946,
+    0.27616,
+    0.8062,
+    0.29797
+   ]
+  },
+  {
+   "text": "Wo neng kankan ni de shima？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.29785,
+    0.46705,
+    0.31396
+   ]
+  },
+  {
+   "text": "Women xiuxi xiuxi ba.",
+   "conf": 0.3,
+   "bbox": [
+    0.60645,
+    0.29776,
+    0.79862,
+    0.31111
+   ]
+  },
+  {
+   "text": "动词重叠后不能再带补语。我们不说“我看看一下”。",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.32703,
+    0.66279,
+    0.34738
+   ]
+  },
+  {
+   "text": "If a verb is reduplicated, it is not followed by a complement. “我看看一下”is wrong",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.35156,
+    0.86628,
+    0.36919
+   ]
+  },
+  {
+   "text": "动词重叠后带宾语时，若宾语前有数量词语做定语，这个数量词语应该是定",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.375,
+    0.89147,
+    0.39404
+   ]
+  },
+  {
+   "text": "指的，而不能是不确定的量。我们不说“我看看一本书”，而应该说“我看看那",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.3939,
+    0.88953,
+    0.41279
+   ]
+  },
+  {
+   "text": "本书”",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.41406,
+    0.21124,
+    0.43023
+   ]
+  },
+  {
+   "text": "o",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.42151,
+    0.23256,
+    0.43169
+   ]
+  },
+  {
+   "text": "When a verb is reduplicated and followed by an object, and there is a quantifier used",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.43604,
+    0.88953,
+    0.45215
+   ]
+  },
+  {
+   "text": "before the object as an attributive, the quantifier should refer to something definite rather",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.4564,
+    0.89147,
+    0.47238
+   ]
+  },
+  {
+   "text": "than something indefinite. “我看看那本书”is correct, but “我看看一本书”is wrong.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.4751,
+    0.81783,
+    0.49128
+   ]
+  },
+  {
+   "text": "够⋯…的 The structure够⋯•⋯的",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.53174,
+    0.47868,
+    0.54942
+   ]
+  },
+  {
+   "text": "“够•⋯的”结构可以用来强调程度很高。例如：",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.56395,
+    0.56977,
+    0.58301
+   ]
+  },
+  {
+   "text": "The structure“够…的” is used to stress the degree is high, e.g.",
+   "conf": 0.3,
+   "bbox": [
+    0.15875,
+    0.58569,
+    0.6785,
+    0.60618
+   ]
+  },
+  {
+   "text": "①汉语 真够难的。",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.61768,
+    0.41279,
+    0.63672
+   ]
+  },
+  {
+   "text": "②今天够冷的。",
+   "conf": 0.3,
+   "bbox": [
+    0.50969,
+    0.61621,
+    0.69574,
+    0.63672
+   ]
+  },
+  {
+   "text": "Hanyi zhen gou nan de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.63663,
+    0.40891,
+    0.65283
+   ]
+  },
+  {
+   "text": "Jintian gou leng de.",
+   "conf": 0.5,
+   "bbox": [
+    0.53101,
+    0.63663,
+    0.68992,
+    0.65283
+   ]
+  },
+  {
+   "text": "③从这儿到那儿可够远的。",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.66406,
+    0.51163,
+    0.68459
+   ]
+  },
+  {
+   "text": "Cong zher dao nar ke gou yuan de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.68457,
+    0.50581,
+    0.69922
+   ]
+  },
+  {
+   "text": "The structure 别看⋯，•⋯可•⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.38178,
+    0.74854,
+    0.73837,
+    0.76611
+   ]
+  },
+  {
+   "text": "“别看⋯•⋯，•⋯可••••”常用来承认别人的观点，但也提出不同的观点。例如：",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.77907,
+    0.88372,
+    0.79797
+   ]
+  },
+  {
+   "text": "The structure “别看•",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.80371,
+    0.36434,
+    0.81836
+   ]
+  },
+  {
+   "text": "⋯⋯可•⋯.” is used to agree to others' opinion, but also raise",
+   "conf": 0.3,
+   "bbox": [
+    0.40504,
+    0.80225,
+    0.89729,
+    0.81836
+   ]
+  },
+  {
+   "text": "up a different opinion, e.g.，",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.82558,
+    0.37597,
+    0.84326
+   ]
+  },
+  {
+   "text": "①别 看她是 美国人，她汉语可好了。",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.85303,
+    0.60853,
+    0.87209
+   ]
+  },
+  {
+   "text": "Bie kan ta shi Miguo ren, ta Hanyi ke hdo le.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.87207,
+    0.59884,
+    0.88965
+   ]
+  },
+  {
+   "text": "②别看房间很小，可舒服了。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.89826,
+    0.53876,
+    0.91715
+   ]
+  },
+  {
+   "text": "Bie kan fangjian hen xido, ke shufu le.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.91699,
+    0.52907,
+    0.93314
+   ]
+  },
+  {
+   "text": "27",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.53343,
+    0.13953,
+    0.54942
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12209,
+    0.74855,
+    0.1376,
+    0.76453
+   ]
+  },
+  {
+   "text": "Unit 2 Talking about Hometown",
+   "conf": 1.0,
+   "bbox": [
+    0.54264,
+    0.06104,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "ЛД \"АВ-АВ\" , Ш \"ЛШИШ\" \"КШИКВ\" , ПАЕКЛД \"12-14\" \"1",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.12354,
+    0.90116,
+    0.14258
+   ]
+  },
+  {
+   "text": "B-KE\" •",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.14535,
+    0.26938,
+    0.1657
+   ]
+  },
+  {
+   "text": "In Chinese, some verbs can be reduplicated to indicate an action is short, easy or",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.17285,
+    0.89147,
+    0.1875
+   ]
+  },
+  {
+   "text": "casual; sometimes it also indicates a try or shows courtesy. The reduplicative form of a",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.19331,
+    0.89147,
+    0.20801
+   ]
+  },
+  {
+   "text": "monosyllabic verb is \"AA\" or \"A — A\", for example, \"Fi (→) Fi\", \"DT (→) пр\", \"Vá",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.21076,
+    0.88953,
+    0.2282
+   ]
+  },
+  {
+   "text": "(→) ist\". The reduplicative form of a disyllabic verb is \"ABAB\" rather than \"AB - AB\",",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.23096,
+    0.89147,
+    0.24855
+   ]
+  },
+  {
+   "text": "for example, \"14H12\", \"И8M8\", but not \"1414\", \"ИВ-КВ\".",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.25145,
+    0.77907,
+    0.26904
+   ]
+  },
+  {
+   "text": "Dđ d AA nn 1º4?",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.27907,
+    0.46705,
+    0.29651
+   ]
+  },
+  {
+   "text": "1,80",
+   "conf": 0.3,
+   "bbox": [
+    0.71549,
+    0.27616,
+    0.8062,
+    0.29797
+   ]
+  },
+  {
+   "text": "Wõ néng kànkan nĩ de shũ ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.29785,
+    0.46705,
+    0.31396
+   ]
+  },
+  {
+   "text": "Women xiuxi xiúxi ba.",
+   "conf": 0.3,
+   "bbox": [
+    0.60645,
+    0.29776,
+    0.79862,
+    0.31111
+   ]
+  },
+  {
+   "text": "in TaeT TAETAA. TlTAEE \"HFiTi—F\" •",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.32703,
+    0.66279,
+    0.34738
+   ]
+  },
+  {
+   "text": "If a verb is reduplicated, it is not followed by a complement. \"IlTiTi--F\" is wrong.",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.35156,
+    0.86628,
+    0.36919
+   ]
+  },
+  {
+   "text": "TinAEhnnmn, IHHHNiA",
+   "conf": 0.3,
+   "bbox": [
+    0.39714,
+    0.375,
+    0.89147,
+    0.39404
+   ]
+  },
+  {
+   "text": "ITiTiS",
+   "conf": 0.3,
+   "bbox": [
+    0.79085,
+    0.3939,
+    0.88953,
+    0.41279
+   ]
+  },
+  {
+   "text": "A t5\"",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.41406,
+    0.21124,
+    0.43023
+   ]
+  },
+  {
+   "text": "When a verb is reduplicated and followed by an object, and there is a quantifier used",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.43604,
+    0.88953,
+    0.45215
+   ]
+  },
+  {
+   "text": "before the object as an attributive, the quantifier should refer to something definite rather",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.4564,
+    0.89147,
+    0.47238
+   ]
+  },
+  {
+   "text": "than something indefinite. \"IkFi FiJSA ty\" is correct, but \"IkFifi-A t3\" is wrong.",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.4751,
+    0.81783,
+    0.49128
+   ]
+  },
+  {
+   "text": "f3.ÁJ The structure fg...ÁJ",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.53174,
+    0.47868,
+    0.54942
+   ]
+  },
+  {
+   "text": "\"Н НУ\" СКОСЛОЖОДіНРЕЛСИКЙ ТУ:",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.56395,
+    0.56977,
+    0.58301
+   ]
+  },
+  {
+   "text": "The structure \"ily......iJ\" is used to stress the degree is high, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15875,
+    0.58569,
+    0.6785,
+    0.60618
+   ]
+  },
+  {
+   "text": "Hànyũ zhẽn gòu nán de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.63663,
+    0.40891,
+    0.65283
+   ]
+  },
+  {
+   "text": "Ви дтТЦйН",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.66406,
+    0.51163,
+    0.68459
+   ]
+  },
+  {
+   "text": "Cóng zhèr dào nài kẻ gòu yuăn de.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.68457,
+    0.50581,
+    0.69922
+   ]
+  },
+  {
+   "text": "Jintiăn gòu lẽng de.",
+   "conf": 0.5,
+   "bbox": [
+    0.53101,
+    0.63663,
+    0.68992,
+    0.65283
+   ]
+  },
+  {
+   "text": "The structure Hf,FJ•",
+   "conf": 0.3,
+   "bbox": [
+    0.38178,
+    0.74854,
+    0.73837,
+    0.76611
+   ]
+  },
+  {
+   "text": "\"W/, •П\" *ЛЖЖЛдЛАХЯ, ШиИНКВИХЯ УД:",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.77907,
+    0.88372,
+    0.79797
+   ]
+  },
+  {
+   "text": "The structure \"DITi••",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.80371,
+    0.36434,
+    0.81836
+   ]
+  },
+  {
+   "text": "......н]......\" is used to agree to others' opinion, but also raise",
+   "conf": 0.5,
+   "bbox": [
+    0.40504,
+    0.80225,
+    0.89729,
+    0.81836
+   ]
+  },
+  {
+   "text": "up a different opinion, e.g.,",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.82558,
+    0.37597,
+    0.84326
+   ]
+  },
+  {
+   "text": "Bié kàn tã shì Mẽiguó rén, tã Hànyũ kẽ hão le.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.87207,
+    0.59884,
+    0.88965
+   ]
+  },
+  {
+   "text": "ĐH 1N, THIRT.",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.89826,
+    0.53876,
+    0.91715
+   ]
+  },
+  {
+   "text": "Bié kàn fángjiàn hẽn xião, kẽ shufu le.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.91699,
+    0.52907,
+    0.93314
+   ]
+  },
+  {
+   "text": "27",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  }
+ ]
+}

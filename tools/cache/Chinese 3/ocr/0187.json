@@ -1,0 +1,587 @@
+{
+ "page": 187,
+ "cjk_pass": [
+  {
+   "text": "Unit 10 Talking about the Itinerary of a Trip",
+   "conf": 0.5,
+   "bbox": [
+    0.42636,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "④A. 你喜欢 游览 风景 优美的景点还是喜欢 游览历史名城？1一⑤」",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.12645,
+    0.86822,
+    0.14258
+   ]
+  },
+  {
+   "text": "Ni xihuan youldn fengjing youmei de jingdian hdishi xihuan youldn lishi ming cheng？",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.1468,
+    0.81783,
+    0.16424
+   ]
+  },
+  {
+   "text": "B.你喜欢 游览 风景 优美的景点 或者 喜欢 游览历史名城？［一D］",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.17139,
+    0.87791,
+    0.19043
+   ]
+  },
+  {
+   "text": "Ni xihuan youldn fengjing youmei de jingdidn huozhe xihuan youldn Tishi ming cheng？",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.19477,
+    0.82752,
+    0.21094
+   ]
+  },
+  {
+   "text": "⑤A. 我不对那个景点 感兴趣。［一B］",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.21924,
+    0.5155,
+    0.23837
+   ]
+  },
+  {
+   "text": "we bu dui nage jingdian ganxinggqu.",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.24121,
+    0.45349,
+    0.25732
+   ]
+  },
+  {
+   "text": "B. 我对那个景点 不感兴趣。［-A］",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.26599,
+    0.50969,
+    0.28634
+   ]
+  },
+  {
+   "text": "Wo dui nage jingdian bu gan xingqu.",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.28906,
+    0.44767,
+    0.30523
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.33285,
+    0.40698,
+    0.35174
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very wel！！",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.35449,
+    0.5969,
+    0.36919
+   ]
+  },
+  {
+   "text": "B. 你的语法学得不错。不过要注意“对⋯⋯感兴趣”的否定形式",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.37207,
+    0.68411,
+    0.38965
+   ]
+  },
+  {
+   "text": "是“对⋯⋯不感兴趣”",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.39099,
+    0.32946,
+    0.40843
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note the",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.4126,
+    0.68605,
+    0.42878
+   ]
+  },
+  {
+   "text": "negative form of“对••感兴趣”is “对⋯⋯不感兴趣”．",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.43164,
+    0.61434,
+    0.44922
+   ]
+  },
+  {
+   "text": "C.注意假设复句的用法，请认真看一下语法点注释2。",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.45203,
+    0.57171,
+    0.46948
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of hypothetical compound",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.47217,
+    0.68605,
+    0.48692
+   ]
+  },
+  {
+   "text": "sentences. Refer to Grammar Note 2 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.49268,
+    0.6124,
+    0.50586
+   ]
+  },
+  {
+   "text": "D.注意“或者”与“还是”的区别，请认真看一下语法点注释1。",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.51017,
+    0.67248,
+    0.5293
+   ]
+  },
+  {
+   "text": "Pay attention to the difference between“或者”and “还是”",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.53052,
+    0.67636,
+    0.54651
+   ]
+  },
+  {
+   "text": "Refer to Grammar Note 1 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.55078,
+    0.51357,
+    0.56689
+   ]
+  },
+  {
+   "text": "173",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34302,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.1878,
+    0.61929,
+    0.65521,
+    0.64548
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.35853,
+    0.6875,
+    0.63953,
+    0.70508
+   ]
+  },
+  {
+   "text": "丝绸之路 The Silk Road",
+   "conf": 0.5,
+   "bbox": [
+    0.37597,
+    0.73828,
+    0.62984,
+    0.75586
+   ]
+  },
+  {
+   "text": "丝绸之路通常是指欧亚北部的商路。它是西汉（前202~9）时由张骞开辟的，以西安",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.77471,
+    0.88953,
+    0.7936
+   ]
+  },
+  {
+   "text": "为起点，往西一直延伸到罗马。在这条路上运送的货物中，中国的丝绸最有代表性，因此",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.79639,
+    0.88953,
+    0.81543
+   ]
+  },
+  {
+   "text": "这条商路被称为“丝绸之路”。",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.81831,
+    0.38178,
+    0.8374
+   ]
+  },
+  {
+   "text": "The Silk Road, starting at Xi'an and stretching westwards to Rome, refers to the northern",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.8501,
+    0.88953,
+    0.86483
+   ]
+  },
+  {
+   "text": "Burasian trade route opened up by Zhang Qian in the Eastern Han Dynasty （202 BC-9）. Among",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.87207,
+    0.88953,
+    0.88818
+   ]
+  },
+  {
+   "text": "the commodities transported along this road, Chinese silk was the most representative. As a",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.8939,
+    0.88953,
+    0.90843
+   ]
+  },
+  {
+   "text": "result, it is known as the Silk Road",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.91699,
+    0.39147,
+    0.93023
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 10 Talking about the Itinerary of a Trip",
+   "conf": 1.0,
+   "bbox": [
+    0.42636,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "Nĩ xihuan yóulăn ẽngjĩng yõumẽi de jĩngdiăn háishi xihuan yóulăn lìshi ming chéng?",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.1468,
+    0.81783,
+    0.16424
+   ]
+  },
+  {
+   "text": "Ni xihuan yóulăn ẽngjĩng yõumẽi de jĩngdiăn huòzhe xihuan yóulăn lìshĩ ming chéng?",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.19477,
+    0.82752,
+    0.21094
+   ]
+  },
+  {
+   "text": "Wõ bú duì nàge jĩngdiăn găn xingqù.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.24121,
+    0.45349,
+    0.25732
+   ]
+  },
+  {
+   "text": "Wõ dui nàge jĩngdiăn bù gắn xingqù.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.28906,
+    0.44767,
+    0.30523
+   ]
+  },
+  {
+   "text": "A. 1HT, IWGE2T1HNH!",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.33285,
+    0.40698,
+    0.35174
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.1376,
+    0.35449,
+    0.5969,
+    0.36919
+   ]
+  },
+  {
+   "text": "\"ХЯКИ\" ФЛАЛА",
+   "conf": 0.3,
+   "bbox": [
+    0.42513,
+    0.37207,
+    0.68411,
+    0.38965
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note the",
+   "conf": 1.0,
+   "bbox": [
+    0.1376,
+    0.4126,
+    0.68605,
+    0.42878
+   ]
+  },
+  {
+   "text": "negative form of \"Xj.....kWtX\" is \"Xf... NEЖШ\" .",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.43164,
+    0.61434,
+    0.44922
+   ]
+  },
+  {
+   "text": "С.РСДЕИКЛЕ, МИДТ-ТИДКАЖ2",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.45203,
+    0.57171,
+    0.46948
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of hypothetical compound",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.47217,
+    0.68605,
+    0.48692
+   ]
+  },
+  {
+   "text": "sentences. Refer to Grammar Note 2 for more details.",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.49268,
+    0.6124,
+    0.50586
+   ]
+  },
+  {
+   "text": "D.₴O \"иж\" С \"лл\" АХа, ЛилА ТидАж",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.51017,
+    0.67248,
+    0.5293
+   ]
+  },
+  {
+   "text": "Pay attention to the difference between \"wi#\" and \"it\"",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.53052,
+    0.67636,
+    0.54651
+   ]
+  },
+  {
+   "text": "Refer to Grammar Note 1 for more details.",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.55078,
+    0.51357,
+    0.56689
+   ]
+  },
+  {
+   "text": "173",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34302,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "XIL/JN6E CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.1878,
+    0.61929,
+    0.65521,
+    0.64548
+   ]
+  },
+  {
+   "text": "(-) 1Rяn Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.35853,
+    0.6875,
+    0.63953,
+    0.70508
+   ]
+  },
+  {
+   "text": "44A2 ia The Silk Road",
+   "conf": 0.3,
+   "bbox": [
+    0.37597,
+    0.73828,
+    0.62984,
+    0.75586
+   ]
+  },
+  {
+   "text": "4452HМHMAN (Ш202-9 HШ5КEЛК, КК",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.77471,
+    0.88953,
+    0.7936
+   ]
+  },
+  {
+   "text": "ХАттттд \"4УZI\" •",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.81831,
+    0.38178,
+    0.8374
+   ]
+  },
+  {
+   "text": "The Silk Road, starting at Xi'an and stretching westwards to Rome, refers to the northern",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.8501,
+    0.88953,
+    0.86483
+   ]
+  },
+  {
+   "text": "Eurasian trade route opened up by Zhang Qian in the Eastern Han Dynasty (202 BC-9 ). Among",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.87207,
+    0.88953,
+    0.88818
+   ]
+  },
+  {
+   "text": "the commodities transported along this road, Chinese silk was the most representative. As a",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.8939,
+    0.88953,
+    0.90843
+   ]
+  },
+  {
+   "text": "result, it is known as the Silk Road",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.91699,
+    0.39147,
+    0.93023
+   ]
+  }
+ ]
+}

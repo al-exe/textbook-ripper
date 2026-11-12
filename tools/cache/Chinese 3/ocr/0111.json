@@ -1,0 +1,617 @@
+{
+ "page": 111,
+ "cjk_pass": [
+  {
+   "text": "Unit 6 Talking about Shopping",
+   "conf": 0.5,
+   "bbox": [
+    0.55426,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "值得推荐的消费场所 Places of consumption worth recommending",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.12791,
+    0.77132,
+    0.14697
+   ]
+  },
+  {
+   "text": "班级活动",
+   "conf": 1.0,
+   "bbox": [
+    0.1724,
+    0.16839,
+    0.25396,
+    0.18626
+   ]
+  },
+  {
+   "text": "新年快到了，大家都在准备为新年大餐和新年联欢会大采购。",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.16992,
+    0.8062,
+    0.19043
+   ]
+  },
+  {
+   "text": "Class activity: Imagine the New Year is coming. Everyone is preparing to buy things for a dinner",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.2064,
+    0.89147,
+    0.22093
+   ]
+  },
+  {
+   "text": "and party on New Year's Eve.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.22656,
+    0.5,
+    0.24128
+   ]
+  },
+  {
+   "text": "（1）你知道哪些值得推荐的消费场所？推荐理由是什么？请选出三个最",
+   "conf": 0.5,
+   "bbox": [
+    0.27132,
+    0.25581,
+    0.89147,
+    0.2749
+   ]
+  },
+  {
+   "text": "佳购物场所。",
+   "conf": 1.0,
+   "bbox": [
+    0.31571,
+    0.27412,
+    0.42848,
+    0.29565
+   ]
+  },
+  {
+   "text": "Where would you recommend shopping for party supplies and why? Make",
+   "conf": 0.5,
+   "bbox": [
+    0.31589,
+    0.29785,
+    0.89147,
+    0.31105
+   ]
+  },
+  {
+   "text": "three suggestions.",
+   "conf": 0.5,
+   "bbox": [
+    0.31395,
+    0.31831,
+    0.44767,
+    0.33154
+   ]
+  },
+  {
+   "text": "（2）制作一份购物清单，并标明去哪儿购买。",
+   "conf": 0.5,
+   "bbox": [
+    0.27132,
+    0.34157,
+    0.66473,
+    0.36047
+   ]
+  },
+  {
+   "text": "Make a shopping list including where to go for each item.",
+   "conf": 0.5,
+   "bbox": [
+    0.31589,
+    0.36475,
+    0.73643,
+    0.37793
+   ]
+  },
+  {
+   "text": "儿",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.43459,
+    0.16473,
+    0.46076
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.50145,
+    0.13953,
+    0.52616
+   ]
+  },
+  {
+   "text": "语法点注释 GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.4375,
+    0.65116,
+    0.46094
+   ]
+  },
+  {
+   "text": "转折复句：虽然••，但是⋯•",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.49414,
+    0.45349,
+    0.51318
+   ]
+  },
+  {
+   "text": "Transitional compound sentence： 虽然•⋯，但是⋯⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.51453,
+    0.65698,
+    0.53488
+   ]
+  },
+  {
+   "text": "“虽然•⋯但是•••••”构成表示转折关系的复句。“虽然”用于第一个分句，既可",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.55371,
+    0.8876,
+    0.57275
+   ]
+  },
+  {
+   "text": "以在主语前，也可以在主语后。“但是”应该在第二分句句首。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.57558,
+    0.74612,
+    0.59593
+   ]
+  },
+  {
+   "text": "“虽然•⋯但是⋯••” is used in a transitional compound sentence. “虽然” is used in the first",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.60156,
+    0.89147,
+    0.61628
+   ]
+  },
+  {
+   "text": "clause either before or after the subject, and “但是” is used at the beginning of the second clause, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.62207,
+    0.88178,
+    0.63672
+   ]
+  },
+  {
+   "text": "① 虽然 我们 很累，但是我们 都很高兴。",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.65262,
+    0.6531,
+    0.67442
+   ]
+  },
+  {
+   "text": "Suiran women hen lei, danshi women dou hen gdoxing.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.67432,
+    0.65891,
+    0.68896
+   ]
+  },
+  {
+   "text": "“不过”和“但是”都是表示转折语气的连词，用在后半句。二者不同之处在于，“不",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.7093,
+    0.89147,
+    0.72965
+   ]
+  },
+  {
+   "text": "过”只表示轻微的转折，没有“但是”转折的语气强烈；“不过”多用于口语。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.73242,
+    0.87016,
+    0.75293
+   ]
+  },
+  {
+   "text": "“不过”and “但是” are both conjunctions used in the second clause to indicate transition. “不过”",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.75872,
+    0.88953,
+    0.7749
+   ]
+  },
+  {
+   "text": "shows a slight transition and is weaker than “但是”.“不过” is often used in spoken Chinese, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.78052,
+    0.86628,
+    0.7936
+   ]
+  },
+  {
+   "text": "②那个 手机 很漂亮，不过 有点儿贵。",
+   "conf": 0.3,
+   "bbox": [
+    0.19757,
+    0.81078,
+    0.6319,
+    0.83145
+   ]
+  },
+  {
+   "text": "Nage shouji hen piaoliang,buguo youdianr gui.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.8314,
+    0.62403,
+    0.84738
+   ]
+  },
+  {
+   "text": "③我很想去，但是 没有时间。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.86475,
+    0.5562,
+    0.88379
+   ]
+  },
+  {
+   "text": "Wa hen xiang qu, danshi meiydu shfjian.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.88372,
+    0.55426,
+    0.8999
+   ]
+  },
+  {
+   "text": "95",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.93992,
+    0.97238,
+    0.97481,
+    0.99564
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.50145,
+    0.13953,
+    0.52616
+   ]
+  },
+  {
+   "text": "Unit 6 Talking about Shopping",
+   "conf": 1.0,
+   "bbox": [
+    0.55426,
+    0.05957,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "1E1577077Zt3FT Places of consumption worth recommending",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.12791,
+    0.77132,
+    0.14697
+   ]
+  },
+  {
+   "text": "FELMEZJ",
+   "conf": 0.3,
+   "bbox": [
+    0.1724,
+    0.16839,
+    0.25396,
+    0.18626
+   ]
+  },
+  {
+   "text": "ЖАЛДТ, АОЖИИАЛТЛАИАИИИСКК",
+   "conf": 0.3,
+   "bbox": [
+    0.27713,
+    0.16992,
+    0.8062,
+    0.19043
+   ]
+  },
+  {
+   "text": "Class activity: Imagine the New Year is coming. Everyone is preparing to buy things for a dinner",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.2064,
+    0.89147,
+    0.22093
+   ]
+  },
+  {
+   "text": "and party on New Year's Eve.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.22656,
+    0.5,
+    0.24128
+   ]
+  },
+  {
+   "text": "(1) ВЛУИШНС0ЩТ? НАТТАНД? МШ=ТИ",
+   "conf": 0.3,
+   "bbox": [
+    0.27132,
+    0.25581,
+    0.89147,
+    0.2749
+   ]
+  },
+  {
+   "text": "Where would you recommend shopping for party supplies and why? Make",
+   "conf": 1.0,
+   "bbox": [
+    0.31589,
+    0.29785,
+    0.89147,
+    0.31105
+   ]
+  },
+  {
+   "text": "three suggestions.",
+   "conf": 1.0,
+   "bbox": [
+    0.31395,
+    0.31831,
+    0.44767,
+    0.33154
+   ]
+  },
+  {
+   "text": "Make a shopping list including where to go for each item.",
+   "conf": 1.0,
+   "bbox": [
+    0.31589,
+    0.36475,
+    0.73643,
+    0.37793
+   ]
+  },
+  {
+   "text": "iEIZMIERZ GRAMMAR NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.4375,
+    0.65116,
+    0.46094
+   ]
+  },
+  {
+   "text": "FTEA: EX 1E",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.49414,
+    0.45349,
+    0.51318
+   ]
+  },
+  {
+   "text": "Transitional compound sentence: EXt, 1€•",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.51453,
+    0.65698,
+    0.53488
+   ]
+  },
+  {
+   "text": "\"ПЖ-Д \"ПA\" ЛТА 1д,",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.55371,
+    0.8876,
+    0.57275
+   ]
+  },
+  {
+   "text": "\"A\" MіT GAH VУẾ :",
+   "conf": 0.3,
+   "bbox": [
+    0.41715,
+    0.57558,
+    0.74612,
+    0.59593
+   ]
+  },
+  {
+   "text": "\"IЖ..11.\" is used in a transitional compound sentence. \"H/k\" is used in the first",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.60156,
+    0.89147,
+    0.61628
+   ]
+  },
+  {
+   "text": "clause either before or after the subject, and \"/H\" is used at the beginning of the second clause, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.62207,
+    0.88178,
+    0.63672
+   ]
+  },
+  {
+   "text": "1 X",
+   "conf": 0.3,
+   "bbox": [
+    0.55599,
+    0.65262,
+    0.6531,
+    0.67442
+   ]
+  },
+  {
+   "text": "Suirán women hèn lèi, dànshì wămen dõu hẽn gãoxing.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.67432,
+    0.65891,
+    0.68896
+   ]
+  },
+  {
+   "text": "\"НЛ\" И \"ША\" ВАТЛИ СОСТ, ЛАЛ. —HAZAHT, \"A",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.7093,
+    0.89147,
+    0.72965
+   ]
+  },
+  {
+   "text": "М\" дЕлкетмии. дИ \"Іл\" МУКСОИ \"КА\" ВлТО. ФУ:",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.73242,
+    0.87016,
+    0.75293
+   ]
+  },
+  {
+   "text": "\"Kit\" and \"(H.A!\" are both conjunctions used in the second clause to indicate transition. \"Wid\"",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.75872,
+    0.88953,
+    0.7749
+   ]
+  },
+  {
+   "text": "shows a slight transition and is weaker than \"(Exe\". \"Wid\" is often used in spoken Chinese, e.g.,",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.78052,
+    0.86628,
+    0.7936
+   ]
+  },
+  {
+   "text": "2Đ1 FAR HE, Ti ARL T.",
+   "conf": 0.3,
+   "bbox": [
+    0.19757,
+    0.81078,
+    0.6319,
+    0.83145
+   ]
+  },
+  {
+   "text": "Nàge shoujt hẽn piàoliang, búguò youdiănr guì.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.8314,
+    0.62403,
+    0.84738
+   ]
+  },
+  {
+   "text": "Wõ hẽn xiăng qù, dànshì méiyou shí jiãn.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.88372,
+    0.55426,
+    0.8999
+   ]
+  },
+  {
+   "text": "95",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34157,
+    0.96705,
+    0.3561
+   ]
+  }
+ ]
+}

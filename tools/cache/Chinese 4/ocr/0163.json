@@ -1,0 +1,557 @@
+{
+ "page": 163,
+ "cjk_pass": [
+  {
+   "text": "Unit 10 History",
+   "conf": 0.5,
+   "bbox": [
+    0.72287,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "唐朝是中国最强盛的朝代之一，它建立于公元618年，前后300",
+   "conf": 1.0,
+   "bbox": [
+    0.2093,
+    0.13808,
+    0.85078,
+    0.15988
+   ]
+  },
+  {
+   "text": "多年。唐朝的首都是长安，也就是现在的西安。唐朝的政治、经",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.1626,
+    0.84884,
+    0.18605
+   ]
+  },
+  {
+   "text": "济、文化等各个方面都很发达。那时候出现了很多有名的诗人，其",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.1875,
+    0.84884,
+    0.21094
+   ]
+  },
+  {
+   "text": "中我最喜欢的是李白。在中国的四大发明中，火药和印刷术都是在",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.21221,
+    0.84884,
+    0.23547
+   ]
+  },
+  {
+   "text": "唐朝发明的。",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.23828,
+    0.29457,
+    0.26025
+   ]
+  },
+  {
+   "text": "在我看来，唐朝的最大特点是开放。那时候，很多外国人到过",
+   "conf": 1.0,
+   "bbox": [
+    0.21124,
+    0.26163,
+    0.84884,
+    0.28488
+   ]
+  },
+  {
+   "text": "中国，在长安可以看到各种肤色的外国人。中国历史上唯一的名副",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.2876,
+    0.8469,
+    0.30814
+   ]
+  },
+  {
+   "text": "其实的女皇帝也是唐朝人。关于她的故事和传说很多，但她究竟是",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.3125,
+    0.84884,
+    0.33447
+   ]
+  },
+  {
+   "text": "什么样的人，大家的看法不完全一样。",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.33721,
+    0.54845,
+    0.35901
+   ]
+  },
+  {
+   "text": "唐朝在世界上影响很大。现在还有人把传统中式服装叫作“唐",
+   "conf": 0.5,
+   "bbox": [
+    0.21105,
+    0.3573,
+    0.84711,
+    0.38553
+   ]
+  },
+  {
+   "text": "装”",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.38517,
+    0.20155,
+    0.40576
+   ]
+  },
+  {
+   "text": "，把中国城叫作“唐人街”",
+   "conf": 0.5,
+   "bbox": [
+    0.19724,
+    0.38175,
+    0.48316,
+    0.40933
+   ]
+  },
+  {
+   "text": "。",
+   "conf": 0.5,
+   "bbox": [
+    0.4845,
+    0.3968,
+    0.50194,
+    0.40843
+   ]
+  },
+  {
+   "text": "Dajid hdo! Wo jintian bdogao de timd shi \"Zhonggud lishi",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.43018,
+    0.69186,
+    0.44629
+   ]
+  },
+  {
+   "text": "shang de zhiming",
+   "conf": 0.5,
+   "bbox": [
+    0.68992,
+    0.43018,
+    0.84496,
+    0.44629
+   ]
+  },
+  {
+   "text": "chaodai-—Tangchdo”.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.45058,
+    0.35271,
+    0.4668
+   ]
+  },
+  {
+   "text": "Tangchao shi Zhongguo zui qidngsheng de chaoddi zhi yi, ta jianli yu gongyudn",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.4707,
+    0.84496,
+    0.48692
+   ]
+  },
+  {
+   "text": "lid yi bd nidn, qidnhou san bdi duo nian. Tangchdo de shoudd shi Changan, ye jiushi",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.48975,
+    0.8469,
+    0.50586
+   ]
+  },
+  {
+   "text": "xianzdi de Xrdn. Tongchao de zhengzhi, jingj, wenhud deng gege fangmian dou hen",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.51017,
+    0.84496,
+    0.52637
+   ]
+  },
+  {
+   "text": "fadd. Na shihou chuxianle hen duo youming de shiren, qizhong wo zui xihuan de shi Li",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.52907,
+    0.8469,
+    0.54651
+   ]
+  },
+  {
+   "text": "Bdi. Zdi Zhonggud de si da faming zhong, huoydo he yinshuashd dou shi zdi Tangchdo",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.54932,
+    0.84496,
+    0.56543
+   ]
+  },
+  {
+   "text": "faming de.",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.56977,
+    0.25,
+    0.58594
+   ]
+  },
+  {
+   "text": "Zai wo kanlai, Tangchao de zui da tedian shi kaifang.Na shihou, hen duo",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.59012,
+    0.84496,
+    0.60465
+   ]
+  },
+  {
+   "text": "waiguoren ddoguo Zhongguo, zdi Chang'an keyi kandao ge zhong fuse de wdiguoren.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.60889,
+    0.8469,
+    0.625
+   ]
+  },
+  {
+   "text": "Zhongguo lishi shang weiyi de mingfuqishi de nd hudngdi ye shi Tangchdo ren. Guanyu",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.62936,
+    0.84496,
+    0.64551
+   ]
+  },
+  {
+   "text": "ta de gushi he chuanshuo hen duo, dan ta jiujing shi shenme yang de ren, dajia de",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.64971,
+    0.84496,
+    0.6657
+   ]
+  },
+  {
+   "text": "kanfa bi wanquan yiyang.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.66846,
+    0.37016,
+    0.68459
+   ]
+  },
+  {
+   "text": "Tangchdo zdi shijie shang yingxiang hen do. Xianzai hai you ren bd chuantong",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.68895,
+    0.84496,
+    0.70508
+   ]
+  },
+  {
+   "text": "zhongshi fuzhuang jidozuo \"tangzhuang\"， bd Zhongguo cheng jidozuo \"tangrenjie\".",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.70785,
+    0.81008,
+    0.72384
+   ]
+  },
+  {
+   "text": "149",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 10 History",
+   "conf": 1.0,
+   "bbox": [
+    0.72287,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "726187, АК300",
+   "conf": 0.3,
+   "bbox": [
+    0.53483,
+    0.13808,
+    0.85078,
+    0.15988
+   ]
+  },
+  {
+   "text": "ЗЕМДШЛДЕКі КЛЕЛЕНОЕ ВЛНКК Ч",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.1626,
+    0.84884,
+    0.18605
+   ]
+  },
+  {
+   "text": "M # t ớt.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.23828,
+    0.29457,
+    0.26025
+   ]
+  },
+  {
+   "text": "4H741, t*nHzTzE-H.",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.33721,
+    0.54845,
+    0.35901
+   ]
+  },
+  {
+   "text": "**\"",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.38517,
+    0.20155,
+    0.40552
+   ]
+  },
+  {
+   "text": "тдытн \"АлA\"",
+   "conf": 0.3,
+   "bbox": [
+    0.19724,
+    0.38175,
+    0.48316,
+    0.40933
+   ]
+  },
+  {
+   "text": "Dàjia hão! Wõ jĩntiăn bàogào de tímù shì \"Zhôngguó lìshĩ",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.43018,
+    0.69186,
+    0.44629
+   ]
+  },
+  {
+   "text": "shang de zhùmíng",
+   "conf": 0.5,
+   "bbox": [
+    0.68992,
+    0.43018,
+    0.84496,
+    0.44629
+   ]
+  },
+  {
+   "text": "cháodài-Tángcháo\".",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.45058,
+    0.35271,
+    0.46657
+   ]
+  },
+  {
+   "text": "Tángcháo shì Zhôngguó zuì qiángshèng de cháodài zhì yì, tã jiànlì yú gõngyuán",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.4707,
+    0.84496,
+    0.48692
+   ]
+  },
+  {
+   "text": "liù yì bà nián, qiánhòu sân bãi duo nián. Tángcháo de shõudũ shì Cháng'ăn, yẽ jiùshì",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.48975,
+    0.8469,
+    0.50586
+   ]
+  },
+  {
+   "text": "xiànzài de Xỉãn. Tángcháo de zhèngzhì, jĩngjì, wénhuà dăng gègè fãngmiàn dõu hèn",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.51017,
+    0.84496,
+    0.52637
+   ]
+  },
+  {
+   "text": "fãdá. Nà shíhou chúxianle hẽn duõ yõuming de shirén, qízhõng wò zuì xihuan de shì Lĩ",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.52907,
+    0.8469,
+    0.54651
+   ]
+  },
+  {
+   "text": "Bái. Zài Zhõngguó de sì dà fãming zhông, huoyào hé yìnshuãshù dõu shì zài Tángcháo",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.54932,
+    0.84496,
+    0.56543
+   ]
+  },
+  {
+   "text": "famíng de.",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.56977,
+    0.25,
+    0.58594
+   ]
+  },
+  {
+   "text": "Zài wó kànlái, Tángcháo de zuì dà tèdián shì kãifàng. Nà shíhou, hèn duỡ",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.59012,
+    0.84496,
+    0.60465
+   ]
+  },
+  {
+   "text": "wàiguórén dàoguo Zhôngguó, zài Cháng'ăn kẽyĩ kàndào gè zhăng fúsè de wàiguórén.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.60889,
+    0.8469,
+    0.625
+   ]
+  },
+  {
+   "text": "Zhôngguó lìshi shang wéiyi de mingfùqíshí de nũ huángdì yẽ shì Tángcháo rén. Guãnyú",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.62936,
+    0.84496,
+    0.64551
+   ]
+  },
+  {
+   "text": "tã de gùshì hé chuấnshu hèn duo, dàn tã jiujng shì shénme yàng de rén, dàjia de",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.64971,
+    0.84496,
+    0.6657
+   ]
+  },
+  {
+   "text": "kànfă bù wánquán yíyàng.",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.66846,
+    0.37016,
+    0.68459
+   ]
+  },
+  {
+   "text": "Tángcháo zài shìjiè shang yingxiăng hẽn dà. Xiànzài hái yõu rén bà chuán tăng",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.68895,
+    0.84496,
+    0.70508
+   ]
+  },
+  {
+   "text": "zhôngshì fúzhuãng giàozuò \"tángzhuãng\", bà Zhõngguó chéng jiàozuò \"tángrénjie\".",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.70785,
+    0.81008,
+    0.72384
+   ]
+  },
+  {
+   "text": "149",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ]
+}

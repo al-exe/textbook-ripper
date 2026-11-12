@@ -1,0 +1,12 @@
+# environment
+.venv/
+__pycache__/
+.DS_Store
+
+# scratch / re-creatable build files
+tools/cache/_html/
+tools/cache/_pages/
+tools/data/cedict.zip
+
+# source scans: large and copyrighted — keep them local (OCR results are in tools/cache/)
+textbooks/*.pdf

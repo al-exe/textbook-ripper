@@ -1,0 +1,198 @@
+{
+  "book": "Chinese 3",
+  "unit": 4,
+  "kind": "grammar",
+  "title": {"zh": "谈住房", "py": "Tán zhùfáng", "en": "Talking about Housing"},
+  "source": "PDF pp. 63, 69–83 (printed pp. 47, 53–67)",
+  "intro": "This unit teaches three structures: (1) sentences of existence with 有, 是 and 在; (2) the 的 phrase (红的 \"the red one\", 吃的 \"something to eat\"); (3) 什么（+noun）都…… \"every… / any…\". Read the grammar notes, do the practice, then check the answer key at the bottom. Book pinyin is used wherever the textbook prints it; translations and model answers marked as such were written for this study sheet.",
+
+  "key_sentences": [
+    {"zh": "这套房子是上下两层的。", "py": "Zhè tào fángzi shì shàng xià liǎng céng de.", "en": "This house has two floors (an upstairs and a downstairs)."},
+    {"zh": "楼上有三个房间。", "py": "Lóu shàng yǒu sān ge fángjiān.", "en": "There are three rooms upstairs."},
+    {"zh": "厨房在客厅旁边。", "py": "Chúfáng zài kètīng pángbiān.", "en": "The kitchen is next to the living room."},
+    {"zh": "沙发、床、电视、冰箱、洗衣机……什么都有。", "py": "Shāfā, chuáng, diànshì, bīngxiāng, xǐyījī…… shénme dōu yǒu.", "en": "Sofa, bed, TV, fridge, washing machine… it has everything."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "存在句", "py": "cúnzài jù", "en": "Sentences indicating existence"},
+      "body": [
+        {"type": "text", "zh": "动词“有”、“是”、“在”都可以表示存在，它们做谓语时，句子的语序分别是：", "en": "The verbs “有”, “是” and “在” can be used to indicate existence. If used as the predicate, the word order of the sentence is as follows:"},
+        {"type": "pattern", "zh": "（1）某处——有/是——某人（物）", "py": "(1) mǒu chù —— yǒu / shì —— mǒu rén (wù)", "en": "location — 有/是 — somebody (something)"},
+        {"type": "pattern", "zh": "（2）某人（物）——在——某处", "py": "(2) mǒu rén (wù) —— zài —— mǒu chù", "en": "somebody (something) — 在 — location"},
+        {"type": "example", "zh": "楼上有三个房间。", "py": "Lóu shàng yǒu sān ge fángjiān.", "en": "There are three rooms upstairs."},
+        {"type": "example", "zh": "北边是书房。", "py": "Běibian shì shūfáng.", "en": "To the north is the study."},
+        {"type": "example", "zh": "厨房在客厅旁边。", "py": "Chúfáng zài kètīng pángbiān.", "en": "The kitchen is next to the living room."},
+        {"type": "text", "zh": "用“有”表示存在的句子跟用“是”表示存在的句子不同之处在于：", "en": "Both a sentence with “有” and a sentence with “是” can be used to indicate existence. Their differences are as follows:"},
+        {"type": "text", "zh": "（1）用“有”的句子宾语是不确指的，而用“是”的句子宾语可以是确指的，也可以是不确指的。因此，不说“书房旁边有我的卧室。”而是说“书房旁边是我的卧室。”", "py": "(1) Yòng “yǒu” de jùzi bīnyǔ shì bú quèzhǐ de, ér yòng “shì” de jùzi bīnyǔ kěyǐ shì quèzhǐ de, yě kěyǐ shì bú quèzhǐ de. Yīncǐ, bù shuō “Shūfáng pángbiān yǒu wǒ de wòshì.” ér shì shuō “Shūfáng pángbiān shì wǒ de wòshì.”", "en": "The object of a sentence with “有” is indefinite, while the object of a sentence with “是” is either definite or indefinite. As a result, “书房旁边有我的卧室。” would be incorrect, and “书房旁边是我的卧室。” is correct."},
+        {"type": "example", "zh": "✗ 书房旁边有我的卧室。", "py": "✗ Shūfáng pángbiān yǒu wǒ de wòshì.", "en": "Wrong — “my bedroom” is a specific thing, so 有 can't introduce it."},
+        {"type": "example", "zh": "✓ 书房旁边是我的卧室。", "py": "✓ Shūfáng pángbiān shì wǒ de wòshì.", "en": "Right — “Next to the study is my bedroom.”"},
+        {"type": "text", "zh": "（2）用“有”的句子只说明某处存在某人或某物，用“是”的句子是已知某处存在某人或某物，而要进一步说明是谁或是什么。", "py": "(2) Yòng “yǒu” de jùzi zhǐ shuōmíng mǒu chù cúnzài mǒu rén huò mǒu wù, yòng “shì” de jùzi shì yǐ zhī mǒu chù cúnzài mǒu rén huò mǒu wù, ér yào jìn yí bù shuōmíng shì shéi huò shì shénme.", "en": "A sentence with “有” just indicates a person or thing is located somewhere, while a sentence with “是” indicates it is already known that somebody/something is there, and who/what it is is further stated."},
+        {"type": "note", "en": "Quick test: if you could say “there is a…” use 有 (楼上有三个房间 “there are three rooms upstairs”). If you already know something is there and you're saying *what* it is, use 是 (北边是书房 “the thing to the north is the study”). If the thing comes first, use 在 (厨房在客厅旁边)."}
+      ]
+    },
+    {
+      "title": {"zh": "“的”字结构", "py": "“de” zì jiégòu", "en": "The “的” phrase"},
+      "body": [
+        {"type": "text", "zh": "名词、代词、形容词、动词等后边加上“的”，可以组成“的”字结构。“的”字结构相当于一个名词或名词短语。例如：", "en": "If a noun, pronoun, adjective or verb is followed by “的”, the “的” phrase is formed, which is equivalent to a noun or noun phrase, e.g.,"},
+        {"type": "example", "zh": "这套房子是上下两层的。", "py": "Zhè tào fángzi shì shàng xià liǎng céng de.", "en": "This house is a two-storey one."},
+        {"type": "example", "zh": "这个卧室是你的吗？", "py": "Zhège wòshì shì nǐ de ma?", "en": "Is this bedroom yours?"},
+        {"type": "example", "zh": "你喜欢红的还是绿的？", "py": "Nǐ xǐhuan hóng de háishi lǜ de?", "en": "Do you like the red one or the green one?"},
+        {"type": "example", "zh": "我要买点儿吃的。", "py": "Wǒ yào mǎi diǎnr chī de.", "en": "I want to buy something to eat."},
+        {"type": "note", "en": "The noun after 的 is dropped because it's obvious from context: 你的（卧室） “yours”, 红的（苹果） “the red one”, 吃的（东西） “something to eat”. Pronoun + 的 = possession (你的), adjective + 的 = “the … one” (红的, 大的), verb + 的 = “things for …-ing” (吃的, 喝的, 用的)."}
+      ]
+    },
+    {
+      "title": {"zh": "什么（+名词）都……", "py": "shénme (+míngcí) dōu……", "en": "The structure 什么（+noun）都……"},
+      "body": [
+        {"type": "text", "zh": "在“什么（+名词）都……”中代词“什么”表示泛指，意思是所有的、全部。若“什么”指代清楚，中间的名词可以省略。例如：", "py": "Zài “shénme (+míngcí) dōu……” zhōng dàicí “shénme” biǎoshì fànzhǐ, yìsi shì suǒyǒu de, quánbù. Ruò “shénme” zhǐdài qīngchu, zhōngjiān de míngcí kěyǐ shěnglüè. Lìrú:", "en": "The pronoun “什么” in the structure “什么（+noun）都……” indicates a general reference, meaning “every” or “all”. If what “什么” refers to is clear, the noun in the middle of the structure can be omitted, e.g.,"},
+        {"type": "pattern", "zh": "什么 + （名词） + 都 + 动词……", "py": "shénme + (míngcí) + dōu + dòngcí……", "en": "什么 + (noun) + 都 + verb… = every / any (noun)"},
+        {"type": "example", "zh": "（这套房子）沙发、床、电视、冰箱、洗衣机……什么都有。", "py": "(Zhè tào fángzi) shāfā, chuáng, diànshì, bīngxiāng, xǐyījī…… shénme dōu yǒu.", "en": "(This house has) a sofa, bed, TV, fridge, washing machine… it has everything."},
+        {"type": "example", "zh": "我现在什么东西都不想吃。", "py": "Wǒ xiànzài shénme dōngxi dōu bù xiǎng chī.", "en": "I don't want to eat anything right now."},
+        {"type": "note", "en": "Positive verb → “everything / every kind of…” (什么水果都有 “they have every kind of fruit”). With 不 or 没 → “nothing / not any…” (什么都不想吃 “don't want to eat anything”). The noun always sits between 什么 and 都 — never after the verb: ✗ 都有什么家电 → ✓ 什么家电都有."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "描述物品", "py": "Miáoshù wùpǐn", "en": "Describe something"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据图片用“的”字结构描述物品的特点。", "py": "Gēnjù túpiàn yòng “de” zì jiégòu miáoshù wùpǐn de tèdiǎn.", "en": "Look at the pictures and describe the characteristics of the objects using the “的” grammar structure."},
+      "body": [
+        {"type": "note", "en": "Grammar note 2. Practise solo by saying your description aloud, then compare with the model answers."}
+      ],
+      "items": [
+        {"picture": "One red apple and one green apple side by side.",
+         "answer": [
+           {"zh": "这个苹果是红的，那个是绿的。", "en": "This apple is a red one; that one is green. (model answer)"},
+           {"zh": "红的是我的，绿的是你的。", "en": "The red one is mine, the green one is yours."},
+           {"zh": "你喜欢红的还是绿的？", "py": "Nǐ xǐhuan hóng de háishi lǜ de?", "en": "Do you like the red one or the green one?"}
+         ]},
+        {"picture": "A shop window with a row of blue jeans on display.",
+         "answer": [
+           {"zh": "这些裤子都是蓝的。", "en": "These trousers are all blue ones. (model answer)"},
+           {"zh": "我要大的，不要小的。", "en": "I want a big pair, not a small one."}
+         ]},
+        {"picture": "A stack of dictionaries: Russian on top, then Spanish, an English dictionary, and a (red) Chinese dictionary at the bottom.",
+         "answer": [
+           {"zh": "上边的是俄语的，下边的是中文的。", "en": "The one on top is a Russian one; the one at the bottom is a Chinese one. (model answer)"},
+           {"zh": "我要中文的，不要英文的。", "en": "I want the Chinese one, not the English one."}
+         ]}
+      ]
+    },
+    {
+      "title": {"zh": "这是……的吗？", "py": "Zhè shì…… de ma?", "en": "Guess what's in the bag"},
+      "activity": {"zh": "班级活动", "py": "bānjí huódòng", "en": "Class activity"},
+      "instructions": {"zh": "请几位同学每人往一个大口袋里放一样东西，比如笔、书、本子、可口可乐等。一名同学避开大家视线，摸出一种东西后让同学们猜这是什么、是谁的。同学们可以轮流用“这是……的吗？”提问，这位同学只能回答“这是……的”或者“这不是……的”，先猜对的获胜。", "en": "Ask some students to put something into a big bag, such as a pen, a book, a notebook, Coca-Cola, etc. Taking one piece out, a student keeps others out of sight and asks others to guess what and whose it is. His classmates are required to use the structure “这是……的吗？” to ask him what he is holding, while he can only reply using “这是……的” or “这不是……的”. The student who makes the correct guess first, wins."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "这是吃的吗？", "py": "Zhè shì chī de ma?", "en": "Is it something to eat?"},
+          {"speaker": "B", "zh": "这不是吃的。", "py": "Zhè bú shì chī de.", "en": "It's not something to eat."},
+          {"speaker": "A", "zh": "这是大的吗？", "py": "Zhè shì dà de ma?", "en": "Is it a big thing?"},
+          {"speaker": "B", "zh": "这是大的。", "py": "Zhè shì dà de.", "en": "It's a big one."},
+          {"speaker": "A", "zh": "这是大龙的吗？", "py": "Zhè shì Dàlóng de ma?", "en": "Is it Dalong's?"},
+          {"speaker": "B", "zh": "是，这是大龙的。", "py": "Shì, zhè shì Dàlóng de.", "en": "Yes, it's Dalong's."}
+        ]},
+        {"type": "note", "en": "Self-study version (added for this sheet): say each sentence in Chinese using the 的 phrase."}
+      ],
+      "items": [
+        {"prompt": {"en": "Is it something to drink?"}, "answer": [{"zh": "这是喝的吗？", "en": "Is it something to drink?"}]},
+        {"prompt": {"en": "It isn't a small one."}, "answer": [{"zh": "这不是小的。", "en": "It isn't a small one."}]},
+        {"prompt": {"en": "Is it Xiaoli's? — Yes, it's Xiaoli's."}, "answer": [{"zh": "这是小丽的吗？——是，这是小丽的。", "en": "Is it Xiaoli's? — Yes, it's Xiaoli's."}]},
+        {"prompt": {"en": "It's something to use, not something to eat."}, "answer": [{"zh": "这是用的，不是吃的。", "en": "It's something to use, not something to eat."}]}
+      ]
+    },
+    {
+      "title": {"zh": "住房", "py": "Zhùfáng", "en": "Housing"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据图片介绍家居环境。", "py": "Gēnjù túpiàn jièshào jiājū huánjìng.", "en": "Talk about each person's local area based on the pictures given."},
+      "body": [
+        {"type": "note", "en": "Grammar note 1 (有 / 是 / 在). Each picture is a street map with the person's home in the middle; top of the map = north (北边), bottom = south (南边), left = west (西边), right = east (东边)."}
+      ],
+      "items": [
+        {"picture": "艾娜家 (Edna's home) in the middle. North: a hotel 宾馆. West: a subway station 地铁站. East: a supermarket 超市. South: a university 大学.",
+         "answer": [
+           {"zh": "艾娜家北边是宾馆，西边有一个地铁站，东边是超市，南边是大学。", "en": "North of Edna's home is a hotel; to the west there's a subway station; to the east is a supermarket; to the south is a university. (model answer)"},
+           {"zh": "超市在艾娜家东边。", "en": "The supermarket is east of Edna's home."}
+         ]},
+        {"picture": "小丽家 (Xiaoli's home) in the middle. North: a shopping mall 商场. West: a park 公园. East: a hospital 医院. South: a market 市场.",
+         "answer": [
+           {"zh": "小丽家北边是商场，西边有一个公园，东边是医院，南边有一个市场。", "en": "North of Xiaoli's home is a mall; to the west there's a park; to the east is a hospital; to the south there's a market. (model answer)"},
+           {"zh": "医院在小丽家东边。", "en": "The hospital is east of Xiaoli's home."}
+         ]},
+        {"picture": "查理家 (Charlie's home) in the middle. North: a bar 酒吧. West: a restaurant 饭馆. East: a cinema 电影院. South: a café 咖啡厅.",
+         "answer": [
+           {"zh": "查理家北边有一个酒吧，西边是饭馆，东边是电影院，南边有一个咖啡厅。", "en": "North of Charlie's home there's a bar; to the west is a restaurant; to the east is a cinema; to the south there's a café. (model answer)"},
+           {"zh": "咖啡厅在查理家南边。", "en": "The café is south of Charlie's home."}
+         ]}
+      ]
+    },
+    {
+      "title": {"zh": "房屋布局", "py": "Fángwū bùjú", "en": "The layout of a home"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "看图介绍房屋布局，并画出自己家的示意图，说说自己的家是什么样的。", "py": "Kàn tú jièshào fángwū bùjú, bìng huàchū zìjǐ jiā de shìyìtú, shuōshuo zìjǐ de jiā shì shénmeyàng de.", "en": "Look at the pictures and describe the layout of each house. Draw a sketch of your house and describe it."},
+      "body": [
+        {"type": "example", "zh": "楼下是客厅，楼上有三个房间，两个是卧室，一个是书房。", "py": "Lóu xià shì kètīng, lóu shàng yǒu sān ge fángjiān, liǎng ge shì wòshì, yí ge shì shūfáng.", "en": "Downstairs is the living room; upstairs there are three rooms — two are bedrooms and one is a study."}
+      ],
+      "items": [
+        {"picture": "Floor plan A (one floor). Top row: a bedroom 卧室 (left) and a study 书房 (right). Middle: the kitchen 厨房 on the left with the bathroom 卫生间 below it, and a dining room 餐厅 in the centre. Bottom row: a second bedroom (left) and the living room 客厅 (right).",
+         "answer": [
+           {"zh": "这套房子有两个卧室、一个书房、一个客厅、一个餐厅、一个厨房和一个卫生间。", "en": "This flat has two bedrooms, a study, a living room, a dining room, a kitchen and a bathroom. (model answer)"},
+           {"zh": "卧室旁边是书房，厨房在餐厅旁边，客厅旁边是卧室。", "en": "Next to the bedroom is the study; the kitchen is beside the dining room; next to the living room is a bedroom."}
+         ]},
+        {"picture": "Floor plan B (one narrow floor), top to bottom: a bedroom; then the bathroom 卫生间 and the kitchen 厨房 side by side; then the living room 客厅; then another bedroom at the bottom.",
+         "answer": [
+           {"zh": "这套房子有两个卧室、一个客厅、一个厨房和一个卫生间。", "en": "This flat has two bedrooms, a living room, a kitchen and a bathroom. (model answer)"},
+           {"zh": "卧室下边是卫生间和厨房，客厅在中间，客厅下边还有一个卧室。", "en": "Below the bedroom are the bathroom and kitchen; the living room is in the middle; below the living room there's another bedroom."}
+         ]},
+        {"picture": "An empty box: sketch your own home here, then describe it.",
+         "answer": [
+           {"zh": "我家是上下两层的。楼下是客厅、餐厅和厨房，楼上有三个房间，两个是卧室，一个是书房。卫生间在卧室旁边。", "py": "Wǒ jiā shì shàng xià liǎng céng de. Lóu xià shì kètīng, cāntīng hé chúfáng, lóu shàng yǒu sān ge fángjiān, liǎng ge shì wòshì, yí ge shì shūfáng. Wèishēngjiān zài wòshì pángbiān.", "en": "My home has two floors. Downstairs are the living room, dining room and kitchen; upstairs there are three rooms — two bedrooms and a study. The bathroom is next to the bedroom. (sample answer — describe your own home)"}
+         ]}
+      ]
+    },
+    {
+      "title": {"zh": "应有尽有", "py": "Yīngyǒu-jìnyǒu", "en": "Have everything that one expects to have"},
+      "activity": {"zh": "单人活动", "py": "dān rén huódòng", "en": "Individual work"},
+      "instructions": {"zh": "根据例句和提示词，用“什么（+名词）都……”来介绍图片。", "py": "Gēnjù lìjù hé tíshìcí, yòng “shénme (+míngcí) dōu……” lái jièshào túpiàn.", "en": "Describe each picture with “什么（+noun）都……” following the example based on the cue words."},
+      "body": [
+        {"type": "example", "zh": "（这儿）沙发、床、电视、冰箱、洗衣机……什么都有。", "py": "(Zhèr) shāfā, chuáng, diànshì, bīngxiāng, xǐyījī…… shénme dōu yǒu.", "en": "(Here there's) a sofa, bed, TV, fridge, washing machine… everything."}
+      ],
+      "items": [
+        {"picture": "A supermarket aisle; the shelves are packed with all kinds of goods.",
+         "prompt": {"zh": "超市里______。", "py": "Chāoshì li ______.", "en": "In the supermarket…"},
+         "answer": [{"zh": "超市里吃的、喝的、用的……什么东西都有。", "en": "The supermarket has things to eat, drink and use… it has everything."}]},
+        {"picture": "A fruit shop with piles of many different fruits.",
+         "prompt": {"zh": "水果店里______。", "py": "Shuǐguǒdiàn li ______.", "en": "In the fruit shop…"},
+         "answer": [{"zh": "水果店里苹果、香蕉、西瓜……什么水果都有。", "en": "The fruit shop has apples, bananas, watermelons… every kind of fruit."}]},
+        {"picture": "A bookshop with tall shelves full of books.",
+         "prompt": {"zh": "书店里______。", "py": "Shūdiàn li ______.", "en": "In the bookshop…"},
+         "answer": [{"zh": "书店里中文书、英文书、词典……什么书都有。", "py": "Shūdiàn li Zhōngwén shū, Yīngwén shū, cídiǎn…… shénme shū dōu yǒu.", "en": "The bookshop has Chinese books, English books, dictionaries… every kind of book."}]},
+        {"picture": "A woman lying ill in a hospital bed.",
+         "prompt": {"zh": "她身体不好，______。", "py": "Tā shēntǐ bù hǎo, ______.", "en": "She isn't well, …"},
+         "answer": [{"zh": "她身体不好，什么都不想吃。", "en": "She isn't well and doesn't feel like eating anything."}]},
+        {"picture": "A “no drink-driving” sign: a wine glass and a car, crossed out.",
+         "prompt": {"zh": "他要开车，______。", "py": "Tā yào kāi chē, ______.", "en": "He's going to drive, …"},
+         "answer": [{"zh": "他要开车，什么酒都不能喝。", "py": "Tā yào kāi chē, shénme jiǔ dōu bù néng hē.", "en": "He's going to drive, so he can't drink any alcohol at all."}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子前打✓，看看你语法学得怎么样。", "py": "Zài zhèngquè de jùzi qián dǎ ✓, kànkan nǐ yǔfǎ xué de zěnmeyàng.", "en": "Tick ✓ the correct sentence in each pair to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "这个卧室是你的吗？", "py": "Zhège wòshì shì nǐ de ma?"}, {"zh": "这个卧室是你吗？", "py": "Zhège wòshì shì nǐ ma?"}],
+       "answer": 0, "explain": "“Yours” needs the 的 phrase: 你的. Without 的 it asks “Is this bedroom you?” (grammar note 2)"},
+      {"options": [{"zh": "厨房在客厅旁边。", "py": "Chúfáng zài kètīng pángbiān."}, {"zh": "厨房有客厅旁边。", "py": "Chúfáng yǒu kètīng pángbiān."}],
+       "answer": 0, "explain": "When the thing comes first, use 在: thing + 在 + place. (grammar note 1)"},
+      {"options": [{"zh": "你喜欢大的还是小的？", "py": "Nǐ xǐhuan dà de háishi xiǎo de?"}, {"zh": "你喜欢大还是小？", "py": "Nǐ xǐhuan dà háishi xiǎo?"}],
+       "answer": 0, "explain": "“The big one / the small one” is adjective + 的: 大的, 小的. (grammar note 2)"},
+      {"options": [{"zh": "楼上有三个房间。", "py": "Lóu shàng yǒu sān ge fángjiān."}, {"zh": "楼上在三个房间。", "py": "Lóu shàng zài sān ge fángjiān."}],
+       "answer": 0, "explain": "When the place comes first, use 有 (or 是): place + 有 + thing. (grammar note 1)"},
+      {"options": [{"zh": "这套房子里电视、洗衣机、微波炉……都有什么家电。", "py": "Zhè tào fángzi li diànshì, xǐyījī, wēibōlú…… dōu yǒu shénme jiādiàn."}, {"zh": "这套房子里电视、洗衣机、微波炉……什么家电都有。", "py": "Zhè tào fángzi li diànshì, xǐyījī, wēibōlú…… shénme jiādiàn dōu yǒu."}],
+       "answer": 1, "explain": "什么 + noun goes before 都: 什么家电都有 “it has every kind of appliance”. (grammar note 3)"}
+    ],
+    "answer_note": "Book's scoring: all 5 right — 太棒了，你语法学得非常好！ (Wonderful!). Missed Q5 — review 什么（+名词）都…… (note 3). Missed Q1 or Q3 — review the 的 phrase (note 2). Missed Q2 or Q4 — review sentences of existence (note 1)."
+  }
+}

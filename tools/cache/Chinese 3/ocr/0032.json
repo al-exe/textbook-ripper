@@ -1,0 +1,707 @@
+{
+ "page": 32,
+ "cjk_pass": [
+  {
+   "text": "Unit 1 Talking about the Characteristics of a Person",
+   "conf": 0.5,
+   "bbox": [
+    0.33915,
+    0.06104,
+    0.9031,
+    0.08008
+   ]
+  },
+  {
+   "text": "A：太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.125,
+    0.45155,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.14826,
+    0.63953,
+    0.16424
+   ]
+  },
+  {
+   "text": "B：注意结构“•⋯，只是⋯⋯”的用法。“只是”前面通常",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.16992,
+    0.68605,
+    0.18896
+   ]
+  },
+  {
+   "text": "表示好的方面，后面表示不太满意的方面。现在你明白了",
+   "conf": 1.0,
+   "bbox": [
+    0.18217,
+    0.19331,
+    0.68798,
+    0.2124
+   ]
+  },
+  {
+   "text": "吗？再做一遍第⑤题吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.21657,
+    0.39147,
+    0.23401
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of the structure \".•只是⋯⋯”.",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.23828,
+    0.68798,
+    0.25293
+   ]
+  },
+  {
+   "text": "“只是” is usually preceded by some words positive in",
+   "conf": 0.5,
+   "bbox": [
+    0.18977,
+    0.25888,
+    0.68618,
+    0.27815
+   ]
+  },
+  {
+   "text": "meaning and followed by some words negative in meaning.",
+   "conf": 0.5,
+   "bbox": [
+    0.18411,
+    0.2832,
+    0.68798,
+    0.29797
+   ]
+  },
+  {
+   "text": "Understand now? Please do question ⑤ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.182,
+    0.30247,
+    0.57581,
+    0.32305
+   ]
+  },
+  {
+   "text": "C：“既•⋯也•⋯”常用来连接两个结构相同或相似的分句，",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.32849,
+    0.68605,
+    0.34738
+   ]
+  },
+  {
+   "text": "否定形式是“既不⋯⋯又不•⋯”或“既没⋯⋯也没⋯⋯”",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.3501,
+    0.67636,
+    0.36773
+   ]
+  },
+  {
+   "text": "o",
+   "conf": 0.3,
+   "bbox": [
+    0.67636,
+    0.35901,
+    0.68605,
+    0.36773
+   ]
+  },
+  {
+   "text": "现在你明白了吗？再做一遍第②和第④题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.18217,
+    0.375,
+    0.56977,
+    0.39258
+   ]
+  },
+  {
+   "text": "“既⋯⋯又⋯⋯” is often used to connect clauses with the",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.39535,
+    0.68798,
+    0.40988
+   ]
+  },
+  {
+   "text": "same or similar structures. Its negative form is “既不…",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.41846,
+    0.68605,
+    0.43459
+   ]
+  },
+  {
+   "text": "也不••⋯”or“既没⋯⋯也没•",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.44041,
+    0.4438,
+    0.45508
+   ]
+  },
+  {
+   "text": "•Understand now？",
+   "conf": 0.5,
+   "bbox": [
+    0.49031,
+    0.44186,
+    0.68605,
+    0.45508
+   ]
+  },
+  {
+   "text": "Please do questions ② and ④ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.46366,
+    0.50194,
+    0.47965
+   ]
+  },
+  {
+   "text": "D：注意形容词重叠的用法。详见语法点注释3。现在你明白",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.48828,
+    0.68411,
+    0.50732
+   ]
+  },
+  {
+   "text": "了吗？再做一遍第①和第③题吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.51017,
+    0.47093,
+    0.52783
+   ]
+  },
+  {
+   "text": "Pay attention to the reduplication of an adjective and",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.5332,
+    0.68605,
+    0.54942
+   ]
+  },
+  {
+   "text": "refer to Grammar Note 3 for more details. Understand",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.55518,
+    0.68605,
+    0.57129
+   ]
+  },
+  {
+   "text": "now? Please do questions ① and ③ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.57703,
+    0.55426,
+    0.59448
+   ]
+  },
+  {
+   "text": "文化川贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.62791,
+    0.64729,
+    0.6499
+   ]
+  },
+  {
+   "text": "15",
+   "conf": 0.5,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.33527,
+    0.68604,
+    0.63953,
+    0.70361
+   ]
+  },
+  {
+   "text": "审美观念的变化 Changes in People's Aesthetic Ideas",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.72656,
+    0.79651,
+    0.74709
+   ]
+  },
+  {
+   "text": "大多数外国人观念中的典型中国美女是身材娇小苗条、细眉细眼小嘴、性情温柔婉约",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.75872,
+    0.88953,
+    0.7793
+   ]
+  },
+  {
+   "text": "的。不过现代人对美貌女子的审美观念已经发生了变化。长得浓眉大眼，显得活泼；长一",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.78613,
+    0.89341,
+    0.80523
+   ]
+  },
+  {
+   "text": "双细眼，显得秀气；长一张大嘴，非常性感。怎样都能被称力美女。",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.8125,
+    0.69961,
+    0.83008
+   ]
+  },
+  {
+   "text": "According to most foreigners, a typical Chinese beauty is small, slim, with delicate eyes and",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.83866,
+    0.88953,
+    0.8561
+   ]
+  },
+  {
+   "text": "eyebrows, small mouth and gentle temperament. However, a beautiful girl is not any more judged",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.85889,
+    0.88953,
+    0.87355
+   ]
+  },
+  {
+   "text": "this way by people nowadays: You'd be considered lively for your big eyes and bushy eyebrows，",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.87791,
+    0.89147,
+    0.89404
+   ]
+  },
+  {
+   "text": "or elegant for your slender eyes, or sexy for your big mouth. No matter what your appearance is，",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.89826,
+    0.89147,
+    0.91424
+   ]
+  },
+  {
+   "text": "you might be considered a beauty.",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.91846,
+    0.3876,
+    0.93314
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 1 Talking about the Characteristics of a Person",
+   "conf": 1.0,
+   "bbox": [
+    0.33915,
+    0.06104,
+    0.9031,
+    0.08008
+   ]
+  },
+  {
+   "text": "A: AHT, 1HZT10NT!",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.125,
+    0.45155,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.18217,
+    0.14826,
+    0.63953,
+    0.16424
+   ]
+  },
+  {
+   "text": "В ЙДИШ\" ЯД\" ФЛ \"Д\" южож",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.16992,
+    0.68605,
+    0.18896
+   ]
+  },
+  {
+   "text": "KNINO, ПEEAКAMОNH DRDÁT",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.19331,
+    0.68798,
+    0.2124
+   ]
+  },
+  {
+   "text": "1У? 11X-145",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.21657,
+    0.39147,
+    0.23401
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of the structure \"....., Яt.....\".",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.23828,
+    0.68798,
+    0.25293
+   ]
+  },
+  {
+   "text": "\"At\" is usually preceded by some words positive in",
+   "conf": 0.5,
+   "bbox": [
+    0.18977,
+    0.25888,
+    0.68618,
+    0.27815
+   ]
+  },
+  {
+   "text": "meaning and followed by some words negative in meaning.",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.2832,
+    0.68798,
+    0.29797
+   ]
+  },
+  {
+   "text": "Understand now? Please do question 5 again.",
+   "conf": 1.0,
+   "bbox": [
+    0.182,
+    0.30247,
+    0.57581,
+    0.32305
+   ]
+  },
+  {
+   "text": "С:\"И-Д\" ФЛЖСВттдкиИиткя,",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.32849,
+    0.68605,
+    0.34738
+   ]
+  },
+  {
+   "text": "\"ВЕК. ХК\" Д \"ВЕХШЖ.\"",
+   "conf": 0.3,
+   "bbox": [
+    0.28483,
+    0.3501,
+    0.67636,
+    0.36773
+   ]
+  },
+  {
+   "text": "ПИОНТШ? НИ ЛАОЛАОЕЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.375,
+    0.56977,
+    0.39258
+   ]
+  },
+  {
+   "text": "\"N%..... X......\" is often used to connect clauses with the",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.39535,
+    0.68798,
+    0.40988
+   ]
+  },
+  {
+   "text": "same or similar structures. Its negative form is \"IE 1......•",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.41846,
+    0.68605,
+    0.43459
+   ]
+  },
+  {
+   "text": "К.\" or\"W.WX.",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.44041,
+    0.4438,
+    0.45508
+   ]
+  },
+  {
+   "text": ". Understand now?",
+   "conf": 0.5,
+   "bbox": [
+    0.49031,
+    0.44186,
+    0.68605,
+    0.45508
+   ]
+  },
+  {
+   "text": "Please do questions 2 and * again.",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.46366,
+    0.50194,
+    0.47965
+   ]
+  },
+  {
+   "text": "D EЕАЛТАHЛ РЛИТЛНЗ ПNОН",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.48828,
+    0.68411,
+    0.50732
+   ]
+  },
+  {
+   "text": "ІІ? НИ МНОНАЗЖЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.51017,
+    0.47093,
+    0.52783
+   ]
+  },
+  {
+   "text": "Pay attention to the reduplication of an adjective and",
+   "conf": 1.0,
+   "bbox": [
+    0.18217,
+    0.5332,
+    0.68605,
+    0.54942
+   ]
+  },
+  {
+   "text": "refer to Grammar Note 3 for more details. Understand",
+   "conf": 1.0,
+   "bbox": [
+    0.18023,
+    0.55518,
+    0.68605,
+    0.57129
+   ]
+  },
+  {
+   "text": "now? Please do questions D and 3 again.",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.57703,
+    0.55426,
+    0.59448
+   ]
+  },
+  {
+   "text": "XIK/JX6* CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.62791,
+    0.64729,
+    0.6499
+   ]
+  },
+  {
+   "text": "15",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "(-) 1RADg Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.33527,
+    0.68604,
+    0.63953,
+    0.70361
+   ]
+  },
+  {
+   "text": "#ERREm*K Changes in People's Aesthetic Ideas",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.72656,
+    0.79651,
+    0.74709
+   ]
+  },
+  {
+   "text": "НІ КИТЕЛИХИКТКДОМОСКИЕТОИ КОФАЛЕ, ЛЮТИ; К-",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.78613,
+    0.89341,
+    0.80523
+   ]
+  },
+  {
+   "text": "ХХЕННК, МИДС К ЛЛШ, ПЕОНЕО ИАЛЕВЕАК",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.8125,
+    0.69961,
+    0.83008
+   ]
+  },
+  {
+   "text": "According to most foreigners, a typical Chinese beauty is small, slim, with delicate eyes and",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.83866,
+    0.88953,
+    0.8561
+   ]
+  },
+  {
+   "text": "eyebrows, small mouth and gentle temperament. However, a beautiful girl is not any more judged",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.85889,
+    0.88953,
+    0.87355
+   ]
+  },
+  {
+   "text": "this way by people nowadays: You'd be considered lively for your big eyes and bushy eyebrows,",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.87791,
+    0.89147,
+    0.89404
+   ]
+  },
+  {
+   "text": "or elegant for your slender eyes, or sexy for your big mouth. No matter what your appearance is,",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.89826,
+    0.89147,
+    0.91424
+   ]
+  },
+  {
+   "text": "you might be considered a beauty.",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.91846,
+    0.3876,
+    0.93314
+   ]
+  }
+ ]
+}

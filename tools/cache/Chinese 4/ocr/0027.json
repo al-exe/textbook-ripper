@@ -1,0 +1,657 @@
+{
+ "page": 27,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "④",
+   "conf": 0.5,
+   "bbox": [
+    0.03295,
+    0.25727,
+    0.06202,
+    0.27907
+   ]
+  },
+  {
+   "text": "10",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "昨天晚上，我跟小丽去听了一场京剧。我喜欢……，简直是⋯⋯。",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.14099,
+    0.86628,
+    0.16134
+   ]
+  },
+  {
+   "text": "小丽喜欢文戏，她觉得⋯⋯。回家的路上，我们看到路边有很多人在",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.16553,
+    0.87403,
+    0.18605
+   ]
+  },
+  {
+   "text": "看……。我觉得很好玩儿，在美国，别说……，就是⋯⋯。小丽告诉了我",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.19041,
+    0.87403,
+    0.21094
+   ]
+  },
+  {
+   "text": "一句中国的俗语，……，意思是⋯…。怪不得以前我跟中国爸爸下棋时，",
+   "conf": 0.3,
+   "bbox": [
+    0.12597,
+    0.21512,
+    0.86434,
+    0.23547
+   ]
+  },
+  {
+   "text": "他不让妈妈…⋯。我们还看到了很多中国叔叔阿姨在跳⋯⋯，很有意思。",
+   "conf": 0.5,
+   "bbox": [
+    0.12979,
+    0.23966,
+    0.86438,
+    0.26201
+   ]
+  },
+  {
+   "text": "这个周末，小丽约我一起去……，好好儿•⋯。这真是一个好主意，我最",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.26453,
+    0.87403,
+    0.28488
+   ]
+  },
+  {
+   "text": "喜欢⋯⋯。",
+   "conf": 0.3,
+   "bbox": [
+    0.12769,
+    0.29103,
+    0.2331,
+    0.30823
+   ]
+  },
+  {
+   "text": "Zuotian wanshang wo gen Xidoli qu tingle yi chang jingjd. Wo xihuan...， jidnzhi shi-.....",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.32413,
+    0.87403,
+    0.34033
+   ]
+  },
+  {
+   "text": "Xioli xihuan wenxi, ta juede... Hui jna de lushang,women kanddo lu bian you hen duo ren zdil",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.3457,
+    0.87403,
+    0.36192
+   ]
+  },
+  {
+   "text": "kan•••••.Wo juede hen hdowanr, zdi Meiguo,bieshuo.jidsh-•••• Xidoli gaosule wo yi jd",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.36914,
+    0.87209,
+    0.38525
+   ]
+  },
+  {
+   "text": "Zhongguo de suyi.••yisi shi-.••. Guaibude yiqidn wo gen Zhongguo baba xid qi shi, ta bd rang",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.39099,
+    0.87209,
+    0.40698
+   ]
+  },
+  {
+   "text": "mam.•••••Women hai kanddole hen duo Zhongguo shushu ayi zai tido•••，hen you yisi. Zhege",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.41406,
+    0.87209,
+    0.43023
+   ]
+  },
+  {
+   "text": "zhoumo, Xidoli yue wo yigi qu：",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.43604,
+    0.36628,
+    0.45215
+   ]
+  },
+  {
+   "text": "•，hdohoor.Zhe zhen shi yi ge hdozhiyil, wo zui xihuan....",
+   "conf": 0.3,
+   "bbox": [
+    0.37791,
+    0.43457,
+    0.86628,
+    0.45215
+   ]
+  },
+  {
+   "text": "对公园里大爷大妈的采访 Interview some old people in the park",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.5218,
+    0.72868,
+    0.5407
+   ]
+  },
+  {
+   "text": "表演活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.56541,
+    0.25775,
+    0.58301
+   ]
+  },
+  {
+   "text": "四个人一组，一个人表演记者，另外三个人表演在公园里锻炼的大",
+   "conf": 1.0,
+   "bbox": [
+    0.2907,
+    0.56686,
+    0.88953,
+    0.58447
+   ]
+  },
+  {
+   "text": "爷/大妈，并选择自己喜欢的休闲娱乐活动，然后根据下面的提示进",
+   "conf": 1.0,
+   "bbox": [
+    0.2907,
+    0.58576,
+    0.89147,
+    0.60465
+   ]
+  },
+  {
+   "text": "行表演。",
+   "conf": 1.0,
+   "bbox": [
+    0.28868,
+    0.60447,
+    0.36442,
+    0.62373
+   ]
+  },
+  {
+   "text": "Performance：",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.63081,
+    0.27713,
+    0.64404
+   ]
+  },
+  {
+   "text": "Perform in groups of four following the tips given in the text, one for a journalist，",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.63227,
+    0.89147,
+    0.64697
+   ]
+  },
+  {
+   "text": "and the other three for old people doing activities in the park.",
+   "conf": 0.5,
+   "bbox": [
+    0.2907,
+    0.65407,
+    0.73643,
+    0.6686
+   ]
+  },
+  {
+   "text": "休闲 娱乐 活动：下 象棋、跳广场舞、",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.68018,
+    0.56008,
+    0.69922
+   ]
+  },
+  {
+   "text": "唱京剧、写 书法",
+   "conf": 0.3,
+   "bbox": [
+    0.5969,
+    0.68164,
+    0.77326,
+    0.70068
+   ]
+  },
+  {
+   "text": "xiuxidn yule huodong: xid xiangai、tido gudngchangwi、chang jingju,xie shufa",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.70203,
+    0.77519,
+    0.71948
+   ]
+  },
+  {
+   "text": "采访提纲 Outline of the interview：",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.73389,
+    0.46318,
+    0.75
+   ]
+  },
+  {
+   "text": "（1） 您正在做什么呢？",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.76308,
+    0.43605,
+    0.7793
+   ]
+  },
+  {
+   "text": "Nin zhengzdi zuo shenme ne？",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.7832,
+    0.43605,
+    0.79797
+   ]
+  },
+  {
+   "text": "（2）您觉得做这项运动有什么好处？",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.80811,
+    0.62016,
+    0.82422
+   ]
+  },
+  {
+   "text": "Nin juede zuo zhe xiang yundong ydu shenme hdochu？",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.82849,
+    0.62984,
+    0.84448
+   ]
+  },
+  {
+   "text": "（3） 除了 这项活动外，您还做什么 休闲娱乐 活动？",
+   "conf": 0.3,
+   "bbox": [
+    0.15883,
+    0.8505,
+    0.75788,
+    0.87068
+   ]
+  },
+  {
+   "text": "Chule zhe xiang huodong wai, nin hai zuo shenme xiuxidn yule huodong？",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.87354,
+    0.77132,
+    0.88818
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.9438,
+    0.97384,
+    0.97287,
+    0.99419
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4 )",
+   "conf": 1.0,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "4",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.25727,
+    0.06202,
+    0.27907
+   ]
+  },
+  {
+   "text": "10",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "ИНТТТ ТТЦТНТААТ",
+   "conf": 0.3,
+   "bbox": [
+    0.12597,
+    0.21512,
+    0.86434,
+    0.23547
+   ]
+  },
+  {
+   "text": "НтІщ дтттлРднАтиАя кАда.",
+   "conf": 0.3,
+   "bbox": [
+    0.12979,
+    0.23966,
+    0.86438,
+    0.26201
+   ]
+  },
+  {
+   "text": "Ex....",
+   "conf": 0.3,
+   "bbox": [
+    0.12769,
+    0.29103,
+    0.2331,
+    0.30823
+   ]
+  },
+  {
+   "text": "Zuótiăn wănshang, wõ gên Xiăolì qu tingle yì chăng jĩngiù. Wõ xihuan....., jiănzhí shì.......",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.32413,
+    0.87403,
+    0.34033
+   ]
+  },
+  {
+   "text": "Xiăolì xĩhuan wénxì, tã juéde...... Huí jiã de lùshang, wămen kàndào lù biãn yõu hẽn duõ rén zài",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.3457,
+    0.87403,
+    0.36192
+   ]
+  },
+  {
+   "text": "kàn....... Wõ juéde hẽn haowánr, zài Mẽiguó, biéshuo...... jiùshì....... Xiãolì gàosule wò yí jù",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.36914,
+    0.87209,
+    0.38525
+   ]
+  },
+  {
+   "text": "Zhõngguó de súyй,.....•., yìsi shì....... Guàibude yĩqián wò gẽn Zhõngguó bàba xià qí shí, tã bú ràng",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.39099,
+    0.87209,
+    0.40698
+   ]
+  },
+  {
+   "text": "mãma....... Wămen hái kàndàole hẽn duo Zhôngguó shushu ayí zài tiào....., hèn yõu yisi. Zhège",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.41406,
+    0.87209,
+    0.43023
+   ]
+  },
+  {
+   "text": "zhõumò, Xiăolì yuê wò yìai qù..",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.43604,
+    0.36628,
+    0.45215
+   ]
+  },
+  {
+   "text": "•., hãohãor....... Zhè zhẽn shì yí ge hão zhuyi, wõ zui xĩhuan.......",
+   "conf": 0.5,
+   "bbox": [
+    0.37791,
+    0.43457,
+    0.86628,
+    0.45215
+   ]
+  },
+  {
+   "text": "X<EEt7t1*iS Interview some old people in the park",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.5218,
+    0.72868,
+    0.5407
+   ]
+  },
+  {
+   "text": "EiRiEZ)",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.56541,
+    0.25775,
+    0.58285
+   ]
+  },
+  {
+   "text": "ТТЛ лСДСД ДлслДДЕВИКХ",
+   "conf": 0.3,
+   "bbox": [
+    0.2907,
+    0.56686,
+    0.88953,
+    0.58447
+   ]
+  },
+  {
+   "text": "ФННсТННТТ Нткт",
+   "conf": 0.3,
+   "bbox": [
+    0.37142,
+    0.58576,
+    0.89147,
+    0.60465
+   ]
+  },
+  {
+   "text": "Performance:",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.63081,
+    0.27713,
+    0.6439
+   ]
+  },
+  {
+   "text": "Perform in groups of four following the tips given in the text, one for a journalist,",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.63227,
+    0.89147,
+    0.64697
+   ]
+  },
+  {
+   "text": "and the other three for old people doing activities in the park.",
+   "conf": 1.0,
+   "bbox": [
+    0.2907,
+    0.65407,
+    0.73643,
+    0.6686
+   ]
+  },
+  {
+   "text": "1H AF, 5 TE",
+   "conf": 0.3,
+   "bbox": [
+    0.5969,
+    0.68164,
+    0.77326,
+    0.70068
+   ]
+  },
+  {
+   "text": "xiuxián yúlè huódòng: xià xiàngạí, tiào guăngchăngwũ, chàng jĩngiù, xiẽ shũfă",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.70203,
+    0.77519,
+    0.71948
+   ]
+  },
+  {
+   "text": "KiJitz Outline of the interview:",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.73389,
+    0.46318,
+    0.75
+   ]
+  },
+  {
+   "text": "(1) К ПЕTE ИX 1Д WЕ?",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.76308,
+    0.43605,
+    0.7793
+   ]
+  },
+  {
+   "text": "Nín zhèngzài zuò shénme ne?",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.7832,
+    0.43605,
+    0.79797
+   ]
+  },
+  {
+   "text": "Nín juéde zuò zhè xiàng yùndòng yõu shénme hãochù?",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.82849,
+    0.62984,
+    0.84448
+   ]
+  },
+  {
+   "text": "3BT MN HД Sк TZI?",
+   "conf": 0.3,
+   "bbox": [
+    0.15883,
+    0.8505,
+    0.75788,
+    0.87068
+   ]
+  },
+  {
+   "text": "Chúle zhè xiàng huódòng wài, nín hái zuò shénme xiuxián yúlè huódòng?",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.87354,
+    0.77132,
+    0.88818
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.3,
+   "bbox": [
+    0.9438,
+    0.97384,
+    0.97287,
+    0.99419
+   ]
+  }
+ ]
+}

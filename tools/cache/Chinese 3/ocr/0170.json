@@ -1,0 +1,527 @@
+{
+ "page": 170,
+ "cjk_pass": [
+  {
+   "text": "Unit 9 Talking about Occupations",
+   "conf": 0.5,
+   "bbox": [
+    0.53488,
+    0.05957,
+    0.90504,
+    0.08008
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18587,
+    0.13437,
+    0.65523,
+    0.16005
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.33872,
+    0.21452,
+    0.64945,
+    0.23709
+   ]
+  },
+  {
+   "text": "业",
+   "conf": 0.5,
+   "bbox": [
+    0.94186,
+    0.22529,
+    0.96512,
+    0.24273
+   ]
+  },
+  {
+   "text": "中国的大学生打工吗？",
+   "conf": 0.5,
+   "bbox": [
+    0.41279,
+    0.27471,
+    0.63372,
+    0.2936
+   ]
+  },
+  {
+   "text": "Do Chinese College Students Take Part-Time Jobs？",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.30811,
+    0.78488,
+    0.32568
+   ]
+  },
+  {
+   "text": "在中国，很多孩子在大学毕业以前是不打工的。中国的父母认为，孩子们在",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.34424,
+    0.85853,
+    0.36628
+   ]
+  },
+  {
+   "text": "大学毕业以前的主要任务是学习，因此，学费和生活费通常由父母负担。现在，",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.36914,
+    0.8469,
+    0.38818
+   ]
+  },
+  {
+   "text": "越来越多的大学新生开始利用课余时间打工，一来了赚一些零花钱，二来了",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.39099,
+    0.85465,
+    0.40988
+   ]
+  },
+  {
+   "text": "积累更多的社会经验，以便为自己将来找工作加分。",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.4126,
+    0.60078,
+    0.43169
+   ]
+  },
+  {
+   "text": "Chinese kids didn't take part-time jobs before they graduated from colleges. Their",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.44477,
+    0.85853,
+    0.46094
+   ]
+  },
+  {
+   "text": "parents believed that the major task of their children was to study; therefore, their tuition",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.46657,
+    0.85659,
+    0.4811
+   ]
+  },
+  {
+   "text": "fees and living expenses were provided by their parents. Now, more and more college",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.48828,
+    0.85853,
+    0.50439
+   ]
+  },
+  {
+   "text": "freshmen start to take part-time jobs in their spare time. Firstly, they want to earn some",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.51163,
+    0.85853,
+    0.52637
+   ]
+  },
+  {
+   "text": "pin money; secondly, they want to gain more social experience and lay a foundation for",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.5332,
+    0.85853,
+    0.54797
+   ]
+  },
+  {
+   "text": "their future career.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.55518,
+    0.30426,
+    0.56836
+   ]
+  },
+  {
+   "text": "155",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34302,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "（二）图片看中国",
+   "conf": 0.3,
+   "bbox": [
+    0.32558,
+    0.63663,
+    0.49612,
+    0.6543
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.63953,
+    0.68217,
+    0.6543
+   ]
+  },
+  {
+   "text": "中文辅导老师",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.82122,
+    0.25388,
+    0.83887
+   ]
+  },
+  {
+   "text": "Zhongwen fuddo ldoshi",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.84424,
+    0.29845,
+    0.86047
+   ]
+  },
+  {
+   "text": "Chinese tutor",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.86768,
+    0.22287,
+    0.88086
+   ]
+  },
+  {
+   "text": "大学毕业",
+   "conf": 1.0,
+   "bbox": [
+    0.37396,
+    0.81957,
+    0.46906,
+    0.83886
+   ]
+  },
+  {
+   "text": "daxue biye",
+   "conf": 0.5,
+   "bbox": [
+    0.37203,
+    0.84427,
+    0.45937,
+    0.86067
+   ]
+  },
+  {
+   "text": "College graduation",
+   "conf": 0.5,
+   "bbox": [
+    0.37209,
+    0.86768,
+    0.52519,
+    0.88379
+   ]
+  },
+  {
+   "text": "茶艺师",
+   "conf": 1.0,
+   "bbox": [
+    0.64922,
+    0.82122,
+    0.71705,
+    0.83887
+   ]
+  },
+  {
+   "text": "chayishi",
+   "conf": 0.5,
+   "bbox": [
+    0.65116,
+    0.84424,
+    0.71899,
+    0.86047
+   ]
+  },
+  {
+   "text": "Tea specialist",
+   "conf": 0.5,
+   "bbox": [
+    0.64528,
+    0.86745,
+    0.75782,
+    0.88401
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 9 Talking about Occupations",
+   "conf": 1.0,
+   "bbox": [
+    0.53488,
+    0.05957,
+    0.90504,
+    0.08008
+   ]
+  },
+  {
+   "text": "ХIКIJNBI CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18587,
+    0.13437,
+    0.65523,
+    0.16005
+   ]
+  },
+  {
+   "text": "(-) TRADiEg Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.33872,
+    0.21452,
+    0.64945,
+    0.23709
+   ]
+  },
+  {
+   "text": "NIIZ",
+   "conf": 0.3,
+   "bbox": [
+    0.94186,
+    0.22529,
+    0.96512,
+    0.24273
+   ]
+  },
+  {
+   "text": "ФОНАФЕНІВ?",
+   "conf": 0.3,
+   "bbox": [
+    0.41279,
+    0.27471,
+    0.63372,
+    0.2936
+   ]
+  },
+  {
+   "text": "Do Chinese College Students Take Part-Time Jobs?",
+   "conf": 1.0,
+   "bbox": [
+    0.26744,
+    0.30811,
+    0.78488,
+    0.32568
+   ]
+  },
+  {
+   "text": "НТН ПВИТИЛОКООЕЛАТО СЕАСАВ, ВТ1",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.34424,
+    0.85853,
+    0.36628
+   ]
+  },
+  {
+   "text": "ТФНКЦНВН",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.36919,
+    0.8469,
+    0.38808
+   ]
+  },
+  {
+   "text": "ТДСК2, СЛДНСКЖАТИТ»",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.4126,
+    0.60078,
+    0.43169
+   ]
+  },
+  {
+   "text": "Chinese kids didn't take part-time jobs before they graduated from colleges. Their",
+   "conf": 1.0,
+   "bbox": [
+    0.19186,
+    0.44477,
+    0.85853,
+    0.46094
+   ]
+  },
+  {
+   "text": "parents believed that the major task of their children was to study; therefore, their tuition",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.46657,
+    0.85659,
+    0.4811
+   ]
+  },
+  {
+   "text": "fees and living expenses were provided by their parents. Now, more and more college",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.48828,
+    0.85853,
+    0.50439
+   ]
+  },
+  {
+   "text": "freshmen start to take part-time jobs in their spare time. Firstly, they want to earn some",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.51163,
+    0.85853,
+    0.52637
+   ]
+  },
+  {
+   "text": "pin money; secondly, they want to gain more social experience and lay a foundation for",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.5332,
+    0.85853,
+    0.54797
+   ]
+  },
+  {
+   "text": "their future career.",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.55518,
+    0.30426,
+    0.56836
+   ]
+  },
+  {
+   "text": "155",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34302,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "() ВНЕФЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.32558,
+    0.63663,
+    0.49612,
+    0.6543
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 1.0,
+   "bbox": [
+    0.49806,
+    0.63953,
+    0.68217,
+    0.6543
+   ]
+  },
+  {
+   "text": "Zhongwén fúdão lãoshi",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.84424,
+    0.29845,
+    0.86047
+   ]
+  },
+  {
+   "text": "Chinese tutor",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.86768,
+    0.22287,
+    0.88086
+   ]
+  },
+  {
+   "text": "dàxué biye",
+   "conf": 0.3,
+   "bbox": [
+    0.37203,
+    0.84427,
+    0.45937,
+    0.86067
+   ]
+  },
+  {
+   "text": "College graduation",
+   "conf": 1.0,
+   "bbox": [
+    0.37209,
+    0.86768,
+    0.52519,
+    0.88379
+   ]
+  },
+  {
+   "text": "cháyishi",
+   "conf": 0.3,
+   "bbox": [
+    0.65116,
+    0.84448,
+    0.71899,
+    0.86047
+   ]
+  },
+  {
+   "text": "Tea specialist",
+   "conf": 1.0,
+   "bbox": [
+    0.64528,
+    0.86745,
+    0.75782,
+    0.88401
+   ]
+  }
+ ]
+}

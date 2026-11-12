@@ -1,0 +1,437 @@
+{
+ "page": 46,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "七",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.13081,
+    0.16667,
+    0.16279
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.13517,
+    0.64922,
+    0.15843
+   ]
+  },
+  {
+   "text": "30",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.34496,
+    0.20349,
+    0.62791,
+    0.21948
+   ]
+  },
+  {
+   "text": "中国风 Chinoiserie",
+   "conf": 0.5,
+   "bbox": [
+    0.39147,
+    0.24854,
+    0.61047,
+    0.26611
+   ]
+  },
+  {
+   "text": "中国风即中国风格。它以中国元素为表现形式，建立在中国文化和东方文化",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.28174,
+    0.84884,
+    0.30087
+   ]
+  },
+  {
+   "text": "的基础上，适应全球经济发展的趋势，是一种有着自身独特魅力和性格的艺术形",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.30811,
+    0.84884,
+    0.32861
+   ]
+  },
+  {
+   "text": "式。在近年来（尤其是2008年之后），中国风开始流行于文化、艺术领域，如广",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.33576,
+    0.85078,
+    0.3561
+   ]
+  },
+  {
+   "text": "告、电影、音乐、服饰、建筑等。",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.36475,
+    0.43605,
+    0.38379
+   ]
+  },
+  {
+   "text": "Chinoiserie, i.e.，the Chinese style, is an art form with unique charm and",
+   "conf": 0.5,
+   "bbox": [
+    0.18411,
+    0.39244,
+    0.84884,
+    0.40843
+   ]
+  },
+  {
+   "text": "characteristics to manifest the Chinese elements. It is based on Chinese and oriental",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.41553,
+    0.84884,
+    0.42878
+   ]
+  },
+  {
+   "text": "culture, and is adapted to the global economic development trend. In recent years，",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.4375,
+    0.85078,
+    0.45215
+   ]
+  },
+  {
+   "text": "particularly since 2008, Chinoiserie has become popular in the fields of culture and art，",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.4593,
+    0.85078,
+    0.47674
+   ]
+  },
+  {
+   "text": "such as advertising, films, music, clothes, and architecture.",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.48242,
+    0.61434,
+    0.49855
+   ]
+  },
+  {
+   "text": "（二）图片看中国",
+   "conf": 0.5,
+   "bbox": [
+    0.31783,
+    0.55371,
+    0.47674,
+    0.57129
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.48837,
+    0.55518,
+    0.66085,
+    0.57129
+   ]
+  },
+  {
+   "text": "中国旗袍展",
+   "conf": 1.0,
+   "bbox": [
+    0.17054,
+    0.77035,
+    0.28876,
+    0.78924
+   ]
+  },
+  {
+   "text": "Zhongguo qipdo zhdn",
+   "conf": 0.5,
+   "bbox": [
+    0.1686,
+    0.79199,
+    0.33915,
+    0.80814
+   ]
+  },
+  {
+   "text": "Cheongsam show",
+   "conf": 1.0,
+   "bbox": [
+    0.17054,
+    0.8125,
+    0.31783,
+    0.82715
+   ]
+  },
+  {
+   "text": "中国风装修",
+   "conf": 1.0,
+   "bbox": [
+    0.56577,
+    0.76991,
+    0.6823,
+    0.78969
+   ]
+  },
+  {
+   "text": "Zhonggud feng zhuangxiu",
+   "conf": 0.5,
+   "bbox": [
+    0.56202,
+    0.79199,
+    0.7655,
+    0.80814
+   ]
+  },
+  {
+   "text": "Chinoiserie decorations",
+   "conf": 0.5,
+   "bbox": [
+    0.56202,
+    0.8125,
+    0.76163,
+    0.82568
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "XIK/JT CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.13517,
+    0.64922,
+    0.15843
+   ]
+  },
+  {
+   "text": "30",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "(- IRADg Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.34496,
+    0.20349,
+    0.62791,
+    0.21948
+   ]
+  },
+  {
+   "text": "MaR Chinoiserie",
+   "conf": 0.3,
+   "bbox": [
+    0.39147,
+    0.24854,
+    0.61047,
+    0.26611
+   ]
+  },
+  {
+   "text": "ФЕДТААЙ ЕТЛТШЕХ, ИТТЕХНАДХК",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.28174,
+    0.84884,
+    0.30087
+   ]
+  },
+  {
+   "text": "КДИЕ ЦNКZAEС НИХHNТESNALAE",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.30811,
+    0.84884,
+    0.32861
+   ]
+  },
+  {
+   "text": "(НН0ТтТАВтк т",
+   "conf": 0.3,
+   "bbox": [
+    0.27197,
+    0.33576,
+    0.85078,
+    0.3561
+   ]
+  },
+  {
+   "text": "MеMI, R.",
+   "conf": 0.3,
+   "bbox": [
+    0.29753,
+    0.36475,
+    0.43605,
+    0.38379
+   ]
+  },
+  {
+   "text": "Chinoiserie, i.e., the Chinese style, is an art form with unique charm and",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.39244,
+    0.84884,
+    0.40843
+   ]
+  },
+  {
+   "text": "characteristics to manifest the Chinese elements. It is based on Chinese and oriental",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.41553,
+    0.84884,
+    0.42878
+   ]
+  },
+  {
+   "text": "culture, and is adapted to the global economic development trend. In recent years,",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.4375,
+    0.85078,
+    0.45215
+   ]
+  },
+  {
+   "text": "particularly since 2008, Chinoiserie has become popular in the fields of culture and art,",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.4593,
+    0.85078,
+    0.47674
+   ]
+  },
+  {
+   "text": "such as advertising, films, music, clothes, and architecture.",
+   "conf": 1.0,
+   "bbox": [
+    0.14341,
+    0.48242,
+    0.61434,
+    0.49855
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 1.0,
+   "bbox": [
+    0.48837,
+    0.55518,
+    0.66085,
+    0.57129
+   ]
+  },
+  {
+   "text": "*EMHR",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.77035,
+    0.28876,
+    0.78924
+   ]
+  },
+  {
+   "text": "Zhõngguó qípáo zhăn",
+   "conf": 1.0,
+   "bbox": [
+    0.1686,
+    0.79199,
+    0.33915,
+    0.80814
+   ]
+  },
+  {
+   "text": "Cheongsam show",
+   "conf": 1.0,
+   "bbox": [
+    0.17054,
+    0.8125,
+    0.31783,
+    0.82715
+   ]
+  },
+  {
+   "text": "Zhôngguó fẽng zhuãngxiũ",
+   "conf": 0.5,
+   "bbox": [
+    0.56202,
+    0.79199,
+    0.7655,
+    0.80814
+   ]
+  },
+  {
+   "text": "Chinoiserie decorations",
+   "conf": 1.0,
+   "bbox": [
+    0.56202,
+    0.8125,
+    0.76163,
+    0.82568
+   ]
+  }
+ ]
+}

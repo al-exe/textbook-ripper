@@ -1,0 +1,657 @@
+{
+ "page": 78,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "认识18~21个：太棒了！",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.12645,
+    0.35465,
+    0.14404
+   ]
+  },
+  {
+   "text": "Knowing 18-21 words: Wonderful！",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.14971,
+    0.44574,
+    0.1657
+   ]
+  },
+  {
+   "text": "认识14~17个：不错，要更加努力。",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.1875,
+    0.45543,
+    0.20654
+   ]
+  },
+  {
+   "text": "Knowing 14-17 words: Good. Please make more efforts.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.21076,
+    0.6376,
+    0.22674
+   ]
+  },
+  {
+   "text": "认识14个以下：得复习复习。加油啊！",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.24854,
+    0.48256,
+    0.26611
+   ]
+  },
+  {
+   "text": "Knowing fewer than 14 words: Please review the lesson. Come on！",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.2718,
+    0.72868,
+    0.28779
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.3343,
+    0.13566,
+    0.34884
+   ]
+  },
+  {
+   "text": "62",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "选一选，测一测",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.3343,
+    0.31395,
+    0.35174
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 0.5,
+   "bbox": [
+    0.31977,
+    0.33576,
+    0.47093,
+    0.34738
+   ]
+  },
+  {
+   "text": "在正确的句子或合适的答句前打v，看看你语法学得怎么样。",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.36768,
+    0.6938,
+    0.38672
+   ]
+  },
+  {
+   "text": "Tick v before the right sentences or answers to check how well you have leared the grammar.",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.3939,
+    0.88372,
+    0.41134
+   ]
+  },
+  {
+   "text": "①A. 他明明 获得了 冠军，为什么 看起来不太开心呢？［-②」",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.42578,
+    0.81589,
+    0.44482
+   ]
+  },
+  {
+   "text": "Ta mingming huodele guanjun, wei shenme kan qilai bu tai kdixin ne？",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.44767,
+    0.75194,
+    0.46387
+   ]
+  },
+  {
+   "text": "B. 他明明 获得了 冠军，为什么 看起来很开心呢？［-③］",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.47217,
+    0.79457,
+    0.49128
+   ]
+  },
+  {
+   "text": "Ta mingming huodele guanjun,wei shenme kan qilai hen kdixin ne？",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.49414,
+    0.73062,
+    0.51172
+   ]
+  },
+  {
+   "text": "② 大龙 在比赛 中 表现 特别好。",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.52035,
+    0.50969,
+    0.53924
+   ]
+  },
+  {
+   "text": "Dalong zdi bisdi zhong bidoxian tebie hdo.",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.54199,
+    0.50969,
+    0.55814
+   ]
+  },
+  {
+   "text": "A. 怪不得他的中文很好。「一④",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.56686,
+    0.55039,
+    0.5874
+   ]
+  },
+  {
+   "text": "Guaibude ta de Zhongwen hen hdo.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.58866,
+    0.4845,
+    0.60465
+   ]
+  },
+  {
+   "text": "B. 怪不得 他获得了第一名。L一⑤」",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.61475,
+    0.52326,
+    0.63379
+   ]
+  },
+  {
+   "text": "Gudibude ta huodele di yi ming.",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.63663,
+    0.46124,
+    0.65137
+   ]
+  },
+  {
+   "text": "③A. 我 明明 告诉他了，他怎么 会不知道呢？［-②］",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.65967,
+    0.71705,
+    0.68023
+   ]
+  },
+  {
+   "text": "Wa mingming gdosu ta le, ta zenme hui bu zhiddo ne？",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.68164,
+    0.6531,
+    0.70068
+   ]
+  },
+  {
+   "text": "B. 我明明 告诉他了，他怎么会知道呢？［-C］",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.70785,
+    0.68605,
+    0.72674
+   ]
+  },
+  {
+   "text": "Wo mingming gaosu ta le, ta zenme hui zhidao ne？",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.73096,
+    0.62597,
+    0.74709
+   ]
+  },
+  {
+   "text": "④A. 怪不得 房间里这么热，我忘了开空调了。一⑤",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.75581,
+    0.73837,
+    0.77637
+   ]
+  },
+  {
+   "text": "Guaibude fangjian li zheme re, wo wangle kai kongtido le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.77762,
+    0.6686,
+    0.7936
+   ]
+  },
+  {
+   "text": "B. 房间 里这么热，怪不得我 忘了开空调了。［-D",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.80225,
+    0.73256,
+    0.82275
+   ]
+  },
+  {
+   "text": "Fangjian li zheme re, guaibude wo wangle kai kongtido le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.82413,
+    0.66667,
+    0.8418
+   ]
+  },
+  {
+   "text": "⑤A. 那家公司其实实力很 强，看起来很小。［-B］",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.84863,
+    0.68798,
+    0.86919
+   ]
+  },
+  {
+   "text": "Na jid gongsi qishi shili hen qiang,kan qilai hen xido.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.87207,
+    0.63178,
+    0.88818
+   ]
+  },
+  {
+   "text": "B. 那家公司 看起来很 小，其实实力很强。［-A］",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.89535,
+    0.68798,
+    0.91715
+   ]
+  },
+  {
+   "text": "Na jia gongsi kan qilai hen xido, qishi shili hen qidng.",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.91846,
+    0.6376,
+    0.93605
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.3,
+   "bbox": [
+    0.93992,
+    0.96802,
+    0.97868,
+    0.99855
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "іЛіД18-211: 1HJ!",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.12645,
+    0.35465,
+    0.14404
+   ]
+  },
+  {
+   "text": "Knowing 18-21 words: Wonderful!",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.14971,
+    0.44574,
+    0.1657
+   ]
+  },
+  {
+   "text": "ііД14-171: 1М, Блт3Л.",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.1875,
+    0.45543,
+    0.20654
+   ]
+  },
+  {
+   "text": "Knowing 14-17 words: Good. Please make more efforts.",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.21076,
+    0.6376,
+    0.22674
+   ]
+  },
+  {
+   "text": "МШТИТ ШЕУКУ ЛЛИНШ!",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.24854,
+    0.48256,
+    0.26611
+   ]
+  },
+  {
+   "text": "Knowing fewer than 14 words: Please review the lesson. Come on!",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.2718,
+    0.72868,
+    0.28779
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.3343,
+    0.13566,
+    0.34884
+   ]
+  },
+  {
+   "text": "62",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "DDE, TЛ-TDU",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.3343,
+    0.31395,
+    0.35174
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 1.0,
+   "bbox": [
+    0.31977,
+    0.33576,
+    0.47093,
+    0.34738
+   ]
+  },
+  {
+   "text": "MTКHTRAEКZANY, ПЕКИДYНЕДН",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.36768,
+    0.6938,
+    0.38672
+   ]
+  },
+  {
+   "text": "Tick v before the right sentences or answers to check how well you have learned the grammar.",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.3939,
+    0.88372,
+    0.41134
+   ]
+  },
+  {
+   "text": "Tã míngming huòdéle guànjun, wèi shénme kàn qilai bú tài kãixin ne?",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.44767,
+    0.75194,
+    0.46387
+   ]
+  },
+  {
+   "text": "Tà míngming huòdéle guànjun, wèi shénme kàn qilai hẽn kãixin ne?",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.49414,
+    0.73062,
+    0.51172
+   ]
+  },
+  {
+   "text": "Dàlóng zài bĩsài zhông biãoxiàn tèbié hão.",
+   "conf": 1.0,
+   "bbox": [
+    0.17829,
+    0.54199,
+    0.50969,
+    0.55814
+   ]
+  },
+  {
+   "text": "A 1T17 HM 1R 17. 1-0",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.56686,
+    0.55039,
+    0.5874
+   ]
+  },
+  {
+   "text": "Guàibude tã de Zhongwén hẽn hão.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.58866,
+    0.4845,
+    0.60465
+   ]
+  },
+  {
+   "text": "B 1T 13-1→0",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.61475,
+    0.52326,
+    0.63379
+   ]
+  },
+  {
+   "text": "Gudibude tã huòdéle di yi ming.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.63663,
+    0.46124,
+    0.65137
+   ]
+  },
+  {
+   "text": "Wõ mingming gàosu tã le, tã zẽnme hui bù zhĩdào ne?",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.68164,
+    0.6531,
+    0.70068
+   ]
+  },
+  {
+   "text": "[-0]",
+   "conf": 0.3,
+   "bbox": [
+    0.63411,
+    0.70785,
+    0.68605,
+    0.72674
+   ]
+  },
+  {
+   "text": "Wó míngming gàosu tã le, tã zẽnme hui zhidão ne?",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.73096,
+    0.62597,
+    0.74709
+   ]
+  },
+  {
+   "text": "Gudibude fángjiän li zhème rè, wõ wàngle kãi kôngtiáo le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.77762,
+    0.6686,
+    0.7936
+   ]
+  },
+  {
+   "text": "Fángjian li zhème rè, guaibude wõ wàngle kãi kôngtiáo le.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.82413,
+    0.66667,
+    0.8418
+   ]
+  },
+  {
+   "text": "Nà jia gõngsi qíshí shílì hẽn qiáng, kàn qilai hẽn xião.",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.87207,
+    0.63178,
+    0.88818
+   ]
+  },
+  {
+   "text": "(-",
+   "conf": 0.3,
+   "bbox": [
+    0.63118,
+    0.89535,
+    0.68798,
+    0.91715
+   ]
+  },
+  {
+   "text": "Nà jia gõngsĩ kàn qilai hẽn xião, qíshí shílì hèn qiáng.",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.91846,
+    0.6376,
+    0.93605
+   ]
+  },
+  {
+   "text": "13]",
+   "conf": 0.3,
+   "bbox": [
+    0.74137,
+    0.47217,
+    0.79457,
+    0.49128
+   ]
+  }
+ ]
+}

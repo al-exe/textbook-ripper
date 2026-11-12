@@ -1,0 +1,647 @@
+{
+ "page": 93,
+ "cjk_pass": [
+  {
+   "text": "Unit 5 Talking about Pressure",
+   "conf": 0.5,
+   "bbox": [
+    0.55426,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.12354,
+    0.43023,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.1468,
+    0.62209,
+    0.16279
+   ]
+  },
+  {
+   "text": "B.你的语法学得不错。不过要注意“形容词+得不得",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.17578,
+    0.62016,
+    0.19482
+   ]
+  },
+  {
+   "text": "了”的用法。",
+   "conf": 0.5,
+   "bbox": [
+    0.16276,
+    0.19468,
+    0.27135,
+    0.21376
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.21802,
+    0.62209,
+    0.23401
+   ]
+  },
+  {
+   "text": "need to pay attention to the usage of \"adjective+得",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.23389,
+    0.62016,
+    0.25146
+   ]
+  },
+  {
+   "text": "不得了”.",
+   "conf": 0.3,
+   "bbox": [
+    0.16267,
+    0.25406,
+    0.23849,
+    0.2721
+   ]
+  },
+  {
+   "text": "C.注意“省得”的用法，请认真看一下语法注释1。",
+   "conf": 0.5,
+   "bbox": [
+    0.13741,
+    0.2868,
+    0.57776,
+    0.30991
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of“省得”",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.31104,
+    0.61434,
+    0.32715
+   ]
+  },
+  {
+   "text": "You can find some details in the first part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.32994,
+    0.62209,
+    0.34448
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.3457,
+    0.31008,
+    0.35901
+   ]
+  },
+  {
+   "text": "D.注意“不妨”的用法，请认真看一下语法注释3。",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.37645,
+    0.58915,
+    0.39697
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of“不妨”",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.39826,
+    0.61628,
+    0.4157
+   ]
+  },
+  {
+   "text": "You can find some details in the third part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.41699,
+    0.62209,
+    0.43314
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.43311,
+    0.31202,
+    0.44629
+   ]
+  },
+  {
+   "text": "77",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.51744,
+    0.65504,
+    0.5407
+   ]
+  },
+  {
+   "text": "（一）你知道吗",
+   "conf": 0.5,
+   "bbox": [
+    0.34884,
+    0.58285,
+    0.49806,
+    0.60029
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.5843,
+    0.64341,
+    0.60029
+   ]
+  },
+  {
+   "text": "中国人的压力 Chinese People's Pressure",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.625,
+    0.72674,
+    0.64697
+   ]
+  },
+  {
+   "text": "据调查：中国内地上班族在过去一年内所承受的压力是全球第一。调查结果显",
+   "conf": 1.0,
+   "bbox": [
+    0.17054,
+    0.65967,
+    0.87016,
+    0.68023
+   ]
+  },
+  {
+   "text": "不，中国是目前世界上压力最大的国家。在全球80个国家和地区的1.6万名职场人士",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.68457,
+    0.86822,
+    0.70215
+   ]
+  },
+  {
+   "text": "中，认为压力高于去年的，中国内地占75%，香港地区占55%，分列第一和第四，",
+   "conf": 1.0,
+   "bbox": [
+    0.12791,
+    0.7064,
+    0.86047,
+    0.72384
+   ]
+  },
+  {
+   "text": "都大大超出全球的平均值48%。其中，上海、北京分别以80%、67%排在城市的前列",
+   "conf": 1.0,
+   "bbox": [
+    0.12791,
+    0.72803,
+    0.86822,
+    0.74709
+   ]
+  },
+  {
+   "text": "（转自《深圳商报》微博）。",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.75145,
+    0.38178,
+    0.76904
+   ]
+  },
+  {
+   "text": "According to a survey, the office workers in Chinese mainland have been confronted",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.78467,
+    0.87016,
+    0.79942
+   ]
+  },
+  {
+   "text": "with the highest pressure around the world in the past year. The survey shows that China",
+   "conf": 0.5,
+   "bbox": [
+    0.12593,
+    0.8065,
+    0.8702,
+    0.82333
+   ]
+  },
+  {
+   "text": "is currently the country that produces the highest pressure all over the world. Among 16",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.82994,
+    0.87016,
+    0.84448
+   ]
+  },
+  {
+   "text": "thousand office workers surveyed in 80 countries and regions, 75% of them working in",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.85156,
+    0.87016,
+    0.86628
+   ]
+  },
+  {
+   "text": "Chinese mainland and 55% in Hong Kong, complain that they have higher pressure than last",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.87354,
+    0.87209,
+    0.89111
+   ]
+  },
+  {
+   "text": "year,respectively ranking the first and the fourth, which is much higher than the average",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.8968,
+    0.87016,
+    0.91134
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 5 Talking about Pressure",
+   "conf": 1.0,
+   "bbox": [
+    0.55426,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "A. AHT, KAUiH ZT10HWtF!",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.12354,
+    0.43023,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful! You have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.1468,
+    0.62209,
+    0.16279
+   ]
+  },
+  {
+   "text": "В.ИЖD7КШ \"EA+11",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.17578,
+    0.62016,
+    0.19482
+   ]
+  },
+  {
+   "text": "J\" #0ЛZ",
+   "conf": 0.3,
+   "bbox": [
+    0.16276,
+    0.19468,
+    0.27135,
+    0.21376
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is not bad. However, you",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.21802,
+    0.62209,
+    0.23401
+   ]
+  },
+  {
+   "text": "need to pay attention to the usage of \"adjective + 15",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.23389,
+    0.62016,
+    0.25146
+   ]
+  },
+  {
+   "text": "1HT\".",
+   "conf": 0.3,
+   "bbox": [
+    0.16267,
+    0.25406,
+    0.23849,
+    0.2721
+   ]
+  },
+  {
+   "text": "C.MM \"H1\" A0ЛZ, WAЛE-FiR1",
+   "conf": 0.3,
+   "bbox": [
+    0.13741,
+    0.2868,
+    0.57776,
+    0.30991
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"H1\"",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.31104,
+    0.61434,
+    0.32715
+   ]
+  },
+  {
+   "text": "You can find some details in the first part of the",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.32994,
+    0.62209,
+    0.34448
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.3457,
+    0.31008,
+    0.35901
+   ]
+  },
+  {
+   "text": "D.₴E \"KW\" WЛE, WилА FHYH3",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.37645,
+    0.58915,
+    0.39697
+   ]
+  },
+  {
+   "text": "You need to pay attention to the usage of \"At)'\"",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.39826,
+    0.61628,
+    0.4157
+   ]
+  },
+  {
+   "text": "You can find some details in the third part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.41699,
+    0.62209,
+    0.43314
+   ]
+  },
+  {
+   "text": "Grammar Notes.",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.43311,
+    0.31202,
+    0.44629
+   ]
+  },
+  {
+   "text": "77",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.3,
+   "bbox": [
+    0.12403,
+    0.51308,
+    0.16667,
+    0.5436
+   ]
+  },
+  {
+   "text": "XIKIJA6I CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.51744,
+    0.65504,
+    0.5407
+   ]
+  },
+  {
+   "text": "(-) 1кАЕу",
+   "conf": 0.3,
+   "bbox": [
+    0.34884,
+    0.58285,
+    0.49806,
+    0.60029
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.5843,
+    0.64341,
+    0.60029
+   ]
+  },
+  {
+   "text": "Ф0Л Chinese People's Pressure",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.625,
+    0.72674,
+    0.64697
+   ]
+  },
+  {
+   "text": "ШІНА: ФЕАШ ВВИДС ТИТКСИЛЛЛВНВ ВА4ЯИ",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.65967,
+    0.87016,
+    0.68023
+   ]
+  },
+  {
+   "text": "Д, РВЛНДШАСЛЛИСИВХ ПТВ8ОТЕВНШХН6Л4Ш3Л1",
+   "conf": 0.3,
+   "bbox": [
+    0.12597,
+    0.68457,
+    0.86822,
+    0.70215
+   ]
+  },
+  {
+   "text": "тх5%",
+   "conf": 0.3,
+   "bbox": [
+    0.53491,
+    0.7064,
+    0.86047,
+    0.72384
+   ]
+  },
+  {
+   "text": "(#Н аыт» тХ) •",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.75145,
+    0.38178,
+    0.76904
+   ]
+  },
+  {
+   "text": "According to a survey, the office workers in Chinese mainland have been confronted",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.78467,
+    0.87016,
+    0.79942
+   ]
+  },
+  {
+   "text": "with the highest pressure around the world in the past year. The survey shows that China",
+   "conf": 1.0,
+   "bbox": [
+    0.12593,
+    0.8065,
+    0.8702,
+    0.82333
+   ]
+  },
+  {
+   "text": "is currently the country that produces the highest pressure all over the world. Among 16",
+   "conf": 1.0,
+   "bbox": [
+    0.12597,
+    0.82994,
+    0.87016,
+    0.84448
+   ]
+  },
+  {
+   "text": "thousand office workers surveyed in 80 countries and regions, 75% of them working in",
+   "conf": 1.0,
+   "bbox": [
+    0.12791,
+    0.85156,
+    0.87016,
+    0.86628
+   ]
+  },
+  {
+   "text": "Chinese mainland and 55% in Hong Kong, complain that they have higher pressure than last",
+   "conf": 1.0,
+   "bbox": [
+    0.12597,
+    0.87354,
+    0.87209,
+    0.89111
+   ]
+  },
+  {
+   "text": "year, respectively ranking the first and the fourth, which is much higher than the average",
+   "conf": 1.0,
+   "bbox": [
+    0.12791,
+    0.8968,
+    0.87016,
+    0.91134
+   ]
+  }
+ ]
+}

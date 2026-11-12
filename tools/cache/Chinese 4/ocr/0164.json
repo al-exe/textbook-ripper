@@ -1,0 +1,547 @@
+{
+ "page": 164,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "150",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "（二） 分步任务活动 Implement the Tasks Step by Step",
+   "conf": 0.5,
+   "bbox": [
+    0.22481,
+    0.12936,
+    0.78876,
+    0.1499
+   ]
+  },
+  {
+   "text": "整体与部分",
+   "conf": 1.0,
+   "bbox": [
+    0.15303,
+    0.18143,
+    0.2617,
+    0.19938
+   ]
+  },
+  {
+   "text": "Whole and part",
+   "conf": 0.5,
+   "bbox": [
+    0.28101,
+    0.18457,
+    0.42636,
+    0.20068
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17248,
+    0.22656,
+    0.25194,
+    0.24273
+   ]
+  },
+  {
+   "text": "分别用“其中“和“在•⋯中“回答以下问题。",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.22363,
+    0.67636,
+    0.24419
+   ]
+  },
+  {
+   "text": "Pair work: Answer the following questions with“其中“and“在••••中”，",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.25872,
+    0.7345,
+    0.27637
+   ]
+  },
+  {
+   "text": "（1）你知道 中国 的哪些朝代？你最感 兴趣的是哪个朝代？",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.2876,
+    0.8314,
+    0.30959
+   ]
+  },
+  {
+   "text": "Ni zhiddo Zhonggud de ndxie chaoddi? Ni zui gan xingqu de shi ndge chdoddi？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.31686,
+    0.83527,
+    0.33301
+   ]
+  },
+  {
+   "text": "（2）你知道 中国 的哪些历史人物？你认为 影响 最大的是谁？",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.33866,
+    0.87403,
+    0.35901
+   ]
+  },
+  {
+   "text": "Ni zhiddo Zhongguo de naxie lishi renwu? Ni renwei yingxidng zui dd de shi shei？",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.36621,
+    0.87403,
+    0.38232
+   ]
+  },
+  {
+   "text": "（3）你喜欢看谁演的电影？他/她演 得最好的电影 是哪个",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.38953,
+    0.84109,
+    0.40698
+   ]
+  },
+  {
+   "text": "Ni xihuan kan shei yan de didnying?Ta/to ytn de zui haodedianying shi ge？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.4126,
+    0.8469,
+    0.43023
+   ]
+  },
+  {
+   "text": "（4）你去过哪些有意思的地方？你最喜欢 的地方是哪儿？",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.4375,
+    0.78295,
+    0.45801
+   ]
+  },
+  {
+   "text": "Ni quguo naxie you yisi de difang? Ni zui xihuan de difang shi nar？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.46366,
+    0.7655,
+    0.47965
+   ]
+  },
+  {
+   "text": "（5） 学习语言时，你认为听、说、读、写四个 方面 哪些 方面",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.48828,
+    0.83915,
+    0.50879
+   ]
+  },
+  {
+   "text": "Xuexi ytyan shi, ni renwei ting. shuo, du, xie si ge fangmidn naxie fangmian",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.51453,
+    0.85659,
+    0.53076
+   ]
+  },
+  {
+   "text": "很 重要？最难的是哪个 方面？",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.53613,
+    0.56977,
+    0.55669
+   ]
+  },
+  {
+   "text": "hen zhongydo? Zui nan de shi ndge fangmian？",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.56541,
+    0.57946,
+    0.58154
+   ]
+  },
+  {
+   "text": "（6）你知道哪些好吃的饭馆？你最常 去的是哪家？",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.58721,
+    0.74612,
+    0.60756
+   ]
+  },
+  {
+   "text": "Nizhiddo naxie hdo chi de fangudn?Ni zui changgu de shi nd jio？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.61182,
+    0.74225,
+    0.62793
+   ]
+  },
+  {
+   "text": "（7）你都有哪些课？哪门课最难？",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.63663,
+    0.55426,
+    0.65576
+   ]
+  },
+  {
+   "text": "Ni dou you naxie ke? Nd men ke zui nan？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.66113,
+    0.5562,
+    0.67733
+   ]
+  },
+  {
+   "text": "（8）你们班有多少学生？多少",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.6875,
+    0.56008,
+    0.70361
+   ]
+  },
+  {
+   "text": "男生？ 多少 女生？",
+   "conf": 0.3,
+   "bbox": [
+    0.58333,
+    0.6875,
+    0.80814,
+    0.70508
+   ]
+  },
+  {
+   "text": "Nimen ban you duoshao xuesheng? Duoshao ndnsheng? Duoshao ntisheng？",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.71076,
+    0.81783,
+    0.72674
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.17054,
+    0.77471,
+    0.19574,
+    0.79506
+   ]
+  },
+  {
+   "text": "唐代 有很多有名的诗人，其中 我最喜欢的是李白。",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.78174,
+    0.82946,
+    0.80378
+   ]
+  },
+  {
+   "text": "Tangdai you hen duo youming de shiren, qizhong wo zui xihuan de shi Li Bai.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.80664,
+    0.82752,
+    0.82275
+   ]
+  },
+  {
+   "text": "在唐代 有名的诗人 中，我最喜欢的是李白。",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.82994,
+    0.74419,
+    0.85174
+   ]
+  },
+  {
+   "text": "Zdi Tangddi youming de shiren zhong, wo zui xihuan de shi Li Bdi.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.85303,
+    0.74031,
+    0.86919
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "([) 1Ef%E5) Implement the Tasks Step by Step",
+   "conf": 0.3,
+   "bbox": [
+    0.22481,
+    0.12936,
+    0.78876,
+    0.1499
+   ]
+  },
+  {
+   "text": "150",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "14573",
+   "conf": 0.3,
+   "bbox": [
+    0.15303,
+    0.18143,
+    0.2617,
+    0.19938
+   ]
+  },
+  {
+   "text": "Whole and part",
+   "conf": 0.5,
+   "bbox": [
+    0.28101,
+    0.18457,
+    0.42636,
+    0.20068
+   ]
+  },
+  {
+   "text": "SUN \"HA\" AI\"EO\" ВЖОтН",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.22363,
+    0.67636,
+    0.24419
+   ]
+  },
+  {
+   "text": "Pair work: Answer the following questions with \"Jf'r\" and \"ZE-..-+\".",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.25872,
+    0.7345,
+    0.27637
+   ]
+  },
+  {
+   "text": "1д д до щат д? щд хиЕ ЛА?",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.2876,
+    0.8314,
+    0.30959
+   ]
+  },
+  {
+   "text": "Nĩ zhidào Zhõngguó de năxie cháodài? Ni zuì găn xingaù de shì năge cháodài?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.31686,
+    0.83527,
+    0.33301
+   ]
+  },
+  {
+   "text": "Nĩ zhídào Zhõngguó de năxie lìshi rénwù? Nì rènwéi yĩngxiăng zui dà de shì shéi?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.36621,
+    0.87403,
+    0.38232
+   ]
+  },
+  {
+   "text": "Nĩ xĩhuan kàn shéi yăn de diànyĩng? Tã/tà yăn de zuì hão de diànyĩng shì năge?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.4126,
+    0.8469,
+    0.43023
+   ]
+  },
+  {
+   "text": "Nì qùguo năxie yõu yisi de difang? Nì zuì xihuan de difang shì năr?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.46366,
+    0.7655,
+    0.47965
+   ]
+  },
+  {
+   "text": "Xuéxí yuyán shí, nĩ rènwéi tĩng, shuo, dú, xiẽ sì ge fàng miàn năxiẽ făng miàn",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.51453,
+    0.85659,
+    0.53076
+   ]
+  },
+  {
+   "text": "hăn zhòngyào? Zui nán de shì năge fãng miàn?",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.56541,
+    0.57946,
+    0.58154
+   ]
+  },
+  {
+   "text": "Nĩ zhidào năxie hão chỉ de fànguăn? Nĩ zuì cháng qù de shì nă jiã?",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.61182,
+    0.74225,
+    0.62793
+   ]
+  },
+  {
+   "text": "Пііл?",
+   "conf": 0.3,
+   "bbox": [
+    0.42839,
+    0.63663,
+    0.55426,
+    0.65576
+   ]
+  },
+  {
+   "text": "Nĩ dõu yõu năxiẽ kè? Nă mén kè zuì nán?",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.66113,
+    0.5562,
+    0.67733
+   ]
+  },
+  {
+   "text": "Т8Т",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.6875,
+    0.56008,
+    0.70349
+   ]
+  },
+  {
+   "text": "Nimen bãn yõu duõshao xuéshẽng? Duõshao nánshẽng? Duỡshao nữshẽng?",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.71076,
+    0.81783,
+    0.72674
+   ]
+  },
+  {
+   "text": "151]",
+   "conf": 0.3,
+   "bbox": [
+    0.17054,
+    0.77471,
+    0.19574,
+    0.79506
+   ]
+  },
+  {
+   "text": "Tángdài yõu hẽn duõ yõuming de shirén, qízhõng wõ zuì xihuan de shì Lĩ Bái.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.80664,
+    0.82752,
+    0.82275
+   ]
+  },
+  {
+   "text": "Zài Tángdài yõuming de shirén zhông, wõ zui xĩhuan de shì Lĩ Bái.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.85303,
+    0.74031,
+    0.86919
+   ]
+  }
+ ]
+}

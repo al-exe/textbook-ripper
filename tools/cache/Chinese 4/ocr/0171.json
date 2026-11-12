@@ -1,0 +1,577 @@
+{
+ "page": 171,
+ "cjk_pass": [
+  {
+   "text": "Unit 10 History",
+   "conf": 0.5,
+   "bbox": [
+    0.72287,
+    0.05957,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.13808,
+    0.33333,
+    0.16134
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35271,
+    0.13953,
+    0.65116,
+    0.15843
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.18895,
+    0.14535,
+    0.21221
+   ]
+  },
+  {
+   "text": "“其中”和“在⋯…中”The difference between“其中”and“在••⋯中”",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.18895,
+    0.79845,
+    0.20801
+   ]
+  },
+  {
+   "text": "“其中”表示指定内容中的一个部分。“在•⋯中”引出指定范围。例如：",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.23096,
+    0.83527,
+    0.25
+   ]
+  },
+  {
+   "text": "“其中”means “among （which, them, etc.） ” or \"in （which, them, etc.）”， indicating a part of the",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.25436,
+    0.89147,
+    0.27197
+   ]
+  },
+  {
+   "text": "specified content. “在…⋯中”indicates a specified range. For example：",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.27762,
+    0.68023,
+    0.29215
+   ]
+  },
+  {
+   "text": "①我们班有18个学生，其中 男生10人，女生8人。",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.30371,
+    0.85465,
+    0.32275
+   ]
+  },
+  {
+   "text": "Women ban you shiba ge xuesheng, qizhong nansheng shi ren, ndisheng ba ren.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.32413,
+    0.84884,
+    0.3418
+   ]
+  },
+  {
+   "text": "②在我们班的18个学生中，男生有10人。",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.34863,
+    0.75581,
+    0.36773
+   ]
+  },
+  {
+   "text": "Zdi women ban de shiba ge xuesheng zhong, ndnsheng you shi ren.",
+   "conf": 0.5,
+   "bbox": [
+    0.22481,
+    0.37061,
+    0.75194,
+    0.38525
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.44477,
+    0.13566,
+    0.46076
+   ]
+  },
+  {
+   "text": "在•••看来 The usage of“在⋯⋯看来”",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.44331,
+    0.52132,
+    0.4624
+   ]
+  },
+  {
+   "text": "“在•⋯看来”表示从某人的角度考虑会有怎样的看法。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.48242,
+    0.73256,
+    0.50146
+   ]
+  },
+  {
+   "text": "“在⋯•看来\" can be used to indicate one's opinion from one's own perspective. For example：",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.50727,
+    0.89147,
+    0.52197
+   ]
+  },
+  {
+   "text": "① 在我看来，唐朝 的最大特点是开放。",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.53467,
+    0.6376,
+    0.55523
+   ]
+  },
+  {
+   "text": "Zdi wa kanldi, Tangchdo de zui dd tedidn shi kaifang.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.55811,
+    0.64147,
+    0.57422
+   ]
+  },
+  {
+   "text": "②在很多人看来，中国 历史 非常 有意思。",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.5814,
+    0.68023,
+    0.60029
+   ]
+  },
+  {
+   "text": "Zdi hen duo ren kanldi, Zhongguo lishi feichang you yisi.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.60303,
+    0.66279,
+    0.61919
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.68605,
+    0.13953,
+    0.70203
+   ]
+  },
+  {
+   "text": "究竟",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.68457,
+    0.19767,
+    0.70215
+   ]
+  },
+  {
+   "text": "The usage of“究竟”",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.6875,
+    0.39729,
+    0.70361
+   ]
+  },
+  {
+   "text": "副词“究竟”用在问句里，表示追究。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.7251,
+    0.58721,
+    0.74419
+   ]
+  },
+  {
+   "text": "The adverb \"究竟” can be used in some questions to indicate an inquiry. For example：.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.75,
+    0.83721,
+    0.76465
+   ]
+  },
+  {
+   "text": "①你一会儿说 想去，一会儿又 说不想去，你究竟去还是不去？",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.78174,
+    0.90116,
+    0.80233
+   ]
+  },
+  {
+   "text": "Ni yihuir shuo xidng qu. yihuir you shuo bu xiangqu, ni jujing qu hdishi bu qu？",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.80518,
+    0.90116,
+    0.82129
+   ]
+  },
+  {
+   "text": "② 你究竟力 什么不高兴？",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.82703,
+    0.47674,
+    0.84448
+   ]
+  },
+  {
+   "text": "Ni jiujing wei sheme bi gdoxing？",
+   "conf": 0.3,
+   "bbox": [
+    0.22481,
+    0.84863,
+    0.48256,
+    0.86483
+   ]
+  },
+  {
+   "text": "157",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 10 History",
+   "conf": 1.0,
+   "bbox": [
+    0.72287,
+    0.05957,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.18895,
+    0.14535,
+    0.21221
+   ]
+  },
+  {
+   "text": "iBizmiti",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.13808,
+    0.33333,
+    0.16134
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35271,
+    0.13953,
+    0.65116,
+    0.15843
+   ]
+  },
+  {
+   "text": "7n \"Æ.*\" The difference between \"#$\" and \"E..... $\"",
+   "conf": 0.3,
+   "bbox": [
+    0.21867,
+    0.18895,
+    0.79845,
+    0.20801
+   ]
+  },
+  {
+   "text": "\"НИ\" ВИТЛИАТИТА \"ТеМ\" СEЛE ФІК:",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.23096,
+    0.83527,
+    0.25
+   ]
+  },
+  {
+   "text": "\"H'\" means \"among (which, them, etc.) \" or \"in (which, them, etc.)\", indicating a part of the",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.25436,
+    0.89147,
+    0.27197
+   ]
+  },
+  {
+   "text": "specified content. \"fE*.....ip\" indicates a specified range. For example:",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.27762,
+    0.68023,
+    0.29215
+   ]
+  },
+  {
+   "text": "10л",
+   "conf": 0.3,
+   "bbox": [
+    0.64738,
+    0.30371,
+    0.85465,
+    0.32275
+   ]
+  },
+  {
+   "text": "Wömen bãn yõu shíbã ge xuéshẽng, qízhông nánshẽng shí rén, nữshẽng bã rén.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.32413,
+    0.84884,
+    0.3418
+   ]
+  },
+  {
+   "text": "Đt tll b b 18 D 5z 7 101.",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.34863,
+    0.75581,
+    0.36773
+   ]
+  },
+  {
+   "text": "Zài wămen băn de shíbã ge xuéshẽng zhõng, nánshẽng yõu shí rén.",
+   "conf": 0.5,
+   "bbox": [
+    0.22481,
+    0.37061,
+    0.75194,
+    0.38525
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.44477,
+    0.13566,
+    0.46076
+   ]
+  },
+  {
+   "text": "Æ E* The usage of \"# #*\"",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.44331,
+    0.52132,
+    0.4624
+   ]
+  },
+  {
+   "text": "СЕ-\"",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.48256,
+    0.73256,
+    0.50145
+   ]
+  },
+  {
+   "text": "\"TE...Fi*\" can be used to indicate one's opinion from one's own perspective. For example:",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.50727,
+    0.89147,
+    0.52197
+   ]
+  },
+  {
+   "text": "Zài wõ kànlái, Tángcháo de zuì dà tèdiăn shì kãifàng.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.55811,
+    0.64147,
+    0.57422
+   ]
+  },
+  {
+   "text": "РЦЛН",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.5814,
+    0.68023,
+    0.60029
+   ]
+  },
+  {
+   "text": "Zài hẽn duõ rén kànlái, Zhõngguó lìshĩ fẽicháng yõu yìsi.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.60303,
+    0.66279,
+    0.61919
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.68605,
+    0.13953,
+    0.70203
+   ]
+  },
+  {
+   "text": "The usage of \"Ed\"",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.6875,
+    0.39729,
+    0.70361
+   ]
+  },
+  {
+   "text": "ШЙ \"АE\" ЛЕПНН, КЛСR NІ:",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.7251,
+    0.58721,
+    0.74419
+   ]
+  },
+  {
+   "text": "The adverb \"Fit\" can be used in some questions to indicate an inquiry. For example:.",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.75,
+    0.83721,
+    0.76465
+   ]
+  },
+  {
+   "text": "Nì yíhuir shuố xiăng qù, yíhuir yàu shuố bù xiăng qù, nĩ jiũjìng qù háishi bú qù?",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.80518,
+    0.90116,
+    0.82129
+   ]
+  },
+  {
+   "text": "Nĩ jiũjìng wèi shéme bù gãoxing?",
+   "conf": 0.5,
+   "bbox": [
+    0.22481,
+    0.84863,
+    0.48256,
+    0.86483
+   ]
+  },
+  {
+   "text": "157",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 1.0,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97093,
+    0.99273
+   ]
+  }
+ ]
+}

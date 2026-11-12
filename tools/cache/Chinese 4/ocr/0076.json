@@ -1,0 +1,657 @@
+{
+ "page": 76,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.14244
+   ]
+  },
+  {
+   "text": "60",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "明明 The usage of “明明”",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.12791,
+    0.4031,
+    0.14551
+   ]
+  },
+  {
+   "text": "副词“明明”意思是“显然、清楚；确实”，表示显然如此，用以强调事实的确定性。",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.16553,
+    0.89147,
+    0.18459
+   ]
+  },
+  {
+   "text": "有时用“明明”的小句前边或后边有表示反问或转折的小句。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.1875,
+    0.74419,
+    0.20654
+   ]
+  },
+  {
+   "text": "The adverb“明明”means “obviously”， “clearly\"，or \"indeed'. It indicates that something",
+   "conf": 0.5,
+   "bbox": [
+    0.18788,
+    0.2101,
+    0.88965,
+    0.23002
+   ]
+  },
+  {
+   "text": "is obvious and emphasizes a fact. Sometimes there is a rhetorical question or transitional",
+   "conf": 0.5,
+   "bbox": [
+    0.15303,
+    0.23276,
+    0.89154,
+    0.25069
+   ]
+  },
+  {
+   "text": "sentence before or after the clause using“明明”.For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.25436,
+    0.63566,
+    0.27051
+   ]
+  },
+  {
+   "text": "①这 件衣服明明很 漂亮，你怎么不喜欢呢？",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.2832,
+    0.6686,
+    0.30233
+   ]
+  },
+  {
+   "text": "Zhe jian yifu mingming hen pidoliang,ni zenme bu xihuan ne？",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.30518,
+    0.6686,
+    0.32129
+   ]
+  },
+  {
+   "text": "②这次考试 明明 很难，可是大家的成绩 却很好。",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.32849,
+    0.72868,
+    0.35029
+   ]
+  },
+  {
+   "text": "Zhe ci kdoshi mingming hen ndin, keshi dajia de chengji que hen hdo.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.35156,
+    0.72868,
+    0.36773
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.41279,
+    0.13566,
+    0.42733
+   ]
+  },
+  {
+   "text": "怪不得",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.40967,
+    0.21899,
+    0.42733
+   ]
+  },
+  {
+   "text": "The usage of “ 不得”",
+   "conf": 0.3,
+   "bbox": [
+    0.23062,
+    0.41113,
+    0.44574,
+    0.42878
+   ]
+  },
+  {
+   "text": "“择不得”表示明白了原因，不再觉得奇怪，含有突然醒悟的意思。前后常有说",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.44477,
+    0.88953,
+    0.46533
+   ]
+  },
+  {
+   "text": "明原因的句子。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.46924,
+    0.34302,
+    0.48692
+   ]
+  },
+  {
+   "text": "“怪不得” denotes that one has known the reason, so he/she doesn't feel strange any more.",
+   "conf": 0.5,
+   "bbox": [
+    0.18788,
+    0.48998,
+    0.89158,
+    0.50776
+   ]
+  },
+  {
+   "text": "It implies a sudden realization. A clause explaining the reason is often used before or after it.",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.51308,
+    0.88953,
+    0.53076
+   ]
+  },
+  {
+   "text": "For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15307,
+    0.53476,
+    0.25972,
+    0.551
+   ]
+  },
+  {
+   "text": "① 他在 中国 生活了三年， 不得他对 中国那么了解。",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.5625,
+    0.83527,
+    0.58154
+   ]
+  },
+  {
+   "text": "Ta zdi Zhonggud shenghuole san nidn, gudibude ta dui Zhongguo name lidojie.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.5843,
+    0.83333,
+    0.60029
+   ]
+  },
+  {
+   "text": "②怪不得 这么冷，我忘了关空调了。",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.60889,
+    0.62984,
+    0.62793
+   ]
+  },
+  {
+   "text": "Guaibude zheme eng, wo wangle guan kongtido le.",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.63227,
+    0.62016,
+    0.64844
+   ]
+  },
+  {
+   "text": "五 学习后任务",
+   "conf": 0.5,
+   "bbox": [
+    0.12185,
+    0.72719,
+    0.33357,
+    0.75828
+   ]
+  },
+  {
+   "text": "REVIEW TASKS",
+   "conf": 0.5,
+   "bbox": [
+    0.35465,
+    0.73389,
+    0.5969,
+    0.75439
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.78488,
+    0.13953,
+    0.80233
+   ]
+  },
+  {
+   "text": "采访",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.7832,
+    0.19767,
+    0.80233
+   ]
+  },
+  {
+   "text": "Interview",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.78613,
+    0.3062,
+    0.80087
+   ]
+  },
+  {
+   "text": "调查三到五个人，看看表格中列出的喜事对他们来说是否重要，重要的画",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.81686,
+    0.88953,
+    0.8374
+   ]
+  },
+  {
+   "text": "v，不重要的画x。问问他们认为人生还有什么其他的喜事，他们最希望得到的",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.83721,
+    0.88953,
+    0.85756
+   ]
+  },
+  {
+   "text": "是什么。",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.85889,
+    0.22868,
+    0.875
+   ]
+  },
+  {
+   "text": "Investigate three to five people to find if the happy events in life listed in the form are important",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.87936,
+    0.89147,
+    0.89258
+   ]
+  },
+  {
+   "text": "to them. Mark the important ones with V and the unimportant ones with x. Ask them if there are any",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.8968,
+    0.88953,
+    0.91279
+   ]
+  },
+  {
+   "text": "other happy events and what they want the most.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.91846,
+    0.51163,
+    0.93314
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.14244
+   ]
+  },
+  {
+   "text": "FAPA The usage of \"FHF}\"",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.12791,
+    0.4031,
+    0.14551
+   ]
+  },
+  {
+   "text": "WUinl \"по\" мак \"пимА,о\" , Алит,ЛОдддКИН",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.16553,
+    0.89147,
+    0.18459
+   ]
+  },
+  {
+   "text": "EEEÁ тUK :",
+   "conf": 0.3,
+   "bbox": [
+    0.47038,
+    0.1875,
+    0.74419,
+    0.20654
+   ]
+  },
+  {
+   "text": "The adverb \"HJH]!\" means \"obviously\", \"clearly\", or \"indeed\". It indicates that something",
+   "conf": 0.5,
+   "bbox": [
+    0.18788,
+    0.2101,
+    0.88965,
+    0.23002
+   ]
+  },
+  {
+   "text": "is obvious and emphasizes a fact. Sometimes there is a rhetorical question or transitional",
+   "conf": 1.0,
+   "bbox": [
+    0.15303,
+    0.23276,
+    0.89154,
+    0.25069
+   ]
+  },
+  {
+   "text": "sentence before or after the clause using \"HJH)\". For example:",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.25436,
+    0.63566,
+    0.27051
+   ]
+  },
+  {
+   "text": "60",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "Zhè jiàn yĩfu mingming hẽn piàoliang, ni zẽnme bù xihuan ne?",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.30518,
+    0.6686,
+    0.32129
+   ]
+  },
+  {
+   "text": "Zhè cì kãoshì míngming hẽn nán, kẽshì dàjia de chéngjì què hẽn hão.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.35156,
+    0.72868,
+    0.36773
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.41279,
+    0.13566,
+    0.42733
+   ]
+  },
+  {
+   "text": "17715",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.40988,
+    0.21899,
+    0.42733
+   ]
+  },
+  {
+   "text": "The usage of \"|·T15\"",
+   "conf": 0.3,
+   "bbox": [
+    0.23062,
+    0.41113,
+    0.44574,
+    0.42878
+   ]
+  },
+  {
+   "text": "\"КЛД\" ЕЛШÁТАИ, КААНАN ПАЛA",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.44477,
+    0.88953,
+    0.46533
+   ]
+  },
+  {
+   "text": "HHEHTT• MUXД:",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.46924,
+    0.34302,
+    0.48692
+   ]
+  },
+  {
+   "text": "\"$*115\" denotes that one has known the reason, so he/she doesn't feel strange any more.",
+   "conf": 0.5,
+   "bbox": [
+    0.18788,
+    0.48998,
+    0.89158,
+    0.50776
+   ]
+  },
+  {
+   "text": "It implies a sudden realization. A clause explaining the reason is often used before or after it.",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.51308,
+    0.88953,
+    0.53076
+   ]
+  },
+  {
+   "text": "For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.15307,
+    0.53476,
+    0.25972,
+    0.551
+   ]
+  },
+  {
+   "text": "Tã zài Zhõngguó shènghuóle săn nián, guàibude tã duì Zhõngguó nàme liãojie.",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.5843,
+    0.83333,
+    0.60029
+   ]
+  },
+  {
+   "text": "Gudibude zhème leng, wo wàngle guân kôngtiáo le.",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.63227,
+    0.62016,
+    0.64844
+   ]
+  },
+  {
+   "text": "REVIEW TASKS",
+   "conf": 1.0,
+   "bbox": [
+    0.35465,
+    0.73389,
+    0.5969,
+    0.75439
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.78488,
+    0.13953,
+    0.80233
+   ]
+  },
+  {
+   "text": "Interview",
+   "conf": 1.0,
+   "bbox": [
+    0.21705,
+    0.78634,
+    0.3062,
+    0.80087
+   ]
+  },
+  {
+   "text": "іА—щытл Птджтотод дхшижаласи, Тш",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.81686,
+    0.88953,
+    0.8374
+   ]
+  },
+  {
+   "text": "t1T Д0",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.85889,
+    0.22868,
+    0.875
+   ]
+  },
+  {
+   "text": "Investigate three to five people to find if the happy events in life listed in the form are important",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.87936,
+    0.89147,
+    0.89258
+   ]
+  },
+  {
+   "text": "to them. Mark the important ones with V and the unimportant ones with x. Ask them if there are any",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.8968,
+    0.88953,
+    0.91279
+   ]
+  },
+  {
+   "text": "other happy events and what they want the most.",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.91846,
+    0.51163,
+    0.93314
+   ]
+  }
+ ]
+}

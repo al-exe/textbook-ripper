@@ -1,0 +1,127 @@
+{
+  "book": "Chinese 4",
+  "unit": 10,
+  "kind": "grammar",
+  "title": {"zh": "历史", "py": "Lìshǐ", "en": "History"},
+  "source": "PDF pp. 157, 164–166, 171–174 (printed pp. 143, 150–152, 157–160)",
+  "intro": "This unit is about Chinese history, especially the Tang dynasty. Grammar: (1) 其中 “among them” vs 在……中 “among / in”; (2) 在……看来 “in …'s view”; (3) 究竟 “exactly / on earth” in questions. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "唐朝是中国最强盛的朝代之一。", "py": "Tángcháo shì Zhōngguó zuì qiángshèng de cháodài zhī yī.", "en": "The Tang was one of China's most powerful dynasties."},
+    {"zh": "那时候出现了很多有名的诗人，其中我最喜欢的是李白。", "py": "Nà shíhou chūxiànle hěn duō yǒumíng de shīrén, qízhōng wǒ zuì xǐhuan de shì Lǐ Bái.", "en": "Many famous poets appeared then; my favourite among them is Li Bai."},
+    {"zh": "在中国的四大发明中，火药和印刷术都是在唐朝发明的。", "py": "Zài Zhōngguó de sì dà fāmíng zhōng, huǒyào hé yìnshuāshù dōu shì zài Tángcháo fāmíng de.", "en": "Of China's Four Great Inventions, gunpowder and printing were both invented in the Tang."},
+    {"zh": "在我看来，唐朝的最大特点是开放。", "py": "Zài wǒ kànlái, Tángcháo de zuì dà tèdiǎn shì kāifàng.", "en": "In my view, the Tang's greatest characteristic was its openness."},
+    {"zh": "她究竟是什么样的人，大家的看法不完全一样。", "py": "Tā jiūjìng shì shénme yàng de rén, dàjiā de kànfǎ bù wánquán yíyàng.", "en": "People don't entirely agree on what kind of person she really was."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "“其中”和“在……中”", "py": "“qízhōng” hé “zài…… zhōng”", "en": "The difference between 其中 and 在……中"},
+      "body": [
+        {"type": "text", "zh": "“其中”表示指定内容中的一个部分。“在……中”引出指定范围。例如：", "en": "“其中” means “among them / of which” — part of something already mentioned. “在……中” sets up the range itself (“among …”), e.g.,"},
+        {"type": "pattern", "zh": "（整体），其中 + 部分　·　在 + 整体 + 中，+ 部分", "py": "(zhěngtǐ), qízhōng + bùfen · zài + zhěngtǐ + zhōng, + bùfen", "en": "(the whole is mentioned first), among them + part · among + (the whole), + part"},
+        {"type": "example", "zh": "我们班有18个学生，其中男生10人，女生8人。", "py": "Wǒmen bān yǒu shíbā ge xuésheng, qízhōng nánshēng shí rén, nǚshēng bā rén.", "en": "Our class has 18 students, of whom 10 are boys and 8 are girls."},
+        {"type": "example", "zh": "在我们班的18个学生中，男生有10人。", "py": "Zài wǒmen bān de shíbā ge xuésheng zhōng, nánshēng yǒu shí rén.", "en": "Among the 18 students in our class, 10 are boys."},
+        {"type": "note", "en": "其中 refers back, so the group must already have been mentioned: ✓ 唐代有很多著名的历史人物，其中…; ✗ 其中唐代的很多著名的历史人物… To introduce the group yourself, use 在……中: ✓ 在中国的四大发明中，…"}
+      ]
+    },
+    {
+      "title": {"zh": "在……看来", "py": "zài…… kànlái", "en": "The usage of 在……看来"},
+      "body": [
+        {"type": "text", "zh": "“在……看来”表示从某人的角度考虑会有怎样的看法。例如：", "en": "“在……看来” gives someone's opinion from their own point of view, e.g.,"},
+        {"type": "pattern", "zh": "在 + 某人 + 看来，+ 看法", "py": "zài + mǒu rén + kànlái, + kànfǎ", "en": "in (someone)'s view, + opinion"},
+        {"type": "example", "zh": "在我看来，唐朝的最大特点是开放。", "py": "Zài wǒ kànlái, Tángcháo de zuì dà tèdiǎn shì kāifàng.", "en": "In my view, the Tang's greatest characteristic was openness."},
+        {"type": "example", "zh": "在很多人看来，中国历史非常有意思。", "py": "Zài hěn duō rén kànlái, Zhōngguó lìshǐ fēicháng yǒu yìsi.", "en": "To many people, Chinese history is fascinating."},
+        {"type": "note", "en": "在 comes first and is needed: ✓ 在我看来 — ✗ 我在看来, ✗ 我看来."}
+      ]
+    },
+    {
+      "title": {"zh": "究竟", "py": "jiūjìng", "en": "The usage of 究竟"},
+      "body": [
+        {"type": "text", "zh": "副词“究竟”用在问句里，表示追究。例如：", "en": "The adverb “究竟” is used in questions to press for the real answer (“exactly / on earth”), e.g.,"},
+        {"type": "pattern", "zh": "主语 + 究竟 + 疑问（什么／谁／为什么／……还是……）", "py": "zhǔyǔ + jiūjìng + yíwèn (shénme / shéi / wèi shénme / …… háishi……)", "en": "subject + 究竟 + question part"},
+        {"type": "example", "zh": "你一会儿说想去，一会儿又说不想去，你究竟去还是不去？", "py": "Nǐ yíhuìr shuō xiǎng qù, yíhuìr yòu shuō bù xiǎng qù, nǐ jiūjìng qù háishi bú qù?", "en": "One minute you want to go, the next you don't — are you going or not?"},
+        {"type": "example", "zh": "你究竟为什么不高兴？", "py": "Nǐ jiūjìng wèi shénme bù gāoxìng?", "en": "Why on earth are you unhappy?"},
+        {"type": "note", "en": "究竟 goes before the question part, never at the end: ✓ 你报告的题目究竟是什么？ ✗ …是什么究竟？"}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "整体与部分", "py": "Zhěngtǐ yǔ bùfen", "en": "Whole and part"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "分别用“其中”和“在……中”回答以下问题。", "en": "Answer each question twice: once with “其中” and once with “在……中”."},
+      "body": [
+        {"type": "example", "zh": "唐代有很多有名的诗人，其中我最喜欢的是李白。", "py": "Tángdài yǒu hěn duō yǒumíng de shīrén, qízhōng wǒ zuì xǐhuan de shì Lǐ Bái.", "en": "The Tang had many famous poets; my favourite among them is Li Bai."},
+        {"type": "example", "zh": "在唐代有名的诗人中，我最喜欢的是李白。", "py": "Zài Tángdài yǒumíng de shīrén zhōng, wǒ zuì xǐhuan de shì Lǐ Bái.", "en": "Of the Tang's famous poets, my favourite is Li Bai."}
+      ],
+      "items": [
+        {"prompt": {"zh": "你知道中国的哪些朝代？你最感兴趣的是哪个朝代？", "en": "Which Chinese dynasties do you know? Which interests you most?"},
+         "answer": [{"zh": "我知道唐朝、宋朝、明朝和清朝，其中我最感兴趣的是唐朝。", "py": "Wǒ zhīdào Tángcháo, Sòngcháo, Míngcháo hé Qīngcháo, qízhōng wǒ zuì gǎn xìngqù de shì Tángcháo.", "en": "I know the Tang, Song, Ming and Qing; of these, the Tang interests me most. (model answer)"},
+                    {"zh": "在我知道的朝代中，我最感兴趣的是唐朝。", "py": "Zài wǒ zhīdào de cháodài zhōng, wǒ zuì gǎn xìngqù de shì Tángcháo.", "en": "Of the dynasties I know, the Tang interests me most. (model answer)"}]},
+        {"prompt": {"zh": "学习语言时，你认为听、说、读、写四个方面哪些方面很重要？最难的是哪个方面？", "en": "Of listening, speaking, reading and writing, which matter most? Which is hardest?"},
+         "answer": [{"zh": "听、说、读、写都很重要，其中最难的是写。", "py": "Tīng, shuō, dú, xiě dōu hěn zhòngyào, qízhōng zuì nán de shì xiě.", "en": "All four matter; of them, writing is the hardest. (model answer)"},
+                    {"zh": "在听、说、读、写四个方面中，我觉得最难的是写。", "py": "Zài tīng, shuō, dú, xiě sì ge fāngmiàn zhōng, wǒ juéde zuì nán de shì xiě.", "en": "Of the four skills, I find writing the hardest. (model answer)"}]},
+        {"prompt": {"zh": "你们班有多少学生？多少男生？多少女生？", "en": "How many students are in your class? How many boys and girls?"},
+         "answer": [{"zh": "我们班有15个学生，其中男生7个，女生8个。", "py": "Wǒmen bān yǒu shíwǔ ge xuésheng, qízhōng nánshēng qī ge, nǚshēng bā ge.", "en": "Our class has 15 students: 7 boys and 8 girls. (model answer)"}]},
+        {"prompt": {"zh": "你都有哪些课？哪门课最难？", "en": "What classes do you have? Which is hardest?"},
+         "answer": [{"zh": "在我的课中，最难的是汉字课。", "py": "Zài wǒ de kè zhōng, zuì nán de shì Hànzì kè.", "en": "Of my classes, the character class is the hardest. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "各抒己见", "py": "Gè shū jǐ jiàn", "en": "Each says his say"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "用“在……看来”就以下问题发表各自的见解，并向全班汇报。", "en": "Give your views on these questions using “在……看来”, then report to the class."},
+      "body": [
+        {"type": "example", "zh": "在我看来，唐朝的最大特点是开放。", "py": "Zài wǒ kànlái, Tángcháo de zuì dà tèdiǎn shì kāifàng.", "en": "In my view, the Tang's greatest characteristic was openness."}
+      ],
+      "items": [
+        {"prompt": {"zh": "人生中最值得庆祝的是什么事？", "en": "What's most worth celebrating in life?"}, "answer": [{"zh": "在我看来，人生中最值得庆祝的是找到了相爱的人。", "py": "Zài wǒ kànlái, rénshēng zhōng zuì zhídé qìngzhù de shì zhǎodàole xiāng'ài de rén.", "en": "In my view, finding someone you love is the most worth celebrating. (model answer)"}]},
+        {"prompt": {"zh": "环保更重要还是发展生产更重要？", "en": "Which matters more, environmental protection or developing production?"}, "answer": [{"zh": "在我看来，环保比发展生产更重要。", "py": "Zài wǒ kànlái, huánbǎo bǐ fāzhǎn shēngchǎn gèng zhòngyào.", "en": "In my view, protecting the environment matters more. (model answer)"}]},
+        {"prompt": {"zh": "在大城市生活好还是在小城市生活好？", "en": "Is it better to live in a big city or a small one?"}, "answer": [{"zh": "在我看来，在小城市生活更舒服。", "py": "Zài wǒ kànlái, zài xiǎo chéngshì shēnghuó gèng shūfu.", "en": "In my view, life in a small city is more comfortable. (model answer)"}]},
+        {"prompt": {"zh": "交朋友时，什么最重要？", "py": "Jiāo péngyou shí, shénme zuì zhòngyào?", "en": "What matters most when making friends?"}, "answer": [{"zh": "在我看来，交朋友时最重要的是真心。", "py": "Zài wǒ kànlái, jiāo péngyou shí zuì zhòngyào de shì zhēnxīn.", "en": "In my view, sincerity matters most. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "追问到底", "py": "Zhuīwèn dàodǐ", "en": "Examine minutely"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一个人根据图片和提示词用“究竟”提问，另一个人用“究竟”回答。", "en": "One person asks a question with “究竟” based on the picture and cue words; the other answers with “究竟”."},
+      "body": [
+        {"type": "picture", "en": "Example: a portrait of Empress Wu Zetian. Cue: 什么样的人 shénme yàng de rén."},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "武则天究竟是什么样的人？", "py": "Wǔ Zétiān jiūjìng shì shénme yàng de rén?", "en": "What kind of person was Wu Zetian really?"},
+          {"speaker": "B", "zh": "我不知道她究竟是什么样的人。", "py": "Wǒ bù zhīdào tā jiūjìng shì shénme yàng de rén.", "en": "I don't know what kind of person she really was."}
+        ]}
+      ],
+      "items": [
+        {"picture": "A portrait of the poet Li Bai. Cues: 李白，诗歌，一共多少.", "answer": [{"zh": "A：李白究竟一共写了多少首诗歌？B：我不知道他究竟一共写了多少首。", "py": "A: Lǐ Bái jiūjìng yígòng xiěle duōshao shǒu shīgē? B: Wǒ bù zhīdào tā jiūjìng yígòng xiěle duōshao shǒu.", "en": "A: How many poems did Li Bai actually write in all? B: I don't know exactly how many. (model answer)"}]},
+        {"picture": "A painting of a court lady in old Chinese dress. Cues: 画，朝代.", "answer": [{"zh": "A：这幅画究竟是哪个朝代的？B：我不知道这幅画究竟是哪个朝代的。", "py": "A: Zhè fú huà jiūjìng shì nǎge cháodài de? B: Wǒ bù zhīdào zhè fú huà jiūjìng shì nǎge cháodài de.", "en": "A: Which dynasty is this painting from, exactly? B: I don't know which dynasty it's from. (model answer)"}]},
+        {"picture": "An athlete raising both arms in victory with a medal. Cues: 谁，获得.", "answer": [{"zh": "A：究竟是谁获得了冠军？B：我也不知道究竟是谁获得了冠军。", "py": "A: Jiūjìng shì shéi huòdéle guànjūn? B: Wǒ yě bù zhīdào jiūjìng shì shéi huòdéle guànjūn.", "en": "A: Who on earth won the championship? B: I don't know who won either. (model answer)"}]},
+        {"picture": "A porcelain table lamp. Cue: 毛病.", "answer": [{"zh": "A：这个台灯究竟有什么毛病？B：我不知道它究竟有什么毛病。", "en": "A: What exactly is wrong with this lamp? B: I don't know what's wrong with it. (model answer)"}]},
+        {"prompt": {"zh": "火药，发明，谁", "py": "huǒyào, fāmíng, shéi", "en": "gunpowder, invent, who"}, "answer": [{"zh": "A：火药究竟是谁发明的？B：我不知道火药究竟是谁发明的。", "py": "A: Huǒyào jiūjìng shì shéi fāmíng de? B: Wǒ bù zhīdào huǒyào jiūjìng shì shéi fāmíng de.", "en": "A: Who exactly invented gunpowder? B: I don't know who invented it. (model answer)"}]},
+        {"prompt": {"zh": "唐朝，强盛，为什么", "py": "Tángcháo, qiángshèng, wèi shénme", "en": "Tang dynasty, powerful, why"}, "answer": [{"zh": "A：唐朝究竟为什么那么强盛？B：我不知道唐朝究竟为什么那么强盛。", "py": "A: Tángcháo jiūjìng wèi shénme nàme qiángshèng? B: Wǒ bù zhīdào Tángcháo jiūjìng wèi shénme nàme qiángshèng.", "en": "A: Why exactly was the Tang so powerful? B: I don't know why exactly. (model answer)"}]},
+        {"prompt": {"zh": "第一个朝代，建立，哪年", "py": "dì-yī ge cháodài, jiànlì, nǎ nián", "en": "first dynasty, founded, which year"}, "answer": [{"zh": "A：中国的第一个朝代究竟是哪年建立的？B：我不知道它究竟是哪年建立的。", "py": "A: Zhōngguó de dì-yī ge cháodài jiūjìng shì nǎ nián jiànlì de? B: Wǒ bù zhīdào tā jiūjìng shì nǎ nián jiànlì de.", "en": "A: In which year exactly was China's first dynasty founded? B: I don't know which year. (model answer)"}]},
+        {"prompt": {"zh": "唐装，特点，什么", "py": "tángzhuāng, tèdiǎn, shénme", "en": "Tang-style clothing, characteristics, what"}, "answer": [{"zh": "A：唐装究竟有什么特点？B：我不知道唐装究竟有什么特点。", "py": "A: Tángzhuāng jiūjìng yǒu shénme tèdiǎn? B: Wǒ bù zhīdào tángzhuāng jiūjìng yǒu shénme tèdiǎn.", "en": "A: What exactly is special about Tang-style clothing? B: I don't know what's special about it. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "唐代有很多著名的历史人物，其中我认为最有意思的是武则天。", "py": "Tángdài yǒu hěn duō zhùmíng de lìshǐ rénwù, qízhōng wǒ rènwéi zuì yǒu yìsi de shì Wǔ Zétiān."}, {"zh": "其中唐代的很多著名的历史人物，我认为最有意思的是武则天。", "py": "Qízhōng Tángdài de hěn duō zhùmíng de lìshǐ rénwù, wǒ rènwéi zuì yǒu yìsi de shì Wǔ Zétiān."}],
+       "answer": 0, "explain": "其中 refers back to a group already mentioned. (grammar note 1)"},
+      {"question": {"zh": "你认为发展经济更重要还是保护环境更重要？", "py": "Nǐ rènwéi fāzhǎn jīngjì gèng zhòngyào háishi bǎohù huánjìng gèng zhòngyào?", "en": "Do you think economic development or environmental protection is more important?"},
+       "options": [{"zh": "在我看来，保护环境比发展经济更重要。", "py": "Zài wǒ kànlái, bǎohù huánjìng bǐ fāzhǎn jīngjì gèng zhòngyào."}, {"zh": "我在看来，保护环境比发展经济更重要。", "py": "Wǒ zài kànlái, bǎohù huánjìng bǐ fāzhǎn jīngjì gèng zhòngyào."}],
+       "answer": 0, "explain": "The order is 在 + person + 看来. (grammar note 2)"},
+      {"options": [{"zh": "在中国的四大发明中，有两个是在唐朝发明的。", "py": "Zài Zhōngguó de sì dà fāmíng zhōng, yǒu liǎng ge shì zài Tángcháo fāmíng de."}, {"zh": "其中中国的四大发明，有两个是在唐朝发明的。", "py": "Qízhōng Zhōngguó de sì dà fāmíng, yǒu liǎng ge shì zài Tángcháo fāmíng de."}],
+       "answer": 0, "explain": "To introduce the group yourself, use 在……中. (grammar note 1)"},
+      {"options": [{"zh": "在我看来，李白是最有名的诗人之一。", "py": "Zài wǒ kànlái, Lǐ Bái shì zuì yǒumíng de shīrén zhī yī."}, {"zh": "我看来，李白是最有名的诗人之一。", "py": "Wǒ kànlái, Lǐ Bái shì zuì yǒumíng de shīrén zhī yī."}],
+       "answer": 0, "explain": "在 is required: 在我看来. (grammar note 2)"},
+      {"options": [{"zh": "你报告的题目究竟是什么？", "py": "Nǐ bàogào de tímù jiūjìng shì shénme?"}, {"zh": "你报告的题目是什么究竟？", "py": "Nǐ bàogào de tímù shì shénme jiūjìng?"}],
+       "answer": 0, "explain": "究竟 goes before the question part. (grammar note 3)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — review 究竟 (note 3). Missed Q1 or Q3 — review 其中 vs 在……中 (note 1). Missed Q2 or Q4 — review 在……看来 (note 2)."
+  }
+}

@@ -1,0 +1,747 @@
+{
+ "page": 131,
+ "cjk_pass": [
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.30814,
+    0.14147,
+    0.32558
+   ]
+  },
+  {
+   "text": "Unit7 Talking about Experiences on a Day off",
+   "conf": 0.5,
+   "bbox": [
+    0.40116,
+    0.05957,
+    0.9031,
+    0.08008
+   ]
+  },
+  {
+   "text": "“来着”用于特指问句，还可以表示原来知道可是现在想不起来了。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.20147,
+    0.1233,
+    0.83729,
+    0.14263
+   ]
+  },
+  {
+   "text": "“来着”is used in a special question with special reference, indicating one knew",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.14826,
+    0.89147,
+    0.16279
+   ]
+  },
+  {
+   "text": "something, but now he/she doesn't remember it any more, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.16846,
+    0.65891,
+    0.18314
+   ]
+  },
+  {
+   "text": "④你姐姐叫 什么名字来着？",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.19767,
+    0.50388,
+    0.21533
+   ]
+  },
+  {
+   "text": "Ni jiejie jido shenme mingzi ldizhe？",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.21924,
+    0.50388,
+    0.23547
+   ]
+  },
+  {
+   "text": "⑤ “Shiying”的 “ying” 宇怎么写来着？",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.24121,
+    0.58527,
+    0.26318
+   ]
+  },
+  {
+   "text": "“Shiying”de “yingzi zenme xie ldizhe？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.26744,
+    0.58333,
+    0.28488
+   ]
+  },
+  {
+   "text": "递进复句：不但••还••••••Progressive compound sentence： 不但••",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.30957,
+    0.81395,
+    0.32861
+   ]
+  },
+  {
+   "text": "，还……",
+   "conf": 0.3,
+   "bbox": [
+    0.81202,
+    0.30957,
+    0.89729,
+    0.32568
+   ]
+  },
+  {
+   "text": "在用“不但•⋯，还•⋯”的复句中，“还”引出的分句所表示的意思要比前一",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.33866,
+    0.89535,
+    0.3561
+   ]
+  },
+  {
+   "text": "分句所表示的意思更进一步，或者补充更多的信息。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.36328,
+    0.66279,
+    0.37939
+   ]
+  },
+  {
+   "text": "In a compound sentence with“不但⋯•，还•••”，the clause in which “还\"is used goes",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.38517,
+    0.89147,
+    0.40283
+   ]
+  },
+  {
+   "text": "further in meaning than what is said in the previous clause or supplements more information, e.g.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.40552,
+    0.89147,
+    0.42297
+   ]
+  },
+  {
+   "text": "①她不但会唱歌，还会写歌。",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.43457,
+    0.54457,
+    0.45508
+   ]
+  },
+  {
+   "text": "Ta budan hui chang ge, hai hui xie ge.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.45785,
+    0.53876,
+    0.47384
+   ]
+  },
+  {
+   "text": "② 我不但 知道她，（我）还见过她呢。",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.48242,
+    0.59884,
+    0.50146
+   ]
+  },
+  {
+   "text": "Wo budan zhiddo to， （wo） hai jianguo ta ne.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.50436,
+    0.59496,
+    0.52051
+   ]
+  },
+  {
+   "text": "当两个分句主语相同时，主语在“不但”前边，后一分句的主语可以省略，若不",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.53467,
+    0.88953,
+    0.55233
+   ]
+  },
+  {
+   "text": "省略，后一分的主语一定在“还”的前边，而不是后边。",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.55664,
+    0.64535,
+    0.57422
+   ]
+  },
+  {
+   "text": "If the two clauses have the same subject, the subject is used before “不但”and may be",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.57994,
+    0.89341,
+    0.59738
+   ]
+  },
+  {
+   "text": "omitted in the second clause. If not omitted, the subject in the second clause is used before",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.60156,
+    0.89147,
+    0.61483
+   ]
+  },
+  {
+   "text": "rather than after“还”.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.62061,
+    0.32558,
+    0.63525
+   ]
+  },
+  {
+   "text": "反问句：哪⋯⋯啊？Rhetorical question： 哪⋯••⋯啊？",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.6626,
+    0.64729,
+    0.68169
+   ]
+  },
+  {
+   "text": "反问句的作用是加强语气，把本来很明确的看法表现得更加鲜明、强烈。反问句",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.69622,
+    0.8876,
+    0.71387
+   ]
+  },
+  {
+   "text": "分为肯定反问句和否定反问句，肯定反问句表达的是否定的意思，否定反问句表达的",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.71802,
+    0.8876,
+    0.73547
+   ]
+  },
+  {
+   "text": "是肯定的意思。主语在“哪⋯⋯啊”的前边。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.73975,
+    0.60271,
+    0.75732
+   ]
+  },
+  {
+   "text": "A rhetorical question is used to strengthen the tone, making an idea that is already",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.76308,
+    0.88953,
+    0.7793
+   ]
+  },
+  {
+   "text": "pretty clear more distinctive and strong. There are two types of rhetorical questions, the",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.7832,
+    0.88953,
+    0.79797
+   ]
+  },
+  {
+   "text": "affirmative and negative, with the former expressing negative meanings and the other",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.80371,
+    0.89147,
+    0.81836
+   ]
+  },
+  {
+   "text": "expressing affirmative meanings. The subject is used before“哪儿•••啊”，e.g，",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.82267,
+    0.78682,
+    0.84033
+   ]
+  },
+  {
+   "text": "① 我哪知道啊？（强调我不知道） ②他哪不 知道啊？（强调他知道）",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.84863,
+    0.80233,
+    0.86628
+   ]
+  },
+  {
+   "text": "Wo na zhiddo a？",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.87061,
+    0.31395,
+    0.88379
+   ]
+  },
+  {
+   "text": "Ta na bu zhiddo a？",
+   "conf": 0.5,
+   "bbox": [
+    0.51744,
+    0.86914,
+    0.67442,
+    0.88379
+   ]
+  },
+  {
+   "text": "③这哪是 锻炼 身体啊？（强调这不是锻炼身体）",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.89535,
+    0.62209,
+    0.91279
+   ]
+  },
+  {
+   "text": "Zhe na shi duanlidn shenti a？",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.91699,
+    0.40891,
+    0.93169
+   ]
+  },
+  {
+   "text": "115",
+   "conf": 1.0,
+   "bbox": [
+    0.93605,
+    0.34302,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "＋",
+   "conf": 0.3,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.30814,
+    0.14147,
+    0.32558
+   ]
+  },
+  {
+   "text": "Unit 7 Talking about Experiences on a Day off",
+   "conf": 1.0,
+   "bbox": [
+    0.40116,
+    0.05957,
+    0.9031,
+    0.08008
+   ]
+  },
+  {
+   "text": "\"*И\" ШТННШО, СООЕЛВЖЛИЛАВЕЛТОЖ ФІШ:",
+   "conf": 0.3,
+   "bbox": [
+    0.20147,
+    0.1233,
+    0.83729,
+    0.14263
+   ]
+  },
+  {
+   "text": "\"*1\" is used in a special question with special reference, indicating one knew",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.14826,
+    0.89147,
+    0.16279
+   ]
+  },
+  {
+   "text": "something, but now he/she doesn't remember it any more, e.g.,",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.16846,
+    0.65891,
+    0.18314
+   ]
+  },
+  {
+   "text": "Đ144т4 44 X7 *?",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.19767,
+    0.50388,
+    0.21533
+   ]
+  },
+  {
+   "text": "Ni jiéjie jiào shénme mingzi láizhe?",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.21924,
+    0.50388,
+    0.23547
+   ]
+  },
+  {
+   "text": "G \"Shuying\" H \"ying\" 7 € L 5 *#?",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.24121,
+    0.58527,
+    0.26318
+   ]
+  },
+  {
+   "text": "\"Shuyíng\" de \"yíng\" zì zènme xiẽ láizhe?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.26744,
+    0.58333,
+    0.28488
+   ]
+  },
+  {
+   "text": "iVEA: 19 iI Progressive compound sentence: 7-9....••",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.30957,
+    0.81395,
+    0.32861
+   ]
+  },
+  {
+   "text": ", i....",
+   "conf": 0.3,
+   "bbox": [
+    0.81202,
+    0.30957,
+    0.89729,
+    0.32568
+   ]
+  },
+  {
+   "text": "ВЛСТЕТТКО\"АІОФ, І\" СВАЛАТТВВИН-",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.33866,
+    0.89535,
+    0.3561
+   ]
+  },
+  {
+   "text": "ДНТКДВЛС ВШ:",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.36328,
+    0.66279,
+    0.37939
+   ]
+  },
+  {
+   "text": "In a compound sentence with \"KД..., it.\", the clause in which \"I\" is used goes",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.38517,
+    0.89147,
+    0.40283
+   ]
+  },
+  {
+   "text": "further in meaning than what is said in the previous clause or supplements more information, e.g.,",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.40552,
+    0.89147,
+    0.42297
+   ]
+  },
+  {
+   "text": "Tã búdàn hui chàng gẽ, hái hui xiẻ gẽ.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.45785,
+    0.53876,
+    0.47384
+   ]
+  },
+  {
+   "text": "() іRitHк.",
+   "conf": 0.3,
+   "bbox": [
+    0.39665,
+    0.48242,
+    0.59884,
+    0.50146
+   ]
+  },
+  {
+   "text": "Wõ búdàn zhidào tã, (wõ) hái jiànguo tã ne.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.50436,
+    0.59496,
+    0.52051
+   ]
+  },
+  {
+   "text": "115",
+   "conf": 1.0,
+   "bbox": [
+    0.93605,
+    0.34302,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "TH, T DMEM M\"\" KM, TTArA.",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.55664,
+    0.64535,
+    0.57422
+   ]
+  },
+  {
+   "text": "If the two clauses have the same subject, the subject is used before \"KH\" and may be",
+   "conf": 0.5,
+   "bbox": [
+    0.1938,
+    0.57994,
+    0.89341,
+    0.59738
+   ]
+  },
+  {
+   "text": "omitted in the second clause. If not omitted, the subject in the second clause is used before",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.60156,
+    0.89147,
+    0.61483
+   ]
+  },
+  {
+   "text": "rather than after \"iE\".",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.62061,
+    0.32558,
+    0.63525
+   ]
+  },
+  {
+   "text": "БA: 193-41? Rhetorical question: 073-..-- ApaJ?",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.6626,
+    0.64729,
+    0.68169
+   ]
+  },
+  {
+   "text": "СООЛИЛАХТИ, ВЕХОЛАСКАТАКОВ ПЕХАКИК",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.71802,
+    0.8876,
+    0.73547
+   ]
+  },
+  {
+   "text": "EHE \"NI\" KU. 114:",
+   "conf": 0.3,
+   "bbox": [
+    0.29069,
+    0.73975,
+    0.60271,
+    0.75732
+   ]
+  },
+  {
+   "text": "A rhetorical question is used to strengthen the tone, making an idea that is already",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.76308,
+    0.88953,
+    0.7793
+   ]
+  },
+  {
+   "text": "pretty clear more distinctive and strong. There are two types of rhetorical questions, the",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.7832,
+    0.88953,
+    0.79797
+   ]
+  },
+  {
+   "text": "affirmative and negative, with the former expressing negative meanings and the other",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.80371,
+    0.89147,
+    0.81836
+   ]
+  },
+  {
+   "text": "expressing affirmative meanings. The subject is used before \"I)L.**- Пj\", е.g.,",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.82267,
+    0.78682,
+    0.84033
+   ]
+  },
+  {
+   "text": "Д# Д тст? ПЛАТШЙ) РНУТ НиЙ? (ПИШНН)",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.84863,
+    0.80233,
+    0.86628
+   ]
+  },
+  {
+   "text": "Wò nă zhi dào a?",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.87061,
+    0.31395,
+    0.88379
+   ]
+  },
+  {
+   "text": "Tã nă bù zhidào a?",
+   "conf": 0.3,
+   "bbox": [
+    0.51744,
+    0.86914,
+    0.67442,
+    0.88379
+   ]
+  },
+  {
+   "text": "Zhè nă shì duànliàn shêntĩ a?",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.91699,
+    0.40891,
+    0.93169
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.5,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ]
+}

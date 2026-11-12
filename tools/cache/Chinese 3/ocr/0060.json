@@ -1,0 +1,697 @@
+{
+ "page": 60,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "③",
+   "conf": 0.5,
+   "bbox": [
+    0.03876,
+    0.25872,
+    0.06395,
+    0.27762
+   ]
+  },
+  {
+   "text": "44",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34302,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "②你决定了吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.12354,
+    0.31783,
+    0.14404
+   ]
+  },
+  {
+   "text": "Nijueding le ma？",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.14535,
+    0.31589,
+    0.16134
+   ]
+  },
+  {
+   "text": "A. 决定了。为了学好汉语，我一定要去中国。［一⑤」",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.16992,
+    0.77907,
+    0.19043
+   ]
+  },
+  {
+   "text": "cueding le.",
+   "conf": 0.3,
+   "bbox": [
+    0.20927,
+    0.19026,
+    0.31398,
+    0.20363
+   ]
+  },
+  {
+   "text": "Weile xue hdo Hanyd, wo yiding ydo qu Zhongguo.",
+   "conf": 0.5,
+   "bbox": [
+    0.31589,
+    0.19041,
+    0.72868,
+    0.20654
+   ]
+  },
+  {
+   "text": "B. 决定了。学好 为了汉语，我一定要去 中国。［-④］",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.21366,
+    0.76938,
+    0.23401
+   ]
+  },
+  {
+   "text": "Jueding le. Xuehdo weile Hanyt, wo yiding ydo qu Zhongguo.",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.23389,
+    0.71705,
+    0.25
+   ]
+  },
+  {
+   "text": "③上个周末你去 长城",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.25727,
+    0.43605,
+    0.27637
+   ]
+  },
+  {
+   "text": "．了吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.43217,
+    0.26017,
+    0.52132,
+    0.27637
+   ]
+  },
+  {
+   "text": "Shang ge zhoumo ni qu Changcheng le ma？",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.27907,
+    0.52326,
+    0.29506
+   ]
+  },
+  {
+   "text": "A. 因为上周末下雨了，所以我们改在这 周末去了。［一②」",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.30371,
+    0.85853,
+    0.32275
+   ]
+  },
+  {
+   "text": "Yinwei shang zhoumo xia yu le, suoyi women gai zai zhe zhoumo qu le.",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.32413,
+    0.78488,
+    0.34033
+   ]
+  },
+  {
+   "text": "B. 因为去 长城，所以下雨了。［一D］",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.34717,
+    0.60078,
+    0.36773
+   ]
+  },
+  {
+   "text": "Yinwei qu Changcheng, suoyi xid yu le.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.36768,
+    0.52713,
+    0.38379
+   ]
+  },
+  {
+   "text": "④A. 为了 早上能够按时到校，我每天晚上11点就",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.39244,
+    0.81589,
+    0.41134
+   ]
+  },
+  {
+   "text": "Weile zdoshang nenggou anshi ddo xido, wo mei tian wanshang shiyi dian jtd",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.4126,
+    0.81589,
+    0.43023
+   ]
+  },
+  {
+   "text": "睡了。1一⑤」",
+   "conf": 0.3,
+   "bbox": [
+    0.20731,
+    0.43729,
+    0.34307,
+    0.4566
+   ]
+  },
+  {
+   "text": "shuile.",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.45785,
+    0.2655,
+    0.47093
+   ]
+  },
+  {
+   "text": "B. 为了每天",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.48096,
+    0.32752,
+    0.49855
+   ]
+  },
+  {
+   "text": "晚上 11 点就睡了，我 早上 能够 按时",
+   "conf": 0.3,
+   "bbox": [
+    0.32946,
+    0.48096,
+    0.81008,
+    0.50146
+   ]
+  },
+  {
+   "text": "Weile mei tian wanshang shiyi dian jid shuile， wo zdoshang nenggou anshi",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.50291,
+    0.81008,
+    0.52051
+   ]
+  },
+  {
+   "text": "到校。一C」",
+   "conf": 0.3,
+   "bbox": [
+    0.20912,
+    0.5254,
+    0.34321,
+    0.54582
+   ]
+  },
+  {
+   "text": "ddo xido.",
+   "conf": 0.3,
+   "bbox": [
+    0.20734,
+    0.54644,
+    0.28297,
+    0.55967
+   ]
+  },
+  {
+   "text": "⑤A. 他每天都 早早的来到 学校。［一B］",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.56977,
+    0.59884,
+    0.58887
+   ]
+  },
+  {
+   "text": "Ta mei tian dou zozo de lai o xuexio.",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.59012,
+    0.53876,
+    0.60465
+   ]
+  },
+  {
+   "text": "B. 他每天都早早地来到 学校。［-A］",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.61475,
+    0.59884,
+    0.63379
+   ]
+  },
+  {
+   "text": "Ta mei tian dou zdozdo de lai do xuexido.",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.63517,
+    0.53876,
+    0.6499
+   ]
+  },
+  {
+   "text": "A. 太棒了，你语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.68604,
+    0.44767,
+    0.70361
+   ]
+  },
+  {
+   "text": "Wondertul, you have learned the grammar very well！！",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.7093,
+    0.65891,
+    0.72384
+   ]
+  },
+  {
+   "text": "B.你的语法学得不错。不过要注意“地”和“的”的区",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.73535,
+    0.65698,
+    0.75586
+   ]
+  },
+  {
+   "text": "别，在状语后边、动词前边应该用“地”。再做一遍",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.75872,
+    0.65698,
+    0.77783
+   ]
+  },
+  {
+   "text": "第⑤题吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.19754,
+    0.78154,
+    0.29858,
+    0.79985
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is good. However, you",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.80518,
+    0.65891,
+    0.81982
+   ]
+  },
+  {
+   "text": "need to pay attentioan to the difference between",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.82703,
+    0.65891,
+    0.8418
+   ]
+  },
+  {
+   "text": "“地”and“的”．After an adverbial adjunct and",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.84717,
+    0.65891,
+    0.86483
+   ]
+  },
+  {
+   "text": "in front a verb, we need to use “地”. Please do",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.87061,
+    0.65891,
+    0.88525
+   ]
+  },
+  {
+   "text": "question ⑤ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.8939,
+    0.36047,
+    0.90843
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [3)",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 0.5,
+   "bbox": [
+    0.03876,
+    0.25872,
+    0.06395,
+    0.27762
+   ]
+  },
+  {
+   "text": "44",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34302,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "21 J•Д?",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.12354,
+    0.31783,
+    0.14404
+   ]
+  },
+  {
+   "text": "Nì juéding le ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.14535,
+    0.31589,
+    0.16134
+   ]
+  },
+  {
+   "text": "Juéding le.",
+   "conf": 0.5,
+   "bbox": [
+    0.20927,
+    0.19026,
+    0.31398,
+    0.20363
+   ]
+  },
+  {
+   "text": "Weile xué hão Hànyũ, wõ yíding yào qù Zhõngguó.",
+   "conf": 0.5,
+   "bbox": [
+    0.31589,
+    0.19041,
+    0.72868,
+    0.20654
+   ]
+  },
+  {
+   "text": "Juéding le. Xuéhão wèile Hànyũ, wõ yíding yào qù Zhõngguó.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.23389,
+    0.71705,
+    0.25
+   ]
+  },
+  {
+   "text": "• І'?",
+   "conf": 0.3,
+   "bbox": [
+    0.43217,
+    0.26017,
+    0.52132,
+    0.27637
+   ]
+  },
+  {
+   "text": "Shàng ge zhõumò nĩ qù Chángchéng le ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.27907,
+    0.52326,
+    0.29506
+   ]
+  },
+  {
+   "text": "Yinwei shàng zhôumò xia yu le, suoyi women gài zài zhè zhôumò qù le.",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.32413,
+    0.78488,
+    0.34033
+   ]
+  },
+  {
+   "text": "Yinwèi qù Chángchéng, suõyi xià yũ le.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.36768,
+    0.52713,
+    0.38379
+   ]
+  },
+  {
+   "text": "Wèile zãoshang nénggòu ànshí dào xiào, wõ mẽi tiăn wănshang shíyi diăn jiù",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.4126,
+    0.81589,
+    0.43023
+   ]
+  },
+  {
+   "text": "H$ J. 1→0J",
+   "conf": 0.3,
+   "bbox": [
+    0.20731,
+    0.43729,
+    0.34307,
+    0.4566
+   ]
+  },
+  {
+   "text": "shuì le.",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.45785,
+    0.2655,
+    0.47093
+   ]
+  },
+  {
+   "text": "Weile mẽi tiàn wănshang shíyt diăn jiù shui le, wõ zàoshang nénggòu ànshí",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.50291,
+    0.81008,
+    0.52051
+   ]
+  },
+  {
+   "text": "tẻ. l→CJ",
+   "conf": 0.3,
+   "bbox": [
+    0.23695,
+    0.52572,
+    0.34321,
+    0.54582
+   ]
+  },
+  {
+   "text": "dào xiào.",
+   "conf": 1.0,
+   "bbox": [
+    0.20734,
+    0.54644,
+    0.28297,
+    0.55967
+   ]
+  },
+  {
+   "text": "(→B]",
+   "conf": 0.3,
+   "bbox": [
+    0.53703,
+    0.56977,
+    0.59884,
+    0.58887
+   ]
+  },
+  {
+   "text": "Tã mẽi tiăn dõu zãozão de lái dào xuéxiào.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.59012,
+    0.53876,
+    0.60465
+   ]
+  },
+  {
+   "text": "Tã mẻi tiăn dõu zàozão de lái dào xuéxiào.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.63517,
+    0.53876,
+    0.6499
+   ]
+  },
+  {
+   "text": "A. AHT, 17ET11ETAS!",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.68604,
+    0.44767,
+    0.70361
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.19961,
+    0.7093,
+    0.65891,
+    0.72384
+   ]
+  },
+  {
+   "text": "B.1W#271H КАRMе \"I\" M\"H\" КIX",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.73535,
+    0.65698,
+    0.75586
+   ]
+  },
+  {
+   "text": "Good job! Your grammar is good. However, you",
+   "conf": 1.0,
+   "bbox": [
+    0.20155,
+    0.80518,
+    0.65891,
+    0.81982
+   ]
+  },
+  {
+   "text": "need to pay attentioan to the difference between",
+   "conf": 1.0,
+   "bbox": [
+    0.20155,
+    0.82703,
+    0.65891,
+    0.8418
+   ]
+  },
+  {
+   "text": "\"Iw\" and \"#J\" . After an adverbial adjunct and",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.84717,
+    0.65891,
+    0.86483
+   ]
+  },
+  {
+   "text": "in front a verb, we need to use \"#t\". Please do",
+   "conf": 1.0,
+   "bbox": [
+    0.19961,
+    0.87061,
+    0.65891,
+    0.88525
+   ]
+  },
+  {
+   "text": "question (5 again.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.8939,
+    0.36047,
+    0.90843
+   ]
+  }
+ ]
+}

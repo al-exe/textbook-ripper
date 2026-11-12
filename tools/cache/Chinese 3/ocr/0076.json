@@ -1,0 +1,647 @@
+{
+ "page": 76,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "A：您记一下，……。",
+   "conf": 0.3,
+   "bbox": [
+    0.1429,
+    0.13794,
+    0.35146,
+    0.1605
+   ]
+  },
+  {
+   "text": "Nin j yixid，",
+   "conf": 0.3,
+   "bbox": [
+    0.17236,
+    0.16229,
+    0.27338,
+    0.17783
+   ]
+  },
+  {
+   "text": "B：谢谢。我很喜欢 这个房子，我再跟 朋友 商量（to discuss） 一下，",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.18604,
+    0.87016,
+    0.20654
+   ]
+  },
+  {
+   "text": "Xiexie. Wo hen xihuan zhege fangzi, wo zdi gen pengyou shangliang",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.2093,
+    0.72868,
+    0.22529
+   ]
+  },
+  {
+   "text": "yixid，",
+   "conf": 0.3,
+   "bbox": [
+    0.81395,
+    0.2093,
+    0.8624,
+    0.22529
+   ]
+  },
+  {
+   "text": "之后 我给您打电话。",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.23096,
+    0.4031,
+    0.25
+   ]
+  },
+  {
+   "text": "zhihou wo gei nin da dianhua.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.25291,
+    0.40891,
+    0.26904
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12403,
+    0.3314,
+    0.13953,
+    0.34593
+   ]
+  },
+  {
+   "text": "60",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "家居环境",
+   "conf": 1.0,
+   "bbox": [
+    0.1549,
+    0.32812,
+    0.24432,
+    0.34775
+   ]
+  },
+  {
+   "text": "The layout and surroundings of a house",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.3314,
+    0.62403,
+    0.34884
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17633,
+    0.37346,
+    0.26554,
+    0.39253
+   ]
+  },
+  {
+   "text": "请朗读下边这篇艾娜写的短文，回答问题，然后模仿短文介绍一下你",
+   "conf": 1.0,
+   "bbox": [
+    0.28295,
+    0.37354,
+    0.89147,
+    0.39404
+   ]
+  },
+  {
+   "text": "自己的家和周围的环境。",
+   "conf": 1.0,
+   "bbox": [
+    0.28488,
+    0.39826,
+    0.49225,
+    0.41424
+   ]
+  },
+  {
+   "text": "Pair work: Please read the following passage written by Edna and answer the questions. Then",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.42578,
+    0.88953,
+    0.44043
+   ]
+  },
+  {
+   "text": "talk about your residence and its surrounding area following this passage.",
+   "conf": 0.5,
+   "bbox": [
+    0.28101,
+    0.44622,
+    0.81783,
+    0.46094
+   ]
+  },
+  {
+   "text": "最近我租了个房子。现在我住在学院路新园小区20号楼2803号房",
+   "conf": 1.0,
+   "bbox": [
+    0.18992,
+    0.49268,
+    0.85659,
+    0.51465
+   ]
+  },
+  {
+   "text": "间。这套房子是上下两层的，楼下是客厅，楼上有三个房间，两个是卧",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.51744,
+    0.85659,
+    0.53924
+   ]
+  },
+  {
+   "text": "室，一个是书房。厨房在客厅旁边。卫生间有两个，一层有一个，二层",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.54199,
+    0.85659,
+    0.56396
+   ]
+  },
+  {
+   "text": "有一个。房子里有家具和家电，比如（such as）沙发、床、电视、冰箱、",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.56686,
+    0.84884,
+    0.58887
+   ]
+  },
+  {
+   "text": "洗衣机••什么都有。我租一年，房租是每个月8000，不太便宜。",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.59157,
+    0.78488,
+    0.61192
+   ]
+  },
+  {
+   "text": "这套房子的环境不错。小区里有超市、饭馆儿和咖啡厅，小区外边",
+   "conf": 1.0,
+   "bbox": [
+    0.18798,
+    0.61621,
+    0.85659,
+    0.63818
+   ]
+  },
+  {
+   "text": "有医院、电影院、银行。小区附近有地铁站和公共汽车站，非常方便。",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.64099,
+    0.84109,
+    0.66279
+   ]
+  },
+  {
+   "text": "Zujin wo zule ge fangzi. Xianzai wo zhi zdi Xueuan Lu Xinun Xioqui ershi",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.67871,
+    0.85853,
+    0.69629
+   ]
+  },
+  {
+   "text": "hdo lou er ba ling san hao fangjian. Zhe tao fangzi shi shang xia liang ceng de，",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.70203,
+    0.8469,
+    0.72093
+   ]
+  },
+  {
+   "text": "Iou xid shi keting,lou shang you san ge fangjian, liang ge shi woshi, yi ge",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.72217,
+    0.85659,
+    0.74128
+   ]
+  },
+  {
+   "text": "shi shufang. Chufang zdi keting pangbian. Weishengjian you lidng ge, yi ceng",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.74561,
+    0.85659,
+    0.76465
+   ]
+  },
+  {
+   "text": "you yi ge, er ceng you yi ge. Fangzi li you jiaju he jiadian, biru shafo.chuang.",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.7689,
+    0.85465,
+    0.78634
+   ]
+  },
+  {
+   "text": "didnshi. bingxiang. xiyjj••••shenme dou you. Wo zu yi nidn, fangzi shi mei ge yue",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.79053,
+    0.85659,
+    0.80814
+   ]
+  },
+  {
+   "text": "baqian,bu tai pianyi.",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.81395,
+    0.33333,
+    0.83154
+   ]
+  },
+  {
+   "text": "Zhe tdo fangzi de nuanjing bu cuo. Xiaoqu li you chaoshi,fanguanr he",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.83576,
+    0.85659,
+    0.85174
+   ]
+  },
+  {
+   "text": "kofeiting, xidoqu waibian you yiyuan.didnyingyuan. yinhang. Xidoqu fujin you ditie",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.85742,
+    0.85659,
+    0.875
+   ]
+  },
+  {
+   "text": "zhan he gonggongqiche zhan, feichang fangbian.",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.87936,
+    0.56977,
+    0.89844
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [3)",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "A: 10iZ-F, *..•",
+   "conf": 0.3,
+   "bbox": [
+    0.1429,
+    0.13794,
+    0.35146,
+    0.1605
+   ]
+  },
+  {
+   "text": "Nín jì yíxia,",
+   "conf": 0.5,
+   "bbox": [
+    0.17236,
+    0.16229,
+    0.27338,
+    0.17783
+   ]
+  },
+  {
+   "text": "(su) -F,",
+   "conf": 0.3,
+   "bbox": [
+    0.71061,
+    0.18604,
+    0.87016,
+    0.20654
+   ]
+  },
+  {
+   "text": "yíxià,",
+   "conf": 0.5,
+   "bbox": [
+    0.81395,
+    0.2093,
+    0.8624,
+    0.22529
+   ]
+  },
+  {
+   "text": "Xièxie. Wó hèn xihuan zhège fángzi, wò zài gên péngyou shãngliang",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.2093,
+    0.72868,
+    0.22529
+   ]
+  },
+  {
+   "text": "L #t tі.",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.23096,
+    0.4031,
+    0.25
+   ]
+  },
+  {
+   "text": "chĩhòu wõ gặi nín dã diànhuà.",
+   "conf": 0.3,
+   "bbox": [
+    0.17442,
+    0.25291,
+    0.40891,
+    0.26904
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12403,
+    0.3314,
+    0.13953,
+    0.34593
+   ]
+  },
+  {
+   "text": "60",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "The layout and surroundings of a house",
+   "conf": 1.0,
+   "bbox": [
+    0.26163,
+    0.3314,
+    0.62403,
+    0.34884
+   ]
+  },
+  {
+   "text": "ЙОиГи&тшЕКиХ, ПЕРД, КЛАDАХЛ4-75",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.37354,
+    0.89147,
+    0.39404
+   ]
+  },
+  {
+   "text": "АСКЗТАЬННН",
+   "conf": 0.3,
+   "bbox": [
+    0.28488,
+    0.39826,
+    0.49225,
+    0.41424
+   ]
+  },
+  {
+   "text": "Pair work: Please read the following passage written by Edna and answer the questions. Then",
+   "conf": 1.0,
+   "bbox": [
+    0.18605,
+    0.42578,
+    0.88953,
+    0.44043
+   ]
+  },
+  {
+   "text": "talk about your residence and its surrounding area following this passage.",
+   "conf": 1.0,
+   "bbox": [
+    0.28101,
+    0.44622,
+    0.81783,
+    0.46094
+   ]
+  },
+  {
+   "text": "ІВ7АІТТ НТАВТ",
+   "conf": 0.3,
+   "bbox": [
+    0.18294,
+    0.51744,
+    0.85659,
+    0.53924
+   ]
+  },
+  {
+   "text": ",-А-1, -к",
+   "conf": 0.3,
+   "bbox": [
+    0.50602,
+    0.54199,
+    0.85659,
+    0.56396
+   ]
+  },
+  {
+   "text": "#-т лтадт, кл (suchas) дK А, чі ж*.",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.56686,
+    0.84884,
+    0.58887
+   ]
+  },
+  {
+   "text": "TR -7, 78000, FAЛЛ",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.59157,
+    0.78488,
+    0.61192
+   ]
+  },
+  {
+   "text": "Ты",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.64099,
+    0.84109,
+    0.66279
+   ]
+  },
+  {
+   "text": "Zuijìn wõ zule ge fángzi. Xiànzài wò zhù zài Xuéyuàn Lù Xĩnyuán Xiăoqu èrshí",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.67871,
+    0.85853,
+    0.69629
+   ]
+  },
+  {
+   "text": "hào lóu èr bà líng sân hào fángjiàn. Zhè tào fángzi shì shàng xia liăng céng de,",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.70203,
+    0.8469,
+    0.72093
+   ]
+  },
+  {
+   "text": "lóu xià shì kètĩng, lóu shàng yõu sân ge fángjiãn, liăng ge shì wòshì, yí ge",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.72217,
+    0.85659,
+    0.74128
+   ]
+  },
+  {
+   "text": "shì shũfáng. Chúfáng zài kèting pángbiãn. Wèishengiiăn yõu liăng ge, yì cóng",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.74561,
+    0.85659,
+    0.76465
+   ]
+  },
+  {
+   "text": "yõu yí ge, èr céng yỗu yí ge. Fángzi li yõu jiãjù hé jiãdiàn, birú shàfã, chuáng.",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.7689,
+    0.85465,
+    0.78634
+   ]
+  },
+  {
+   "text": "diànshì. bìngxiãng, xiyijĩ.shénme dõu yõu. Wõ zũ yì nián, fángzũ shì mẽi ge yuè",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.79053,
+    0.85659,
+    0.80814
+   ]
+  },
+  {
+   "text": "bãgiân, bú tài piányi.",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.81395,
+    0.33333,
+    0.83154
+   ]
+  },
+  {
+   "text": "Zhè tào fángzi de huánjing bú cuò. Xiàoqũ li yỗu chàoshì. fànguănr hé",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.83576,
+    0.85659,
+    0.85174
+   ]
+  },
+  {
+   "text": "kafeiting, xiăog vàibian you yyuàn, diànyingyuàn, yínháng. Xiăogũ fùjìn yõu dìtiẽ",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.85742,
+    0.85659,
+    0.875
+   ]
+  },
+  {
+   "text": "zhàn hé gònggòngqichẽ zhàn, fẽicháng tăngbiàn.",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.87936,
+    0.56977,
+    0.89844
+   ]
+  }
+ ]
+}

@@ -1,0 +1,687 @@
+{
+ "page": 146,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.0969,
+    0.05811,
+    0.55233,
+    0.07861
+   ]
+  },
+  {
+   "text": "4",
+   "conf": 0.5,
+   "bbox": [
+    0.03682,
+    0.26163,
+    0.05814,
+    0.27616
+   ]
+  },
+  {
+   "text": "132",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "茉莉：新疆 是在中国 的西部吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.13808,
+    0.52132,
+    0.15576
+   ]
+  },
+  {
+   "text": "Moli: Xinjiang shi zdi Zhongguo de xi bu ma？",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.15967,
+    0.52132,
+    0.17587
+   ]
+  },
+  {
+   "text": "大龙：对，新疆 在 中国的西北。",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.18164,
+    0.51357,
+    0.20215
+   ]
+  },
+  {
+   "text": "Dalong: Dui, Xinjiang zdi Zhongguo de xibei.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.20494,
+    0.50194,
+    0.22093
+   ]
+  },
+  {
+   "text": "茉莉；听说 新疆的风景很美。",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.22656,
+    0.51744,
+    0.24709
+   ]
+  },
+  {
+   "text": "Moli: Tingshuo Xinjiang de fengjing hen mei.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.24854,
+    0.51744,
+    0.26465
+   ]
+  },
+  {
+   "text": "大龙：是啊，那儿有高山，有盆地，",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.27035,
+    0.53101,
+    0.2907
+   ]
+  },
+  {
+   "text": "Dalong: Shi a, nar you gao shan, you pendl，",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.29346,
+    0.52907,
+    0.31105
+   ]
+  },
+  {
+   "text": "有河流，有湖泊，还有 草原 和大沙漠，的确 非常美！",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.31395,
+    0.80039,
+    0.33594
+   ]
+  },
+  {
+   "text": "you helid, you hapo, hai you cdoyudn he dd shamo, dique feichang mei！",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.33866,
+    0.79845,
+    0.35465
+   ]
+  },
+  {
+   "text": "茉莉：你觉得 新疆 还有什么特点？",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.36035,
+    0.53682,
+    0.37793
+   ]
+  },
+  {
+   "text": "Moli: Ni juede Xinjiang hdi you shenme tedidn？",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.38227,
+    0.53682,
+    0.39844
+   ]
+  },
+  {
+   "text": "大龙：新疆 最大的特点就是“大”。它的面积 有",
+   "conf": 0.5,
+   "bbox": [
+    0.15487,
+    0.39977,
+    0.6998,
+    0.42585
+   ]
+  },
+  {
+   "text": "166",
+   "conf": 0.5,
+   "bbox": [
+    0.70543,
+    0.40674,
+    0.76938,
+    0.4186
+   ]
+  },
+  {
+   "text": "万",
+   "conf": 0.5,
+   "bbox": [
+    0.77907,
+    0.40698,
+    0.81395,
+    0.42151
+   ]
+  },
+  {
+   "text": "Ddlong: Xinjiong zui dd de tedidn jitshi dd”.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.42725,
+    0.51357,
+    0.44336
+   ]
+  },
+  {
+   "text": "Ta de mianji you yi bai liushiidwan",
+   "conf": 0.3,
+   "bbox": [
+    0.5407,
+    0.42871,
+    0.82364,
+    0.44336
+   ]
+  },
+  {
+   "text": "平方公里，相当 于意大利的五倍多。",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.45058,
+    0.64341,
+    0.46948
+   ]
+  },
+  {
+   "text": "pingfang gongli, xiangdang yu Yiddli de wt bei duo.",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.47217,
+    0.63953,
+    0.48837
+   ]
+  },
+  {
+   "text": "茉莉：可真大！新疆人说普通话还是说方言？你听得懂吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.49414,
+    0.87209,
+    0.51172
+   ]
+  },
+  {
+   "text": "Moli: Ke znen da! Xinjiang ren shuo putonghud hdishi shuo fangyan? Ni ting de dong ma？",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.51744,
+    0.87403,
+    0.53198
+   ]
+  },
+  {
+   "text": "大龙：新疆很多人说 普通话都说得非常好。不过，新疆",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.53906,
+    0.8469,
+    0.55814
+   ]
+  },
+  {
+   "text": "Ddlong: Xinjiang hen duo ren shuo putonghud dou shuo de feichang hdo. Buguo, Xinjiang",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.56104,
+    0.85853,
+    0.57715
+   ]
+  },
+  {
+   "text": "的少数 民族占人口总数的 60%， 那些民族也有自己",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.5843,
+    0.88566,
+    0.60174
+   ]
+  },
+  {
+   "text": "de shdoshd minzu zhan renkou zongshi de bai fen zhi lidshf, naxie minzu ye ydu zji",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.60596,
+    0.87597,
+    0.62209
+   ]
+  },
+  {
+   "text": "的语言，我就听不懂了。",
+   "conf": 1.0,
+   "bbox": [
+    0.21124,
+    0.62936,
+    0.49031,
+    0.64844
+   ]
+  },
+  {
+   "text": "de ytyan, wo jid ting bu dong le.",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.64971,
+    0.48256,
+    0.66715
+   ]
+  },
+  {
+   "text": "茉莉：新疆的气候 怎么样？你觉得 什么季节去最好？",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.67285,
+    0.71705,
+    0.69043
+   ]
+  },
+  {
+   "text": "Moll: Xinjiang de qihou zenmeyang? Ni juede shenme jijie qu zui hao？",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.69622,
+    0.71899,
+    0.71094
+   ]
+  },
+  {
+   "text": "大龙：新疆的冬天很冷，也很长，春天和秋天都很短，",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.71802,
+    0.84302,
+    0.73692
+   ]
+  },
+  {
+   "text": "Ddlbng: Xinjiang de dongtian hen leng, ye hen chang, chintian he qiutian dou hen duan，",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.73975,
+    0.85271,
+    0.75439
+   ]
+  },
+  {
+   "text": "所以旅行的话夏天去最好。新疆 有“瓜果之乡”之称，",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.76017,
+    0.84496,
+    0.78198
+   ]
+  },
+  {
+   "text": "suoyi ldxing de hud xiatian qu zui do. Xinjiang you 'gua guo zhi xiang\" zhi cheng，",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.78467,
+    0.85659,
+    0.80087
+   ]
+  },
+  {
+   "text": "葡萄、西瓜都 好吃得不得了。",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.80664,
+    0.52713,
+    0.82715
+   ]
+  },
+  {
+   "text": "putao. xigud dou hdo chi de budelido.",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.82994,
+    0.51938,
+    0.84448
+   ]
+  },
+  {
+   "text": "茉莉：我发现凡是去过 新疆 的人，没有不提到“吃”的。",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.84863,
+    0.7655,
+    0.87064
+   ]
+  },
+  {
+   "text": "Moli: Wo faxidn fanshi quguo Xinjiang de ren,meiyou bu tidao “chi”de.",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.87354,
+    0.75969,
+    0.88965
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.0969,
+    0.05811,
+    0.55233,
+    0.07861
+   ]
+  },
+  {
+   "text": "4",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.26163,
+    0.05814,
+    0.27616
+   ]
+  },
+  {
+   "text": "132",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "Mòlì: Xínjiăng shì zài Zhõngguó de xĩ bù ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.15967,
+    0.52132,
+    0.17587
+   ]
+  },
+  {
+   "text": "từ: H, #N# HД*.",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.18164,
+    0.51357,
+    0.20215
+   ]
+  },
+  {
+   "text": "Dàlóng: Dui, Xingiäng zài Zhõngguó de xĩ bẽi.",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.20494,
+    0.50194,
+    0.22093
+   ]
+  },
+  {
+   "text": "# о #HЛR*",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.22656,
+    0.51744,
+    0.24709
+   ]
+  },
+  {
+   "text": "Mòlì: Tĩngshuo Xinjiãng de fẽngjĩng hèn mẽi.",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.24854,
+    0.51744,
+    0.26465
+   ]
+  },
+  {
+   "text": "tH: E, ĐS/LĐ ma 1, AT ử th,",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.27035,
+    0.53101,
+    0.2907
+   ]
+  },
+  {
+   "text": "Dàlóng: Shìa, nà yău gão shãn, yõu péndì,",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.29346,
+    0.52907,
+    0.31105
+   ]
+  },
+  {
+   "text": "yõu héliú, yõu húpo, hái yõu caoyuán hé dà shãmò, díquè fẽicháng mẽi!",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.33866,
+    0.79845,
+    0.35465
+   ]
+  },
+  {
+   "text": "Mòlì: Nĩ juéde Xinjiãng hái yõu shénme tèdiăn?",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.38227,
+    0.53682,
+    0.39844
+   ]
+  },
+  {
+   "text": "Dàlóng: Xingiãng zuì dà de tèdiăn jiùshì \"dà\".",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.42725,
+    0.51357,
+    0.44336
+   ]
+  },
+  {
+   "text": "ẢДНA",
+   "conf": 0.3,
+   "bbox": [
+    0.54157,
+    0.40287,
+    0.6998,
+    0.42585
+   ]
+  },
+  {
+   "text": "166",
+   "conf": 0.5,
+   "bbox": [
+    0.70543,
+    0.40698,
+    0.76938,
+    0.4186
+   ]
+  },
+  {
+   "text": "Tã de miànjĩ yõu yì bài liushiliù wàn",
+   "conf": 0.3,
+   "bbox": [
+    0.5407,
+    0.42871,
+    0.82364,
+    0.44336
+   ]
+  },
+  {
+   "text": "píngtăng gõnglĩ, xiãngdãng yú Yidàlì de wũ bèi duõ.",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.47217,
+    0.63953,
+    0.48837
+   ]
+  },
+  {
+   "text": "Moli: Ke zhẽn dà! Xinjiãng rén shuo putõnghua háishi shuo fãngyán? Nì tìng de dõng ma?",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.51744,
+    0.87403,
+    0.53198
+   ]
+  },
+  {
+   "text": "D 8 б A ї і7 # Ti, Me",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.53906,
+    0.8469,
+    0.55814
+   ]
+  },
+  {
+   "text": "Dàlóng: Xinjiãng hẽn duõ rén shuo pũtônghuà dõu shuo de fẽicháng hão. Búguò, Xinjiãng",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.56104,
+    0.85853,
+    0.57715
+   ]
+  },
+  {
+   "text": "de shaoshù mínzú zhàn rénkòu zăngshù de băi fên zhì liùshí, nàxie mínzú yẽ yõu zìjĩ",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.60596,
+    0.87597,
+    0.62209
+   ]
+  },
+  {
+   "text": "de yũyán, wõ jiù tĩng bu dõng le.",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.64971,
+    0.48256,
+    0.66715
+   ]
+  },
+  {
+   "text": "Molì: Xinjiäng de qìhòu zenmeyàng? Ni juéde shénme jjié qu zuì hão?",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.69622,
+    0.71899,
+    0.71094
+   ]
+  },
+  {
+   "text": "Dàlóng: Xingiãng de dõngtiăn hẽn lăng, yẽ hăn cháng, chũntiân hé qiũtiăn dõu hẽn duăn,",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.73975,
+    0.85271,
+    0.75439
+   ]
+  },
+  {
+   "text": "suõyĩ lũxing de huà xiàtiân qù zuì hão. Xinjiăng yõu \"guã guò zhĩ xiăng\" chi chẽng,",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.78467,
+    0.85659,
+    0.80087
+   ]
+  },
+  {
+   "text": "#Н.ДД7777773.",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.80669,
+    0.52713,
+    0.82703
+   ]
+  },
+  {
+   "text": "pútao. xiguã dõu hão chi de bùdélião.",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.82994,
+    0.51938,
+    0.84448
+   ]
+  },
+  {
+   "text": "Mòlì: Wõ fàxiàn fánshì quguo Xingiãng de rén, méiyõu bù tídào \"chi\" de.",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.87354,
+    0.75969,
+    0.88965
+   ]
+  }
+ ]
+}

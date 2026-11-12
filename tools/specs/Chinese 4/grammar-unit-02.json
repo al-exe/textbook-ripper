@@ -1,0 +1,111 @@
+{
+  "book": "Chinese 4",
+  "unit": 2,
+  "kind": "grammar",
+  "title": {"zh": "谈时尚", "py": "Tán shíshàng", "en": "Talking about Fashion"},
+  "source": "PDF pp. 33, 39–40, 42–45 (printed pp. 17, 23–24, 26–29)",
+  "intro": "This unit is about hairstyles, clothes and what's in fashion. Grammar: (1) ……，再说…… “…, and besides…”; (2) 看来 “it seems / looks like” (a judgement from what you observe); (3) 虽说……，可是…… “although…, still…”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "再说这得烫发吧？", "py": "Zàishuō zhè děi tàng fà ba?", "en": "Besides, that would need a perm, wouldn't it?"},
+    {"zh": "看来流行的不一定是适合自己的。", "py": "Kànlái liúxíng de bù yídìng shì shìhé zìjǐ de.", "en": "It seems what's fashionable isn't necessarily what suits you."},
+    {"zh": "虽说黑色和白色经典不过时，可是你也不能总穿这两个颜色啊。", "py": "Suīshuō hēisè hé báisè jīngdiǎn bú guò shí, kěshì nǐ yě bù néng zǒng chuān zhè liǎng ge yánsè a.", "en": "Black and white may be classics that never go out of style, but you can't wear only those two colours all the time."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "……，再说……", "py": "……, zàishuō……", "en": "The conjunction ……，再说……"},
+      "body": [
+        {"type": "text", "zh": "连词“再说”用于引出一个新的原因或理由。例如：", "en": "The conjunction “再说” introduces an additional reason, e.g.,"},
+        {"type": "pattern", "zh": "理由1，再说 + 理由2", "py": "lǐyóu yī, zàishuō + lǐyóu èr", "en": "reason 1, and besides + reason 2"},
+        {"type": "example", "zh": "去中国可以了解中国文化，再说还可以提高我的口语水平。", "py": "Qù Zhōngguó kěyǐ liǎojiě Zhōngguó wénhuà, zàishuō hái kěyǐ tígāo wǒ de kǒuyǔ shuǐpíng.", "en": "Going to China lets me get to know Chinese culture — and besides, it'll improve my spoken Chinese."},
+        {"type": "example", "zh": "这件衣服颜色很漂亮，再说价钱也不贵，买了吧。", "py": "Zhè jiàn yīfu yánsè hěn piàoliang, zàishuō jiàqián yě bú guì, mǎile ba.", "en": "This top is a lovely colour, and besides it isn't expensive — buy it."},
+        {"type": "note", "en": "再说 starts the new reason (✓ 再说价钱也不贵); it can't go inside the clause (✗ 价钱也不再说贵)."}
+      ]
+    },
+    {
+      "title": {"zh": "看来", "py": "kànlái", "en": "The usage of 看来"},
+      "body": [
+        {"type": "text", "zh": "“看来”表示通过对某些现象的观察、分析，做出大概的判断或估计。常用于口语，做插入语。例如：", "en": "“看来” is a spoken parenthesis meaning you've made a rough judgement or estimate from observing and analysing something, e.g.,"},
+        {"type": "pattern", "zh": "（观察到的情况），看来 + 判断", "py": "(guānchá dào de qíngkuàng), kànlái + pànduàn", "en": "(what you've noticed), it seems + (your conclusion)"},
+        {"type": "example", "zh": "他总穿黑色的衣服，看来他很喜欢黑色。", "py": "Tā zǒng chuān hēisè de yīfu, kànlái tā hěn xǐhuan hēisè.", "en": "He always wears black — he must really like black."},
+        {"type": "example", "zh": "都这么晚了，看来他不回来了。", "py": "Dōu zhème wǎn le, kànlái tā bù huílai le.", "en": "It's so late already — looks like he's not coming back."},
+        {"type": "note", "en": "看来 goes in front of the whole conclusion (often right after the comma): ✓ 看来她一点儿也不喜欢吃辣的菜. ✗ 她一点儿也不看来喜欢…, ✗ 你很看来喜欢黑色."}
+      ]
+    },
+    {
+      "title": {"zh": "转折复句：虽说……，可是……", "py": "zhuǎnzhé fùjù: suīshuō……, kěshì……", "en": "Transitional compound sentence: 虽说……，可是……"},
+      "body": [
+        {"type": "text", "zh": "在“虽说……可是……”的复句中，承认“虽说”后面的事情为事实，但是“可是”引出的事情并不因此而不成立。例如：", "en": "In “虽说……可是……”, what follows “虽说” is accepted as true, but that doesn't cancel out what follows “可是”, e.g.,"},
+        {"type": "pattern", "zh": "虽说 + 事实A，可是 + 事实B（与A相反）", "py": "suīshuō + shìshí A, kěshì + shìshí B (yǔ A xiāngfǎn)", "en": "although A (true), still B (contrary to what A suggests)"},
+        {"type": "example", "zh": "虽说我很喜欢红色，可是我穿红色衣服不好看。", "py": "Suīshuō wǒ hěn xǐhuan hóngsè, kěshì wǒ chuān hóngsè yīfu bù hǎokàn.", "en": "Although I love red, I don't look good in red clothes."},
+        {"type": "example", "zh": "虽说他已经70多岁了，可是走起路来比年轻人都快。", "py": "Suīshuō tā yǐjīng qīshí duō suì le, kěshì zǒu qǐ lù lai bǐ niánqīngrén dōu kuài.", "en": "Although he's over 70, he walks faster than young people."},
+        {"type": "note", "en": "The two halves must contrast: ✓ 虽说这个发型很流行，可是一点儿也不适合我. ✗ …，可是很适合我 (no contrast — just use 而且)."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "原来如此", "py": "Yuánlái rúcǐ", "en": "I see"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "每个人根据所给信息说一些话，让同伴能够猜到所给信息的内容。猜信息时需要用“看来……”。", "en": "Each person drops hints about a secret piece of information until the partner can guess it. The guesser must use “看来……”."},
+      "body": [
+        {"type": "note", "en": "Secret information cards from the book: 今年流行黑色 · 我不喜欢烫发 · 他不会来了 · 我喜欢直发 · 中国人很喜欢红色 · 今天的作业很多."}
+      ],
+      "items": [
+        {"prompt": {"zh": "今年流行黑色。", "py": "Jīnnián liúxíng hēisè.", "en": "Black is in this year."}, "answer": [{"zh": "A：最近街上很多人都穿黑衣服，商店里也都是黑色的。B：看来今年流行黑色。", "en": "A: Lots of people wear black lately and the shops are full of it. B: Looks like black is in this year. (model answer)"}]},
+        {"prompt": {"zh": "我不喜欢烫发。", "py": "Wǒ bù xǐhuan tàng fà.", "en": "I don't like perms."}, "answer": [{"zh": "A：我从来不去烫头发，我觉得烫发会损伤发质。B：看来你不喜欢烫发。", "py": "A: Wǒ cónglái bú qù tàng tóufa, wǒ juéde tàng fà huì sǔnshāng fàzhì. B: Kànlái nǐ bù xǐhuan tàng fà.", "en": "A: I never get my hair permed — I think it damages your hair. B: Looks like you don't like perms. (model answer)"}]},
+        {"prompt": {"zh": "他不会来了。", "py": "Tā bú huì lái le.", "en": "He's not coming."}, "answer": [{"zh": "A：已经十点了，他还没到，也不接电话。B：看来他不会来了。", "en": "A: It's already ten, he's not here and he isn't answering his phone. B: Looks like he's not coming. (model answer)"}]},
+        {"prompt": {"zh": "中国人很喜欢红色。", "py": "Zhōngguórén hěn xǐhuan hóngsè.", "en": "Chinese people love red."}, "answer": [{"zh": "A：过春节的时候，到处都是红灯笼、红对联。B：看来中国人很喜欢红色。", "py": "A: Guò Chūnjié de shíhou, dàochù dōu shì hóng dēnglong, hóng duìlián. B: Kànlái Zhōngguórén hěn xǐhuan hóngsè.", "en": "A: At Spring Festival there are red lanterns and red couplets everywhere. B: Chinese people must love red. (model answer)"}]},
+        {"prompt": {"zh": "今天的作业很多。", "py": "Jīntiān de zuòyè hěn duō.", "en": "There's a lot of homework today."}, "answer": [{"zh": "A：我从下午一直写到现在，还没写完。B：看来今天的作业很多。", "en": "A: I've been writing since the afternoon and still haven't finished. B: Looks like there's a lot of homework today. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "形象顾问", "py": "Xíngxiàng gùwèn", "en": "Image consultant"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "根据所给人物信息，用“虽说……可是……”分析人物的特点。然后讨论适合他们的发型和服装或指出不适合他们的发型和服装，并用“……，再说……”说明理由。", "en": "Using the customer information, analyse each person with “虽说……可是……”. Then suggest hairstyles and clothes that suit them (or don't), giving reasons with “……，再说……”."},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "1. 小红，女，23岁，身高155cm，体重120斤，皮肤比较白，直发", "py": "1. Xiǎohóng, nǚ, èrshísān suì, shēngāo yì bǎi wǔshíwǔ límǐ, tǐzhòng yì bǎi èrshí jīn, pífū bǐjiào bái, zhí fà", "en": "Xiaohong, female, 23, 155 cm, 60 kg, fairly fair skin, straight hair"},
+          {"zh": "2. 明龙，男，35岁，身高180cm，体重140斤，皮肤比较黑，直发", "py": "2. Mínglóng, nán, sānshíwǔ suì, shēngāo yì bǎi bāshí límǐ, tǐzhòng yì bǎi sìshí jīn, pífū bǐjiào hēi, zhí fà", "en": "Minglong, male, 35, 180 cm, 70 kg, fairly dark skin, straight hair"},
+          {"zh": "3. 兰姐，女，40岁，身高168cm，体重140斤，皮肤有点儿黄，卷发", "py": "3. Lán jiě, nǚ, sìshí suì, shēngāo yì bǎi liùshíbā límǐ, tǐzhòng yì bǎi sìshí jīn, pífū yǒudiǎnr huáng, juǎn fà", "en": "Sister Lan, female, 40, 168 cm, 70 kg, slightly sallow skin, curly hair"},
+          {"zh": "4. 小李，男，25岁，身高170cm，体重110斤，皮肤很白，卷发", "py": "4. Xiǎo Lǐ, nán, èrshíwǔ suì, shēngāo yì bǎi qīshí límǐ, tǐzhòng yì bǎi yīshí jīn, pífū hěn bái, juǎn fà", "en": "Xiao Li, male, 25, 170 cm, 55 kg, very fair skin, curly hair"}
+        ]},
+        {"type": "note", "en": "1 斤 jīn = half a kilogram."}
+      ],
+      "items": [
+        {"prompt": {"zh": "小红", "py": "Xiǎohóng", "en": "Xiaohong"}, "answer": [{"zh": "虽说小红个子不太高，可是她皮肤很白，穿什么颜色都好看。她适合穿短裙，再说她是直发，剪个短发会很干练。", "py": "Suīshuō Xiǎohóng gèzi bú tài gāo, kěshì tā pífū hěn bái, chuān shénme yánsè dōu hǎokàn. Tā shìhé chuān duǎnqún, zàishuō tā shì zhí fà, jiǎn ge duǎn fà huì hěn gànliàn.", "en": "Xiaohong isn't tall, but her skin is fair so any colour looks good on her. Short skirts suit her — and besides, with straight hair a short cut would look smart. (model answer)"}]},
+        {"prompt": {"zh": "明龙", "py": "Mínglóng", "en": "Minglong"}, "answer": [{"zh": "虽说明龙皮肤比较黑，可是他个子很高，身材也很好。他适合穿西装，再说深色的衣服也适合他。", "py": "Suīshuō Mínglóng pífū bǐjiào hēi, kěshì tā gèzi hěn gāo, shēncái yě hěn hǎo. Tā shìhé chuān xīzhuāng, zàishuō shēnsè de yīfu yě shìhé tā.", "en": "Minglong's skin is quite dark, but he's tall with a good build. Suits look good on him — and besides, dark colours suit him too. (model answer)"}]},
+        {"prompt": {"zh": "兰姐", "py": "Lán jiě", "en": "Sister Lan"}, "answer": [{"zh": "虽说兰姐已经40岁了，可是她的卷发很好看。她不适合穿黄色的衣服，再说她有点儿胖，穿深色的会显得瘦一点儿。", "py": "Suīshuō Lán jiě yǐjīng sìshí suì le, kěshì tā de juǎn fà hěn hǎokàn. Tā bú shìhé chuān huángsè de yīfu, zàishuō tā yǒudiǎnr pàng, chuān shēnsè de huì xiǎnde shòu yìdiǎnr.", "en": "Sister Lan is already 40, but her curly hair looks great. Yellow doesn't suit her — and besides, she's a little heavy, so dark colours would look slimmer. (model answer)"}]},
+        {"prompt": {"zh": "小李", "py": "Xiǎo Lǐ", "en": "Xiao Li"}, "answer": [{"zh": "虽说小李皮肤很白，可是他太瘦了。他适合穿颜色鲜艳的衣服，再说他的卷发很时尚。", "py": "Suīshuō Xiǎo Lǐ pífū hěn bái, kěshì tā tài shòu le. Tā shìhé chuān yánsè xiānyàn de yīfu, zàishuō tā de juǎn fà hěn shíshàng.", "en": "Xiao Li has very fair skin, but he's too thin. Bright colours suit him — and besides, his curly hair is very fashionable. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "有理有据", "py": "Yǒu lǐ yǒu jù", "en": "Well-grounded"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "小丽说“看来流行的不一定是适合自己的”，你怎么看这句话？和你的同伴们讨论一下，给出自己的观点和支持的例证。在班里讨论。", "en": "Xiaoli says “It seems what's fashionable isn't necessarily what suits you.” What do you think? Discuss with your partners, give your opinion and examples, then discuss as a class."},
+      "items": [
+        {"prompt": {"en": "Give your opinion with an example, using this unit's patterns."},
+         "answer": [{"zh": "我同意。虽说今年很流行短发，可是我的脸比较圆，剪短发不好看。再说，适合自己的才是最好的。", "py": "Wǒ tóngyì. Suīshuō jīnnián hěn liúxíng duǎn fà, kěshì wǒ de liǎn bǐjiào yuán, jiǎn duǎn fà bù hǎokàn. Zàishuō, shìhé zìjǐ de cái shì zuì hǎo de.", "en": "I agree. Short hair may be in this year, but my face is quite round, so it doesn't look good on me. Besides, what suits you is what's best. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "看来她一点儿也不喜欢吃辣的菜。", "py": "Kànlái tā yìdiǎnr yě bù xǐhuan chī là de cài."}, {"zh": "她一点儿也不看来喜欢吃辣的菜。", "py": "Tā yìdiǎnr yě bú kànlái xǐhuan chī là de cài."}],
+       "answer": 0, "explain": "看来 goes before the whole judgement. (grammar note 2)"},
+      {"options": [{"zh": "虽说这个发型今年很流行，可是一点儿也不适合我。", "py": "Suīshuō zhège fàxíng jīnnián hěn liúxíng, kěshì yìdiǎnr yě bú shìhé wǒ."}, {"zh": "虽说这个发型今年很流行，可是很适合我。", "py": "Suīshuō zhège fàxíng jīnnián hěn liúxíng, kěshì hěn shìhé wǒ."}],
+       "answer": 0, "explain": "The 可是 half must contrast with the 虽说 half. (grammar note 3)"},
+      {"options": [{"zh": "虽说这家餐馆很有名，可是我并不喜欢这儿的菜。", "py": "Suīshuō zhè jiā cānguǎn hěn yǒumíng, kěshì wǒ bìng bù xǐhuan zhèr de cài."}, {"zh": "虽说这家餐馆很有名，可是我喜欢这儿的菜。", "py": "Suīshuō zhè jiā cānguǎn hěn yǒumíng, kěshì wǒ xǐhuan zhèr de cài."}],
+       "answer": 0, "explain": "Famous restaurant → you'd expect to like it; 可是 introduces the contrast (I don't). (grammar note 3)"},
+      {"options": [{"zh": "这条裙子颜色很好看，再说价钱也不贵，买了吧。", "py": "Zhè tiáo qúnzi yánsè hěn hǎokàn, zàishuō jiàqián yě bú guì, mǎile ba."}, {"zh": "这条裙子颜色很好看，价钱也不再说贵，买了吧。", "py": "Zhè tiáo qúnzi yánsè hěn hǎokàn, jiàqián yě bú zàishuō guì, mǎile ba."}],
+       "answer": 0, "explain": "再说 opens the extra reason. (grammar note 1)"},
+      {"options": [{"zh": "你常常穿黑色的衣服，看来你很喜欢黑色。", "py": "Nǐ chángcháng chuān hēisè de yīfu, kànlái nǐ hěn xǐhuan hēisè."}, {"zh": "你常常穿黑色的衣服，你很看来喜欢黑色。", "py": "Nǐ chángcháng chuān hēisè de yīfu, nǐ hěn kànlái xǐhuan hēisè."}],
+       "answer": 0, "explain": "看来 comes before the conclusion, not inside it. (grammar note 2)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q4 — review 再说 (note 1). Missed Q1 or Q5 — review 看来 (note 2). Missed Q2 or Q3 — review 虽说……可是…… (note 3)."
+  }
+}

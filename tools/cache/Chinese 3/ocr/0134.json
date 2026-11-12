@@ -1,0 +1,507 @@
+{
+ "page": 134,
+ "cjk_pass": [
+  {
+   "text": "118",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language［31",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "A.太棒了！你语法学得非常好。",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.13517,
+    0.3876,
+    0.15283
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very wel！",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.1582,
+    0.5969,
+    0.17297
+   ]
+  },
+  {
+   "text": "B. 你的语法学得不错。不过要注意“来着”一般用在句末。",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.18457,
+    0.62403,
+    0.20361
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.2093,
+    0.65116,
+    0.22529
+   ]
+  },
+  {
+   "text": "“来着\" is usually used at the end of a sentence.",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.22949,
+    0.54651,
+    0.24709
+   ]
+  },
+  {
+   "text": "C.注意“不但⋯⋯，还•⋯”的用法，请认真看一下语法点",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.26017,
+    0.64922,
+    0.27783
+   ]
+  },
+  {
+   "text": "注释2。",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.2832,
+    0.20349,
+    0.30087
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of“不但…⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.30518,
+    0.49806,
+    0.31982
+   ]
+  },
+  {
+   "text": "还⋯⋯”",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.30518,
+    0.58915,
+    0.31836
+   ]
+  },
+  {
+   "text": "•Refer",
+   "conf": 0.3,
+   "bbox": [
+    0.58527,
+    0.30664,
+    0.65116,
+    0.32129
+   ]
+  },
+  {
+   "text": "to Grammar Note 2 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.32558,
+    0.46318,
+    0.3418
+   ]
+  },
+  {
+   "text": "D. 注意反问句的用法，请认真看一下语法点注释3。",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.35449,
+    0.56395,
+    0.37209
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of a rhetorical question. Refer",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.37791,
+    0.65116,
+    0.39404
+   ]
+  },
+  {
+   "text": "to Grammar Note 3 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.3968,
+    0.46318,
+    0.41134
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.4593,
+    0.64729,
+    0.48256
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.35271,
+    0.52616,
+    0.63566,
+    0.54215
+   ]
+  },
+  {
+   "text": "“充电” \"Charge”",
+   "conf": 0.3,
+   "bbox": [
+    0.42022,
+    0.57097,
+    0.59529,
+    0.59473
+   ]
+  },
+  {
+   "text": "近年来，“充电”有了一个新的意思，是指人们（特别是已经工作了的人）通过学习",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.60889,
+    0.8876,
+    0.62939
+   ]
+  },
+  {
+   "text": "丰富知识、提高自己的专业水平。现在利用周末等业余时间充电的人越来越多。",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.63227,
+    0.80039,
+    0.65137
+   ]
+  },
+  {
+   "text": "The word “charge” has developed a new meaning in recent years, which refers to people，",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.6582,
+    0.89147,
+    0.67587
+   ]
+  },
+  {
+   "text": "especially those who have already been employed, try to update their knowledge, enrich",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.67871,
+    0.88953,
+    0.69336
+   ]
+  },
+  {
+   "text": "themselves and improve their expertise. Now, an increasing number of people are “charging” in",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.69767,
+    0.89147,
+    0.71533
+   ]
+  },
+  {
+   "text": "their spare time, such as on weekends.",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.71802,
+    0.42054,
+    0.73401
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "118",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language ( 3]",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "A. NHT! 1HET101ER",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.13517,
+    0.3876,
+    0.15283
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.1376,
+    0.1582,
+    0.5969,
+    0.17297
+   ]
+  },
+  {
+   "text": "ВИНА2ИИН ТАРЕ \"*И\" -ВЛИНК",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.18457,
+    0.62403,
+    0.20361
+   ]
+  },
+  {
+   "text": "You have learned the grammar well. However, please note",
+   "conf": 1.0,
+   "bbox": [
+    0.13566,
+    0.2093,
+    0.65116,
+    0.22529
+   ]
+  },
+  {
+   "text": "\"*Xi\" is usually used at the end of a sentence.",
+   "conf": 1.0,
+   "bbox": [
+    0.13566,
+    0.22949,
+    0.54651,
+    0.24709
+   ]
+  },
+  {
+   "text": "С.ЙС \"К, И\" КЛі, МИНТі- ГіА",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.26017,
+    0.64922,
+    0.27783
+   ]
+  },
+  {
+   "text": "₴** 20",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.2832,
+    0.20349,
+    0.30087
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of \" 11Д.•....",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.30518,
+    0.49806,
+    0.31982
+   ]
+  },
+  {
+   "text": "M.....\"",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.30523,
+    0.58915,
+    0.31831
+   ]
+  },
+  {
+   "text": ". Refer",
+   "conf": 0.3,
+   "bbox": [
+    0.58527,
+    0.30664,
+    0.65116,
+    0.32129
+   ]
+  },
+  {
+   "text": "to Grammar Note 2 for more details.",
+   "conf": 1.0,
+   "bbox": [
+    0.13566,
+    0.32558,
+    0.46318,
+    0.3418
+   ]
+  },
+  {
+   "text": "дМехпдклс, илАFИHZH3",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.35449,
+    0.56395,
+    0.37209
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of a rhetorical question. Refer",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.37791,
+    0.65116,
+    0.39404
+   ]
+  },
+  {
+   "text": "to Grammar Note 3 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.3968,
+    0.46318,
+    0.41134
+   ]
+  },
+  {
+   "text": "XIZ/I6* CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.4593,
+    0.64729,
+    0.48256
+   ]
+  },
+  {
+   "text": "(-) RAEy Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.35271,
+    0.52616,
+    0.63566,
+    0.54215
+   ]
+  },
+  {
+   "text": "\"##\" \"Charge\"",
+   "conf": 0.5,
+   "bbox": [
+    0.42022,
+    0.57097,
+    0.59529,
+    0.59473
+   ]
+  },
+  {
+   "text": "іт*, \"о0\" Нт-Лкев, пИл (НЛеСВТИТНЛ) МЛФу",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.60889,
+    0.8876,
+    0.62939
+   ]
+  },
+  {
+   "text": "так НоССКткУ тАТАиЕоликиЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.63227,
+    0.80039,
+    0.65137
+   ]
+  },
+  {
+   "text": "The word \"charge\" has developed a new meaning in recent years, which refers to people,",
+   "conf": 1.0,
+   "bbox": [
+    0.14922,
+    0.6582,
+    0.89147,
+    0.67587
+   ]
+  },
+  {
+   "text": "especially those who have already been employed, try to update their knowledge, enrich",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.67871,
+    0.88953,
+    0.69336
+   ]
+  },
+  {
+   "text": "themselves and improve their expertise. Now, an increasing number of people are \"charging\" in",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.69767,
+    0.89147,
+    0.71533
+   ]
+  },
+  {
+   "text": "their spare time, such as on weekends.",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.71802,
+    0.42054,
+    0.73401
+   ]
+  }
+ ]
+}

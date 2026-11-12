@@ -1,0 +1,577 @@
+{
+ "page": 116,
+ "cjk_pass": [
+  {
+   "text": "100",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language ［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.19162,
+    0.11931,
+    0.65913,
+    0.14623
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.34884,
+    0.19331,
+    0.63566,
+    0.20947
+   ]
+  },
+  {
+   "text": "中关村——中国的硅谷（guigu）",
+   "conf": 0.5,
+   "bbox": [
+    0.3624,
+    0.23828,
+    0.6531,
+    0.25586
+   ]
+  },
+  {
+   "text": "Zhongguancun — China's Silicon Valley",
+   "conf": 0.5,
+   "bbox": [
+    0.3062,
+    0.26308,
+    0.70349,
+    0.28198
+   ]
+  },
+  {
+   "text": "“中关村”在北京市海淀区，那里有很多电子市场，附近还有很多名牌大学，比如北",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.29639,
+    0.88953,
+    0.31689
+   ]
+  },
+  {
+   "text": "京大学、清华大学等。从20世纪80年代起，中关村逐渐发展成为中国的高科技中心，被",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.31977,
+    0.89147,
+    0.34033
+   ]
+  },
+  {
+   "text": "称为中国的“硅谷”。汉语里“村”的意思是村子，“中关村”应该是中国最现代化的“村子”",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.34012,
+    0.89341,
+    0.36192
+   ]
+  },
+  {
+   "text": "之一。现在很多人亲切地叫它“村儿”",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.36475,
+    0.44186,
+    0.38379
+   ]
+  },
+  {
+   "text": "Located in Beijing's Haidian District, Zhongguancun has",
+   "conf": 0.5,
+   "bbox": [
+    0.39341,
+    0.38808,
+    0.89147,
+    0.40576
+   ]
+  },
+  {
+   "text": "many electronics markets and is surrounded by a number of",
+   "conf": 0.5,
+   "bbox": [
+    0.35078,
+    0.4082,
+    0.89147,
+    0.42442
+   ]
+  },
+  {
+   "text": "esteemed universities, including Peking University and Tsinghua",
+   "conf": 0.5,
+   "bbox": [
+    0.34884,
+    0.42871,
+    0.88953,
+    0.44482
+   ]
+  },
+  {
+   "text": "University,etc. It has gradually turned into a high-tech hub and has",
+   "conf": 0.5,
+   "bbox": [
+    0.35078,
+    0.44913,
+    0.88953,
+    0.46533
+   ]
+  },
+  {
+   "text": "been known as the “China's Silicon Valley” since the 1990s. “Cun”",
+   "conf": 0.5,
+   "bbox": [
+    0.35078,
+    0.46657,
+    0.89147,
+    0.48547
+   ]
+  },
+  {
+   "text": "in Chinese means village, Zhongguancun is thus considered the most",
+   "conf": 0.5,
+   "bbox": [
+    0.34884,
+    0.48682,
+    0.89147,
+    0.50439
+   ]
+  },
+  {
+   "text": "modernized \"village” in China and is called \"Cunr\" by many people.",
+   "conf": 0.5,
+   "bbox": [
+    0.34876,
+    0.50527,
+    0.88572,
+    0.52527
+   ]
+  },
+  {
+   "text": "（二）图片看中国",
+   "conf": 0.5,
+   "bbox": [
+    0.32946,
+    0.59157,
+    0.49031,
+    0.61047
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.51163,
+    0.59424,
+    0.67248,
+    0.60901
+   ]
+  },
+  {
+   "text": "北京潘家园旧货市场",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.78906,
+    0.32171,
+    0.80814
+   ]
+  },
+  {
+   "text": "Beijing Panjiayuan Jiuhuo",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.81686,
+    0.31783,
+    0.83154
+   ]
+  },
+  {
+   "text": "Shichdng",
+   "conf": 0.5,
+   "bbox": [
+    0.11425,
+    0.83844,
+    0.18807,
+    0.85488
+   ]
+  },
+  {
+   "text": "The flea market in",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.86035,
+    0.25969,
+    0.875
+   ]
+  },
+  {
+   "text": "Panjiayuan, Beijing",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.88081,
+    0.27132,
+    0.89697
+   ]
+  },
+  {
+   "text": "上海南京路",
+   "conf": 1.0,
+   "bbox": [
+    0.38362,
+    0.7903,
+    0.5001,
+    0.80854
+   ]
+  },
+  {
+   "text": "Shanghai Nanjing Ld",
+   "conf": 0.3,
+   "bbox": [
+    0.38178,
+    0.81541,
+    0.54845,
+    0.83154
+   ]
+  },
+  {
+   "text": "Nanjing Road in Shanghai",
+   "conf": 0.5,
+   "bbox": [
+    0.38178,
+    0.83866,
+    0.59496,
+    0.85465
+   ]
+  },
+  {
+   "text": "天津滨江道",
+   "conf": 1.0,
+   "bbox": [
+    0.65501,
+    0.78913,
+    0.77135,
+    0.80825
+   ]
+  },
+  {
+   "text": "Tianjin Binjiang Dao",
+   "conf": 0.5,
+   "bbox": [
+    0.6531,
+    0.81686,
+    0.81395,
+    0.83154
+   ]
+  },
+  {
+   "text": "Binjiang Road in Tianjin",
+   "conf": 0.5,
+   "bbox": [
+    0.6531,
+    0.83866,
+    0.85271,
+    0.85465
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "100",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language [3]",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "XIK/JN6T CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.19162,
+    0.11931,
+    0.65913,
+    0.14623
+   ]
+  },
+  {
+   "text": "(-) 1KAi Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.34884,
+    0.19331,
+    0.63566,
+    0.20947
+   ]
+  },
+  {
+   "text": "ФAMZ4(guigй)",
+   "conf": 0.3,
+   "bbox": [
+    0.3624,
+    0.23837,
+    0.6531,
+    0.25581
+   ]
+  },
+  {
+   "text": "Zhongguancun — China's Silicon Valley",
+   "conf": 1.0,
+   "bbox": [
+    0.3062,
+    0.26308,
+    0.70349,
+    0.28198
+   ]
+  },
+  {
+   "text": "И20Ш480гМД, ФЕНеМЕЕооТЕоВАИРО, Ві",
+   "conf": 0.3,
+   "bbox": [
+    0.30599,
+    0.31977,
+    0.89147,
+    0.34033
+   ]
+  },
+  {
+   "text": "ВУТЕИ А\" ХИВ \"АВОВАИТ СЕЛ\" МАЛТЕАТИИ \"NТ\"",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.34012,
+    0.89341,
+    0.36192
+   ]
+  },
+  {
+   "text": "Located in Beijing's Haidian District, Zhongguancun has",
+   "conf": 1.0,
+   "bbox": [
+    0.39341,
+    0.38808,
+    0.89147,
+    0.40576
+   ]
+  },
+  {
+   "text": "many electronics markets and is surrounded by a number of",
+   "conf": 1.0,
+   "bbox": [
+    0.35078,
+    0.4082,
+    0.89147,
+    0.42442
+   ]
+  },
+  {
+   "text": "esteemed universities, including Peking University and Tsinghua",
+   "conf": 1.0,
+   "bbox": [
+    0.34884,
+    0.42871,
+    0.88953,
+    0.44482
+   ]
+  },
+  {
+   "text": "University, etc. It has gradually turned into a high-tech hub and has",
+   "conf": 1.0,
+   "bbox": [
+    0.35078,
+    0.44913,
+    0.88953,
+    0.46533
+   ]
+  },
+  {
+   "text": "been known as the \"China's Silicon Valley\" since the 1990s. \"Cun\"",
+   "conf": 0.5,
+   "bbox": [
+    0.35078,
+    0.46657,
+    0.89147,
+    0.48547
+   ]
+  },
+  {
+   "text": "in Chinese means village, Zhongguancun is thus considered the most",
+   "conf": 1.0,
+   "bbox": [
+    0.34884,
+    0.48682,
+    0.89147,
+    0.50439
+   ]
+  },
+  {
+   "text": "modernized \"village\" in China and is called \"Cunr\" by many people.",
+   "conf": 1.0,
+   "bbox": [
+    0.34876,
+    0.50527,
+    0.88572,
+    0.52527
+   ]
+  },
+  {
+   "text": "(О ВНЕФЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.32946,
+    0.59157,
+    0.49031,
+    0.61047
+   ]
+  },
+  {
+   "text": "China in Pietures",
+   "conf": 1.0,
+   "bbox": [
+    0.51163,
+    0.59424,
+    0.67248,
+    0.60901
+   ]
+  },
+  {
+   "text": "Beijing Pănjiayuán Jiùhuò",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.81686,
+    0.31783,
+    0.83154
+   ]
+  },
+  {
+   "text": "Shìchăng",
+   "conf": 1.0,
+   "bbox": [
+    0.11425,
+    0.83844,
+    0.18807,
+    0.85488
+   ]
+  },
+  {
+   "text": "The flea market in",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.86035,
+    0.25969,
+    0.875
+   ]
+  },
+  {
+   "text": "Panjiayuan, Beijing",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.88081,
+    0.27132,
+    0.89697
+   ]
+  },
+  {
+   "text": "LÁK",
+   "conf": 0.3,
+   "bbox": [
+    0.38362,
+    0.7903,
+    0.5001,
+    0.80854
+   ]
+  },
+  {
+   "text": "Shànghăi Nánjing Lù",
+   "conf": 0.5,
+   "bbox": [
+    0.38178,
+    0.81541,
+    0.54845,
+    0.83154
+   ]
+  },
+  {
+   "text": "Nanjing Road in Shanghai",
+   "conf": 1.0,
+   "bbox": [
+    0.38178,
+    0.83866,
+    0.59496,
+    0.85465
+   ]
+  },
+  {
+   "text": "EiALiÉ",
+   "conf": 0.3,
+   "bbox": [
+    0.65501,
+    0.78913,
+    0.77135,
+    0.80825
+   ]
+  },
+  {
+   "text": "Tianjin Binjiãng Dào",
+   "conf": 0.3,
+   "bbox": [
+    0.6531,
+    0.81686,
+    0.81395,
+    0.83154
+   ]
+  },
+  {
+   "text": "Binjiang Road in Tianjin",
+   "conf": 1.0,
+   "bbox": [
+    0.6531,
+    0.83866,
+    0.85271,
+    0.85465
+   ]
+  }
+ ]
+}

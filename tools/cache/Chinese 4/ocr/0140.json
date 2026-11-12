@@ -1,0 +1,347 @@
+{
+ "page": 140,
+ "cjk_pass": [
+  {
+   "text": "Unit 8 Environment",
+   "conf": 0.5,
+   "bbox": [
+    0.67054,
+    0.05811,
+    0.89341,
+    0.07861
+   ]
+  },
+  {
+   "text": "Since the first giant panda was found in Sichuan Province of China and now 85% of glant",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.125,
+    0.89147,
+    0.13965
+   ]
+  },
+  {
+   "text": "pandas live in it, Sichuan is known as \"the hometown of giant pandas”. Giant panda is one of",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.1468,
+    0.89147,
+    0.16134
+   ]
+  },
+  {
+   "text": "people's favorite rare animals, and it's also a symbolic animal of the World Wild Fund for Nature.",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.16846,
+    0.89147,
+    0.18605
+   ]
+  },
+  {
+   "text": "There are 18 Giant Panda Nature Reserves in China, 16 of which are located in Sichuan. The",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.19186,
+    0.89147,
+    0.20654
+   ]
+  },
+  {
+   "text": "World Wild Fund for Nature established China Conservation and Research Center for the Giant",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.21366,
+    0.89147,
+    0.22529
+   ]
+  },
+  {
+   "text": "Panda in the Wolong Giant Panda Nature Reserve in Sichuan.",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.23535,
+    0.60271,
+    0.25146
+   ]
+  },
+  {
+   "text": "第",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.09884,
+    0.96512,
+    0.11483
+   ]
+  },
+  {
+   "text": "单",
+   "conf": 1.0,
+   "bbox": [
+    0.9438,
+    0.12791,
+    0.96512,
+    0.14535
+   ]
+  },
+  {
+   "text": "元",
+   "conf": 1.0,
+   "bbox": [
+    0.9438,
+    0.14099,
+    0.96512,
+    0.16134
+   ]
+  },
+  {
+   "text": "环",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.18314,
+    0.96705,
+    0.20058
+   ]
+  },
+  {
+   "text": "境",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.20349,
+    0.96705,
+    0.22238
+   ]
+  },
+  {
+   "text": "（二） 图片看中国 China in Pietures",
+   "conf": 0.5,
+   "bbox": [
+    0.29651,
+    0.31395,
+    0.64147,
+    0.33154
+   ]
+  },
+  {
+   "text": "125",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "卧龙大熊猫自然保护区",
+   "conf": 0.5,
+   "bbox": [
+    0.44767,
+    0.4593,
+    0.68023,
+    0.47674
+   ]
+  },
+  {
+   "text": "Wolong daxiongmdo ziran bdohuqu",
+   "conf": 0.5,
+   "bbox": [
+    0.44574,
+    0.48096,
+    0.72674,
+    0.49564
+   ]
+  },
+  {
+   "text": "The Wolong Giant Panda Nature Reserve",
+   "conf": 0.5,
+   "bbox": [
+    0.44574,
+    0.49854,
+    0.77907,
+    0.51465
+   ]
+  },
+  {
+   "text": "盐城丹顶鹤保护区",
+   "conf": 1.0,
+   "bbox": [
+    0.44961,
+    0.62645,
+    0.63178,
+    0.64404
+   ]
+  },
+  {
+   "text": "Yancheng dandinghe bdohd qu",
+   "conf": 0.5,
+   "bbox": [
+    0.44574,
+    0.6468,
+    0.68992,
+    0.66279
+   ]
+  },
+  {
+   "text": "The Yancheng Red-Crowned Crane Sanctuary",
+   "conf": 0.5,
+   "bbox": [
+    0.44565,
+    0.66385,
+    0.81793,
+    0.68227
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 8 Environment",
+   "conf": 1.0,
+   "bbox": [
+    0.67054,
+    0.05811,
+    0.89341,
+    0.07861
+   ]
+  },
+  {
+   "text": "Since the first giant panda was found in Sichuan Province of China and now 85% of giant",
+   "conf": 1.0,
+   "bbox": [
+    0.14922,
+    0.125,
+    0.89147,
+    0.13965
+   ]
+  },
+  {
+   "text": "pandas live in it, Sichuan is known as \"the hometown of giant pandas\". Giant panda is one of",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.1468,
+    0.89147,
+    0.16134
+   ]
+  },
+  {
+   "text": "people's favorite rare animals, and it's also a symbolic animal of the World Wild Fund for Nature.",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.16846,
+    0.89147,
+    0.18605
+   ]
+  },
+  {
+   "text": "There are 18 Giant Panda Nature Reserves in China, 16 of which are located in Sichuan. The",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.19186,
+    0.89147,
+    0.20654
+   ]
+  },
+  {
+   "text": "World Wild Fund for Nature established China Conservation and Research Center for the Giant",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.21366,
+    0.89147,
+    0.22529
+   ]
+  },
+  {
+   "text": "Panda in the Wolong Giant Panda Nature Reserve in Sichuan.",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.23535,
+    0.60271,
+    0.25146
+   ]
+  },
+  {
+   "text": "() AH2Ф0 China in Pictures",
+   "conf": 0.3,
+   "bbox": [
+    0.29651,
+    0.31395,
+    0.64147,
+    0.33154
+   ]
+  },
+  {
+   "text": "125",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "Wòlóng dàxióng mão zirán bãohù qũ",
+   "conf": 0.5,
+   "bbox": [
+    0.44574,
+    0.48096,
+    0.72674,
+    0.49564
+   ]
+  },
+  {
+   "text": "The Wolong Giant Panda Nature Reserve",
+   "conf": 1.0,
+   "bbox": [
+    0.44574,
+    0.49854,
+    0.77907,
+    0.51465
+   ]
+  },
+  {
+   "text": "Đ 117 X",
+   "conf": 0.3,
+   "bbox": [
+    0.49382,
+    0.62645,
+    0.63178,
+    0.64404
+   ]
+  },
+  {
+   "text": "Yánchéng dăndinghè băohù qũ",
+   "conf": 0.5,
+   "bbox": [
+    0.44574,
+    0.6468,
+    0.68992,
+    0.66279
+   ]
+  },
+  {
+   "text": "The Yancheng Red-Crowned Crane Sanctuary",
+   "conf": 1.0,
+   "bbox": [
+    0.44565,
+    0.66385,
+    0.81793,
+    0.68227
+   ]
+  }
+ ]
+}

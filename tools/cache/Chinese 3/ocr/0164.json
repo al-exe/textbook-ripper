@@ -1,0 +1,527 @@
+{
+ "page": 164,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［3〕",
+   "conf": 0.3,
+   "bbox": [
+    0.09884,
+    0.05957,
+    0.5562,
+    0.08008
+   ]
+  },
+  {
+   "text": "③",
+   "conf": 0.3,
+   "bbox": [
+    0.03876,
+    0.26017,
+    0.06395,
+    0.27762
+   ]
+  },
+  {
+   "text": "150",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34302,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "2 我的理想 My ideal",
+   "conf": 0.3,
+   "bbox": [
+    0.12177,
+    0.12772,
+    0.34331,
+    0.14842
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.16992,
+    0.2655,
+    0.1875
+   ]
+  },
+  {
+   "text": "阅读下面这段话，然后回答问题。",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.17139,
+    0.56589,
+    0.18896
+   ]
+  },
+  {
+   "text": "Group work: Read the following passage, and then answer the questions.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.20494,
+    0.71124,
+    0.21948
+   ]
+  },
+  {
+   "text": "小时候，我想当一名科学家（scientist），因为我觉得科学家都是聪",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.25291,
+    0.84496,
+    0.27344
+   ]
+  },
+  {
+   "text": "明人。",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.27762,
+    0.21705,
+    0.29942
+   ]
+  },
+  {
+   "text": "长大以后，我想当一名外交官，因为我觉得外交官既可以到很",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.30225,
+    0.8469,
+    0.32275
+   ]
+  },
+  {
+   "text": "多地方，又可以认识很多人，这是一份很有意思的工作。",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.32703,
+    0.72481,
+    0.34884
+   ]
+  },
+  {
+   "text": "大学毕业后，我当了一名大学老师。一来这份工作很稳定",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.35156,
+    0.84496,
+    0.37355
+   ]
+  },
+  {
+   "text": "（stable），二来这是我的兴趣，而且工资也不少。",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.37791,
+    0.63372,
+    0.39844
+   ]
+  },
+  {
+   "text": "结婚以后，我想当一名好先生和好爸爸，因为我觉得家人永远",
+   "conf": 1.0,
+   "bbox": [
+    0.20349,
+    0.40116,
+    0.84496,
+    0.42151
+   ]
+  },
+  {
+   "text": "（forever） 都是最重要的。",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.42725,
+    0.3876,
+    0.44775
+   ]
+  },
+  {
+   "text": "再过几年我就要退休了，退休以后，我想当一个旅行家，带着",
+   "conf": 1.0,
+   "bbox": [
+    0.20349,
+    0.45058,
+    0.84302,
+    0.47093
+   ]
+  },
+  {
+   "text": "我的爱人到世界各地去旅行。",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.4751,
+    0.44767,
+    0.49564
+   ]
+  },
+  {
+   "text": "Xidoshihou,wo xiang dang yi ming kexuejid, yinwei wo juede kexuejid",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.51599,
+    0.84496,
+    0.53488
+   ]
+  },
+  {
+   "text": "dou shi congming ren.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.53906,
+    0.34496,
+    0.55523
+   ]
+  },
+  {
+   "text": "Zhang dd yihou, wo xidng dang yi ming waijidoguan,yinwei wo juede",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.56104,
+    0.84496,
+    0.57861
+   ]
+  },
+  {
+   "text": "waijiooguan ji keyi ddo hen duo difang, you keyi renshi hen duo ren, zhe shi yi",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.58285,
+    0.84496,
+    0.60029
+   ]
+  },
+  {
+   "text": "fen hen you yisi de gongzuo.",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.60596,
+    0.39922,
+    0.62355
+   ]
+  },
+  {
+   "text": "Daxue bi ye hou, wo dangle yi ming doxue ldoshi. Yi ldi zhe fen gongzuo",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.62791,
+    0.84496,
+    0.64551
+   ]
+  },
+  {
+   "text": "hen wending,er lai zhe shi wo dexingqu, erqie gongzi ye bu sho.",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.64971,
+    0.73643,
+    0.6686
+   ]
+  },
+  {
+   "text": "Jie hin yihou, wo xidng dang yi ming hdo xiansheng he hdo bdba, yinwei",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.67285,
+    0.8469,
+    0.69043
+   ]
+  },
+  {
+   "text": "wa juede jaren yongyuan dou shi zui zhongydo de.",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.69477,
+    0.58915,
+    0.7124
+   ]
+  },
+  {
+   "text": "Zai guo j nidn wo jd tui xic le, tui xi aihou woxiang danngi ge",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.71657,
+    0.84496,
+    0.73547
+   ]
+  },
+  {
+   "text": "Iuxingjd, ddizhe wo de diren ddo shijie ge di qu luxing.",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.73975,
+    0.62597,
+    0.75586
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.03876,
+    0.26017,
+    0.06395,
+    0.27762
+   ]
+  },
+  {
+   "text": "150",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34302,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language ( 3)",
+   "conf": 1.0,
+   "bbox": [
+    0.09884,
+    0.05957,
+    0.5562,
+    0.08008
+   ]
+  },
+  {
+   "text": "2 FJEEA My ideal",
+   "conf": 0.3,
+   "bbox": [
+    0.12177,
+    0.12772,
+    0.34331,
+    0.14842
+   ]
+  },
+  {
+   "text": "MEFAREM, 1A0X",
+   "conf": 0.3,
+   "bbox": [
+    0.26163,
+    0.17139,
+    0.56589,
+    0.18896
+   ]
+  },
+  {
+   "text": "Group work: Read the following passage, and then answer the questions.",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.20494,
+    0.71124,
+    0.21948
+   ]
+  },
+  {
+   "text": "#74-7#7* (scientist) , ДД #*17#* *А₴T*",
+   "conf": 0.3,
+   "bbox": [
+    0.29118,
+    0.25291,
+    0.84496,
+    0.27344
+   ]
+  },
+  {
+   "text": "дл.",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.27762,
+    0.21705,
+    0.29942
+   ]
+  },
+  {
+   "text": "ЗНД, СТИЛіЯВЗЛ іЕ-ИЛИЕСШІНЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.32703,
+    0.72481,
+    0.34884
+   ]
+  },
+  {
+   "text": "(stab) , =*#=##** ПIAKTY.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.37791,
+    0.63372,
+    0.39844
+   ]
+  },
+  {
+   "text": "(forever) F| *4].",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.42725,
+    0.3876,
+    0.44775
+   ]
+  },
+  {
+   "text": "ДВАх7лі",
+   "conf": 0.3,
+   "bbox": [
+    0.62419,
+    0.40116,
+    0.84496,
+    0.42151
+   ]
+  },
+  {
+   "text": "K, 4137",
+   "conf": 0.3,
+   "bbox": [
+    0.45736,
+    0.45058,
+    0.84302,
+    0.47093
+   ]
+  },
+  {
+   "text": "Xiăoshíhou, wõ xiăng dãng yì ming kéxuéjia, yinwèi wõ juéde kēxuéjia",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.51599,
+    0.84496,
+    0.53488
+   ]
+  },
+  {
+   "text": "dõu shì cõngming rén.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.53906,
+    0.34496,
+    0.55523
+   ]
+  },
+  {
+   "text": "Zhăng dà yĩhòu, wò xiăng dăng yì ming wàijiãoguãn, yinwèi wõ juéde",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.56104,
+    0.84496,
+    0.57861
+   ]
+  },
+  {
+   "text": "wàijiãoguãn jì kẽyi dào hẽn duo difang, yòu kẽyĩ rènshi hẽn duo rén, zhè shì yí",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.58285,
+    0.84496,
+    0.60029
+   ]
+  },
+  {
+   "text": "tèn hẽn yõu yìsi de gongzuò.",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.60596,
+    0.39922,
+    0.62355
+   ]
+  },
+  {
+   "text": "Dàxué bì yè hòu, wò dangle yì ming dàxué lăoshĩ. Yĩ lái zhè tèn gôngzuò",
+   "conf": 0.3,
+   "bbox": [
+    0.20349,
+    0.62791,
+    0.84496,
+    0.64551
+   ]
+  },
+  {
+   "text": "hăn wănding, èr lái zhè shì wõ de xingqù, érgie göngzi yẽ bù shão.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.64971,
+    0.73643,
+    0.6686
+   ]
+  },
+  {
+   "text": "Jié hũn yĩhòu, wõ xiăng dăng yì ming hão xiănsheng hé hão bàba, yinwèi",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.67285,
+    0.8469,
+    0.69043
+   ]
+  },
+  {
+   "text": "wõ juéde jiarén yăngyuăn dõu shì zuì zhòngyào de.",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.69477,
+    0.58915,
+    0.7124
+   ]
+  },
+  {
+   "text": "Zài guò jĩ nián wõ jiù tuì xiù le, tuì xiù yĩhòu, wõ xiăng dãng yí ge",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.71657,
+    0.84496,
+    0.73547
+   ]
+  },
+  {
+   "text": "lüxíngjia, dàizhe wõ de àiren dào shijiè gè dì qù lüxing.",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.73975,
+    0.62597,
+    0.75586
+   ]
+  }
+ ]
+}

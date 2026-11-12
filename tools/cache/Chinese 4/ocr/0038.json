@@ -1,0 +1,637 @@
+{
+ "page": 38,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.55501,
+    0.07861
+   ]
+  },
+  {
+   "text": "22",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "前卫的发型，怎么样？",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.13372,
+    0.44574,
+    0.1543
+   ]
+  },
+  {
+   "text": "qianwei de faxing. zenmeyang？",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.15552,
+    0.45155,
+    0.17151
+   ]
+  },
+  {
+   "text": "大龙：哎呀不行，我的发质太硬，我就理个利索点儿 短一点儿的就",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.17871,
+    0.82752,
+    0.19775
+   ]
+  },
+  {
+   "text": "Dalong: Aiya buxing. wo de fazhi tai ying, wo jiu Ii ge lisuo didnr un yidin de jiu",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.19767,
+    0.82558,
+    0.21533
+   ]
+  },
+  {
+   "text": "行了。",
+   "conf": 1.0,
+   "bbox": [
+    0.20543,
+    0.22217,
+    0.27326,
+    0.24128
+   ]
+  },
+  {
+   "text": "xing le.",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.24268,
+    0.26357,
+    0.25879
+   ]
+  },
+  {
+   "text": "小丽：就这么定了！明天理完发我还 想去买几件衣服呢。你知道",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.26599,
+    0.86434,
+    0.28488
+   ]
+  },
+  {
+   "text": "Xidoli: Jid zheme ding le! Mingtian li wan fa wo hdi xiang qu maij jion yifu ne. Ni zhiddo",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.2876,
+    0.87209,
+    0.30378
+   ]
+  },
+  {
+   "text": "今年的服装 流行趋势吗？昨天 我看电视上说：黄色是",
+   "conf": 0.3,
+   "bbox": [
+    0.20349,
+    0.30957,
+    0.87597,
+    0.32715
+   ]
+  },
+  {
+   "text": "jinnian de fuzhuang liuxing qushi ma? Zuotian wo kan dianshi shang shuo: huangse shi",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.3314,
+    0.88372,
+    0.34593
+   ]
+  },
+  {
+   "text": "今年的流行色。我最喜欢这种黄色了，搭配白色裙子一定",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.35303,
+    0.87984,
+    0.37209
+   ]
+  },
+  {
+   "text": "jinnian de liuxing se. Wo zui xihuan zhe zhong huangse e，",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.375,
+    0.67829,
+    0.38818
+   ]
+  },
+  {
+   "text": "dapei bdise qunzi yiding",
+   "conf": 0.5,
+   "bbox": [
+    0.69186,
+    0.375,
+    0.88178,
+    0.38965
+   ]
+  },
+  {
+   "text": "很漂亮。你觉得呢？",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.3968,
+    0.42636,
+    0.4157
+   ]
+  },
+  {
+   "text": "hen pidoliang. Ni juede ne？",
+   "conf": 0.3,
+   "bbox": [
+    0.20155,
+    0.41553,
+    0.42248,
+    0.43169
+   ]
+  },
+  {
+   "text": "大龙：你们 女生就喜欢 追时髦。我还是 更 喜欢黑色和白色，",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.43895,
+    0.82946,
+    0.45947
+   ]
+  },
+  {
+   "text": "Dalong: Nimen nusheng jid xihuan zhui shimao. Wo haishi geng xihuan heise he bdise，",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.46076,
+    0.82558,
+    0.47529
+   ]
+  },
+  {
+   "text": "经典 永远不过时。",
+   "conf": 0.3,
+   "bbox": [
+    0.20523,
+    0.48245,
+    0.44595,
+    0.50301
+   ]
+  },
+  {
+   "text": "jingdian yongyuan bu guo shi.",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.50291,
+    0.43992,
+    0.51904
+   ]
+  },
+  {
+   "text": "小丽：虽说黑色和白色 经典不过时，可是你也不能总穿这",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.52616,
+    0.84109,
+    0.54506
+   ]
+  },
+  {
+   "text": "Xidoll: Suishuo heise he bdise jingdidn bu guo shi, keshi ni ye bu neng zong chuan zhe",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.54785,
+    0.84302,
+    0.56396
+   ]
+  },
+  {
+   "text": "两个颜色啊。",
+   "conf": 0.5,
+   "bbox": [
+    0.20529,
+    0.56915,
+    0.35285,
+    0.58928
+   ]
+  },
+  {
+   "text": "liang ge yanse a.",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.59012,
+    0.34302,
+    0.6032
+   ]
+  },
+  {
+   "text": "大龙：也是，那你 说 哪个颜色适合我？",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.61328,
+    0.5407,
+    0.63086
+   ]
+  },
+  {
+   "text": "Ddlong: Ye shi. nd ni shuo ndge yanse shihe wo？",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.63227,
+    0.53876,
+    0.64844
+   ]
+  },
+  {
+   "text": "小丽：你皮肤白，这种亮蓝色很漂亮。穿在你身上",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.65552,
+    0.76938,
+    0.67733
+   ]
+  },
+  {
+   "text": "Xidoli: Ni pifu bdi, zhe zhong liang Ianse hen pidoliang. Chuan zdi ni shenshang",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.67578,
+    0.7907,
+    0.69189
+   ]
+  },
+  {
+   "text": "一定很帅。",
+   "conf": 0.5,
+   "bbox": [
+    0.20514,
+    0.69933,
+    0.33362,
+    0.71928
+   ]
+  },
+  {
+   "text": "yiding hen shuai.",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.71924,
+    0.33721,
+    0.73547
+   ]
+  },
+  {
+   "text": "大龙：看起来还 真 不错。",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.74268,
+    0.40116,
+    0.76172
+   ]
+  },
+  {
+   "text": "Ddlong: Kanqilai hdi zhen bucuo.",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.76308,
+    0.39535,
+    0.77783
+   ]
+  },
+  {
+   "text": "你就是我的形象顾问。",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.78613,
+    0.47093,
+    0.80669
+   ]
+  },
+  {
+   "text": "Ni jid shi wo de xingxiang guwen.",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.80664,
+    0.46899,
+    0.82129
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "22",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "qiánwèi de fàxing, zẽnmeyàng?",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.15552,
+    0.45155,
+    0.17151
+   ]
+  },
+  {
+   "text": "Dàlóng: Aiyà bùxíng, wõ de fàzhì tài yìng, wõ jiù lĩ ge lisuo diănr duăn yidiănr de jiù",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.19767,
+    0.82558,
+    0.21533
+   ]
+  },
+  {
+   "text": "15 J.",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.22217,
+    0.27326,
+    0.24128
+   ]
+  },
+  {
+   "text": "xíng le.",
+   "conf": 1.0,
+   "bbox": [
+    0.20155,
+    0.24268,
+    0.26357,
+    0.25879
+   ]
+  },
+  {
+   "text": "Xiăolì: Jiù zhème ding le! Mingtiân lĩ wán fà wõ hái xiăng qù mãi jĩ jiàn yĩfu ne. Nì zhidào",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.2876,
+    0.87209,
+    0.30378
+   ]
+  },
+  {
+   "text": "jinnián de fúzhuãng liúxíng qũshì ma? Zuótiân wỏ kàn diànshì shang shuố: huángsè shì",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.3314,
+    0.88372,
+    0.34593
+   ]
+  },
+  {
+   "text": "jinnián de liuxing sè. Wõ zui xihuan zhè zhỏng huángse le,",
+   "conf": 0.3,
+   "bbox": [
+    0.20349,
+    0.375,
+    0.67829,
+    0.38818
+   ]
+  },
+  {
+   "text": "dãpei báise qúnzi yiding",
+   "conf": 0.5,
+   "bbox": [
+    0.69186,
+    0.375,
+    0.88178,
+    0.38965
+   ]
+  },
+  {
+   "text": "1 тЕ. пяНЕ?",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.3968,
+    0.42636,
+    0.4157
+   ]
+  },
+  {
+   "text": "hen piàoliang. Ni juéde ne?",
+   "conf": 0.5,
+   "bbox": [
+    0.20155,
+    0.41553,
+    0.42248,
+    0.43169
+   ]
+  },
+  {
+   "text": "Dàlóng: Nimen nushẽng jiù xĩhuan zhui shímáo. Wõ háishi gèng xĩhuan hẽisè hé báisè,",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.46076,
+    0.82558,
+    0.47529
+   ]
+  },
+  {
+   "text": "7ш Kй TH.",
+   "conf": 0.3,
+   "bbox": [
+    0.20523,
+    0.48245,
+    0.44595,
+    0.50301
+   ]
+  },
+  {
+   "text": "jingdiăn yăngyuăn bú guò shí.",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.50291,
+    0.43992,
+    0.51904
+   ]
+  },
+  {
+   "text": "Xiãolì: Suishuõ héisè hé báise jĩngdiăn bú guò shí, kẽshì nĩ yẽ bù néng zăng chuân zhè",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.54785,
+    0.84302,
+    0.56396
+   ]
+  },
+  {
+   "text": "Т ІЛЕN",
+   "conf": 0.3,
+   "bbox": [
+    0.20529,
+    0.56915,
+    0.35285,
+    0.58928
+   ]
+  },
+  {
+   "text": "liang ge yánsè a.",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.59012,
+    0.34302,
+    0.6032
+   ]
+  },
+  {
+   "text": "TH M, Đ i DIMCDH?",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.61328,
+    0.5407,
+    0.63086
+   ]
+  },
+  {
+   "text": "Dàlóng: Yẽ shì, nà nĩ shuo năge yánsè shìhé wõ?",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.63227,
+    0.53876,
+    0.64844
+   ]
+  },
+  {
+   "text": "Xiăolì: Nĩ pífũ bái, zhè zhăng liàng lánsè hẽn piàoliang. Chuân zài nĩ shẽnshang",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.67578,
+    0.7907,
+    0.69189
+   ]
+  },
+  {
+   "text": "—А 1R Л.",
+   "conf": 0.3,
+   "bbox": [
+    0.20514,
+    0.69933,
+    0.33362,
+    0.71928
+   ]
+  },
+  {
+   "text": "yídìng hèn shuài.",
+   "conf": 0.3,
+   "bbox": [
+    0.20349,
+    0.71924,
+    0.33721,
+    0.73547
+   ]
+  },
+  {
+   "text": "*H: # TH.",
+   "conf": 0.3,
+   "bbox": [
+    0.14341,
+    0.74268,
+    0.40116,
+    0.76172
+   ]
+  },
+  {
+   "text": "Dàlóng: Kàngilai hái zhèn búcuò.",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.76308,
+    0.39535,
+    0.77783
+   ]
+  },
+  {
+   "text": "Nĩ jiù shì wõ de xíngxiàng gùwèn.",
+   "conf": 0.5,
+   "bbox": [
+    0.20349,
+    0.80664,
+    0.46899,
+    0.82129
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.5,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ]
+}

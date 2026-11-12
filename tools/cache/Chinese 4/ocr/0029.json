@@ -1,0 +1,807 @@
+{
+ "page": 29,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "3）表示某种希望发生的事情接近发生而实际上没有发生。动词用肯定式，前",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.12207,
+    0.9031,
+    0.14258
+   ]
+  },
+  {
+   "text": "面常用“就”。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.14244,
+    0.3469,
+    0.16134
+   ]
+  },
+  {
+   "text": "An expected thing nearly happens, but it actually does not. The verb uses its affirmative",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.16406,
+    0.88953,
+    0.18023
+   ]
+  },
+  {
+   "text": "form and is often preceded by “就”.For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.18311,
+    0.55039,
+    0.20068
+   ]
+  },
+  {
+   "text": "⑤ 我 差点儿就 赶上 这班航班了。",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.21221,
+    0.61628,
+    0.2311
+   ]
+  },
+  {
+   "text": "We chadianr jid ganshang zhe ban hdingban le.",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.23096,
+    0.60465,
+    0.24709
+   ]
+  },
+  {
+   "text": "⑥我 差点儿就可以赢他了。",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.25581,
+    0.50388,
+    0.27637
+   ]
+  },
+  {
+   "text": "Wo chadianr jid keyi ying ta le.",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.27616,
+    0.49419,
+    0.29215
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 0.3,
+   "bbox": [
+    0.12016,
+    0.3343,
+    0.13566,
+    0.34593
+   ]
+  },
+  {
+   "text": "12",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "我说呢 The usage of“我说呢”",
+   "conf": 0.3,
+   "bbox": [
+    0.14704,
+    0.3298,
+    0.43635,
+    0.35201
+   ]
+  },
+  {
+   "text": "日常口语表达结构。是说话人最终知道一件事情的缘由后发出的感慨。例如：",
+   "conf": 1.0,
+   "bbox": [
+    0.19961,
+    0.36768,
+    0.8624,
+    0.38525
+   ]
+  },
+  {
+   "text": "“我说呢”is a daily oral expression, indicating a sigh with emotions after eventually",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.38953,
+    0.88953,
+    0.40698
+   ]
+  },
+  {
+   "text": "knowing the reasons for a thing. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.41113,
+    0.52326,
+    0.42733
+   ]
+  },
+  {
+   "text": "①A：小明",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.43895,
+    0.29651,
+    0.45508
+   ]
+  },
+  {
+   "text": "出国了。",
+   "conf": 0.5,
+   "bbox": [
+    0.30233,
+    0.43895,
+    0.42248,
+    0.45947
+   ]
+  },
+  {
+   "text": "Xidoming chi guo le.",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.45785,
+    0.41085,
+    0.47384
+   ]
+  },
+  {
+   "text": "B：我说呢！最近没看见他。",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.47803,
+    0.5407,
+    0.49709
+   ]
+  },
+  {
+   "text": "Wo shuo ne！",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.49854,
+    0.34496,
+    0.51172
+   ]
+  },
+  {
+   "text": "Zujin mei kan jidn to.",
+   "conf": 0.3,
+   "bbox": [
+    0.35078,
+    0.49707,
+    0.53488,
+    0.51318
+   ]
+  },
+  {
+   "text": "②A：她对鸡蛋过敏。",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.52326,
+    0.40891,
+    0.54215
+   ]
+  },
+  {
+   "text": "Ta dui jidan guomin.",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.54199,
+    0.41085,
+    0.55814
+   ]
+  },
+  {
+   "text": "B：我 说呢！一起吃饭时，她从来不吃鸡蛋。",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.5625,
+    0.70543,
+    0.58154
+   ]
+  },
+  {
+   "text": "Wo shuo ne！",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.58285,
+    0.3469,
+    0.59593
+   ]
+  },
+  {
+   "text": "Yiqi chi fan shi，",
+   "conf": 0.3,
+   "bbox": [
+    0.3469,
+    0.58285,
+    0.5,
+    0.59738
+   ]
+  },
+  {
+   "text": "ta conglai bu chi jidan.",
+   "conf": 0.5,
+   "bbox": [
+    0.51357,
+    0.58285,
+    0.69767,
+    0.59884
+   ]
+  },
+  {
+   "text": "学习后任务 REVIEW TASK",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.64826,
+    0.56977,
+    0.67151
+   ]
+  },
+  {
+   "text": "调查四到五个中国人，尽量包含孩子、年轻人、中年人、老人。问问他们常做的",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.69477,
+    0.88953,
+    0.7124
+   ]
+  },
+  {
+   "text": "休闲娱乐活动有哪些？然后报告。",
+   "conf": 1.0,
+   "bbox": [
+    0.14522,
+    0.71212,
+    0.43815,
+    0.73263
+   ]
+  },
+  {
+   "text": "Investigate four to five Chinese people. Try to include a kid, a young man, a middle-aged",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.73389,
+    0.88953,
+    0.74855
+   ]
+  },
+  {
+   "text": "man, and an old person in your investigation. Ask them about their usual leisure and entertainment",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.75436,
+    0.89147,
+    0.76904
+   ]
+  },
+  {
+   "text": "activities. Then report your findings.",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.77471,
+    0.41473,
+    0.78779
+   ]
+  },
+  {
+   "text": "年龄",
+   "conf": 1.0,
+   "bbox": [
+    0.28876,
+    0.80957,
+    0.32752,
+    0.82568
+   ]
+  },
+  {
+   "text": "Age",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.82849,
+    0.32364,
+    0.84326
+   ]
+  },
+  {
+   "text": "休闲娱乐活动（至少三项）",
+   "conf": 0.5,
+   "bbox": [
+    0.39729,
+    0.80225,
+    0.60659,
+    0.81689
+   ]
+  },
+  {
+   "text": "Leisure and entertainment activities",
+   "conf": 0.5,
+   "bbox": [
+    0.36434,
+    0.81977,
+    0.64729,
+    0.83301
+   ]
+  },
+  {
+   "text": "（at least three activities）",
+   "conf": 0.5,
+   "bbox": [
+    0.41085,
+    0.83576,
+    0.60078,
+    0.85029
+   ]
+  },
+  {
+   "text": "原因",
+   "conf": 0.5,
+   "bbox": [
+    0.75775,
+    0.80957,
+    0.79651,
+    0.82568
+   ]
+  },
+  {
+   "text": "Reasons",
+   "conf": 1.0,
+   "bbox": [
+    0.74417,
+    0.82842,
+    0.81203,
+    0.84018
+   ]
+  },
+  {
+   "text": "1.孩子",
+   "conf": 0.3,
+   "bbox": [
+    0.12016,
+    0.85889,
+    0.18023,
+    0.875
+   ]
+  },
+  {
+   "text": "haizi",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.87791,
+    0.17636,
+    0.88965
+   ]
+  },
+  {
+   "text": "2.年轻人",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.8968,
+    0.19961,
+    0.91424
+   ]
+  },
+  {
+   "text": "nianqingren",
+   "conf": 0.5,
+   "bbox": [
+    0.13952,
+    0.91563,
+    0.23452,
+    0.9303
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4]",
+   "conf": 1.0,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "IЛHÀÀ, W",
+   "conf": 0.3,
+   "bbox": [
+    0.71891,
+    0.12207,
+    0.9031,
+    0.14258
+   ]
+  },
+  {
+   "text": "MAN \"DE\" • Dịt:",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.14244,
+    0.3469,
+    0.16134
+   ]
+  },
+  {
+   "text": "An expected thing nearly happens, but it actually does not. The verb uses its affirmative",
+   "conf": 1.0,
+   "bbox": [
+    0.19574,
+    0.16406,
+    0.88953,
+    0.18023
+   ]
+  },
+  {
+   "text": "form and is often preceded by \"it\". For example:",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.18311,
+    0.55039,
+    0.20068
+   ]
+  },
+  {
+   "text": "Wõ chàdiănr jiù gănshàng zhè bãn hángbăn le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.23096,
+    0.60465,
+    0.24709
+   ]
+  },
+  {
+   "text": "O# LENATV H3.",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.25581,
+    0.50388,
+    0.27637
+   ]
+  },
+  {
+   "text": "Wõ chàdiănr jiù kẽyĩ yíng tã le.",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.27616,
+    0.49419,
+    0.29215
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.3343,
+    0.13566,
+    0.34593
+   ]
+  },
+  {
+   "text": "12",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.34157,
+    0.06008,
+    0.3561
+   ]
+  },
+  {
+   "text": "FeirVE The usage of \"FiVE\"",
+   "conf": 0.3,
+   "bbox": [
+    0.14704,
+    0.3298,
+    0.43635,
+    0.35201
+   ]
+  },
+  {
+   "text": "НапЛсст СИйЛАЯМИ НТЛККШАЕНКи УШ:",
+   "conf": 0.3,
+   "bbox": [
+    0.19961,
+    0.36768,
+    0.8624,
+    0.38525
+   ]
+  },
+  {
+   "text": "\"Ikitvt\" is a daily oral expression, indicating a sigh with emotions after eventually",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.38953,
+    0.88953,
+    0.40698
+   ]
+  },
+  {
+   "text": "knowing the reasons for a thing. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.41113,
+    0.52326,
+    0.42733
+   ]
+  },
+  {
+   "text": "DA: (•",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.43895,
+    0.29651,
+    0.45508
+   ]
+  },
+  {
+   "text": "#E3.",
+   "conf": 0.3,
+   "bbox": [
+    0.30233,
+    0.43895,
+    0.42248,
+    0.4593
+   ]
+  },
+  {
+   "text": "Xiăoming chũ guó le.",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.45785,
+    0.41085,
+    0.47384
+   ]
+  },
+  {
+   "text": "н.",
+   "conf": 0.3,
+   "bbox": [
+    0.47632,
+    0.47803,
+    0.5407,
+    0.49709
+   ]
+  },
+  {
+   "text": "Wõ shuo ne!",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.49854,
+    0.34496,
+    0.51172
+   ]
+  },
+  {
+   "text": "Zuijìn méi kàn jiàn tã.",
+   "conf": 0.5,
+   "bbox": [
+    0.35078,
+    0.49707,
+    0.53488,
+    0.51318
+   ]
+  },
+  {
+   "text": "Tã duì jĩdàn guòmin.",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.54199,
+    0.41085,
+    0.55814
+   ]
+  },
+  {
+   "text": "Wó shuõ ne!",
+   "conf": 0.3,
+   "bbox": [
+    0.24225,
+    0.58285,
+    0.3469,
+    0.59593
+   ]
+  },
+  {
+   "text": "Yiqi chi fàn shí,",
+   "conf": 0.5,
+   "bbox": [
+    0.3469,
+    0.58285,
+    0.5,
+    0.59738
+   ]
+  },
+  {
+   "text": "tã cóng lái bù chí jidàn.",
+   "conf": 0.3,
+   "bbox": [
+    0.51357,
+    0.58285,
+    0.69767,
+    0.59884
+   ]
+  },
+  {
+   "text": "SJ6E REVIEW TASK",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.64826,
+    0.56977,
+    0.67151
+   ]
+  },
+  {
+   "text": "Investigate four to five Chinese people. Try to include a kid, a young man, a middle-aged",
+   "conf": 1.0,
+   "bbox": [
+    0.18798,
+    0.73389,
+    0.88953,
+    0.74855
+   ]
+  },
+  {
+   "text": "man, and an old person in your investigation. Ask them about their usual leisure and entertainment",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.75436,
+    0.89147,
+    0.76904
+   ]
+  },
+  {
+   "text": "activities. Then report your findings.",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.77471,
+    0.41473,
+    0.78779
+   ]
+  },
+  {
+   "text": "Age",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.82849,
+    0.32364,
+    0.84302
+   ]
+  },
+  {
+   "text": "Leisure and entertainment activities",
+   "conf": 1.0,
+   "bbox": [
+    0.36434,
+    0.81977,
+    0.64729,
+    0.83301
+   ]
+  },
+  {
+   "text": "(at least three activities)",
+   "conf": 1.0,
+   "bbox": [
+    0.41085,
+    0.83576,
+    0.60078,
+    0.85029
+   ]
+  },
+  {
+   "text": "Reasons",
+   "conf": 1.0,
+   "bbox": [
+    0.74417,
+    0.82842,
+    0.81203,
+    0.84018
+   ]
+  },
+  {
+   "text": "1.7%J",
+   "conf": 0.3,
+   "bbox": [
+    0.12016,
+    0.85901,
+    0.18023,
+    0.875
+   ]
+  },
+  {
+   "text": "háizi",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.87791,
+    0.17636,
+    0.88953
+   ]
+  },
+  {
+   "text": "2. 4*1",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.8968,
+    0.19961,
+    0.91424
+   ]
+  },
+  {
+   "text": "niánqingrén",
+   "conf": 1.0,
+   "bbox": [
+    0.13952,
+    0.91563,
+    0.23452,
+    0.9303
+   ]
+  }
+ ]
+}

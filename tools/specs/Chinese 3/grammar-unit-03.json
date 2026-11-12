@@ -1,0 +1,151 @@
+{
+  "book": "Chinese 3",
+  "unit": 3,
+  "kind": "grammar",
+  "title": {"zh": "谈生活习惯", "py": "Tán shēnghuó xíguàn", "en": "Talking about Lifestyle"},
+  "source": "PDF pp. 49, 54–55, 57–60 (printed pp. 33, 38–39, 41–44)",
+  "intro": "This unit is about daily routines and habits. Grammar: (1) 因为……，所以…… “because…, so…”; (2) 为了…… “in order to…”; (3) the three structural particles 地, 得 and 的 (all pronounced de). Useful phrases: 对……来说, 拿……来说, 说实话. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "就拿作息时间来说，以前，我早上8点起床，晚上经常加班或陪客户，一般12点半左右才睡觉。", "py": "Jiù ná zuòxī shíjiān lái shuō, yǐqián, wǒ zǎoshang bā diǎn qǐ chuáng, wǎnshang jīngcháng jiā bān huò péi kèhù, yìbān shí'èr diǎn bàn zuǒyòu cái shuì jiào.", "en": "Take my daily schedule for example: before, I got up at 8, often worked late or entertained clients in the evening, and usually didn't go to bed until about 12:30."},
+    {"zh": "因为8点要上课，所以我每天6点半就要起床。", "py": "Yīnwèi bā diǎn yào shàng kè, suǒyǐ wǒ měi tiān liù diǎn bàn jiù yào qǐ chuáng.", "en": "Because class starts at 8, I have to get up at 6:30 every day."},
+    {"zh": "这对我来说简直太难了。", "py": "Zhè duì wǒ lái shuō jiǎnzhí tài nán le.", "en": "For me this is simply too hard."},
+    {"zh": "为了能够按时到校，我只好11点就睡觉。", "py": "Wèile nénggòu ànshí dào xiào, wǒ zhǐhǎo shíyī diǎn jiù shuì jiào.", "en": "To get to school on time, I have no choice but to go to bed at 11."},
+    {"zh": "慢慢地，我习惯了早睡早起。", "py": "Mànmàn de, wǒ xíguànle zǎo shuì zǎo qǐ.", "en": "Gradually I got used to going to bed early and getting up early."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "因果复句：因为……，所以……", "py": "yīnguǒ fùjù: yīnwèi……, suǒyǐ……", "en": "Cause-effect compound sentence: 因为……，所以……"},
+      "body": [
+        {"type": "text", "zh": "“因为……，所以……”是两个表示因果关系的分句。前一分句表示原因，后一分句表示结果。例如：", "py": "“Yīnwèi……, suǒyǐ……” shì liǎng ge biǎoshì yīnguǒ guānxì de fēnjù. Qián yì fēnjù biǎoshì yuányīn, hòu yì fēnjù biǎoshì jiéguǒ. Lìrú:", "en": "“因为……，所以……” connects two clauses indicating cause and effect, with the first one indicating the cause and the second one indicating the effect, e.g.,"},
+        {"type": "pattern", "zh": "因为 + 原因，所以 + 结果", "py": "yīnwèi + yuányīn, suǒyǐ + jiéguǒ", "en": "because + cause, so + result"},
+        {"type": "example", "zh": "因为他生病了，所以今天没去上课。", "py": "Yīnwèi tā shēng bìng le, suǒyǐ jīntiān méi qù shàng kè.", "en": "Because he's ill, he didn't go to class today."},
+        {"type": "example", "zh": "因为这几天一直下雨，所以我们不得不推迟了这次行程。", "py": "Yīnwèi zhè jǐ tiān yìzhí xià yǔ, suǒyǐ wǒmen bùdébù tuīchíle zhè cì xíngchéng.", "en": "Because it's been raining for days, we had to postpone this trip."},
+        {"type": "note", "en": "Cause first, result second: ✓ 因为我发烧了，所以没来上课. Reversing them (✗ 因为没来上课，所以发烧了) says the absence caused the fever. English uses just one of “because/so”; Chinese happily uses both."}
+      ]
+    },
+    {
+      "title": {"zh": "目的复句：为了……", "py": "mùdì fùjù: wèile……", "en": "Compound sentence of purpose: 为了……"},
+      "body": [
+        {"type": "text", "zh": "“为了……，……”中的“为了……”表示目的，可以用在第一分句，也可以用在第二分句，即“……，为了……”。例如：", "py": "“Wèile……, ……” zhōng de “wèile……” biǎoshì mùdì, kěyǐ yòng zài dì-yī fēnjù, yě kěyǐ yòng zài dì-èr fēnjù, jí “……, wèile……”. Lìrú:", "en": "In “为了……，……”, “为了……” indicates the purpose and can be used either in the first clause or in the second clause, i.e. “……，为了……”, e.g.,"},
+        {"type": "pattern", "zh": "为了 + 目的，+ 做法 ／ 做法，+ 为了 + 目的", "py": "wèile + mùdì, + zuòfǎ / zuòfǎ, + wèile + mùdì", "en": "in order to + goal, + action / action, + in order to + goal"},
+        {"type": "example", "zh": "为了学好汉语，大龙来到中国。", "py": "Wèile xuéhǎo Hànyǔ, Dàlóng láidào Zhōngguó.", "en": "In order to learn Chinese well, Dalong came to China."},
+        {"type": "example", "zh": "大龙来到中国，为了学好汉语。", "py": "Dàlóng láidào Zhōngguó, wèile xuéhǎo Hànyǔ.", "en": "Dalong came to China in order to learn Chinese well."},
+        {"type": "text", "zh": "注意：“为了”与“因为”不同，“因为”表示原因，是前提条件；而“为了”表示目的，不是前提条件，而是要得到的结果。", "py": "Zhùyì: “wèile” yǔ “yīnwèi” bùtóng, “yīnwèi” biǎoshì yuányīn, shì qiántí tiáojiàn; ér “wèile” biǎoshì mùdì, bú shì qiántí tiáojiàn, ér shì yào dédào de jiéguǒ.", "en": "Note: “为了” is not equivalent to “因为”. “因为” indicates the reason, showing the prerequisite; while “为了” indicates the purpose — the result you want to get, not the prerequisite."},
+        {"type": "note", "en": "为了 goes in front of the whole goal: ✓ 为了学好汉语, ✗ 学好为了汉语. The goal is what you do the action *for*: 为了早上能按时到校，我晚上11点就睡 (sleep early → to be on time), not the other way round."}
+      ]
+    },
+    {
+      "title": {"zh": "“地”“得”“的”的区别", "py": "“de” “de” “de” de qūbié", "en": "Difference between 地, 得 and 的"},
+      "body": [
+        {"type": "text", "zh": "“地”“得”“的”都是结构助词，但用法不同。“地”用在状语后边，“得”用在动词或形容词的后边、补语的前边，而“的”则用在定语后边。例如：", "py": "“De” “de” “de” dōu shì jiégòu zhùcí, dàn yòngfǎ bùtóng. “De (地)” yòng zài zhuàngyǔ hòubian, “de (得)” yòng zài dòngcí huò xíngróngcí de hòubian, bǔyǔ de qiánbian, ér “de (的)” zé yòng zài dìngyǔ hòubian. Lìrú:", "en": "“地”, “得” and “的” are structural particles with different usages. “地” is used after an adverbial, “得” is used after a verb or an adjective and before a complement, while “的” is used after an attributive, e.g.,"},
+        {"type": "pattern", "zh": "状语 + 地 + 动词　·　动词 + 得 + 补语　·　定语 + 的 + 名词", "py": "zhuàngyǔ + de + dòngcí · dòngcí + de + bǔyǔ · dìngyǔ + de + míngcí", "en": "adverbial + 地 + verb (how you do it) · verb + 得 + complement (how well/what result) · modifier + 的 + noun (which/whose)"},
+        {"type": "example", "zh": "慢慢地，我习惯了早睡早起。", "py": "Mànmàn de, wǒ xíguànle zǎo shuì zǎo qǐ.", "en": "Gradually, I got used to early to bed and early to rise. (地 after an adverbial)"},
+        {"type": "example", "zh": "她高兴地说：“这真是太好了！”", "py": "Tā gāoxìng de shuō: “Zhè zhēn shì tài hǎo le!”", "en": "She said happily: “That's really great!” (地)"},
+        {"type": "example", "zh": "她每天睡得很晚，起得很早。", "py": "Tā měi tiān shuì de hěn wǎn, qǐ de hěn zǎo.", "en": "She goes to bed very late and gets up very early every day. (得 before a complement)"},
+        {"type": "example", "zh": "那时候的我是个典型的夜猫子。", "py": "Nà shíhou de wǒ shì ge diǎnxíng de yèmāozi.", "en": "Back then I was a typical night owl. (的 after an attributive)"}
+      ]
+    },
+    {
+      "title": {"zh": "常用说法", "py": "chángyòng shuōfǎ", "en": "Useful phrases in this unit"},
+      "body": [
+        {"type": "note", "en": "Not numbered grammar notes in the book, but key sentences of the unit:"},
+        {"type": "example", "zh": "对我来说，早起太难了。", "en": "对……来说 = “for (somebody), as far as … is concerned”: For me, getting up early is too hard."},
+        {"type": "example", "zh": "就拿作息时间来说，……", "py": "Jiù ná zuòxī shíjiān lái shuō, ……", "en": "拿……来说 = “take … for example”: Take my daily schedule, for example, …"},
+        {"type": "example", "zh": "说实话，我不太喜欢早起。", "en": "说实话 = “to tell the truth”: To be honest, I don't really like getting up early."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "目的何在", "py": "Mùdì hé zài", "en": "What is the purpose"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "先看图猜猜图中人物这样做的目的是什么，用“为了……，……”进行描述。然后说说你自己学习汉语、工作等有什么目的。", "en": "Look at the pictures. Guess why the people in them are doing what they're doing, using “为了……，……”. Then talk about your own purpose for studying Chinese and for your work."},
+      "body": [
+        {"type": "example", "zh": "为了能够按时到校，我只好11点就睡觉。", "py": "Wèile nénggòu ànshí dào xiào, wǒ zhǐhǎo shíyī diǎn jiù shuì jiào.", "en": "To get to school on time, I have no choice but to go to bed at 11."}
+      ],
+      "items": [
+        {"picture": "A smiling young woman holding a stack of red gift boxes and shopping bags.",
+         "answer": [{"zh": "为了给朋友买生日礼物，她去了商场。", "en": "To buy her friend a birthday present, she went to the mall. (model answer)"}]},
+        {"picture": "A woman pushing a shopping trolley down a supermarket aisle.",
+         "answer": [{"zh": "为了做晚饭，她去超市买东西。", "en": "To make dinner, she's gone to the supermarket to shop. (model answer)"}]},
+        {"picture": "A man and a woman jogging together outdoors.",
+         "answer": [{"zh": "为了身体健康，他们每天早上跑步。", "en": "To stay healthy, they go running every morning. (model answer)"}]},
+        {"picture": "A young woman studying at a desk with a laptop and papers.",
+         "answer": [{"zh": "为了考一个好成绩，她每天学习到很晚。", "en": "To get a good grade, she studies until late every day. (model answer)"}]},
+        {"prompt": {"zh": "你为什么学习汉语？", "en": "Now you: what is your purpose for studying Chinese?"},
+         "answer": [{"zh": "为了以后能去中国工作，我在学习汉语。", "en": "I'm studying Chinese so that I can work in China later. (model answer — use your own reason)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "最讨厌的借口", "py": "Zuì tǎoyàn de jièkǒu", "en": "The excuses we hate the most"},
+      "activity": {"zh": "班级活动", "py": "bānjí huódòng", "en": "Class activity"},
+      "instructions": {"zh": "用“因为……所以……”说说自己最讨厌听到的借口，选出班里三大最招人讨厌的借口。", "en": "Tell the excuses you hate hearing the most using “因为……所以……”, and choose the three worst excuses in the class."},
+      "items": [
+        {"prompt": {"en": "Excuse for being late"}, "answer": [{"zh": "因为路上堵车，所以我迟到了。", "en": "Because of the traffic jam, I was late. (model answer)"}]},
+        {"prompt": {"en": "Excuse for not doing homework"}, "answer": [{"zh": "因为我的电脑坏了，所以没写作业。", "en": "Because my computer broke, I didn't do my homework. (model answer)"}]},
+        {"prompt": {"en": "Excuse for not calling"}, "answer": [{"zh": "因为太忙了，所以没给你打电话。", "en": "Because I was too busy, I didn't call you. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "实话实说", "py": "Shíhuà shíshuō", "en": "Tell you the truth"},
+      "activity": {"zh": "班级活动", "py": "bānjí huódòng", "en": "Class activity"},
+      "instructions": {"zh": "每个人在小纸条上用“说实话……”写一句真心话。收集纸条，每个人抽一张纸条，读出上面的话，同学们一起听听大家的实话。", "py": "Měi ge rén zài xiǎo zhǐtiáo shang yòng “shuō shíhuà……” xiě yí jù zhēnxīnhuà. Shōují zhǐtiáo, měi ge rén chōu yì zhāng zhǐtiáo, dúchū shàngmiàn de huà, tóngxuémen yìqǐ tīngting dàjiā de shíhuà.", "en": "Everyone writes one honest sentence beginning with “说实话……” on a slip of paper. Collect the slips; everyone draws one and reads it out so the class can hear everyone's true feelings."},
+      "items": [
+        {"prompt": {"en": "Write two “to tell the truth…” sentences of your own."},
+         "answer": [{"zh": "说实话，我不太喜欢吃辣的。", "en": "To tell the truth, I don't really like spicy food. (model answer)"},
+                    {"zh": "说实话，对我来说汉语的声调太难了。", "en": "Honestly, for me Chinese tones are too hard. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "工作、生活", "py": "Gōngzuò, shēnghuó", "en": "Work and daily life (role-play)"},
+      "activity": {"zh": "表演活动", "py": "biǎoyǎn huódòng", "en": "Role-play"},
+      "instructions": {"zh": "李伟正在跟同事打电话。", "en": "Li Wei is talking with a colleague on the phone. Complete the dialogue using this unit's patterns (每天……起床, 对我来说, 说实话)."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "李伟", "speaker_py": "Lǐ Wěi", "zh": "你最近工作忙吗？", "py": "Nǐ zuìjìn gōngzuò máng ma?", "en": "Have you been busy at work lately?"},
+          {"speaker": "同事", "speaker_py": "tóngshì", "zh": "……。你怎么样？", "py": "……. Nǐ zěnmeyàng?", "en": "… How about you?"},
+          {"speaker": "李伟", "speaker_py": "Lǐ Wěi", "zh": "……每天……起床。", "py": "…… měi tiān…… qǐ chuáng.", "en": "… every day I get up at …"},
+          {"speaker": "同事", "speaker_py": "tóngshì", "zh": "这么早？对我来说……", "py": "Zhème zǎo? Duì wǒ lái shuō……", "en": "That early? For me…"},
+          {"speaker": "李伟", "speaker_py": "Lǐ Wěi", "zh": "说实话……", "py": "Shuō shíhuà……", "en": "To be honest…"},
+          {"speaker": "同事", "speaker_py": "tóngshì", "zh": "现在怎么样？", "py": "Xiànzài zěnmeyàng?", "en": "And now?"},
+          {"speaker": "李伟", "speaker_py": "Lǐ Wěi", "zh": "……", "en": "…"}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"en": "Complete the dialogue."},
+         "answer": [
+           {"zh": "李伟：你最近工作忙吗？", "en": "Li Wei: Have you been busy at work lately?"},
+           {"zh": "同事：挺忙的，经常加班。你怎么样？", "en": "Colleague: Pretty busy, I often work overtime. How about you?"},
+           {"zh": "李伟：我现在是学生了，每天六点半就起床。", "en": "Li Wei: I'm a student now — I get up at 6:30 every day."},
+           {"zh": "同事：这么早？对我来说，这简直太难了。", "en": "Colleague: That early? For me that would be simply too hard."},
+           {"zh": "李伟：说实话，开始的时候我也觉得很难。", "en": "Li Wei: To be honest, at first I found it hard too."},
+           {"zh": "同事：现在怎么样？", "en": "Colleague: And now?"},
+           {"zh": "李伟：慢慢地，我习惯了早睡早起。", "py": "Lǐ Wěi: Mànmàn de, wǒ xíguànle zǎo shuì zǎo qǐ.", "en": "Li Wei: Gradually I've got used to early to bed, early to rise. (model answer)"}
+         ]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"question": {"zh": "你昨天怎么没来上课？", "py": "Nǐ zuótiān zěnme méi lái shàng kè?", "en": "Why didn't you come to class yesterday?"},
+       "options": [{"zh": "因为我发烧了，所以昨天没来上课。", "py": "Yīnwèi wǒ fā shāo le, suǒyǐ zuótiān méi lái shàng kè."}, {"zh": "因为我昨天没来上课，所以我发烧了。", "py": "Yīnwèi wǒ zuótiān méi lái shàng kè, suǒyǐ wǒ fā shāo le."}],
+       "answer": 0, "explain": "The cause (fever) goes after 因为, the result (missed class) after 所以. (grammar note 1)"},
+      {"question": {"zh": "你决定了吗？", "py": "Nǐ juédìng le ma?", "en": "Have you decided?"},
+       "options": [{"zh": "决定了。为了学好汉语，我一定要去中国。", "py": "Juédìng le. Wèile xuéhǎo Hànyǔ, wǒ yídìng yào qù Zhōngguó."}, {"zh": "决定了。学好为了汉语，我一定要去中国。", "py": "Juédìng le. Xuéhǎo wèile Hànyǔ, wǒ yídìng yào qù Zhōngguó."}],
+       "answer": 0, "explain": "为了 goes in front of the whole goal 学好汉语. (grammar note 2)"},
+      {"question": {"zh": "上个周末你去长城了吗？", "py": "Shàng ge zhōumò nǐ qù Chángchéng le ma?", "en": "Did you go to the Great Wall last weekend?"},
+       "options": [{"zh": "因为上周末下雨了，所以我们改在这周末去了。", "py": "Yīnwèi shàng zhōumò xià yǔ le, suǒyǐ wǒmen gǎi zài zhè zhōumò qù le."}, {"zh": "因为去长城，所以下雨了。", "py": "Yīnwèi qù Chángchéng, suǒyǐ xià yǔ le."}],
+       "answer": 0, "explain": "Rain is the cause, changing the plan is the result. (grammar note 1)"},
+      {"options": [{"zh": "为了早上能够按时到校，我每天晚上11点就睡了。", "py": "Wèile zǎoshang nénggòu ànshí dào xiào, wǒ měi tiān wǎnshang shíyī diǎn jiù shuì le."}, {"zh": "为了每天晚上11点就睡了，我早上能够按时到校。", "py": "Wèile měi tiān wǎnshang shíyī diǎn jiù shuì le, wǒ zǎoshang nénggòu ànshí dào xiào."}],
+       "answer": 0, "explain": "为了 introduces the goal (arriving on time), not the action taken to reach it. (grammar note 2)"},
+      {"options": [{"zh": "他每天都早早的来到学校。", "py": "Tā měi tiān dōu zǎozǎo de láidào xuéxiào."}, {"zh": "他每天都早早地来到学校。", "py": "Tā měi tiān dōu zǎozǎo de láidào xuéxiào."}],
+       "answer": 1, "explain": "After an adverbial and before a verb, use 地 (早早地来到). (grammar note 3)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — after an adverbial, before a verb, use 地 (note 3). Missed Q2 or Q4 — review 为了 (note 2). Missed Q1 or Q3 — review 因为……所以…… (note 1)."
+  }
+}

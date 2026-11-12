@@ -1,0 +1,567 @@
+{
+ "page": 58,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 0.3,
+   "bbox": [
+    0.0407,
+    0.26017,
+    0.06395,
+    0.27616
+   ]
+  },
+  {
+   "text": "42",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34012,
+    0.06395,
+    0.35756
+   ]
+  },
+  {
+   "text": "“地”“得”“的”的区别 Difference between“地”，“得” and ”的”",
+   "conf": 0.3,
+   "bbox": [
+    0.1529,
+    0.12536,
+    0.75398,
+    0.14922
+   ]
+  },
+  {
+   "text": "“地”“得”“的”都是结构助词，但用法不同。“地”用在状语后边，“得”用在",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.1626,
+    0.88953,
+    0.18314
+   ]
+  },
+  {
+   "text": "动词或形容词的后边、补语的前边，而“的”则用在定语后边。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1568,
+    0.1828,
+    0.76566,
+    0.20917
+   ]
+  },
+  {
+   "text": "“地”，“得”and“的” are structural particles with different usages. “地” is used after an",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.21657,
+    0.88953,
+    0.23401
+   ]
+  },
+  {
+   "text": "adverbial，“得” is used after a verb or an adjective and before a complement, while“的” is used",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.23828,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "after an attributive, e.g.，",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.26308,
+    0.33915,
+    0.27783
+   ]
+  },
+  {
+   "text": "①慢慢",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.29639,
+    0.27326,
+    0.3125
+   ]
+  },
+  {
+   "text": "地，我习惯了早 睡 早起。",
+   "conf": 0.5,
+   "bbox": [
+    0.27132,
+    0.29639,
+    0.56008,
+    0.31543
+   ]
+  },
+  {
+   "text": "Manman de, wo xiguanle zdoshui zdo gi.",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.31686,
+    0.55426,
+    0.33301
+   ]
+  },
+  {
+   "text": "②她高兴地说：“这真是太好了！”",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.33721,
+    0.61822,
+    0.35756
+   ]
+  },
+  {
+   "text": "Ta gaoxing de shuo： “Zhe zhen shi tdi hao le！”",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.35889,
+    0.59884,
+    0.37646
+   ]
+  },
+  {
+   "text": "③ 她每天睡得很晚，起得很早。",
+   "conf": 0.5,
+   "bbox": [
+    0.19574,
+    0.38517,
+    0.57171,
+    0.40576
+   ]
+  },
+  {
+   "text": "Ta mei tian shui de hen wan, qi de hen zdo.",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.40407,
+    0.56977,
+    0.42297
+   ]
+  },
+  {
+   "text": "④那时候的我是个 典型 的夜猫子。",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.42871,
+    0.57752,
+    0.45068
+   ]
+  },
+  {
+   "text": "Na shihou de wo shi ge didnxing de yemdozi.",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.44913,
+    0.56977,
+    0.46533
+   ]
+  },
+  {
+   "text": "五",
+   "conf": 0.5,
+   "bbox": [
+    0.12791,
+    0.52762,
+    0.1686,
+    0.55378
+   ]
+  },
+  {
+   "text": "学习后任务 REVIEW TASKS",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.53174,
+    0.59884,
+    0.55378
+   ]
+  },
+  {
+   "text": "问间3~4个你的朋友，他们有什么习惯，用汉语写份报告。",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.57994,
+    0.68605,
+    0.59884
+   ]
+  },
+  {
+   "text": "Please ask 3 to 4 of your friends about their habits and write a report in Chinese.",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.60303,
+    0.82558,
+    0.62064
+   ]
+  },
+  {
+   "text": "提示：",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.63953,
+    0.24031,
+    0.65698
+   ]
+  },
+  {
+   "text": "Clues：",
+   "conf": 1.0,
+   "bbox": [
+    0.18798,
+    0.66113,
+    0.23643,
+    0.67442
+   ]
+  },
+  {
+   "text": "你的朋友们有什么习惯？这个习惯是从什么时候开始",
+   "conf": 1.0,
+   "bbox": [
+    0.28101,
+    0.64826,
+    0.8314,
+    0.67006
+   ]
+  },
+  {
+   "text": "的？如果改变这个习惯他觉得会怎么样？你觉得这个",
+   "conf": 1.0,
+   "bbox": [
+    0.28101,
+    0.67432,
+    0.8314,
+    0.69482
+   ]
+  },
+  {
+   "text": "习惯怎么样，沟什么？",
+   "conf": 0.5,
+   "bbox": [
+    0.28101,
+    0.69913,
+    0.50194,
+    0.72093
+   ]
+  },
+  {
+   "text": "What are your friends' habits? When did they begin to have their habits? If",
+   "conf": 0.5,
+   "bbox": [
+    0.28101,
+    0.72656,
+    0.83527,
+    0.74128
+   ]
+  },
+  {
+   "text": "they change their habits, how would they feel? How do you feel about their",
+   "conf": 0.5,
+   "bbox": [
+    0.27907,
+    0.74707,
+    0.83333,
+    0.76172
+   ]
+  },
+  {
+   "text": "habits and why？",
+   "conf": 0.5,
+   "bbox": [
+    0.27907,
+    0.76744,
+    0.39922,
+    0.78076
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [ 3]",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.0407,
+    0.26017,
+    0.06395,
+    0.27616
+   ]
+  },
+  {
+   "text": "42",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34012,
+    0.06395,
+    0.35756
+   ]
+  },
+  {
+   "text": "\"H\" \"1\" \"#J\" #JXЯ) Difference between \"It\", \"1\" and \"HJ\"",
+   "conf": 0.3,
+   "bbox": [
+    0.1529,
+    0.12536,
+    0.75398,
+    0.14922
+   ]
+  },
+  {
+   "text": "\"IШ\" \"1\" \"\" ЖЕДФШТ, 1ЛДИТ \"НО\" ЛАКЛіМ, \"1\" Л4:",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.1626,
+    0.88953,
+    0.18314
+   ]
+  },
+  {
+   "text": "Mhaкn, M \"ку\" дUлелidо TUкn :",
+   "conf": 0.3,
+   "bbox": [
+    0.34656,
+    0.1828,
+    0.76566,
+    0.2077
+   ]
+  },
+  {
+   "text": "\"Ib\", \"1\" and \"ÉJ\" are structural particles with different usages. \"Itb\" is used after an",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.21657,
+    0.88953,
+    0.23401
+   ]
+  },
+  {
+   "text": "adverbial, \"1J\" is used after a verb or an adjective and before a complement, while \"íJ\" is used",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.23828,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "after an attributive, e.g.,",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.26308,
+    0.33915,
+    0.27783
+   ]
+  },
+  {
+   "text": "OKK",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.29651,
+    0.27326,
+    0.3125
+   ]
+  },
+  {
+   "text": "Mànmàn de, wò xíguànle zão shui zào qí.",
+   "conf": 0.3,
+   "bbox": [
+    0.21512,
+    0.31686,
+    0.55426,
+    0.33301
+   ]
+  },
+  {
+   "text": "Tã gãoxing de shuo: \"Zhè zhẽn shì tài hão le!\"",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.35889,
+    0.59884,
+    0.37646
+   ]
+  },
+  {
+   "text": "3 H A E H$ 17 1R N, *17 1 7.",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.38517,
+    0.57171,
+    0.40576
+   ]
+  },
+  {
+   "text": "Tã mặi tiăn shui de hẽn wăn, qĩ de hẽn zão.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.40407,
+    0.56977,
+    0.42297
+   ]
+  },
+  {
+   "text": "Nà shíhou de wõ shì ge diănxing de yèmãozi.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.44913,
+    0.56977,
+    0.46533
+   ]
+  },
+  {
+   "text": "7",
+   "conf": 0.3,
+   "bbox": [
+    0.12791,
+    0.52762,
+    0.1686,
+    0.55378
+   ]
+  },
+  {
+   "text": "7J6E REVIEW TASKS",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.53174,
+    0.59884,
+    0.55378
+   ]
+  },
+  {
+   "text": "ЩЗАТИШ, ТИИИДУШ, МІЛИНН.",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.57994,
+    0.68605,
+    0.59884
+   ]
+  },
+  {
+   "text": "Please ask 3 to 4 of your friends about their habits and write a report in Chinese.",
+   "conf": 1.0,
+   "bbox": [
+    0.18798,
+    0.60303,
+    0.82558,
+    0.62064
+   ]
+  },
+  {
+   "text": "#T:",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.63953,
+    0.24031,
+    0.65698
+   ]
+  },
+  {
+   "text": "Clues:",
+   "conf": 1.0,
+   "bbox": [
+    0.18798,
+    0.66134,
+    0.23643,
+    0.67442
+   ]
+  },
+  {
+   "text": "471",
+   "conf": 0.3,
+   "bbox": [
+    0.70508,
+    0.67432,
+    0.8314,
+    0.69482
+   ]
+  },
+  {
+   "text": "IHELH, AH4?",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.69913,
+    0.50194,
+    0.72093
+   ]
+  },
+  {
+   "text": "What are your friends' habits? When did they begin to have their habits? If",
+   "conf": 1.0,
+   "bbox": [
+    0.28101,
+    0.72656,
+    0.83527,
+    0.74128
+   ]
+  },
+  {
+   "text": "they change their habits, how would they feel? How do you feel about their",
+   "conf": 1.0,
+   "bbox": [
+    0.27907,
+    0.74707,
+    0.83333,
+    0.76172
+   ]
+  },
+  {
+   "text": "habits and why?",
+   "conf": 1.0,
+   "bbox": [
+    0.27907,
+    0.76744,
+    0.39922,
+    0.78076
+   ]
+  }
+ ]
+}

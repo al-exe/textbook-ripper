@@ -1,0 +1,697 @@
+{
+ "page": 42,
+ "cjk_pass": [
+  {
+   "text": "26",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.33866,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language ［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "有理有据",
+   "conf": 1.0,
+   "bbox": [
+    0.15304,
+    0.12773,
+    0.24231,
+    0.14552
+   ]
+  },
+  {
+   "text": "Well-grounded",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.13081,
+    0.39535,
+    0.14697
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17049,
+    0.16701,
+    0.25199,
+    0.18328
+   ]
+  },
+  {
+   "text": "小丽说“看来流行的不一定是适合自己的”，你怎么看这句话？和你",
+   "conf": 0.5,
+   "bbox": [
+    0.28101,
+    0.16553,
+    0.89147,
+    0.18605
+   ]
+  },
+  {
+   "text": "的同伴们讨论一下，给出自己的观点和支持的例证。在班里讨论。",
+   "conf": 1.0,
+   "bbox": [
+    0.28101,
+    0.19041,
+    0.84884,
+    0.20947
+   ]
+  },
+  {
+   "text": "Group work: Xiaoli says， \"It seems that the fashionable thing is not necessarily the suitable",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.21924,
+    0.89147,
+    0.23401
+   ]
+  },
+  {
+   "text": "one.” What do you think of this sentence? Discuss with your partners, and give",
+   "conf": 0.5,
+   "bbox": [
+    0.28488,
+    0.23828,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "your own opinions with supporting examples. Then discuss it in the class.",
+   "conf": 0.5,
+   "bbox": [
+    0.28295,
+    0.26017,
+    0.82364,
+    0.27344
+   ]
+  },
+  {
+   "text": "匹",
+   "conf": 0.3,
+   "bbox": [
+    0.12791,
+    0.35174,
+    0.16085,
+    0.37645
+   ]
+  },
+  {
+   "text": "〔1",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.40407,
+    0.14341,
+    0.42733
+   ]
+  },
+  {
+   "text": "语法点注彩",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.35156,
+    0.33333,
+    0.375
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35271,
+    0.35303,
+    0.64729,
+    0.37209
+   ]
+  },
+  {
+   "text": "•••⋯，再说",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.40674,
+    0.25969,
+    0.42442
+   ]
+  },
+  {
+   "text": "The conjunction ••",
+   "conf": 0.3,
+   "bbox": [
+    0.32364,
+    0.4082,
+    0.50969,
+    0.42442
+   ]
+  },
+  {
+   "text": "•，再说⋯…”",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.40552,
+    0.65504,
+    0.42442
+   ]
+  },
+  {
+   "text": "连词“再说”用于引出一个新的原因或理由。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.44186,
+    0.60271,
+    0.46094
+   ]
+  },
+  {
+   "text": "“再说”，a conjunction, is used to introduce a new reason. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.46924,
+    0.71705,
+    0.48401
+   ]
+  },
+  {
+   "text": "①去 中国 可以了解 中国 文化，再说 还可以提高 我的口语 水平。",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.49707,
+    0.88953,
+    0.51758
+   ]
+  },
+  {
+   "text": "Qu Zhongguo keyi lidojie Zhongguo wenhud, zdishuo hai keyi tigao wo de kouyt shuiping.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.51744,
+    0.90116,
+    0.53343
+   ]
+  },
+  {
+   "text": "② 这 件衣服颜色 很 漂亮，再说 价钱也不贵，买了吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.15107,
+    0.5431,
+    0.74042,
+    0.56399
+   ]
+  },
+  {
+   "text": "Zhe jian yifu yanse hen piaoliang, zdishuo jidqian ye bu gui, mdile ba.",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.56395,
+    0.7345,
+    0.58008
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.64244,
+    0.13372,
+    0.65698
+   ]
+  },
+  {
+   "text": "看来",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.63953,
+    0.19574,
+    0.65698
+   ]
+  },
+  {
+   "text": "The usage of “看来”",
+   "conf": 0.3,
+   "bbox": [
+    0.20543,
+    0.64099,
+    0.4031,
+    0.65843
+   ]
+  },
+  {
+   "text": "“看来”表示通过对某些现象的观察、分析，做出大概的判断或估计。常用于口",
+   "conf": 1.0,
+   "bbox": [
+    0.1938,
+    0.67285,
+    0.88566,
+    0.69189
+   ]
+  },
+  {
+   "text": "语，做插入语。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.69622,
+    0.34496,
+    0.71387
+   ]
+  },
+  {
+   "text": "“看来” is usually used as a parenthesis in oral Chinese, indicating a rough judgment or",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.71802,
+    0.89147,
+    0.73401
+   ]
+  },
+  {
+   "text": "estimation after the observation and analysis of some phenomena. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15499,
+    0.74121,
+    0.78881,
+    0.75777
+   ]
+  },
+  {
+   "text": "①他总穿黑色的衣服，看来他很喜欢黑色。",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.7718,
+    0.68798,
+    0.7907
+   ]
+  },
+  {
+   "text": "Ta zong chuan heise de yifu, kanlai ta hen xihuan heise.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.79199,
+    0.68217,
+    0.80669
+   ]
+  },
+  {
+   "text": "② 都 这么晚了，看来他不回来了。",
+   "conf": 0.3,
+   "bbox": [
+    0.19153,
+    0.81227,
+    0.56435,
+    0.83733
+   ]
+  },
+  {
+   "text": "Dou zheme wan le，",
+   "conf": 0.5,
+   "bbox": [
+    0.21674,
+    0.83341,
+    0.38976,
+    0.85088
+   ]
+  },
+  {
+   "text": "kanlai ta bu huilai le.",
+   "conf": 0.5,
+   "bbox": [
+    0.38566,
+    0.83721,
+    0.55426,
+    0.85029
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "26",
+   "conf": 1.0,
+   "bbox": [
+    0.03295,
+    0.33866,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05957,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "AHHIE",
+   "conf": 0.3,
+   "bbox": [
+    0.15304,
+    0.12773,
+    0.24231,
+    0.14552
+   ]
+  },
+  {
+   "text": "Well-grounded",
+   "conf": 1.0,
+   "bbox": [
+    0.26163,
+    0.13081,
+    0.39535,
+    0.1468
+   ]
+  },
+  {
+   "text": "МШЙ \"АЖОИТКК ДОАДНСК\" , КЕСАВНЙ? ТИ",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.16553,
+    0.89147,
+    0.18605
+   ]
+  },
+  {
+   "text": "HaTATiEТ, аСКЖаАХИ ТБНН®",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.19041,
+    0.84884,
+    0.20947
+   ]
+  },
+  {
+   "text": "Group work: Xiaoli says, \"It seems that the fashionable thing is not necessarily the suitable",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.21924,
+    0.89147,
+    0.23401
+   ]
+  },
+  {
+   "text": "one.\" What do you think of this sentence? Discuss with your partners, and give",
+   "conf": 1.0,
+   "bbox": [
+    0.28488,
+    0.23828,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "your own opinions with supporting examples. Then discuss it in the class.",
+   "conf": 1.0,
+   "bbox": [
+    0.28295,
+    0.26017,
+    0.82364,
+    0.27344
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.40407,
+    0.14341,
+    0.42733
+   ]
+  },
+  {
+   "text": "iEizmiti",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.35174,
+    0.33333,
+    0.375
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35271,
+    0.35303,
+    0.64729,
+    0.37209
+   ]
+  },
+  {
+   "text": "•....., Fі",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.40674,
+    0.25969,
+    0.42442
+   ]
+  },
+  {
+   "text": "The conjunction\"...",
+   "conf": 0.3,
+   "bbox": [
+    0.32364,
+    0.4082,
+    0.50969,
+    0.42442
+   ]
+  },
+  {
+   "text": "• Пі.\"",
+   "conf": 0.3,
+   "bbox": [
+    0.51938,
+    0.40552,
+    0.65504,
+    0.42442
+   ]
+  },
+  {
+   "text": "Мі \"Иі\" ЛтЕШ МАКЛАЖтИ ФІМ:",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.44186,
+    0.60271,
+    0.46094
+   ]
+  },
+  {
+   "text": "\"IFit\", a conjunction, is used to introduce a new reason. For example:",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.46924,
+    0.71705,
+    0.48401
+   ]
+  },
+  {
+   "text": "тд тоВ РО іН ЛЙ ДТИНЙ АИСВ КЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.49707,
+    0.88953,
+    0.51758
+   ]
+  },
+  {
+   "text": "Qù Zhôngguó kẽyĩ liăojiẽ Zhôngguó wénhuà, zàishuo hái kẽyi tígão wõ de kõuyu shui píng.",
+   "conf": 0.5,
+   "bbox": [
+    0.17442,
+    0.51744,
+    0.90116,
+    0.53343
+   ]
+  },
+  {
+   "text": "Zhè jiàn yifu yánsè hẽn pidoliang, zàishuo jiàqián yẽ bú guì, mãile ba.",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.56395,
+    0.7345,
+    0.58008
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.64244,
+    0.13372,
+    0.65698
+   ]
+  },
+  {
+   "text": "7*",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.63953,
+    0.19574,
+    0.65698
+   ]
+  },
+  {
+   "text": "The usage of \"E*\"",
+   "conf": 0.5,
+   "bbox": [
+    0.20543,
+    0.64099,
+    0.4031,
+    0.65843
+   ]
+  },
+  {
+   "text": "WЛТИ",
+   "conf": 0.3,
+   "bbox": [
+    0.80339,
+    0.67285,
+    0.88566,
+    0.69189
+   ]
+  },
+  {
+   "text": "it, WtiliNitio BUtn:",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.69622,
+    0.34496,
+    0.71387
+   ]
+  },
+  {
+   "text": "\"Ti *\" is usually used as a parenthesis in oral Chinese, indicating a rough judgment or",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.71802,
+    0.89147,
+    0.73401
+   ]
+  },
+  {
+   "text": "estimation after the observation and analysis of some phenomena. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.15499,
+    0.74121,
+    0.78881,
+    0.75777
+   ]
+  },
+  {
+   "text": "ТД К",
+   "conf": 0.3,
+   "bbox": [
+    0.19186,
+    0.7718,
+    0.68798,
+    0.7907
+   ]
+  },
+  {
+   "text": "Tã zăng chuăn hẽisè de yĩfu, kànlái tã hẽn xihuan hẽisè.",
+   "conf": 0.5,
+   "bbox": [
+    0.21512,
+    0.79199,
+    0.68217,
+    0.80669
+   ]
+  },
+  {
+   "text": "NRT, #*RT*3.",
+   "conf": 0.3,
+   "bbox": [
+    0.3083,
+    0.81379,
+    0.56435,
+    0.83733
+   ]
+  },
+  {
+   "text": "Dõu zhème wăn le,",
+   "conf": 0.3,
+   "bbox": [
+    0.21674,
+    0.83341,
+    0.38976,
+    0.85088
+   ]
+  },
+  {
+   "text": "kànlái tã bù huílai le.",
+   "conf": 0.5,
+   "bbox": [
+    0.38566,
+    0.83721,
+    0.55426,
+    0.85029
+   ]
+  }
+ ]
+}

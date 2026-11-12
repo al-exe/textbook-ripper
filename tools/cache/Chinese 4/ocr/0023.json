@@ -1,0 +1,637 @@
+{
+ "page": 23,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［4］",
+   "conf": 0.5,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "专有名词",
+   "conf": 1.0,
+   "bbox": [
+    0.11043,
+    0.13216,
+    0.20547,
+    0.15127
+   ]
+  },
+  {
+   "text": "Proper Noun",
+   "conf": 0.5,
+   "bbox": [
+    0.22477,
+    0.1321,
+    0.40508,
+    0.15569
+   ]
+  },
+  {
+   "text": "欢乐谷",
+   "conf": 1.0,
+   "bbox": [
+    0.20349,
+    0.17285,
+    0.27326,
+    0.19043
+   ]
+  },
+  {
+   "text": "Huanle Gu",
+   "conf": 0.5,
+   "bbox": [
+    0.33717,
+    0.17717,
+    0.41864,
+    0.18911
+   ]
+  },
+  {
+   "text": "Happy Valley",
+   "conf": 0.5,
+   "bbox": [
+    0.48446,
+    0.1772,
+    0.58336,
+    0.19198
+   ]
+  },
+  {
+   "text": "任务及活动",
+   "conf": 1.0,
+   "bbox": [
+    0.18411,
+    0.22803,
+    0.33915,
+    0.25293
+   ]
+  },
+  {
+   "text": "4",
+   "conf": 0.3,
+   "bbox": [
+    0.03876,
+    0.26017,
+    0.06008,
+    0.27616
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 0.5,
+   "bbox": [
+    0.35271,
+    0.22949,
+    0.73256,
+    0.25
+   ]
+  },
+  {
+   "text": "（一）任务示范 Task Demonstration",
+   "conf": 0.5,
+   "bbox": [
+    0.31008,
+    0.2832,
+    0.67829,
+    0.30233
+   ]
+  },
+  {
+   "text": "6",
+   "conf": 1.0,
+   "bbox": [
+    0.03876,
+    0.34157,
+    0.05426,
+    0.3561
+   ]
+  },
+  {
+   "text": "故事场景",
+   "conf": 1.0,
+   "bbox": [
+    0.15891,
+    0.34863,
+    0.24031,
+    0.36628
+   ]
+  },
+  {
+   "text": "傍晚大龙和小丽看完京剧，走在回家的路上。",
+   "conf": 1.0,
+   "bbox": [
+    0.3062,
+    0.3501,
+    0.68217,
+    0.37064
+   ]
+  },
+  {
+   "text": "The scene of the story: Dalong and Xiaoli are walking home in the evening after watching a Beijing",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.40116,
+    0.88953,
+    0.4157
+   ]
+  },
+  {
+   "text": "opera.",
+   "conf": 0.5,
+   "bbox": [
+    0.30614,
+    0.42426,
+    0.35471,
+    0.43475
+   ]
+  },
+  {
+   "text": "小丽：你觉得刚才 看的京剧 怎么样？",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.4564,
+    0.53101,
+    0.47529
+   ]
+  },
+  {
+   "text": "Xidoli: Ni juede gangcdi kon de jingjd zenmeydng？",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.47803,
+    0.53876,
+    0.49564
+   ]
+  },
+  {
+   "text": "大龙：很有意思！武戏简直太精彩了！",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.50436,
+    0.53876,
+    0.52197
+   ]
+  },
+  {
+   "text": "Dalong: Hen you yisi! Wuxi jidnzhi tai jingcai le！",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.52616,
+    0.52907,
+    0.54215
+   ]
+  },
+  {
+   "text": "小丽：我 更喜欢文戏，唱腔 很美，服装 也 漂亮。",
+   "conf": 0.3,
+   "bbox": [
+    0.13556,
+    0.55034,
+    0.71523,
+    0.57127
+   ]
+  },
+  {
+   "text": "Xidoll: Wo geng xihuan wenxi, changqiang hen mei, fuzhuang ye pidoliang.",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.57267,
+    0.72287,
+    0.58887
+   ]
+  },
+  {
+   "text": "大龙：你看！那边围了那么多人，是不是出事了？",
+   "conf": 1.0,
+   "bbox": [
+    0.13566,
+    0.59863,
+    0.67636,
+    0.61773
+   ]
+  },
+  {
+   "text": "Dalong: Ni kan! Nabian weile name duo ren, shi bu shi chu shile？",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.62354,
+    0.66667,
+    0.63818
+   ]
+  },
+  {
+   "text": "小丽：别担心，他们在看下棋呢。",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.6468,
+    0.50388,
+    0.66715
+   ]
+  },
+  {
+   "text": "Xidoli: Bie dan xin, tamen zdi kan xid qi ne.",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.67285,
+    0.49225,
+    0.68896
+   ]
+  },
+  {
+   "text": "大龙：在街边下棋？真好玩儿，在 美国 别说 在街边 坐着下棋，",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.69767,
+    0.84302,
+    0.7168
+   ]
+  },
+  {
+   "text": "Dalong: Zdi jie bian xid qi? Zhen hdowanr, zdi Meiguo bieshuo zdi jie bian zuozhe xid qi，",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.72363,
+    0.83333,
+    0.73983
+   ]
+  },
+  {
+   "text": "就是走路的人都很少。",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.74707,
+    0.45543,
+    0.76758
+   ]
+  },
+  {
+   "text": "jishi zu l deen dou hen shoo.",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.7718,
+    0.4593,
+    0.78634
+   ]
+  },
+  {
+   "text": "小丽：走，去看看吧。让你体验一下 中国人 的娱乐 生活。",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.79639,
+    0.77132,
+    0.81543
+   ]
+  },
+  {
+   "text": "Xidoli: Zou, qu kankan ba. Rang ni tiyan yixid Zhongguoren de yule shenghuo.",
+   "conf": 0.3,
+   "bbox": [
+    0.12984,
+    0.82122,
+    0.77907,
+    0.8374
+   ]
+  },
+  {
+   "text": "大龙：正好！ 检验一下你爸爸教我的 成果。",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.8457,
+    0.62209,
+    0.86628
+   ]
+  },
+  {
+   "text": "Dalong: Zhenghdo! Jidnyan yixid ni baba jido wa de chengguo.",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.87061,
+    0.63372,
+    0.88672
+   ]
+  },
+  {
+   "text": "（看完 棋，继续走）",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.89535,
+    0.36822,
+    0.90988
+   ]
+  },
+  {
+   "text": "（Kanwan qi, jixu zou）",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.9126,
+    0.37209,
+    0.92733
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4]",
+   "conf": 1.0,
+   "bbox": [
+    0.10078,
+    0.05811,
+    0.55814,
+    0.07861
+   ]
+  },
+  {
+   "text": "Proper Noun",
+   "conf": 1.0,
+   "bbox": [
+    0.22477,
+    0.1321,
+    0.40508,
+    0.15569
+   ]
+  },
+  {
+   "text": "XKH 1",
+   "conf": 0.3,
+   "bbox": [
+    0.20349,
+    0.17285,
+    0.27326,
+    0.19043
+   ]
+  },
+  {
+   "text": "Huãnle Gu",
+   "conf": 0.3,
+   "bbox": [
+    0.33717,
+    0.17717,
+    0.41864,
+    0.18911
+   ]
+  },
+  {
+   "text": "Happy Valley",
+   "conf": 1.0,
+   "bbox": [
+    0.48446,
+    0.1772,
+    0.58336,
+    0.19198
+   ]
+  },
+  {
+   "text": "1171iZD",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.2282,
+    0.33915,
+    0.25291
+   ]
+  },
+  {
+   "text": "4",
+   "conf": 1.0,
+   "bbox": [
+    0.03876,
+    0.26017,
+    0.06008,
+    0.27616
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 1.0,
+   "bbox": [
+    0.35271,
+    0.22949,
+    0.73256,
+    0.25
+   ]
+  },
+  {
+   "text": "(-) 1E3TSE Task Demonstration",
+   "conf": 0.3,
+   "bbox": [
+    0.31008,
+    0.2832,
+    0.67829,
+    0.30233
+   ]
+  },
+  {
+   "text": "6",
+   "conf": 1.0,
+   "bbox": [
+    0.03876,
+    0.34157,
+    0.05426,
+    0.3561
+   ]
+  },
+  {
+   "text": "LIЛAИNNAOCAE CHMSEO",
+   "conf": 0.3,
+   "bbox": [
+    0.3062,
+    0.3501,
+    0.68217,
+    0.37064
+   ]
+  },
+  {
+   "text": "The scene of the story: Dalong and Xiaoli are walking home in the evening after watching a Beijing",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.40116,
+    0.88953,
+    0.4157
+   ]
+  },
+  {
+   "text": "opera.",
+   "conf": 1.0,
+   "bbox": [
+    0.30614,
+    0.42426,
+    0.35471,
+    0.43475
+   ]
+  },
+  {
+   "text": "Xiăolì: Nĩ juéde gãngcái kàn de jĩngjù zẽnmeyàng?",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.47803,
+    0.53876,
+    0.49564
+   ]
+  },
+  {
+   "text": "TH HE! AÀHÉK HHT!",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.50436,
+    0.53876,
+    0.52197
+   ]
+  },
+  {
+   "text": "Dàlóng: Hăn yõu yìsi! Wũxì jiănzhí tài jĩngcãi le!",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.52616,
+    0.52907,
+    0.54215
+   ]
+  },
+  {
+   "text": "Xiăolì: Wõ gèng xihuan wénxì, chàngqiãng hẽn mẽi, fúzhuãng yẽ piàoliang.",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.57267,
+    0.72287,
+    0.58887
+   ]
+  },
+  {
+   "text": "Dàlóng: Nĩ kàn! Nàbiãn wéile nàme duo rén, shì bu shì chũ shì le?",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.62354,
+    0.66667,
+    0.63818
+   ]
+  },
+  {
+   "text": "Xiăolì: Bié dăn xín, tămen zài kàn xià qí ne.",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.67285,
+    0.49225,
+    0.68896
+   ]
+  },
+  {
+   "text": "ТИ ТНДТНТТЦ",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.69767,
+    0.84302,
+    0.7168
+   ]
+  },
+  {
+   "text": "Dàlóng: Zài jiẽ biãn xià qí? Zhẽn hãowánr, zài Mẽiguó biéshuo zài jiẽ biãn zuòzhe xià qí,",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.72363,
+    0.83333,
+    0.73983
+   ]
+  },
+  {
+   "text": "jiùshì zòu lù de rén dõu hẽn shão.",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.7718,
+    0.4593,
+    0.78634
+   ]
+  },
+  {
+   "text": "Xiăolì: Zòu, qù kànkan ba. Ràng nĩ tĩyàn yíxià Zhongguórén de yúlè shenghuó.",
+   "conf": 0.5,
+   "bbox": [
+    0.12984,
+    0.82122,
+    0.77907,
+    0.8374
+   ]
+  },
+  {
+   "text": "tt: IEt7] t 4 - F1EE# Hn s*",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.8457,
+    0.62209,
+    0.86628
+   ]
+  },
+  {
+   "text": "Dàlóng: Zhènghão! Jiănyàn yíxià nĩ bàba jião wõ de chéngguõ.",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.87061,
+    0.63372,
+    0.88672
+   ]
+  },
+  {
+   "text": "(Kànwán qí, jìxù zòu)",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.9126,
+    0.37209,
+    0.92733
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.5,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ]
+}

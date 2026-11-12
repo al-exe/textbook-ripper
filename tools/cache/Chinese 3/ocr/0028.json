@@ -1,0 +1,697 @@
+{
+ "page": 28,
+ "cjk_pass": [
+  {
+   "text": "Unit 1 Talking about the Characteristics of a Person",
+   "conf": 0.5,
+   "bbox": [
+    0.33721,
+    0.05957,
+    0.9031,
+    0.08008
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.12791,
+    0.14147,
+    0.14826
+   ]
+  },
+  {
+   "text": "描述你的理想伴侣",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.12936,
+    0.33333,
+    0.14697
+   ]
+  },
+  {
+   "text": "Deseribe your Mr: / Miss Right",
+   "conf": 0.5,
+   "bbox": [
+    0.34496,
+    0.13227,
+    0.62209,
+    0.1499
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17606,
+    0.17068,
+    0.25999,
+    0.18979
+   ]
+  },
+  {
+   "text": "下面的电子邮件是查理写给朋友的信，信里他向朋友介绍了自己的中",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.17139,
+    0.88953,
+    0.19189
+   ]
+  },
+  {
+   "text": "国女朋友。阅读这个电子邮件，然后请你向同伴介绍一下查理对中国",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.19186,
+    0.88953,
+    0.21094
+   ]
+  },
+  {
+   "text": "女孩儿看法的变化。",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.21076,
+    0.46899,
+    0.22965
+   ]
+  },
+  {
+   "text": "Pair work: Charlie's email to his friend is as follows, in which he talked about his Chinese",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.23828,
+    0.89147,
+    0.25293
+   ]
+  },
+  {
+   "text": "girlfriend. Read it and then tell the rest of your classmates how Charlie changed",
+   "conf": 0.5,
+   "bbox": [
+    0.29264,
+    0.26163,
+    0.88953,
+    0.2749
+   ]
+  },
+  {
+   "text": "his views about Chinese girls.",
+   "conf": 0.5,
+   "bbox": [
+    0.29264,
+    0.2832,
+    0.51163,
+    0.29651
+   ]
+  },
+  {
+   "text": "大卫：",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.32558,
+    0.19186,
+    0.34448
+   ]
+  },
+  {
+   "text": "好久没给你写email了，因为最近我比较忙。猜猜为什么？哈哈，我交",
+   "conf": 1.0,
+   "bbox": [
+    0.17248,
+    0.35156,
+    0.87403,
+    0.37209
+   ]
+  },
+  {
+   "text": "了一个女朋友，一个既漂亮又可爱的中国女朋友，她叫小爱。",
+   "conf": 1.0,
+   "bbox": [
+    0.13566,
+    0.37645,
+    0.74225,
+    0.39697
+   ]
+  },
+  {
+   "text": "来中国以前，我们都觉得中国女孩儿漂亮是漂亮，可是既腼腆又害羞",
+   "conf": 1.0,
+   "bbox": [
+    0.17442,
+    0.39971,
+    0.87597,
+    0.42006
+   ]
+  },
+  {
+   "text": "（bashful, shy），总之，不太开朗，也不太活泼。可是，我认识小爱以后，发",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.42578,
+    0.87403,
+    0.44629
+   ]
+  },
+  {
+   "text": "现这种看法真是大错特错。她性格既开朗又活泼，总是笑口常开，跟她聊",
+   "conf": 1.0,
+   "bbox": [
+    0.13178,
+    0.44913,
+    0.87597,
+    0.47093
+   ]
+  },
+  {
+   "text": "天儿，我觉得特别开心。还有，她特别聪明，她了解世界各地的文化和习",
+   "conf": 1.0,
+   "bbox": [
+    0.13178,
+    0.47363,
+    0.87403,
+    0.49419
+   ]
+  },
+  {
+   "text": "惯。跟她在一起，我也能了解到很多新（new）的东西。所以，现在我对中",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.5,
+    0.87403,
+    0.52051
+   ]
+  },
+  {
+   "text": "国女孩子的看法（view）完全改变（to change, to alter）了•••",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.52471,
+    0.68605,
+    0.54215
+   ]
+  },
+  {
+   "text": "Dawei：",
+   "conf": 1.0,
+   "bbox": [
+    0.13566,
+    0.56395,
+    0.19767,
+    0.57715
+   ]
+  },
+  {
+   "text": "Haojid mei gei ni xie email le, yinwei zuijin wo bijiao mang. Caicai wei shenme？",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.58576,
+    0.87209,
+    0.6032
+   ]
+  },
+  {
+   "text": "Haha,wo jiaole yi ge ndpengyou, yi ge j pidoliang you kerdi de Zhongguo ntpengyou，",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.60742,
+    0.8624,
+    0.625
+   ]
+  },
+  {
+   "text": "ta jido Xidodi.",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.63081,
+    0.25194,
+    0.64697
+   ]
+  },
+  {
+   "text": "Lai Zhongguo yiqian, women dou juede Zhongguo nthdir pidoliang shi pidoliang，",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.65262,
+    0.8624,
+    0.67006
+   ]
+  },
+  {
+   "text": "keshi ji midntian you hdixid, zongzhi, bu tai kailang,ye bu tai huopo. Keshi, wo renshi",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.67432,
+    0.87403,
+    0.69336
+   ]
+  },
+  {
+   "text": "Xidordi yihou, faxian zhe zhong kanfa zhen shi dd cuo te cuo. Ta xingge ji koilbng you",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.69622,
+    0.87209,
+    0.71533
+   ]
+  },
+  {
+   "text": "huopo, zongshi xido kou chang kai, gen ta liaotianr, wo juede tebie kaixin. Hdiyou，",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.71924,
+    0.8624,
+    0.73837
+   ]
+  },
+  {
+   "text": "ta tebie congming, ta lidojie shijie ge di de wenhud he xiguan.Gen ta zdi yiai, wo ye",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.73975,
+    0.87209,
+    0.75879
+   ]
+  },
+  {
+   "text": "neng lidojie ddo hen duo xin de dongxi. Suoyi, xianzdi wo dui Zhongguo ndihdizi de kanfd",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.76308,
+    0.87403,
+    0.78198
+   ]
+  },
+  {
+   "text": "wanquan gaibian le.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.78613,
+    0.32752,
+    0.80087
+   ]
+  },
+  {
+   "text": "11",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.34302,
+    0.96512,
+    0.3561
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17824,
+    0.84723,
+    0.25974,
+    0.86352
+   ]
+  },
+  {
+   "text": "Group work：",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.8939,
+    0.27907,
+    0.90988
+   ]
+  },
+  {
+   "text": "四人一组，交流彼此对理想伴侣的看法，可以从如下几方面展开讨",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.84863,
+    0.88953,
+    0.86628
+   ]
+  },
+  {
+   "text": "论：外貌、性格、年龄、身高、经历。",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.86768,
+    0.62016,
+    0.88672
+   ]
+  },
+  {
+   "text": "Work in groups of four and exchange ideas about your Mr./Miss Right in the",
+   "conf": 0.5,
+   "bbox": [
+    0.29264,
+    0.89535,
+    0.89147,
+    0.90988
+   ]
+  },
+  {
+   "text": "following aspects: his/her appearance, character, age, height and experience.",
+   "conf": 0.5,
+   "bbox": [
+    0.29264,
+    0.91699,
+    0.85078,
+    0.93169
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 1 Talking about the Characteristics of a Person",
+   "conf": 1.0,
+   "bbox": [
+    0.33721,
+    0.05957,
+    0.9031,
+    0.08008
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.12791,
+    0.14147,
+    0.14826
+   ]
+  },
+  {
+   "text": "FEZ17#779481÷18",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.12936,
+    0.33333,
+    0.1468
+   ]
+  },
+  {
+   "text": "Describe your Mr./ Miss Right",
+   "conf": 1.0,
+   "bbox": [
+    0.34496,
+    0.13227,
+    0.62209,
+    0.1499
+   ]
+  },
+  {
+   "text": "GIAAAAOÁ",
+   "conf": 0.3,
+   "bbox": [
+    0.62386,
+    0.17139,
+    0.88953,
+    0.19189
+   ]
+  },
+  {
+   "text": "KELFHEI.",
+   "conf": 0.3,
+   "bbox": [
+    0.29264,
+    0.21076,
+    0.46899,
+    0.22965
+   ]
+  },
+  {
+   "text": "Pair work: Charlie's email to his friend is as follows, in which he talked about his Chinese",
+   "conf": 1.0,
+   "bbox": [
+    0.18605,
+    0.23828,
+    0.89147,
+    0.25293
+   ]
+  },
+  {
+   "text": "girlfriend. Read it and then tell the rest of your classmates how Charlie changed",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.26163,
+    0.88953,
+    0.2749
+   ]
+  },
+  {
+   "text": "his views about Chinese girls.",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.2832,
+    0.51163,
+    0.29651
+   ]
+  },
+  {
+   "text": "*E:",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.32558,
+    0.19186,
+    0.34448
+   ]
+  },
+  {
+   "text": "ЗЛтта, иЛАлтЕрРЕкИА, 1,К.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.37645,
+    0.74225,
+    0.39697
+   ]
+  },
+  {
+   "text": "(bashful, sh ) б тттд, Сттд тЕ длдТяКЕ,И",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.42578,
+    0.87403,
+    0.44629
+   ]
+  },
+  {
+   "text": "яжА",
+   "conf": 0.3,
+   "bbox": [
+    0.79753,
+    0.44913,
+    0.87597,
+    0.47093
+   ]
+  },
+  {
+   "text": "11",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.34302,
+    0.96512,
+    0.3561
+   ]
+  },
+  {
+   "text": "(vw (to change, to alter) 3 .....",
+   "conf": 0.3,
+   "bbox": [
+    0.29867,
+    0.52471,
+    0.68605,
+    0.54215
+   ]
+  },
+  {
+   "text": "Dàwèi:",
+   "conf": 1.0,
+   "bbox": [
+    0.13566,
+    0.56395,
+    0.19767,
+    0.57703
+   ]
+  },
+  {
+   "text": "Hãojiù méi gẽi nĩ xiẽ email le, yinwèi zuiìn wõ bĩjiào máng. Cãicai wèi shénme?",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.58576,
+    0.87209,
+    0.6032
+   ]
+  },
+  {
+   "text": "Hãha, wõ jiãole yí ge nüpéngyou, yí ge jì piaoliang yòu kẽ ài de Zhõngguó núpéngyou,",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.60742,
+    0.8624,
+    0.625
+   ]
+  },
+  {
+   "text": "tã jiào Xiăo ài.",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.63081,
+    0.25194,
+    0.64697
+   ]
+  },
+  {
+   "text": "Lái Zhõngguó yĩqián, wămen dõu juéde Zhõngguó nüháir piàoliang shì piaoliang,",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.65262,
+    0.8624,
+    0.67006
+   ]
+  },
+  {
+   "text": "kẽshì jì miăntiăn yàu hàixiũ, zăngzhĩ, bú tài kãilăng, yẽ bú tài huópo. Kẽshì, wõ rènshi",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.67432,
+    0.87403,
+    0.69336
+   ]
+  },
+  {
+   "text": "Xião ài yĩhòu, fãxiàn zhè zhăng kànfă zhẽn shì dà cuò tè cuò. Tã xinggé jì kãi lăng yàu",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.69622,
+    0.87209,
+    0.71533
+   ]
+  },
+  {
+   "text": "huópõ, zăngshì xiào kõu cháng kãi, gên tã líáotiầnr, wõ juéde tèbié kãixin. Háiyău,",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.71924,
+    0.8624,
+    0.73837
+   ]
+  },
+  {
+   "text": "tà tèbié cõngming, tã liãojiẽ shìjiè gè dì de wénhuà hé xíguàn. Gèn tã zài yiai, wõ yẽ",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.73975,
+    0.87209,
+    0.75879
+   ]
+  },
+  {
+   "text": "néng liăojiẽ dào hẽn duo xin de dõngxi. Suoyĩ, xiànzài wõ dui Zhôngguó năháizi de kànfă",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.76308,
+    0.87403,
+    0.78198
+   ]
+  },
+  {
+   "text": "wánquán gặibiàn le......",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.78613,
+    0.32752,
+    0.80087
+   ]
+  },
+  {
+   "text": "Group work:",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.8939,
+    0.27907,
+    0.90988
+   ]
+  },
+  {
+   "text": "р4Л4, слкихтДНКВх, ПОлштЛУМЕЛИ",
+   "conf": 0.3,
+   "bbox": [
+    0.29264,
+    0.84863,
+    0.88953,
+    0.86628
+   ]
+  },
+  {
+   "text": "i: NM. 4M. D. 40.",
+   "conf": 0.3,
+   "bbox": [
+    0.29264,
+    0.86768,
+    0.62016,
+    0.88672
+   ]
+  },
+  {
+   "text": "Work in groups of four and exchange ideas about your Mr./Miss Right in the",
+   "conf": 0.5,
+   "bbox": [
+    0.29264,
+    0.89535,
+    0.89147,
+    0.90988
+   ]
+  },
+  {
+   "text": "following aspects: his/her appearance, character, age, height and experience.",
+   "conf": 1.0,
+   "bbox": [
+    0.29264,
+    0.91699,
+    0.85078,
+    0.93169
+   ]
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+  "book": "Chinese 4",
+  "unit": 8,
+  "kind": "grammar",
+  "title": {"zh": "环境", "py": "Huánjìng", "en": "Environment"},
+  "source": "PDF pp. 126, 131–133, 136–139 (printed pp. 111, 116–118, 121–124)",
+  "intro": "This unit is about pollution and protecting the environment. Grammar: (1) 再加上 “on top of that / added to which”; (2) 幸亏 “fortunately, luckily”. The self-test also checks where 只 “only” goes. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "前些年这里水污染特别严重。", "py": "Qián xiē nián zhèli shuǐ wūrǎn tèbié yánzhòng.", "en": "A few years ago the water pollution here was especially bad."},
+    {"zh": "幸亏这些年人们认识到了环保的重要性。", "py": "Xìngkuī zhèxiē nián rénmen rènshi dàole huánbǎo de zhòngyàoxìng.", "en": "Fortunately, in recent years people have realised how important environmental protection is."},
+    {"zh": "都说环境破坏起来容易，治理起来难。", "py": "Dōu shuō huánjìng pòhuài qǐlai róngyì, zhìlǐ qǐlai nán.", "en": "As everyone says, the environment is easy to destroy and hard to fix."},
+    {"zh": "如果不保护环境，最后一定会受到大自然的惩罚。", "py": "Rúguǒ bù bǎohù huánjìng, zuìhòu yídìng huì shòudào dàzìrán de chéngfá.", "en": "If we don't protect the environment, nature will punish us in the end."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "再加上", "py": "zài jiāshàng", "en": "The usage of 再加上"},
+      "body": [
+        {"type": "text", "zh": "“再加上”意思是“此外”，可以用于两个小句之间表示追述。例如：", "en": "“再加上” means “in addition / on top of that”; it goes between two clauses to add a further reason, e.g.,"},
+        {"type": "pattern", "zh": "原因1，再加上 + 原因2，（所以）+ 结果", "py": "yuányīn yī, zài jiāshàng + yuányīn èr, (suǒyǐ) + jiéguǒ", "en": "reason 1, on top of that + reason 2, (so) + result"},
+        {"type": "example", "zh": "最近作业很多，再加上快要考试了，每天都特别忙。", "py": "Zuìjìn zuòyè hěn duō, zài jiāshàng kuài yào kǎo shì le, měi tiān dōu tèbié máng.", "en": "There's lots of homework lately, and on top of that exams are coming — I'm extremely busy every day."},
+        {"type": "example", "zh": "最近天气比较冷，再加上穿得太少，他感冒了。", "py": "Zuìjìn tiānqì bǐjiào lěng, zài jiāshàng chuān de tài shǎo, tā gǎnmào le.", "en": "It's been cold lately, and he wasn't wearing enough, so he caught a cold."},
+        {"type": "note", "en": "再加上 starts the second reason; both reasons must push towards the same result: ✓ 有些工厂排放污水，再加上河边垃圾越来越多，就变成这样了. ✗ …孩子病了再加上."}
+      ]
+    },
+    {
+      "title": {"zh": "幸亏", "py": "xìngkuī", "en": "The usage of 幸亏"},
+      "body": [
+        {"type": "text", "zh": "副词“幸亏”表示由于某些有利条件或别人的帮助而避免了不希望发生的后果或得到了某种好处。例如：", "en": "The adverb “幸亏” means that thanks to some favourable circumstance or someone's help, a bad outcome was avoided or something good was gained, e.g.,"},
+        {"type": "pattern", "zh": "（糟糕的情况），幸亏 + （好的条件／帮助）", "py": "(zāogāo de qíngkuàng), xìngkuī + (hǎo de tiáojiàn / bāngzhù)", "en": "(problem), fortunately + (the thing that saved you)"},
+        {"type": "example", "zh": "雨下得真大，幸亏你来接我了。", "py": "Yǔ xià de zhēn dà, xìngkuī nǐ lái jiē wǒ le.", "en": "It's pouring — luckily you came to pick me up."},
+        {"type": "example", "zh": "我差点儿来晚了，幸亏今天路上没有堵车。", "py": "Wǒ chàdiǎnr láiwǎn le, xìngkuī jīntiān lùshang méiyǒu dǔ chē.", "en": "I was nearly late — fortunately there was no traffic today."},
+        {"type": "example", "zh": "这里环境污染问题很严重，幸亏这些年人们意识到了环保的重要性。", "py": "Zhèli huánjìng wūrǎn wèntí hěn yánzhòng, xìngkuī zhèxiē nián rénmen yìshí dàole huánbǎo de zhòngyàoxìng.", "en": "Pollution here is a serious problem — fortunately people have realised the importance of environmental protection in recent years."},
+        {"type": "note", "en": "What follows 幸亏 must be good news that helps: ✓ 幸亏我的发票还在，可以换一个新的. ✗ 幸亏我没有发票，不能换新的."}
+      ]
+    },
+    {
+      "title": {"zh": "“只”的位置", "py": "“zhǐ” de wèizhi", "en": "Where 只 goes"},
+      "body": [
+        {"type": "note", "en": "From the self-test (result B): 只 is an adverb, so it goes before the verb as an adverbial."},
+        {"type": "example", "zh": "有的人只关心经济发展。", "py": "Yǒu de rén zhǐ guānxīn jīngjì fāzhǎn.", "en": "Some people care only about economic development. (✗ 有的人关心只经济发展)"}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "幸亏", "py": "Xìngkuī", "en": "Fortunately…"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "一人读前半句，另一人选择合适的图片，用“幸亏”进行补充。", "en": "One person reads the first half of a sentence; the other picks the right picture and completes the sentence with “幸亏”."},
+      "body": [
+        {"type": "picture", "en": "The six pictures: a padded yellow winter jacket · a red umbrella · a bottle of pills · an alarm clock · a card being swiped in a payment machine · a smiling hotel receptionist handing over a passport."}
+      ],
+      "items": [
+        {"prompt": {"zh": "突然下起雨来了，______。", "py": "Tūrán xiàqǐ yǔ lái le, ______.", "en": "It suddenly started to rain, …"}, "answer": [{"zh": "突然下起雨来了，幸亏我带了伞。", "en": "…luckily I'd brought an umbrella. (umbrella)"}]},
+        {"prompt": {"zh": "今天天气可真冷，______。", "py": "Jīntiān tiānqì kě zhēn lěng, ______.", "en": "It's really cold today, …"}, "answer": [{"zh": "今天天气可真冷，幸亏我穿了厚衣服。", "py": "Jīntiān tiānqì kě zhēn lěng, xìngkuī wǒ chuānle hòu yīfu.", "en": "…luckily I wore a warm jacket. (jacket)"}]},
+        {"prompt": {"zh": "去超市的时候我没带钱，______。", "py": "Qù chāoshì de shíhou wǒ méi dài qián, ______.", "en": "I didn't bring money to the supermarket, …"}, "answer": [{"zh": "去超市的时候我没带钱，幸亏可以刷卡。", "py": "Qù chāoshì de shíhou wǒ méi dài qián, xìngkuī kěyǐ shuā kǎ.", "en": "…luckily I could pay by card. (card machine)"}]},
+        {"prompt": {"zh": "今天早上堵车堵得很厉害，______。", "py": "Jīntiān zǎoshang dǔ chē dǔ de hěn lìhai, ______.", "en": "The traffic was terrible this morning, …"}, "answer": [{"zh": "今天早上堵车堵得很厉害，幸亏我起得很早。", "en": "…luckily I got up very early. (alarm clock)"}]},
+        {"prompt": {"zh": "昨天晚上他发烧了，______。", "py": "Zuótiān wǎnshang tā fā shāo le, ______.", "en": "He had a fever last night, …"}, "answer": [{"zh": "昨天晚上他发烧了，幸亏家里有药。", "en": "…luckily there was medicine at home. (pills)"}]},
+        {"prompt": {"zh": "我的护照忘在宾馆了，______。", "py": "Wǒ de hùzhào wàng zài bīnguǎn le, ______.", "en": "I left my passport at the hotel, …"}, "answer": [{"zh": "我的护照忘在宾馆了，幸亏服务员帮我找到了。", "py": "Wǒ de hùzhào wàng zài bīnguǎn le, xìngkuī fúwùyuán bāng wǒ zhǎodào le.", "en": "…luckily the receptionist found it for me. (receptionist with passport)"}]},
+        {"prompt": {"zh": "用“幸亏”说说让自己觉得庆幸的事情。", "en": "Group work: talk about something you feel lucky about, with 幸亏 (book's example: 以前我住的城市空气污染很严重，幸亏人们意识到了环保的重要性，开始治理环境。)"},
+         "answer": [{"zh": "上个月我的钱包丢了，幸亏一个好心人帮我找到了。", "py": "Shàng ge yuè wǒ de qiánbāo diū le, xìngkuī yí ge hǎoxīn rén bāng wǒ zhǎodào le.", "en": "Last month I lost my wallet — luckily a kind person found it for me. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "不仅如此", "py": "Bùjǐn rúcǐ", "en": "Not only…"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "先在小组范围内对以下问题进行调查，然后用“再加上”向全班进行汇报。", "en": "Discuss these questions in your group, then report to the class using “再加上”."},
+      "body": [
+        {"type": "example", "zh": "有的地方自从建起了工厂，排放的污水越来越多，河水慢慢变成了黑色的，再加上各种工业垃圾、生活垃圾，所以污染很厉害。", "py": "Yǒude dìfang zìcóng jiànqǐle gōngchǎng, páifàng de wūshuǐ yuè lái yuè duō, héshuǐ mànmàn biànchéngle hēisè de, zài jiāshàng gè zhǒng gōngyè lājī, shēnghuó lājī, suǒyǐ wūrǎn hěn lìhai.", "en": "Since factories were built in some places, more and more waste water has been discharged and the rivers have slowly turned black; add to that all kinds of industrial and household rubbish, and the pollution is severe."}
+      ],
+      "items": [
+        {"prompt": {"zh": "为什么有的地方空气污染很严重？", "py": "Wèi shénme yǒude dìfang kōngqì wūrǎn hěn yánzhòng?", "en": "Why is air pollution so bad in some places?"}, "answer": [{"zh": "那里的工厂很多，再加上私家车越来越多，所以空气污染很严重。", "en": "There are lots of factories, and on top of that more and more private cars, so the air pollution is serious. (model answer)"}]},
+        {"prompt": {"zh": "为什么大龙最近心情很好？", "py": "Wèi shénme Dàlóng zuìjìn xīnqíng hěn hǎo?", "en": "Why has Dalong been in a good mood lately?"}, "answer": [{"zh": "大龙这次考试考得很好，再加上快放假了，所以心情很好。", "py": "Dàlóng zhè cì kǎoshì kǎo de hěn hǎo, zài jiāshàng kuài fàng jià le, suǒyǐ xīnqíng hěn hǎo.", "en": "He did well in his exams, and on top of that the holidays are coming, so he's in a good mood. (model answer)"}]},
+        {"prompt": {"zh": "你们喜欢什么电脑？为什么？", "en": "What computer do you like? Why?"}, "answer": [{"zh": "我喜欢笔记本电脑，它很轻，再加上上网也方便。", "py": "Wǒ xǐhuan bǐjìběn diànnǎo, tā hěn qīng, zài jiāshàng shàng wǎng yě fāngbiàn.", "en": "I like laptops — they're light, and on top of that it's easy to get online. (model answer)"}]},
+        {"prompt": {"zh": "你为什么选择现在的学校？", "en": "Why did you choose your current school?"}, "answer": [{"zh": "这个学校的老师很好，再加上离我家很近，所以我选择了它。", "en": "The teachers here are great, and on top of that it's near my home, so I chose it. (model answer)"}]},
+        {"prompt": {"zh": "你们最想去哪儿旅行？为什么？", "en": "Where would you most like to travel? Why?"}, "answer": [{"zh": "我最想去云南，那儿风景很美，再加上冬天也不冷。", "py": "Wǒ zuì xiǎng qù Yúnnán, nàr fēngjǐng hěn měi, zài jiāshàng dōngtiān yě bù lěng.", "en": "I'd most like to go to Yunnan — the scenery is beautiful, and on top of that it isn't cold even in winter. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "这里的环境污染很严重，幸亏越来越多的人开始保护环境。", "py": "Zhèli de huánjìng wūrǎn hěn yánzhòng, xìngkuī yuè lái yuè duō de rén kāishǐ bǎohù huánjìng."}, {"zh": "这里的环境污染很严重，幸亏越来越多的人开始破坏环境。", "py": "Zhèli de huánjìng wūrǎn hěn yánzhòng, xìngkuī yuè lái yuè duō de rén kāishǐ pòhuài huánjìng."}],
+       "answer": 0, "explain": "幸亏 introduces something good that helps. (grammar note 2)"},
+      {"question": {"zh": "为什么这条河污染得这么厉害？", "py": "Wèi shénme zhè tiáo hé wūrǎn de zhème lìhai?", "en": "Why is this river so polluted?"},
+       "options": [{"zh": "有些工厂排放污水，再加上河边垃圾越来越多，就变成这样了。", "py": "Yǒuxiē gōngchǎng páifàng wūshuǐ, zài jiāshàng hé biān lājī yuè lái yuè duō, jiù biànchéng zhèyàng le."}, {"zh": "河里有很多垃圾，再加上人们开始意识到环保的重要性，就变成这样了。", "py": "Hé li yǒu hěn duō lājī, zài jiāshàng rénmen kāishǐ yìshí dào huánbǎo de zhòngyàoxìng, jiù biànchéng zhèyàng le."}],
+       "answer": 0, "explain": "再加上 adds another reason pointing to the same (bad) result. (grammar note 1)"},
+      {"options": [{"zh": "我的手机坏了，幸亏我的发票还在，可以换一个新的。", "py": "Wǒ de shǒujī huài le, xìngkuī wǒ de fāpiào hái zài, kěyǐ huàn yí ge xīn de."}, {"zh": "我的手机坏了，幸亏我没有发票，不能换新的。", "py": "Wǒ de shǒujī huài le, xìngkuī wǒ méiyǒu fāpiào, bù néng huàn xīn de."}],
+       "answer": 0, "explain": "幸亏 + the lucky circumstance (still having the receipt). (grammar note 2)"},
+      {"options": [{"zh": "最近工作特别忙，再加上孩子病了，所以我觉得有点儿累。", "py": "Zuìjìn gōngzuò tèbié máng, zài jiāshàng háizi bìng le, suǒyǐ wǒ juéde yǒudiǎnr lèi."}, {"zh": "最近工作特别忙，孩子病了再加上，所以我觉得有点儿累。", "py": "Zuìjìn gōngzuò tèbié máng, háizi bìng le zài jiāshàng, suǒyǐ wǒ juéde yǒudiǎnr lèi."}],
+       "answer": 0, "explain": "再加上 comes before the added reason. (grammar note 1)"},
+      {"options": [{"zh": "有的人关心只经济发展。", "py": "Yǒu de rén guānxīn zhǐ jīngjì fāzhǎn."}, {"zh": "有的人只关心经济发展。", "py": "Yǒu de rén zhǐ guānxīn jīngjì fāzhǎn."}],
+       "answer": 1, "explain": "只 is an adverb, so it goes before the verb 关心. (note 3)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — 只 goes before the verb. Missed Q2 or Q4 — review 再加上 (note 1). Missed Q1 or Q3 — review 幸亏 (note 2)."
+  }
+}

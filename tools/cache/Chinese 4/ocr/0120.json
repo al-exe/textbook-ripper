@@ -1,0 +1,617 @@
+{
+ "page": 120,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "各抒己见",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.12645,
+    0.24225,
+    0.14404
+   ]
+  },
+  {
+   "text": "Each airs hisown views",
+   "conf": 0.5,
+   "bbox": [
+    0.25388,
+    0.12936,
+    0.47674,
+    0.14258
+   ]
+  },
+  {
+   "text": "表演活动",
+   "conf": 1.0,
+   "bbox": [
+    0.16858,
+    0.16999,
+    0.25196,
+    0.18757
+   ]
+  },
+  {
+   "text": "你觉得有必要买私家车吗？和你的组员讨论一下，并完成报告。讨论时",
+   "conf": 1.0,
+   "bbox": [
+    0.27326,
+    0.16992,
+    0.88953,
+    0.18896
+   ]
+  },
+  {
+   "text": "请尽量多地使用本课学习的语法和词汇。",
+   "conf": 1.0,
+   "bbox": [
+    0.27326,
+    0.19041,
+    0.62403,
+    0.20947
+   ]
+  },
+  {
+   "text": "Group work: Do you think it is necessary to buy a private car? Discuss it with the other members",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.21657,
+    0.89147,
+    0.2311
+   ]
+  },
+  {
+   "text": "in your group, and make a report. Try to use the grammar and the vocabulary",
+   "conf": 0.5,
+   "bbox": [
+    0.27132,
+    0.23975,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "learned in the text in your discussion.",
+   "conf": 0.5,
+   "bbox": [
+    0.27326,
+    0.26163,
+    0.54651,
+    0.27637
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.3314,
+    0.13566,
+    0.34738
+   ]
+  },
+  {
+   "text": "104",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "一分为二",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.3314,
+    0.23837,
+    0.34738
+   ]
+  },
+  {
+   "text": "One is divided into two",
+   "conf": 0.5,
+   "bbox": [
+    0.25581,
+    0.33285,
+    0.47093,
+    0.34738
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17048,
+    0.37194,
+    0.252,
+    0.38969
+   ]
+  },
+  {
+   "text": "事情都是有两面性的，买车有好处，可是也会给你带来很多问题。你",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.37207,
+    0.88953,
+    0.39111
+   ]
+  },
+  {
+   "text": "觉得还有哪些事情是这样的？面对好处与问题，你怎么选择。和你的",
+   "conf": 1.0,
+   "bbox": [
+    0.27326,
+    0.39244,
+    0.88953,
+    0.41134
+   ]
+  },
+  {
+   "text": "朋友说说看。",
+   "conf": 1.0,
+   "bbox": [
+    0.27511,
+    0.41106,
+    0.38769,
+    0.43196
+   ]
+  },
+  {
+   "text": "Group work: As each coin has two sides, buying a car has its advantages, but it also causes many",
+   "conf": 0.5,
+   "bbox": [
+    0.1588,
+    0.44036,
+    0.88963,
+    0.45949
+   ]
+  },
+  {
+   "text": "problems. Give examples of things that have two sides. How do you choose when",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.46657,
+    0.88953,
+    0.47965
+   ]
+  },
+  {
+   "text": "you face the advantages and problems? Talk about it with your friends.",
+   "conf": 0.5,
+   "bbox": [
+    0.27519,
+    0.48682,
+    0.79264,
+    0.50146
+   ]
+  },
+  {
+   "text": "例",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.52035,
+    0.14341,
+    0.5407
+   ]
+  },
+  {
+   "text": "住在市区交通很方便，坐地铁想去哪儿就去哪儿。生活也很方",
+   "conf": 1.0,
+   "bbox": [
+    0.19767,
+    0.54053,
+    0.86822,
+    0.5625
+   ]
+  },
+  {
+   "text": "便，想买什么就能买什么，想吃什么就能吃什么。可是住在市区也有",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.56541,
+    0.86628,
+    0.5874
+   ]
+  },
+  {
+   "text": "很多问题，比如房价很贵，上下班交通堵塞严重，空气也不好。我的",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.59012,
+    0.86628,
+    0.61192
+   ]
+  },
+  {
+   "text": "朋友就说早知道市区雾霾这么严重，还不如住在郊区。对我来说，我",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.61475,
+    0.86822,
+    0.63672
+   ]
+  },
+  {
+   "text": "喜欢住在市区。因为我喜欢热闹，而且市区生活节奏快，适合年轻",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.63953,
+    0.86822,
+    0.66134
+   ]
+  },
+  {
+   "text": "人。不管住在市区有多少问题，反正我喜欢住在这里。",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.66406,
+    0.69961,
+    0.6875
+   ]
+  },
+  {
+   "text": "Zhd zdi shiqu jiaotong hen fangbian, zuo ditie xidngqu nar jiu qu ndr. Shenghuo ye hen",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.69767,
+    0.86822,
+    0.71387
+   ]
+  },
+  {
+   "text": "Fangbian, xidng mdi shenme jid neng mdi shenme, xidng chi shenme jid neng chi shenme.",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.7207,
+    0.87016,
+    0.73547
+   ]
+  },
+  {
+   "text": "Keshi zhd zai shiqu ye you hen duo wentf, bird fang jid hen gui, shang xid ban jidotong",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.74268,
+    0.86822,
+    0.75879
+   ]
+  },
+  {
+   "text": "dise yanzhong, kongqi ye bu hdo. Wo de pengyou jiu shuo zdo zhidao shiqu wumdi zheme",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.76453,
+    0.86822,
+    0.78076
+   ]
+  },
+  {
+   "text": "yanzhong, hai bur zh zdi jiaoqu. Dui wo lai shuo, wo xihuan zhi zdi shiqu. inweia o",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.78613,
+    0.86822,
+    0.80378
+   ]
+  },
+  {
+   "text": "xihuan renao, erqie shiqd shenghuo jiezou kudi, shihe nidnqingren. Bugudn zhd zdi shiqu",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.80957,
+    0.86822,
+    0.82568
+   ]
+  },
+  {
+   "text": "you duoshao wenti, fanzheng wo xihuan zhu zdi zheli.",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.83285,
+    0.57171,
+    0.84884
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.1439
+   ]
+  },
+  {
+   "text": "Each airs his own views",
+   "conf": 1.0,
+   "bbox": [
+    0.25388,
+    0.12936,
+    0.47674,
+    0.14258
+   ]
+  },
+  {
+   "text": "MлHT MKE MieN",
+   "conf": 0.3,
+   "bbox": [
+    0.50513,
+    0.16992,
+    0.88953,
+    0.18896
+   ]
+  },
+  {
+   "text": "ЛтИттAMI®",
+   "conf": 0.3,
+   "bbox": [
+    0.27326,
+    0.19041,
+    0.62403,
+    0.2093
+   ]
+  },
+  {
+   "text": "Group work: Do you think it is necessary to buy a private car? Discuss it with the other members",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.21657,
+    0.89147,
+    0.2311
+   ]
+  },
+  {
+   "text": "in your group, and make a report. Try to use the grammar and the vocabulary",
+   "conf": 1.0,
+   "bbox": [
+    0.27132,
+    0.23975,
+    0.88953,
+    0.25439
+   ]
+  },
+  {
+   "text": "learned in the text in your discussion.",
+   "conf": 0.5,
+   "bbox": [
+    0.27326,
+    0.26163,
+    0.54651,
+    0.27637
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.3314,
+    0.13566,
+    0.34738
+   ]
+  },
+  {
+   "text": "One is divided into two",
+   "conf": 1.0,
+   "bbox": [
+    0.25581,
+    0.33285,
+    0.47093,
+    0.34738
+   ]
+  },
+  {
+   "text": "104",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "MX77 1E44H 7KK",
+   "conf": 0.3,
+   "bbox": [
+    0.5363,
+    0.39244,
+    0.88953,
+    0.41134
+   ]
+  },
+  {
+   "text": "nhtttitTio",
+   "conf": 0.3,
+   "bbox": [
+    0.27511,
+    0.41106,
+    0.38769,
+    0.43196
+   ]
+  },
+  {
+   "text": "Group work: As each coin has two sides, buying a car has its advantages, but it also causes many",
+   "conf": 1.0,
+   "bbox": [
+    0.1588,
+    0.44036,
+    0.88963,
+    0.45949
+   ]
+  },
+  {
+   "text": "problems. Give examples of things that have two sides. How do you choose when",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.46657,
+    0.88953,
+    0.47965
+   ]
+  },
+  {
+   "text": "you face the advantages and problems? Talk about it with your friends.",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.48682,
+    0.79264,
+    0.50146
+   ]
+  },
+  {
+   "text": "15]",
+   "conf": 0.3,
+   "bbox": [
+    0.11822,
+    0.52035,
+    0.14341,
+    0.5407
+   ]
+  },
+  {
+   "text": "Ттк",
+   "conf": 0.3,
+   "bbox": [
+    0.264,
+    0.59012,
+    0.86628,
+    0.61192
+   ]
+  },
+  {
+   "text": "ТЦТ",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.63953,
+    0.86822,
+    0.66134
+   ]
+  },
+  {
+   "text": "Zhù zài shìqũ jiãotông hẽn făngbiàn, zuò dìtie xiăng qù năr jiù qù năr. Shẽnghuố yẽ hèn",
+   "conf": 0.3,
+   "bbox": [
+    0.18411,
+    0.69767,
+    0.86822,
+    0.71387
+   ]
+  },
+  {
+   "text": "fãngbiàn, xiăng mãi shénme jiù néng mãi shénme, xiăng chi shénme jiù néng chí shénme.",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.7207,
+    0.87016,
+    0.73547
+   ]
+  },
+  {
+   "text": "Kẽshì zhù zài shìqũ yẽ yõu hẽn duõ wèntí, bĩrú fáng jià hẽn guì, shàng xià băn jiãotông",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.74268,
+    0.86822,
+    0.75879
+   ]
+  },
+  {
+   "text": "dusè yánzhòng, kõngqì yẽ bù hão. Wõ de péngyou jiù shuo zão zhidào shìau wùmái zhème",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.76453,
+    0.86822,
+    0.78076
+   ]
+  },
+  {
+   "text": "yánzhòng, hái bùrú zhù zài jiãoqũ. Dui wõ lái shuo, wò xihuan zhù zài shìaũ. Yĩnwèi wõ",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.78613,
+    0.86822,
+    0.80378
+   ]
+  },
+  {
+   "text": "xihuan rènao, érqie shìqu shẽnghuó jiézòu kuài, shìhé niángingrén. Bùguăn zhù zài shìqũ",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.80957,
+    0.86822,
+    0.82568
+   ]
+  },
+  {
+   "text": "you duoshao wenti, tanzhèng wo xihuan zhù zài zheli.",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.83285,
+    0.57171,
+    0.84884
+   ]
+  }
+ ]
+}

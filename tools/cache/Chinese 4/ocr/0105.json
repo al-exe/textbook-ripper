@@ -1,0 +1,587 @@
+{
+ "page": 105,
+ "cjk_pass": [
+  {
+   "text": "Unit 6 Internet and Mobile Phones",
+   "conf": 0.5,
+   "bbox": [
+    0.50969,
+    0.05957,
+    0.89147,
+    0.07715
+   ]
+  },
+  {
+   "text": "小丽妈妈：好吧，咱们 开始吃饭吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.17248,
+    0.13808,
+    0.5407,
+    0.15698
+   ]
+  },
+  {
+   "text": "Xidoli mama: Hdo ba, zdnmen kaishi chi fan ba.",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.15967,
+    0.53876,
+    0.17442
+   ]
+  },
+  {
+   "text": "你是低头族吗？",
+   "conf": 1.0,
+   "bbox": [
+    0.15306,
+    0.25855,
+    0.29655,
+    0.27779
+   ]
+  },
+  {
+   "text": "Are you a phubber？",
+   "conf": 0.5,
+   "bbox": [
+    0.31395,
+    0.26017,
+    0.49806,
+    0.27783
+   ]
+  },
+  {
+   "text": "小组活动",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.30371,
+    0.25,
+    0.32129
+   ]
+  },
+  {
+   "text": "阅读下面的文章，然后小组讨论后面的问题。",
+   "conf": 1.0,
+   "bbox": [
+    0.27326,
+    0.30518,
+    0.66473,
+    0.32422
+   ]
+  },
+  {
+   "text": "Group work: Read the following passage, and discuss the following questions with the other",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.34157,
+    0.90116,
+    0.35756
+   ]
+  },
+  {
+   "text": "members in your group.",
+   "conf": 0.5,
+   "bbox": [
+    0.27326,
+    0.36182,
+    0.45155,
+    0.37646
+   ]
+  },
+  {
+   "text": "低头族（Phubbing），说的是随时随地低头看手机的人。好多人走路",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.40116,
+    0.86434,
+    0.42442
+   ]
+  },
+  {
+   "text": "看手机，吃饭看手机，坐车看手机，就连开车也在看手机。有的用手机",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.42578,
+    0.86434,
+    0.44922
+   ]
+  },
+  {
+   "text": "上网，有的玩儿游戏，有的看视频。",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.45058,
+    0.5,
+    0.47238
+   ]
+  },
+  {
+   "text": "有研究说，每天长时间看手机，会对身体造成很多不好的影响，比",
+   "conf": 1.0,
+   "bbox": [
+    0.17829,
+    0.4751,
+    0.86434,
+    0.49855
+   ]
+  },
+  {
+   "text": "如眼睛问题，还会造成注意力不集中，容易造成交通事故。更可怕的是",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.5,
+    0.86434,
+    0.52344
+   ]
+  },
+  {
+   "text": "让人与人之间的关系越来越冷漠。",
+   "conf": 1.0,
+   "bbox": [
+    0.13953,
+    0.52616,
+    0.47868,
+    0.54651
+   ]
+  },
+  {
+   "text": "问题一：什么是低头族？有什么不好的影响？",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.55078,
+    0.63372,
+    0.57129
+   ]
+  },
+  {
+   "text": "问题二：你是低头族吗？你觉得低头族有危害吗？",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.57558,
+    0.68023,
+    0.59738
+   ]
+  },
+  {
+   "text": "问题三：怎么样用手机更好？",
+   "conf": 1.0,
+   "bbox": [
+    0.18004,
+    0.59871,
+    0.47312,
+    0.62442
+   ]
+  },
+  {
+   "text": "Di tou zu, shuo de shi suishi suidi di tou kan shouji de ren. Hdo duo ren zou ld kan",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.63372,
+    0.86822,
+    0.6499
+   ]
+  },
+  {
+   "text": "shouji, chi fan kan shouji, zuo che kan shouj, jd lion kai che ye zai kan shouji. You de yong",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.65552,
+    0.86628,
+    0.67297
+   ]
+  },
+  {
+   "text": "shouji shang wang, you de wanr youxl, you de kan shipin.",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.67871,
+    0.58915,
+    0.69482
+   ]
+  },
+  {
+   "text": "You yanjiu shuo, mei tian chang shfjian kan shouji, hui dui shenti zdocheng hen duo bu",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.70058,
+    0.86822,
+    0.7168
+   ]
+  },
+  {
+   "text": "hdo de yingxiang, bird yanjing wenti, hai hui zdocheng zhuyi hi bu jizhong, rongyi zaocheng",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.72217,
+    0.86628,
+    0.73983
+   ]
+  },
+  {
+   "text": "jiaotong shigu. Geng kepa de shi rang ren yi ren zhi",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.74561,
+    0.57558,
+    0.76172
+   ]
+  },
+  {
+   "text": "jian de guanxi yueloiyue lengmo.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.76744,
+    0.39341,
+    0.78343
+   ]
+  },
+  {
+   "text": "Wenti yi: Shenme shi di tou zu? You shenme bu",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.78906,
+    0.57558,
+    0.80523
+   ]
+  },
+  {
+   "text": "hdo de yingxiang？",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.8125,
+    0.28295,
+    0.82861
+   ]
+  },
+  {
+   "text": "Wenti er: Ni shi di tou zu ma? Ni juede di tou z0",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.8343,
+    0.57558,
+    0.85029
+   ]
+  },
+  {
+   "text": "you weihdi ma？",
+   "conf": 0.5,
+   "bbox": [
+    0.13549,
+    0.85531,
+    0.2618,
+    0.87289
+   ]
+  },
+  {
+   "text": "Wenti san: Zenmeyang yong shouji geng hdo？",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.87936,
+    0.54264,
+    0.89551
+   ]
+  },
+  {
+   "text": "89",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 6 Internet and Mobile Phones",
+   "conf": 1.0,
+   "bbox": [
+    0.50969,
+    0.05957,
+    0.89147,
+    0.07715
+   ]
+  },
+  {
+   "text": "Te, \"HT TtETTe",
+   "conf": 0.3,
+   "bbox": [
+    0.29313,
+    0.13808,
+    0.5407,
+    0.15698
+   ]
+  },
+  {
+   "text": "Xiăolì mãma: Hão ba, zánmen kãishi chì fàn ba.",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.15967,
+    0.53876,
+    0.17442
+   ]
+  },
+  {
+   "text": "1ПE1EZHENY?",
+   "conf": 0.3,
+   "bbox": [
+    0.15306,
+    0.25855,
+    0.29655,
+    0.27779
+   ]
+  },
+  {
+   "text": "Are you a phubber?",
+   "conf": 0.5,
+   "bbox": [
+    0.31395,
+    0.26017,
+    0.49806,
+    0.27783
+   ]
+  },
+  {
+   "text": "dirmnxe, пradichnon",
+   "conf": 0.3,
+   "bbox": [
+    0.27326,
+    0.30518,
+    0.66473,
+    0.32422
+   ]
+  },
+  {
+   "text": "Group work: Read the following passage, and discuss the following questions with the other",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.34157,
+    0.90116,
+    0.35756
+   ]
+  },
+  {
+   "text": "members in your group.",
+   "conf": 1.0,
+   "bbox": [
+    0.27326,
+    0.36182,
+    0.45155,
+    0.37646
+   ]
+  },
+  {
+   "text": "IF*i (Phubbing) , iHFRHRH*#Ft1 +31tx",
+   "conf": 0.3,
+   "bbox": [
+    0.17829,
+    0.40116,
+    0.86434,
+    0.42442
+   ]
+  },
+  {
+   "text": "F Ftr, LE# Ftr, #4#F+, E7F+t# 7t t$37 7t",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.42578,
+    0.86434,
+    0.44922
+   ]
+  },
+  {
+   "text": "ДHAиH.",
+   "conf": 0.3,
+   "bbox": [
+    0.36491,
+    0.45058,
+    0.5,
+    0.47238
+   ]
+  },
+  {
+   "text": "ПД-Zкі? Вн4тхнж?",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.55078,
+    0.63372,
+    0.57129
+   ]
+  },
+  {
+   "text": "1хт7тДхЕд?",
+   "conf": 0.3,
+   "bbox": [
+    0.42741,
+    0.57558,
+    0.68023,
+    0.59738
+   ]
+  },
+  {
+   "text": "177=: E4HAFtE#7?",
+   "conf": 0.3,
+   "bbox": [
+    0.18004,
+    0.59871,
+    0.47312,
+    0.62442
+   ]
+  },
+  {
+   "text": "Dĩ tóu zú, shuố de shì suíshí suídì dĩ tóu kàn shõujì de rén. Hão duõ rén zõu lù kàn",
+   "conf": 0.5,
+   "bbox": [
+    0.17829,
+    0.63372,
+    0.86822,
+    0.6499
+   ]
+  },
+  {
+   "text": "shoujĩ, chỉ fàn kàn shoujĩ, zuò chẽ kàn shăujĩ, jiù lián kãi chẽ yẽ zài kàn shăujĩ. Yõu de yòng",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.65552,
+    0.86628,
+    0.67297
+   ]
+  },
+  {
+   "text": "shouji shàng wăng, yỗu de wánr yóuxì, yõu de kàn shipín.",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.67871,
+    0.58915,
+    0.69482
+   ]
+  },
+  {
+   "text": "Yõu yánjiu shuố, mẽi tiăn cháng shí iãn kàn shouji, hui dui shêntĩ zàochéng hẽn duô bù",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.70058,
+    0.86822,
+    0.7168
+   ]
+  },
+  {
+   "text": "hão de yĩngxiăng, bĩrú yănjĩng wèntí, hái hui zàochéng zhùyì lì bù jízhõng, róngyì zàochéng",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.72217,
+    0.86628,
+    0.73983
+   ]
+  },
+  {
+   "text": "jiãotõng shìgù. Gèng kẽpà de shì ràng rén yũ rén zhĩ",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.74561,
+    0.57558,
+    0.76172
+   ]
+  },
+  {
+   "text": "jiãn de guãnxì yuèláiyuè lẽngmò.",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.76744,
+    0.39341,
+    0.78343
+   ]
+  },
+  {
+   "text": "Wèntí yĩ: Shénme shì di tóu zú? Yõu shénme bù",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.78906,
+    0.57558,
+    0.80523
+   ]
+  },
+  {
+   "text": "hão de yingxiăng?",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.8125,
+    0.28295,
+    0.82861
+   ]
+  },
+  {
+   "text": "Wentí èr: Nĩ shì dĩ tóu zú ma? Nĩ juéde dĩ tóu zú",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.8343,
+    0.57558,
+    0.85029
+   ]
+  },
+  {
+   "text": "yõu wẽihài ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.13549,
+    0.85531,
+    0.2618,
+    0.87289
+   ]
+  },
+  {
+   "text": "Wèntí săn: Zẽnmeyàng yồng shõujĩ gèng hão?",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.87936,
+    0.54264,
+    0.89551
+   ]
+  },
+  {
+   "text": "89",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34012,
+    0.96899,
+    0.3561
+   ]
+  }
+ ]
+}

@@ -1,0 +1,747 @@
+{
+ "page": 202,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［31",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "全书部分名人简介",
+   "conf": 0.5,
+   "bbox": [
+    0.42248,
+    0.12354,
+    0.61047,
+    0.14404
+   ]
+  },
+  {
+   "text": "Brief Introduction to Some Celebrities in This Book",
+   "conf": 0.5,
+   "bbox": [
+    0.30814,
+    0.14826,
+    0.72287,
+    0.16279
+   ]
+  },
+  {
+   "text": "188",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "第一单元",
+   "conf": 1.0,
+   "bbox": [
+    0.18023,
+    0.2207,
+    0.25,
+    0.23547
+   ]
+  },
+  {
+   "text": "1. 成龙：中国香港著名男演员，代表作品：《警察故事》",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.24561,
+    0.63178,
+    0.26172
+   ]
+  },
+  {
+   "text": "Jackie Chan: a famous actor of Hong Kong, China; his representative work: Police Storyy",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.26744,
+    0.83721,
+    0.28076
+   ]
+  },
+  {
+   "text": "2.憨豆先生：英国著名电视喜剧Mr:Bean中的主人公",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.29053,
+    0.5969,
+    0.30669
+   ]
+  },
+  {
+   "text": "Mr. Bean: the protagonist in Mr: Bean, a famous British comedy TV series",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.30957,
+    0.72868,
+    0.32568
+   ]
+  },
+  {
+   "text": "3. 席琳•迪翁：加拿大著名女歌手",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.3343,
+    0.46705,
+    0.35029
+   ]
+  },
+  {
+   "text": "Celine Dion: a famous Canadian singer",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.35596,
+    0.49031,
+    0.36919
+   ]
+  },
+  {
+   "text": "4.齐达内：法国著名足球运动员",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.37936,
+    0.44574,
+    0.39551
+   ]
+  },
+  {
+   "text": "Zinedine Yazid Zidane: a famous French football player",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.40116,
+    0.61434,
+    0.41424
+   ]
+  },
+  {
+   "text": "5.威廉王子、王妃：英国王室成员",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.42432,
+    0.46705,
+    0.44043
+   ]
+  },
+  {
+   "text": "Princess William and Princess Kate: members of the British Royal Family",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.44477,
+    0.73643,
+    0.45801
+   ]
+  },
+  {
+   "text": "6. 威尔•史密斯：美国著名男演员，代表作品：《独立日》",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.46802,
+    0.64922,
+    0.48401
+   ]
+  },
+  {
+   "text": "Will Smith: a famous American actor; his representative work: Independence Day",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.48975,
+    0.79264,
+    0.50293
+   ]
+  },
+  {
+   "text": "7. 曾志伟：中国香港著名男演员，代表作品：《无间道》",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.51308,
+    0.63178,
+    0.5293
+   ]
+  },
+  {
+   "text": "Eric Tsang Chi-Wai: a famous actor of Hong Kong, China; his representative work: Internal",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.5332,
+    0.89341,
+    0.54651
+   ]
+  },
+  {
+   "text": "Affairs",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.55225,
+    0.27132,
+    0.56396
+   ]
+  },
+  {
+   "text": "8. 于文霞：2012年世界小姐总冠军",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.57413,
+    0.46705,
+    0.59033
+   ]
+  },
+  {
+   "text": "Yu Wenxia:the Winner of Miss World 2012",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.59424,
+    0.53295,
+    0.6061
+   ]
+  },
+  {
+   "text": "9.布兰妮•斯皮尔斯：美国著名女歌手",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.61914,
+    0.49806,
+    0.63525
+   ]
+  },
+  {
+   "text": "Britney Spears: a famous American singer",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.63953,
+    0.5155,
+    0.65576
+   ]
+  },
+  {
+   "text": "10. 孙俪：中国著名女演员，代表作品：电视剧《甄嬛传》",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.6626,
+    0.62984,
+    0.67878
+   ]
+  },
+  {
+   "text": "Sun Li: a famous Chinese actress; her representative work: the TV play The Legend of Zhen",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.68457,
+    0.89147,
+    0.69775
+   ]
+  },
+  {
+   "text": "Huan",
+   "conf": 0.5,
+   "bbox": [
+    0.22092,
+    0.702,
+    0.26164,
+    0.71224
+   ]
+  },
+  {
+   "text": "I1. 徐熙娣（小S）：中国台湾著名女主持人，代表节目：《康熙来了》",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.7251,
+    0.72674,
+    0.74128
+   ]
+  },
+  {
+   "text": "Dee Hsu （commonly known as Little S， 小S）： a famous hostess of Taiwan, China; her",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.74561,
+    0.89147,
+    0.76025
+   ]
+  },
+  {
+   "text": "representative program: Kangxi Lai Le",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.76308,
+    0.49225,
+    0.77637
+   ]
+  },
+  {
+   "text": "12.吕燕：中国著名女模特",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.78613,
+    0.39535,
+    0.80233
+   ]
+  },
+  {
+   "text": "Lu Yan: a famous Chinese model",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.80811,
+    0.45349,
+    0.81982
+   ]
+  },
+  {
+   "text": "13. 比尔•盖茨：美国微软公司创始人之一",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.8314,
+    0.51744,
+    0.84593
+   ]
+  },
+  {
+   "text": "Bill Gates: one of the founders of Microsoft, America",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.85303,
+    0.59496,
+    0.86628
+   ]
+  },
+  {
+   "text": "14.章子怡：中国著名女演员，代表作品：《卧虎臧龙》",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.87645,
+    0.61434,
+    0.89111
+   ]
+  },
+  {
+   "text": "Zhang Ziyi: a famous Chinese actress; her representative work: Crouching Tiger, Hidden",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.8968,
+    0.89147,
+    0.90988
+   ]
+  },
+  {
+   "text": "Dragon",
+   "conf": 0.5,
+   "bbox": [
+    0.21787,
+    0.91339,
+    0.27814,
+    0.93064
+   ]
+  },
+  {
+   "text": "+］",
+   "conf": 0.3,
+   "bbox": [
+    0.93992,
+    0.96924,
+    0.97674,
+    0.99709
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (3]",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.06104,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "#ЫAZЛT",
+   "conf": 0.3,
+   "bbox": [
+    0.42248,
+    0.12355,
+    0.61047,
+    0.1439
+   ]
+  },
+  {
+   "text": "Brief Introduction to Some Celebrities in This Book",
+   "conf": 1.0,
+   "bbox": [
+    0.30814,
+    0.14826,
+    0.72287,
+    0.16279
+   ]
+  },
+  {
+   "text": "188",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "#-Фл",
+   "conf": 0.3,
+   "bbox": [
+    0.18023,
+    0.22093,
+    0.25,
+    0.23547
+   ]
+  },
+  {
+   "text": "1. MX: ФR0ЖХ45ФЫ, 14/m: <**Н5»",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.24561,
+    0.63178,
+    0.26172
+   ]
+  },
+  {
+   "text": "Jackie Chan: a famous actor of Hong Kong, China; his representative work: Police Story",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.26744,
+    0.83721,
+    0.28076
+   ]
+  },
+  {
+   "text": "2 ЖБ: BeаnPИEN4",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.29053,
+    0.5969,
+    0.30669
+   ]
+  },
+  {
+   "text": "Mr. Bean: the protagonist in Mr. Bean, a famous British comedy TV series",
+   "conf": 1.0,
+   "bbox": [
+    0.21899,
+    0.30957,
+    0.72868,
+    0.32568
+   ]
+  },
+  {
+   "text": "З. МИ•МА: МЕЛКИККЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.3343,
+    0.46705,
+    0.35029
+   ]
+  },
+  {
+   "text": "Celine Dion: a famous Canadian singer",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.35596,
+    0.49031,
+    0.36919
+   ]
+  },
+  {
+   "text": "Zinedine Yazid Zidane: a famous French football player",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.40116,
+    0.61434,
+    0.41424
+   ]
+  },
+  {
+   "text": "5. EÜMET. EX: AUEZN",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.42432,
+    0.46705,
+    0.44043
+   ]
+  },
+  {
+   "text": "Princess William and Princess Kate: members of the British Royal Family",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.44477,
+    0.73643,
+    0.45801
+   ]
+  },
+  {
+   "text": "6 B/ • CИ: ХHA4000, 1046: KM0Н»",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.46802,
+    0.64922,
+    0.48401
+   ]
+  },
+  {
+   "text": "Will Smith: a famous American actor; his representative work: Independence Day",
+   "conf": 1.0,
+   "bbox": [
+    0.22287,
+    0.48975,
+    0.79264,
+    0.50293
+   ]
+  },
+  {
+   "text": "7. Mo: 107644506, 162Em: (AHü)",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.51308,
+    0.63178,
+    0.5293
+   ]
+  },
+  {
+   "text": "Eric Tsang Chi-Wai: a famous actor of Hong Kong, China; his representative work: Internal",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.5332,
+    0.89341,
+    0.54651
+   ]
+  },
+  {
+   "text": "Affairs",
+   "conf": 1.0,
+   "bbox": [
+    0.21899,
+    0.55233,
+    0.27132,
+    0.56395
+   ]
+  },
+  {
+   "text": "8. FXiE: 2012F1#/NHdN4",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.57413,
+    0.46705,
+    0.59033
+   ]
+  },
+  {
+   "text": "Yu Wenxia: the Winner of Miss World 2012",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.59424,
+    0.53295,
+    0.6061
+   ]
+  },
+  {
+   "text": "9 •ШКШ: Х4ККF",
+   "conf": 0.3,
+   "bbox": [
+    0.19767,
+    0.61914,
+    0.49806,
+    0.63525
+   ]
+  },
+  {
+   "text": "Britney Spears: a famous American singer",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.63953,
+    0.5155,
+    0.65576
+   ]
+  },
+  {
+   "text": "10. ЕМШ: Ф0КИКО4, 1АЛM: Сол КНія»",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.6626,
+    0.62984,
+    0.67878
+   ]
+  },
+  {
+   "text": "Sun Li: a famous Chinese actress; her representative work: the TV play The Legend of Zhen",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.68457,
+    0.89147,
+    0.69775
+   ]
+  },
+  {
+   "text": "Huan",
+   "conf": 1.0,
+   "bbox": [
+    0.22092,
+    0.702,
+    0.26164,
+    0.71224
+   ]
+  },
+  {
+   "text": "11 4AM (S) : 400844*ЕNЛ, 1*РН: «лжТ»",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.7251,
+    0.72674,
+    0.74128
+   ]
+  },
+  {
+   "text": "Dee Hsu (commonly known as Little S, /\\S): a famous hostess of Taiwan, China; her",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.74561,
+    0.89147,
+    0.76025
+   ]
+  },
+  {
+   "text": "representative program: Kangxi Lai Le",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.76308,
+    0.49225,
+    0.77637
+   ]
+  },
+  {
+   "text": "12 ВЖ",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.78613,
+    0.39535,
+    0.80233
+   ]
+  },
+  {
+   "text": "Lu Yan: a famous Chinese model",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.80811,
+    0.45349,
+    0.81982
+   ]
+  },
+  {
+   "text": "Bill Gates: one of the founders of Microsoft, America",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.85303,
+    0.59496,
+    0.86628
+   ]
+  },
+  {
+   "text": "14. MT: 9044680, 161Еm: «ЕМеR",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.87645,
+    0.61434,
+    0.89111
+   ]
+  },
+  {
+   "text": "Zhang Ziyi: a famous Chinese actress; her representative work: Crouching Tiger, Hidden",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.8968,
+    0.89147,
+    0.90988
+   ]
+  },
+  {
+   "text": "Dragon",
+   "conf": 1.0,
+   "bbox": [
+    0.21787,
+    0.91339,
+    0.27814,
+    0.93064
+   ]
+  },
+  {
+   "text": "+)",
+   "conf": 0.3,
+   "bbox": [
+    0.93992,
+    0.96948,
+    0.97674,
+    0.99709
+   ]
+  }
+ ]
+}

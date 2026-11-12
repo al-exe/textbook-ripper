@@ -1,0 +1,597 @@
+{
+ "page": 90,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3）",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "任务及活动",
+   "conf": 1.0,
+   "bbox": [
+    0.1879,
+    0.13781,
+    0.33535,
+    0.16307
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 0.5,
+   "bbox": [
+    0.3624,
+    0.13953,
+    0.7345,
+    0.15988
+   ]
+  },
+  {
+   "text": "（一）任务示范",
+   "conf": 0.5,
+   "bbox": [
+    0.33323,
+    0.1885,
+    0.49041,
+    0.20976
+   ]
+  },
+  {
+   "text": "Task Demonstration",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.19186,
+    0.69961,
+    0.20654
+   ]
+  },
+  {
+   "text": "故事场景",
+   "conf": 1.0,
+   "bbox": [
+    0.17242,
+    0.2571,
+    0.25394,
+    0.27487
+   ]
+  },
+  {
+   "text": "大龙和小丽在客厅里聊天儿。",
+   "conf": 1.0,
+   "bbox": [
+    0.30814,
+    0.26308,
+    0.56008,
+    0.28198
+   ]
+  },
+  {
+   "text": "The scene of the story: Dalong and Xiaoli are chatting in the living room.",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.30811,
+    0.67248,
+    0.32129
+   ]
+  },
+  {
+   "text": "74",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34302,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "大龙：小丽，这几天一直没看见你。你在忙什么呢？",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.36328,
+    0.75969,
+    0.38379
+   ]
+  },
+  {
+   "text": "Dalong: Xidoli, zhe jt tidn yizhi mei kanjian ni.",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.38517,
+    0.55814,
+    0.40137
+   ]
+  },
+  {
+   "text": "Ni zdi mdng shenme ne？",
+   "conf": 0.5,
+   "bbox": [
+    0.55426,
+    0.38517,
+    0.75581,
+    0.40137
+   ]
+  },
+  {
+   "text": "小丽：下个月我要参加英语翻译考试。这几天一直在 学校 准备",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.41113,
+    0.86628,
+    0.43023
+   ]
+  },
+  {
+   "text": "Xidoli: Xid ge yue wo yao canjia Yingyu fanyi kdoshi. Zhe ji tian yizhi zdi xuexido zhunbei",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.43311,
+    0.87791,
+    0.44775
+   ]
+  },
+  {
+   "text": "考试，连回家的时间都没有。",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.45494,
+    0.56008,
+    0.47384
+   ]
+  },
+  {
+   "text": "kdoshi, lidn hui jid de shijian dou meiyou.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.47656,
+    0.55814,
+    0.49273
+   ]
+  },
+  {
+   "text": "大龙：听说 这几年 考翻译的人越来越多，考试也越来越难。",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.50145,
+    0.8624,
+    0.52197
+   ]
+  },
+  {
+   "text": "Ddlong: Tingshuo zhe ji nian kdo fanyi de ren yue lai yue duo, kaoshi ye yue lai yue nan.",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.52471,
+    0.86047,
+    0.5407
+   ]
+  },
+  {
+   "text": "小丽：可不，报纸上说今年参加考试的人数是去年的三倍！",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.54785,
+    0.86628,
+    0.56689
+   ]
+  },
+  {
+   "text": "Xiaoll: Kebu, baozhi shang shuo jinnian canjia kdoshi de renshu shi qunian de san bei！",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.57122,
+    0.8624,
+    0.5874
+   ]
+  },
+  {
+   "text": "大龙：那你 准备得怎么样了？",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.5957,
+    0.48062,
+    0.61337
+   ]
+  },
+  {
+   "text": "Dalong: Na ni zhinbei de zenmeyang le？",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.61768,
+    0.47481,
+    0.63379
+   ]
+  },
+  {
+   "text": "小丽：复习是复习了，不过自己不太有把握。",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.64244,
+    0.63953,
+    0.66134
+   ]
+  },
+  {
+   "text": "Xidoll: Fuxi shi fuxi le, buguo zji bu tai you bawo.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.66553,
+    0.63178,
+    0.68023
+   ]
+  },
+  {
+   "text": "大龙：别担心！你的成绩一直很好，这次也一定 没问题。我看",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.68895,
+    0.86047,
+    0.70947
+   ]
+  },
+  {
+   "text": "Ddlong: Bie danxin! Ni de chengji yizhi hen hao, zheci ye yiding mei wenti. Wo kan",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.71221,
+    0.86628,
+    0.7282
+   ]
+  },
+  {
+   "text": "你的脸色不太好，是不是熬夜了？",
+   "conf": 1.0,
+   "bbox": [
+    0.22287,
+    0.73682,
+    0.59109,
+    0.75586
+   ]
+  },
+  {
+   "text": "ni de lidnse bu tdi hdo, shi bu shi doye le？",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.75872,
+    0.5814,
+    0.7749
+   ]
+  },
+  {
+   "text": "小丽：没办法，要复习的东西简直太多了。哪怕不睡觉我也要",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.7832,
+    0.86822,
+    0.80233
+   ]
+  },
+  {
+   "text": "Xioli:Mei banfd, yo fuxi dedongxi jidnzhi tai le.",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.80518,
+    0.63953,
+    0.82129
+   ]
+  },
+  {
+   "text": "Napd bi shui jio wo ye ydo",
+   "conf": 0.3,
+   "bbox": [
+    0.64147,
+    0.80518,
+    0.87209,
+    0.82129
+   ]
+  },
+  {
+   "text": "复习完。",
+   "conf": 1.0,
+   "bbox": [
+    0.22287,
+    0.8314,
+    0.30814,
+    0.85029
+   ]
+  },
+  {
+   "text": "fuxi wan.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.85303,
+    0.30426,
+    0.86483
+   ]
+  },
+  {
+   "text": "大龙：这样 可不行。中国人 不是 常说 要“劳逸结合”吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.16457,
+    0.87303,
+    0.85291,
+    0.90213
+   ]
+  },
+  {
+   "text": "Ddlong: Zheyang ke bu xing. Zhongguoren bu shi chdng shuo ydo \"ldoyi jiehe” ma？",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.89826,
+    0.8469,
+    0.9157
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94186,
+    0.97238,
+    0.97481,
+    0.99564
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [3]",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08008
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 1.0,
+   "bbox": [
+    0.3624,
+    0.13953,
+    0.7345,
+    0.15988
+   ]
+  },
+  {
+   "text": "(→ 1T",
+   "conf": 0.3,
+   "bbox": [
+    0.33323,
+    0.1885,
+    0.49041,
+    0.20976
+   ]
+  },
+  {
+   "text": "Task Demonstration",
+   "conf": 1.0,
+   "bbox": [
+    0.5,
+    0.19186,
+    0.69961,
+    0.20654
+   ]
+  },
+  {
+   "text": "The scene of the story: Dalong and Xiaoli are chatting in the living room.",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.30811,
+    0.67248,
+    0.32129
+   ]
+  },
+  {
+   "text": "74",
+   "conf": 1.0,
+   "bbox": [
+    0.03488,
+    0.34302,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "Mà: , GREA ARH HAE HLE?",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.36328,
+    0.75969,
+    0.38379
+   ]
+  },
+  {
+   "text": "Dàlóng: Xiăolì, zhè jĩ tiân yìzhí méi kànjian nĩ.",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.38517,
+    0.55814,
+    0.40137
+   ]
+  },
+  {
+   "text": "Nĩ zài máng shénme ne?",
+   "conf": 1.0,
+   "bbox": [
+    0.55426,
+    0.38517,
+    0.75581,
+    0.40137
+   ]
+  },
+  {
+   "text": "Xiăolì: Xià ge yuè wõ yào cănjia Yingyũ fânyì kãoshì. Zhè jĩ tiân yìzhí zài xuéxiào zhũnbèi",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.43311,
+    0.87791,
+    0.44775
+   ]
+  },
+  {
+   "text": "kãoshì, lián hui jiã de shíjiăn dõu méiyou.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.47656,
+    0.55814,
+    0.49273
+   ]
+  },
+  {
+   "text": "Dàlóng: Tingshuò zhè jì nián kão tànyì de rén yuê lái yuè duo, kãoshì ye yuê lái yue nán.",
+   "conf": 0.3,
+   "bbox": [
+    0.14922,
+    0.52471,
+    0.86047,
+    0.5407
+   ]
+  },
+  {
+   "text": "Xiăolì: Kẽbù, bàozhĩ shang shuố jĩnnián cânjiã kãoshì de rénshù shì qùnián de sân bèi !",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.57122,
+    0.8624,
+    0.5874
+   ]
+  },
+  {
+   "text": "Dàlóng: Nà nĩ zhũnbèi de zẽnmeyàng le?",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.61768,
+    0.47481,
+    0.63379
+   ]
+  },
+  {
+   "text": "Xiãolì: Fùxí shì fùxí le, búguò zìji bú tài yõu băwò.",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.66553,
+    0.63178,
+    0.68023
+   ]
+  },
+  {
+   "text": "Dàlóng: Bié dănxĩn! Nì de chéngiì yìzhí hén hão, zhè cì yẻ yídìng méi wèntí. Wó kàn",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.71221,
+    0.86628,
+    0.7282
+   ]
+  },
+  {
+   "text": "1 тж]?",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.73682,
+    0.59109,
+    0.75586
+   ]
+  },
+  {
+   "text": "ni de liănsè bú tài hão, shì bu shì áoyè le?",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.75872,
+    0.5814,
+    0.7749
+   ]
+  },
+  {
+   "text": "Xiăolì: Méi bànfă, yào fùxí de dongxi jiănzhí tài duõ le.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.80518,
+    0.63953,
+    0.82129
+   ]
+  },
+  {
+   "text": "Năpà bú shui jiào wò yè yào",
+   "conf": 0.3,
+   "bbox": [
+    0.64147,
+    0.80518,
+    0.87209,
+    0.82129
+   ]
+  },
+  {
+   "text": "fùxí wán.",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.85303,
+    0.30426,
+    0.86483
+   ]
+  },
+  {
+   "text": "Dàlóng: Zhèyàng kẽ bù xíng. Zhôngguórén bú shì cháng shu yào \"láoyì jiéhé\" ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.14922,
+    0.89826,
+    0.8469,
+    0.9157
+   ]
+  },
+  {
+   "text": "+.",
+   "conf": 0.3,
+   "bbox": [
+    0.94186,
+    0.97238,
+    0.97481,
+    0.99564
+   ]
+  }
+ ]
+}

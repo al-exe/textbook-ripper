@@ -1,0 +1,417 @@
+{
+ "page": 116,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "100",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "质量 也越来越差。你没 看这几天 雾霾多严重啊。",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.13081,
+    0.78876,
+    0.15137
+   ]
+  },
+  {
+   "text": "zhiliang ye yuelaiyue cha. Ni mei kan zhe ji tian wumdi duo yanzhong a.",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.15407,
+    0.78101,
+    0.17006
+   ]
+  },
+  {
+   "text": "大龙：话虽这么说，可是买车也有很多好处啊。比如有了车",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.17578,
+    0.83527,
+    0.19629
+   ]
+  },
+  {
+   "text": "Ddlong: Hua sui zheme shuo, keshi mai che ye you hen duo hdochu a. Bird you le che",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.19913,
+    0.84109,
+    0.21533
+   ]
+  },
+  {
+   "text": "你就不用受罪了。不管刮风还是下雨，不管是冷还是",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.2207,
+    0.85465,
+    0.24128
+   ]
+  },
+  {
+   "text": "ni jid bu yong shou zui le. Buguan gua feng hdishi xid yd,buguan shi leng hdishi",
+   "conf": 0.3,
+   "bbox": [
+    0.2093,
+    0.24414,
+    0.85659,
+    0.26025
+   ]
+  },
+  {
+   "text": "热，开着 车出去都不怕。",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.26599,
+    0.48256,
+    0.28488
+   ]
+  },
+  {
+   "text": "re, kaizhe che chiqu dou bu po.",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.2876,
+    0.47674,
+    0.30378
+   ]
+  },
+  {
+   "text": "小丽：我 知道你心疼我。可是咱俩都刚工作，没多少存款。",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.30957,
+    0.86047,
+    0.32861
+   ]
+  },
+  {
+   "text": "Xidoli: Wo zhiddo ni xinteng wo. Keshi zdn lid dou gang gongzuo, mei duoshao cinkudn.",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.3343,
+    0.86628,
+    0.35029
+   ]
+  },
+  {
+   "text": "买一辆 车不便宜，养一辆车更费钱。车的保险、汽油",
+   "conf": 0.5,
+   "bbox": [
+    0.21124,
+    0.35449,
+    0.85853,
+    0.37355
+   ]
+  },
+  {
+   "text": "Mai yi liang che bu pidnyi, yang yi liang che geng fei qidn. Che de bdoxianqiyou",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.37645,
+    0.8624,
+    0.39258
+   ]
+  },
+  {
+   "text": "费、高速费、加上 停车费、养路费和 保养费，一辆车的",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.39971,
+    0.8624,
+    0.4186
+   ]
+  },
+  {
+   "text": "fei. gdosu fei. jiashang ting che fei. yang lu fei he bdoyang fei, yi liang che de",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.42285,
+    0.86434,
+    0.43896
+   ]
+  },
+  {
+   "text": "花销多大啊！",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.44477,
+    0.36628,
+    0.46094
+   ]
+  },
+  {
+   "text": "huaxiao duo da a！",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.46657,
+    0.35271,
+    0.4782
+   ]
+  },
+  {
+   "text": "大龙：我们可以先买辆 便宜一点儿的。",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.48828,
+    0.57171,
+    0.50732
+   ]
+  },
+  {
+   "text": "Ddlong: Women keyi xian mai liang pianyi yidianr de.",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.51163,
+    0.56589,
+    0.52783
+   ]
+  },
+  {
+   "text": "小丽：反正 我不想买。天气不好的时候 咱们可以打车。想",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.5332,
+    0.82171,
+    0.55233
+   ]
+  },
+  {
+   "text": "Xidoli: Fanzheng wo bu xiang mai. Tianqi bu hdo de shihou zanmen keyi dd che. Xiang",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.55664,
+    0.83333,
+    0.57129
+   ]
+  },
+  {
+   "text": "出去玩儿的时候 咱们可以租车。没有必要非得买车。",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.57849,
+    0.78876,
+    0.59593
+   ]
+  },
+  {
+   "text": "chiqu wanr de shihou zdnmen keyi zu che. Meiyou biyao fei dei mdi che.",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.6001,
+    0.78682,
+    0.61483
+   ]
+  },
+  {
+   "text": "大龙：嗯，买车的事咱们 改天 再好好儿 商量 商量吧。",
+   "conf": 0.3,
+   "bbox": [
+    0.14729,
+    0.62207,
+    0.79264,
+    0.64258
+   ]
+  },
+  {
+   "text": "Dalong: Ng, mai che de shi zdnmen gditian zdi hdohaor shangliang shangliang ba.",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.6439,
+    0.7907,
+    0.66134
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56783,
+    0.07861
+   ]
+  },
+  {
+   "text": "100",
+   "conf": 1.0,
+   "bbox": [
+    0.02713,
+    0.34157,
+    0.06589,
+    0.3561
+   ]
+  },
+  {
+   "text": "zhìliàng yẻ yuèláiyuè chà. Nĩ méi kàn zhè jĩ tiăn wùmái duo yánzhòng a.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.15407,
+    0.78101,
+    0.17006
+   ]
+  },
+  {
+   "text": "Dàlóng: Hua sui zhème shuo, kẽshì mãi chẽ yẽ yõu hẽn duõ hãochù a. Bĩrú yõu le chẽ",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.19913,
+    0.84109,
+    0.21533
+   ]
+  },
+  {
+   "text": "nĩ jiù bú yòng shòu zuì le. Bùguăn guã tẽng háishi xià yũ, bùguăn shì lẽng háishi",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.24414,
+    0.85659,
+    0.26025
+   ]
+  },
+  {
+   "text": "rè, kãizhe chẽ chũau dõu bú pà.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.2876,
+    0.47674,
+    0.30378
+   ]
+  },
+  {
+   "text": "Xiăolì: Wõ zhidào nĩ xinténg wõ. Kẽshì zán lia dõu gãng gõngzuò, méi duõshao cúnkuăn.",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.3343,
+    0.86628,
+    0.35029
+   ]
+  },
+  {
+   "text": "Mãi yí liàng chẽ bù piányi, yăng yí liàng chẽ gèng fèi qián. Chẽ de bãoxiăn, qìyóu",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.37645,
+    0.8624,
+    0.39258
+   ]
+  },
+  {
+   "text": "fèi, gãosù fèi. jiashàng tíng chẽ tèi. yàng lù fèi hé baoyăng fèi, yí liàng chẽ de",
+   "conf": 0.3,
+   "bbox": [
+    0.20736,
+    0.42285,
+    0.86434,
+    0.43896
+   ]
+  },
+  {
+   "text": "TE Á B TT!",
+   "conf": 0.3,
+   "bbox": [
+    0.21124,
+    0.44477,
+    0.36628,
+    0.46094
+   ]
+  },
+  {
+   "text": "huaxiao duo dà a!",
+   "conf": 0.5,
+   "bbox": [
+    0.2093,
+    0.46657,
+    0.35271,
+    0.4782
+   ]
+  },
+  {
+   "text": "Dàlóng: Wămen keyi xiăn mãi liàng piányi yidiănr de.",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.51163,
+    0.56589,
+    0.52783
+   ]
+  },
+  {
+   "text": "Xiaolì: Fănzhèng wõ bù xiăng mãi. Tiãngì bù hão de shíhou zánmen kẽyi dã chẽ. Xiăng",
+   "conf": 0.5,
+   "bbox": [
+    0.14341,
+    0.55664,
+    0.83333,
+    0.57129
+   ]
+  },
+  {
+   "text": "chuau wánr de shíhou zánmen ẽyĩ zũ chẽ. Méiyõu bìyào fẽi dẽi mãi chẽ.",
+   "conf": 0.5,
+   "bbox": [
+    0.20736,
+    0.6001,
+    0.78682,
+    0.61483
+   ]
+  },
+  {
+   "text": "Dàlóng: Ng, mãi chẽ de shì zánmen gặitiăn zài hãohãor shãngliang shãngliang ba.",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.6439,
+    0.7907,
+    0.66134
+   ]
+  }
+ ]
+}

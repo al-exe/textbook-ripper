@@ -1,0 +1,677 @@
+{
+ "page": 123,
+ "cjk_pass": [
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.35174,
+    0.13953,
+    0.36773
+   ]
+  },
+  {
+   "text": "Unit7 Talking about Private Cars",
+   "conf": 0.5,
+   "bbox": [
+    0.53488,
+    0.05811,
+    0.89341,
+    0.07861
+   ]
+  },
+  {
+   "text": "认识18~21个：太棒了！",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.12354,
+    0.3624,
+    0.14111
+   ]
+  },
+  {
+   "text": "Knowing 18-21 words: Wonderfu！！",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.1468,
+    0.45736,
+    0.16279
+   ]
+  },
+  {
+   "text": "3。",
+   "conf": 0.3,
+   "bbox": [
+    0.61628,
+    0.12645,
+    0.70543,
+    0.14111
+   ]
+  },
+  {
+   "text": "认识14~17个：不错，要更加努力。",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.19041,
+    0.46705,
+    0.20947
+   ]
+  },
+  {
+   "text": "Knowing 14-17 words: Good. Please make more efforts.",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.21366,
+    0.64535,
+    0.22965
+   ]
+  },
+  {
+   "text": "认识14个以下：得复习复习。加油啊！",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.25727,
+    0.49031,
+    0.2749
+   ]
+  },
+  {
+   "text": "Knowing fewer than 14 words: Please review the lesson. Come on！",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.28052,
+    0.73643,
+    0.29506
+   ]
+  },
+  {
+   "text": "28。",
+   "conf": 0.3,
+   "bbox": [
+    0.72868,
+    0.19477,
+    0.88372,
+    0.20801
+   ]
+  },
+  {
+   "text": "谈",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.18314,
+    0.96705,
+    0.20203
+   ]
+  },
+  {
+   "text": "私",
+   "conf": 1.0,
+   "bbox": [
+    0.9438,
+    0.19767,
+    0.96124,
+    0.21948
+   ]
+  },
+  {
+   "text": "车",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.24564,
+    0.96512,
+    0.26308
+   ]
+  },
+  {
+   "text": "107",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "选一选，测一测",
+   "conf": 1.0,
+   "bbox": [
+    0.15871,
+    0.35085,
+    0.31222,
+    0.37298
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 0.5,
+   "bbox": [
+    0.3314,
+    0.35449,
+    0.47481,
+    0.36773
+   ]
+  },
+  {
+   "text": "在正确的句子或合适的答句前打v，看看你语法学得怎么样。",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.38953,
+    0.68992,
+    0.40843
+   ]
+  },
+  {
+   "text": "Tick v before the right sentences or answers to check how well you have learned the",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.41699,
+    0.88953,
+    0.43169
+   ]
+  },
+  {
+   "text": "gqrammar.",
+   "conf": 0.3,
+   "bbox": [
+    0.16076,
+    0.43862,
+    0.24234,
+    0.45237
+   ]
+  },
+  {
+   "text": "① A. 早 知道 这个 电影 这么无聊，还不如在家看电视。一②」",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.46657,
+    0.83527,
+    0.48547
+   ]
+  },
+  {
+   "text": "Z6o zhidao zhege dianying zheme wulido, hai burd zai jia kan didnshi.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.48828,
+    0.77326,
+    0.50439
+   ]
+  },
+  {
+   "text": "B. 这个 电影 早 知道 这么无聊，在家还不如看 电视。［一③］",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.51017,
+    0.83721,
+    0.53076
+   ]
+  },
+  {
+   "text": "Zhege dianying zdo zhiddo zheme wulido, zdi jio hdi burd kan didnshi.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.5332,
+    0.77519,
+    0.54942
+   ]
+  },
+  {
+   "text": "② A. 我 想去哪儿就去哪儿，不关你事。［一④",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.55518,
+    0.67054,
+    0.57568
+   ]
+  },
+  {
+   "text": "Wo xiang qu nar jid qu nor, bu guan ni shi.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.57849,
+    0.60078,
+    0.59448
+   ]
+  },
+  {
+   "text": "B. 我想去哪儿就去我去，不关你事。［-⑤］",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.59863,
+    0.68023,
+    0.61919
+   ]
+  },
+  {
+   "text": "Woxiing qu nar jiun qu wo qu bunguran ni shi.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.62207,
+    0.60853,
+    0.63965
+   ]
+  },
+  {
+   "text": "③ A. 早 知道你不喜欢 吃 中餐，我们 还不如去吃西餐。［-②］",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.64244,
+    0.83333,
+    0.66424
+   ]
+  },
+  {
+   "text": "Zdo zhiddo ni bu xihuan chi zhongcan, women hai burd qu chi xicon.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.66699,
+    0.75969,
+    0.68314
+   ]
+  },
+  {
+   "text": "B. 你早 知道不喜欢吃 中餐，我们 去吃还不如西餐。［一D］",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.68895,
+    0.83333,
+    0.70947
+   ]
+  },
+  {
+   "text": "Ni zdo zhiddo bu xihuan chi zhongcan, women qu chi hdi burd xican.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.71221,
+    0.76163,
+    0.7282
+   ]
+  },
+  {
+   "text": "④ A. 不管 你怎么说，反正 我不会改变主意的。［一A」",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.73389,
+    0.76744,
+    0.75439
+   ]
+  },
+  {
+   "text": "Buguan ni zenme shuo, fonzheng wo bu hui gaibian zhuyi de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.75727,
+    0.69767,
+    0.77344
+   ]
+  },
+  {
+   "text": "B. 不管 你怎么说，我不会改变 反正 主意的。一B」",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.77907,
+    0.76938,
+    0.79797
+   ]
+  },
+  {
+   "text": "Biguan ni zenme shuo, wa bu hui gaibian fanzheng zhiyi de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.80078,
+    0.70155,
+    0.81689
+   ]
+  },
+  {
+   "text": "⑤ A. 你想怎么去就怎么去，我听你的。［-④",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.82267,
+    0.67829,
+    0.84326
+   ]
+  },
+  {
+   "text": "Ni xiang zenme gujiu zenme qu, wo ting nide.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.8457,
+    0.60659,
+    0.86192
+   ]
+  },
+  {
+   "text": "B. 你想怎么去我就怎么听你的去。［一C］",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.86768,
+    0.6531,
+    0.88672
+   ]
+  },
+  {
+   "text": "Ni xiang zenme qu wo jiu zenme ting ni de qu.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.89099,
+    0.58527,
+    0.90698
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.35174,
+    0.13953,
+    0.36773
+   ]
+  },
+  {
+   "text": "Unit 7 Talking about Private Cars",
+   "conf": 1.0,
+   "bbox": [
+    0.53488,
+    0.05811,
+    0.89341,
+    0.07861
+   ]
+  },
+  {
+   "text": "іЛ1Д18-211: 1НT!",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.12354,
+    0.3624,
+    0.14111
+   ]
+  },
+  {
+   "text": "Knowing 18-21 words: Wonderful!",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.1468,
+    0.45736,
+    0.16279
+   ]
+  },
+  {
+   "text": "ііД14-17Т: КМ, ВШ3Д0",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.19041,
+    0.46705,
+    0.20947
+   ]
+  },
+  {
+   "text": "Knowing 14-17 words: Good. Please make more efforts.",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.21366,
+    0.64535,
+    0.22965
+   ]
+  },
+  {
+   "text": "тд по",
+   "conf": 0.3,
+   "bbox": [
+    0.61628,
+    0.12645,
+    0.70543,
+    0.14111
+   ]
+  },
+  {
+   "text": "n9 n8 1o",
+   "conf": 0.3,
+   "bbox": [
+    0.72868,
+    0.19477,
+    0.88372,
+    0.20801
+   ]
+  },
+  {
+   "text": "Knowing fewer than 14 words: Please review the lesson. Come on!",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.28052,
+    0.73643,
+    0.29506
+   ]
+  },
+  {
+   "text": "107",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "—і, ілУ-ілУ",
+   "conf": 0.3,
+   "bbox": [
+    0.15871,
+    0.35085,
+    0.31222,
+    0.37298
+   ]
+  },
+  {
+   "text": "Choose and test",
+   "conf": 1.0,
+   "bbox": [
+    0.3314,
+    0.35449,
+    0.47481,
+    0.36773
+   ]
+  },
+  {
+   "text": "MEMHOTRAINAM, TAWA2THE4H",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.38953,
+    0.68992,
+    0.40843
+   ]
+  },
+  {
+   "text": "Tick v before the right sentences or answers to check how well you have learned the",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.41699,
+    0.88953,
+    0.43169
+   ]
+  },
+  {
+   "text": "grammar.",
+   "conf": 1.0,
+   "bbox": [
+    0.16076,
+    0.43862,
+    0.24234,
+    0.45237
+   ]
+  },
+  {
+   "text": "Zão zhidào zhège dianying zhème wúliáo, hái bùrú zài jia kàn diànshì.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.48828,
+    0.77326,
+    0.50439
+   ]
+  },
+  {
+   "text": "ARiETHE EA (-3I",
+   "conf": 0.3,
+   "bbox": [
+    0.5529,
+    0.51017,
+    0.83721,
+    0.53076
+   ]
+  },
+  {
+   "text": "Zhège diànying zão zhídào zhème wúliáo, zài jia hái bùrú kàn diànshì.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.5332,
+    0.77519,
+    0.54942
+   ]
+  },
+  {
+   "text": "Wó xiăng qù năn jiù qù nă, bù guãn nĩ shì.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.57849,
+    0.60078,
+    0.59448
+   ]
+  },
+  {
+   "text": "Wõ xiăng qù năn jiù qù wõ qù, bù guần nĩ shì.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.62207,
+    0.60853,
+    0.63965
+   ]
+  },
+  {
+   "text": "Zão zhidào nĩ bù xihuan chỉ zhôngcăn, wămen hái bùrú qù chi xĩcăn.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.66699,
+    0.75969,
+    0.68314
+   ]
+  },
+  {
+   "text": "Nì zão zhĩdào bù xihuan chĩ zhôngcăn, wămen qù chĩ hái bùrú xicãn.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.71221,
+    0.76163,
+    0.7282
+   ]
+  },
+  {
+   "text": "DATE HELI, RE ATARELEN -A",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.73389,
+    0.76744,
+    0.75439
+   ]
+  },
+  {
+   "text": "Bùguăn nì zenme shuố, tănzhèng wỏ bú hui gặibiàn zhúyi de.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.75727,
+    0.69767,
+    0.77344
+   ]
+  },
+  {
+   "text": "BTE MELi ATARE RE EEM I-BI",
+   "conf": 0.3,
+   "bbox": [
+    0.1938,
+    0.77907,
+    0.76938,
+    0.79797
+   ]
+  },
+  {
+   "text": "Bùguăn nĩ zănme shuo, wõ bú hui gặibiàn fănzhèng zhũyi de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.80078,
+    0.70155,
+    0.81689
+   ]
+  },
+  {
+   "text": "Nĩ xiăng zẽnme qù jiù zẽnme qù, wõ tĩng nĩ de.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.8457,
+    0.60659,
+    0.86192
+   ]
+  },
+  {
+   "text": "Nì xiăng zẽnme qù wò jiù zenme ting ni de qù.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.89099,
+    0.58527,
+    0.90698
+   ]
+  }
+ ]
+}

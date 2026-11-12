@@ -1,0 +1,707 @@
+{
+ "page": 18,
+ "cjk_pass": [
+  {
+   "text": "第一单元",
+   "conf": 1.0,
+   "bbox": [
+    0.11601,
+    0.29132,
+    0.28709,
+    0.32496
+   ]
+  },
+  {
+   "text": "Unit 1",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.33285,
+    0.27713,
+    0.36192
+   ]
+  },
+  {
+   "text": "谈人物特征",
+   "conf": 1.0,
+   "bbox": [
+    0.33519,
+    0.43578,
+    0.66868,
+    0.49154
+   ]
+  },
+  {
+   "text": "Talking about the Characteristics of a Person",
+   "conf": 0.5,
+   "bbox": [
+    0.07752,
+    0.5,
+    0.94574,
+    0.53488
+   ]
+  },
+  {
+   "text": "话题",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.55518,
+    0.2093,
+    0.57129
+   ]
+  },
+  {
+   "text": "Topic",
+   "conf": 1.0,
+   "bbox": [
+    0.16268,
+    0.57538,
+    0.21135,
+    0.59032
+   ]
+  },
+  {
+   "text": "任务目标",
+   "conf": 1.0,
+   "bbox": [
+    0.14718,
+    0.62763,
+    0.22879,
+    0.64563
+   ]
+  },
+  {
+   "text": "Instructional",
+   "conf": 1.0,
+   "bbox": [
+    0.12984,
+    0.64826,
+    0.24419,
+    0.66134
+   ]
+  },
+  {
+   "text": "Objectives",
+   "conf": 0.5,
+   "bbox": [
+    0.14142,
+    0.66551,
+    0.23455,
+    0.68187
+   ]
+  },
+  {
+   "text": "重点词语",
+   "conf": 1.0,
+   "bbox": [
+    0.14713,
+    0.71325,
+    0.22884,
+    0.73152
+   ]
+  },
+  {
+   "text": "Key Words",
+   "conf": 0.5,
+   "bbox": [
+    0.13942,
+    0.73363,
+    0.23654,
+    0.75038
+   ]
+  },
+  {
+   "text": "重点语句",
+   "conf": 1.0,
+   "bbox": [
+    0.14535,
+    0.78613,
+    0.22868,
+    0.80233
+   ]
+  },
+  {
+   "text": "Key",
+   "conf": 1.0,
+   "bbox": [
+    0.1686,
+    0.80664,
+    0.20349,
+    0.82275
+   ]
+  },
+  {
+   "text": "Sentences",
+   "conf": 0.5,
+   "bbox": [
+    0.14531,
+    0.82395,
+    0.23066,
+    0.83594
+   ]
+  },
+  {
+   "text": "语法点",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.87645,
+    0.21899,
+    0.89404
+   ]
+  },
+  {
+   "text": "Grammar",
+   "conf": 1.0,
+   "bbox": [
+    0.14524,
+    0.89632,
+    0.23073,
+    0.90891
+   ]
+  },
+  {
+   "text": "Points",
+   "conf": 1.0,
+   "bbox": [
+    0.15875,
+    0.91383,
+    0.21528,
+    0.92774
+   ]
+  },
+  {
+   "text": "谈论人物外貌、衣着、性格等特征",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.55518,
+    0.54264,
+    0.57275
+   ]
+  },
+  {
+   "text": "Talking about the appearance, clothes, personality and other characteristics of a person",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.57703,
+    0.87016,
+    0.5918
+   ]
+  },
+  {
+   "text": "能正确描述或谈论人物特征，能综合介绍人物特点，包括外表、性格、爱",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.61182,
+    0.87984,
+    0.62939
+   ]
+  },
+  {
+   "text": "好、特长等信息",
+   "conf": 1.0,
+   "bbox": [
+    0.2693,
+    0.63049,
+    0.39736,
+    0.64858
+   ]
+  },
+  {
+   "text": "Students can use appropriate expressions to describe or talk about the characteristics",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.65262,
+    0.88178,
+    0.6657
+   ]
+  },
+  {
+   "text": "of a person, including his/her appearance, personality, hobbies, things he/she is",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.66846,
+    0.88178,
+    0.68459
+   ]
+  },
+  {
+   "text": "skilled in and other aspects.",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.68457,
+    0.47093,
+    0.69775
+   ]
+  },
+  {
+   "text": "性格 xingge、腼腆 midntidn、文静 wenjing、活泼 huopo、开朗 kaildng、",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.71512,
+    0.83721,
+    0.7311
+   ]
+  },
+  {
+   "text": "身材 shencdi、苗条 midotiao、胡子 huzi、眼镜 yanjing",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.73535,
+    0.69961,
+    0.75146
+   ]
+  },
+  {
+   "text": "1. 她长什么样？Ta zhang shenme yang？",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.76599,
+    0.58527,
+    0.78198
+   ]
+  },
+  {
+   "text": "2. 她很苗条，只是个子不太高。Ta hen midotiao, zhishi gezi bu tdi gao.",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.78613,
+    0.82946,
+    0.80233
+   ]
+  },
+  {
+   "text": "3.她有多高？Ta you duo gdo？",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.80518,
+    0.50775,
+    0.82275
+   ]
+  },
+  {
+   "text": "4.我觉得中国女孩儿大都既文静又腼腆。Wo juede Zhonggud ndhdir dadou ji",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.82558,
+    0.88178,
+    0.8418
+   ]
+  },
+  {
+   "text": "wenjing you midntidn.",
+   "conf": 0.5,
+   "bbox": [
+    0.28488,
+    0.8457,
+    0.4593,
+    0.86192
+   ]
+  },
+  {
+   "text": "1. 转折复句：••，只是⋯⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.87645,
+    0.50581,
+    0.89258
+   ]
+  },
+  {
+   "text": "Transitional compound sentence：：",
+   "conf": 0.5,
+   "bbox": [
+    0.52132,
+    0.87791,
+    0.7655,
+    0.89111
+   ]
+  },
+  {
+   "text": "•，只是⋯…",
+   "conf": 0.3,
+   "bbox": [
+    0.77132,
+    0.87645,
+    0.87984,
+    0.89111
+   ]
+  },
+  {
+   "text": "2. 并列复句：既•…又⋯⋯",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.89535,
+    0.48837,
+    0.91134
+   ]
+  },
+  {
+   "text": "Coordinate compound sentence： 既•••••又••••",
+   "conf": 0.3,
+   "bbox": [
+    0.50581,
+    0.8968,
+    0.84302,
+    0.91134
+   ]
+  },
+  {
+   "text": "3.形容词重叠做定语 Reduplication of an adjective used as an attributive",
+   "conf": 0.5,
+   "bbox": [
+    0.26744,
+    0.91553,
+    0.81395,
+    0.93169
+   ]
+  },
+  {
+   "text": "十",
+   "conf": 0.3,
+   "bbox": [
+    0.94186,
+    0.97238,
+    0.97287,
+    0.99419
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 1",
+   "conf": 0.5,
+   "bbox": [
+    0.12597,
+    0.33285,
+    0.27713,
+    0.36192
+   ]
+  },
+  {
+   "text": "17741E",
+   "conf": 0.3,
+   "bbox": [
+    0.40876,
+    0.43578,
+    0.66868,
+    0.49143
+   ]
+  },
+  {
+   "text": "Talking about the Characteristics of a Person",
+   "conf": 1.0,
+   "bbox": [
+    0.07752,
+    0.5,
+    0.94574,
+    0.53488
+   ]
+  },
+  {
+   "text": "Topic",
+   "conf": 0.3,
+   "bbox": [
+    0.16268,
+    0.57538,
+    0.21135,
+    0.59032
+   ]
+  },
+  {
+   "text": "Кіслия. КИ. НННE",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.55518,
+    0.54264,
+    0.57275
+   ]
+  },
+  {
+   "text": "Talking about the appearance, clothes, personality and other characteristies of a person",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.57703,
+    0.87016,
+    0.5918
+   ]
+  },
+  {
+   "text": "130t*",
+   "conf": 0.3,
+   "bbox": [
+    0.14718,
+    0.62763,
+    0.22879,
+    0.64563
+   ]
+  },
+  {
+   "text": "Instructional",
+   "conf": 1.0,
+   "bbox": [
+    0.12984,
+    0.64826,
+    0.24419,
+    0.66134
+   ]
+  },
+  {
+   "text": "Objectives",
+   "conf": 1.0,
+   "bbox": [
+    0.14142,
+    0.66551,
+    0.23455,
+    0.68187
+   ]
+  },
+  {
+   "text": "Key Words",
+   "conf": 1.0,
+   "bbox": [
+    0.13942,
+    0.73363,
+    0.23654,
+    0.75038
+   ]
+  },
+  {
+   "text": "Key",
+   "conf": 1.0,
+   "bbox": [
+    0.1686,
+    0.80669,
+    0.20349,
+    0.82267
+   ]
+  },
+  {
+   "text": "Sentences",
+   "conf": 1.0,
+   "bbox": [
+    0.14531,
+    0.82395,
+    0.23066,
+    0.83594
+   ]
+  },
+  {
+   "text": "Grammar",
+   "conf": 1.0,
+   "bbox": [
+    0.14524,
+    0.89632,
+    0.23073,
+    0.90891
+   ]
+  },
+  {
+   "text": "Points",
+   "conf": 1.0,
+   "bbox": [
+    0.15875,
+    0.91383,
+    0.21528,
+    0.92774
+   ]
+  },
+  {
+   "text": "tF. #K448",
+   "conf": 0.3,
+   "bbox": [
+    0.2693,
+    0.63049,
+    0.39736,
+    0.64858
+   ]
+  },
+  {
+   "text": "Students can use appropriate expressions to describe or talk about the characteristics",
+   "conf": 1.0,
+   "bbox": [
+    0.26938,
+    0.65262,
+    0.88178,
+    0.6657
+   ]
+  },
+  {
+   "text": "of a person, including his/her appearance, personality, hobbies, things he/she is",
+   "conf": 1.0,
+   "bbox": [
+    0.26744,
+    0.66846,
+    0.88178,
+    0.68459
+   ]
+  },
+  {
+   "text": "skilled in and other aspects.",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.68457,
+    0.47093,
+    0.69775
+   ]
+  },
+  {
+   "text": "Mih xinggé, Hf)D miăntiăn, Xất wénjing, Mil huópõ, NVJ kãilăng .",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.71512,
+    0.83721,
+    0.7311
+   ]
+  },
+  {
+   "text": "**1 shêncái. M & miáotiao, t) J húzi, Hk bt yănjìng",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.73535,
+    0.69961,
+    0.75146
+   ]
+  },
+  {
+   "text": "1. kb K1| 4*/? Tã zhăng shénme yàng?",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.76599,
+    0.58527,
+    0.78198
+   ]
+  },
+  {
+   "text": "2. KkmR, RX1 71Kы. Tà hen miáotiao, zhishì gèzi bú tài gão.",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.78613,
+    0.82946,
+    0.80233
+   ]
+  },
+  {
+   "text": "3. KH 1i & Tà? Tà yõu duõ gão?",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.80518,
+    0.50775,
+    0.82275
+   ]
+  },
+  {
+   "text": "Wõ juéde Zhõngguó nũháir dàdõu jì",
+   "conf": 0.3,
+   "bbox": [
+    0.59253,
+    0.82558,
+    0.88178,
+    0.8418
+   ]
+  },
+  {
+   "text": "wénjìng yòu miăntiăn.",
+   "conf": 1.0,
+   "bbox": [
+    0.28488,
+    0.8457,
+    0.4593,
+    0.86192
+   ]
+  },
+  {
+   "text": "1.4ПЕн: -,ЯА.",
+   "conf": 0.3,
+   "bbox": [
+    0.26938,
+    0.87645,
+    0.50581,
+    0.89258
+   ]
+  },
+  {
+   "text": "Transitional compound sentence: ••",
+   "conf": 0.5,
+   "bbox": [
+    0.52132,
+    0.87791,
+    0.7655,
+    0.89111
+   ]
+  },
+  {
+   "text": "•, Яж\"..••",
+   "conf": 0.3,
+   "bbox": [
+    0.77132,
+    0.87645,
+    0.87984,
+    0.89111
+   ]
+  },
+  {
+   "text": "2M720:WX",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.89535,
+    0.48837,
+    0.91134
+   ]
+  },
+  {
+   "text": "Coordinate compound sentence: *••.X•.•••",
+   "conf": 0.3,
+   "bbox": [
+    0.50581,
+    0.8968,
+    0.84302,
+    0.91134
+   ]
+  },
+  {
+   "text": "3. 2in TAIEi Reduplication of an adjective used as an attributive",
+   "conf": 0.3,
+   "bbox": [
+    0.26744,
+    0.91553,
+    0.81395,
+    0.93169
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.97238,
+    0.97287,
+    0.99419
+   ]
+  }
+ ]
+}

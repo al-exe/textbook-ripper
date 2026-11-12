@@ -1,0 +1,227 @@
+{
+ "page": 33,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language ［3］",
+   "conf": 0.5,
+   "bbox": [
+    0.10271,
+    0.05957,
+    0.56008,
+    0.08008
+   ]
+  },
+  {
+   "text": "（二） 图片看中国 China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.33333,
+    0.13227,
+    0.67636,
+    0.14844
+   ]
+  },
+  {
+   "text": "外国人眼中的传统中国女孩儿",
+   "conf": 1.0,
+   "bbox": [
+    0.37403,
+    0.28613,
+    0.67442,
+    0.30523
+   ]
+  },
+  {
+   "text": "waiguoren yan zhong de chudntong Zhongguo ntihdir",
+   "conf": 0.5,
+   "bbox": [
+    0.37016,
+    0.30664,
+    0.78682,
+    0.32275
+   ]
+  },
+  {
+   "text": "A traditional Chinese girl in foreigners\" eyes",
+   "conf": 0.5,
+   "bbox": [
+    0.37209,
+    0.3314,
+    0.69961,
+    0.34738
+   ]
+  },
+  {
+   "text": "16",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "现代中国女大学生",
+   "conf": 1.0,
+   "bbox": [
+    0.37403,
+    0.50291,
+    0.55814,
+    0.52051
+   ]
+  },
+  {
+   "text": "xiandai Zhonggud nd daxuesheng",
+   "conf": 0.3,
+   "bbox": [
+    0.37209,
+    0.52326,
+    0.6376,
+    0.53924
+   ]
+  },
+  {
+   "text": "A moder Chinese female college student",
+   "conf": 0.5,
+   "bbox": [
+    0.37403,
+    0.54932,
+    0.68023,
+    0.5625
+   ]
+  },
+  {
+   "text": "中国著名电影明星章子怡",
+   "conf": 0.5,
+   "bbox": [
+    0.37597,
+    0.71657,
+    0.62791,
+    0.73547
+   ]
+  },
+  {
+   "text": "Zhongguo Zhiming dianying mingxing Zhang Ziyi",
+   "conf": 0.5,
+   "bbox": [
+    0.37209,
+    0.73828,
+    0.76744,
+    0.75439
+   ]
+  },
+  {
+   "text": "A famous Chinese film star—Zhang Ziyi",
+   "conf": 0.5,
+   "bbox": [
+    0.37403,
+    0.76308,
+    0.67248,
+    0.77783
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "New Target Chinese Spoken Language [ 3]",
+   "conf": 1.0,
+   "bbox": [
+    0.10271,
+    0.05957,
+    0.56008,
+    0.08008
+   ]
+  },
+  {
+   "text": "(= AHEP China in Pictures",
+   "conf": 0.3,
+   "bbox": [
+    0.33333,
+    0.13227,
+    0.67636,
+    0.14844
+   ]
+  },
+  {
+   "text": "wàiguórén yăn zhông de chuántăng Zhôngguó nũháir",
+   "conf": 0.3,
+   "bbox": [
+    0.37016,
+    0.30664,
+    0.78682,
+    0.32275
+   ]
+  },
+  {
+   "text": "A traditional Chinese girl in foreigners' eyes",
+   "conf": 0.5,
+   "bbox": [
+    0.37209,
+    0.3314,
+    0.69961,
+    0.34738
+   ]
+  },
+  {
+   "text": "16",
+   "conf": 1.0,
+   "bbox": [
+    0.03682,
+    0.34157,
+    0.06395,
+    0.3561
+   ]
+  },
+  {
+   "text": "FLA*X*",
+   "conf": 0.3,
+   "bbox": [
+    0.37403,
+    0.50291,
+    0.55814,
+    0.52035
+   ]
+  },
+  {
+   "text": "xiàndài Zhõngguó nũ dàxuesheng",
+   "conf": 1.0,
+   "bbox": [
+    0.37209,
+    0.52326,
+    0.6376,
+    0.53924
+   ]
+  },
+  {
+   "text": "A modern Chinese female college student",
+   "conf": 1.0,
+   "bbox": [
+    0.37403,
+    0.54932,
+    0.68023,
+    0.5625
+   ]
+  },
+  {
+   "text": "Zhôngguó Zhùming diànyĩng míngxing Zhãng Ziyí",
+   "conf": 0.5,
+   "bbox": [
+    0.37209,
+    0.73828,
+    0.76744,
+    0.75439
+   ]
+  },
+  {
+   "text": "A famous Chinese film star-Zhang Ziyi",
+   "conf": 1.0,
+   "bbox": [
+    0.37403,
+    0.76308,
+    0.67248,
+    0.77783
+   ]
+  }
+ ]
+}

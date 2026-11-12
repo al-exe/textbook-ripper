@@ -1,0 +1,707 @@
+{
+ "page": 58,
+ "cjk_pass": [
+  {
+   "text": "42",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34012,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language ［4）",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "4",
+   "conf": 0.3,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.14244
+   ]
+  },
+  {
+   "text": "辩论",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.12645,
+    0.19767,
+    0.14551
+   ]
+  },
+  {
+   "text": "Debate",
+   "conf": 1.0,
+   "bbox": [
+    0.217,
+    0.12922,
+    0.28494,
+    0.14404
+   ]
+  },
+  {
+   "text": "班级活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17047,
+    0.16987,
+    0.25395,
+    0.18769
+   ]
+  },
+  {
+   "text": "选择一个题目进行辩论。",
+   "conf": 1.0,
+   "bbox": [
+    0.27519,
+    0.17285,
+    0.48643,
+    0.19043
+   ]
+  },
+  {
+   "text": "Class work: Choose a topic for debate.",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.2064,
+    0.46899,
+    0.22093
+   ]
+  },
+  {
+   "text": "（1）顾客退回的食品 是否允许 （to allow）继续出售 （to sell）？",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.23242,
+    0.80814,
+    0.25
+   ]
+  },
+  {
+   "text": "Guke tuihui de shipin shifou yunxu",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.25581,
+    0.51163,
+    0.27051
+   ]
+  },
+  {
+   "text": "jixuchishou？",
+   "conf": 0.3,
+   "bbox": [
+    0.62209,
+    0.25581,
+    0.73256,
+    0.27051
+   ]
+  },
+  {
+   "text": "（2） 商品 出了毛病，除了退换外，是否 应该 给顾客",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.28052,
+    0.78295,
+    0.29942
+   ]
+  },
+  {
+   "text": "Shangpin chile maobing, chdle tuihuan wai, shifdu yinggai gei guke",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.30225,
+    0.78101,
+    0.31836
+   ]
+  },
+  {
+   "text": "赔偿 （compensation）？",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.32558,
+    0.44767,
+    0.34738
+   ]
+  },
+  {
+   "text": "peichdng？",
+   "conf": 0.5,
+   "bbox": [
+    0.23643,
+    0.34863,
+    0.31783,
+    0.36483
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.47238,
+    0.14147,
+    0.49564
+   ]
+  },
+  {
+   "text": "突然",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.47217,
+    0.19767,
+    0.49128
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 0.5,
+   "bbox": [
+    0.18387,
+    0.41771,
+    0.33357,
+    0.44275
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35465,
+    0.41992,
+    0.65116,
+    0.43896
+   ]
+  },
+  {
+   "text": "The usage of “突然”",
+   "conf": 0.3,
+   "bbox": [
+    0.2283,
+    0.4733,
+    0.41524,
+    0.49427
+   ]
+  },
+  {
+   "text": "“突然”，形容词，表示发生得很急促，忽然。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.51599,
+    0.64341,
+    0.53343
+   ]
+  },
+  {
+   "text": "The adjective “突然”shows something occurred very rapidly or suddenly. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.5376,
+    0.89147,
+    0.55523
+   ]
+  },
+  {
+   "text": "①突然下起了大雨。",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.57122,
+    0.39147,
+    0.59033
+   ]
+  },
+  {
+   "text": "Turan xiagi le da yu.",
+   "conf": 0.3,
+   "bbox": [
+    0.21318,
+    0.59157,
+    0.38566,
+    0.6061
+   ]
+  },
+  {
+   "text": "②这 件事让他觉得很突然。",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.61475,
+    0.50388,
+    0.63379
+   ]
+  },
+  {
+   "text": "Zhe jian shi rang ta juede hen turan.",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.63517,
+    0.5,
+    0.65137
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.70058,
+    0.1376,
+    0.71802
+   ]
+  },
+  {
+   "text": "即便",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.69913,
+    0.19961,
+    0.71826
+   ]
+  },
+  {
+   "text": "The usage of “即便”",
+   "conf": 0.3,
+   "bbox": [
+    0.21876,
+    0.70009,
+    0.41523,
+    0.72114
+   ]
+  },
+  {
+   "text": "连词“即便” 意思是“即使”，表示假设的让步。即承认某种事实，暂让一步，在正句里",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.73535,
+    0.8876,
+    0.75293
+   ]
+  },
+  {
+   "text": "常用“也”或“还是”呼应，说出结论。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.75727,
+    0.52713,
+    0.77637
+   ]
+  },
+  {
+   "text": "The conjunction“即便” means “even if'， indicating a hypothetical concession, i.e.，",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.78052,
+    0.89147,
+    0.79651
+   ]
+  },
+  {
+   "text": "acknowledging a fact and making a concession. It is usually used together with“也”or “还是”to",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.80371,
+    0.89147,
+    0.81836
+   ]
+  },
+  {
+   "text": "draw a conclusion. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.82703,
+    0.39341,
+    0.84033
+   ]
+  },
+  {
+   "text": "①太晚了，即便你马上就去，到那儿银行也关门了。",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.85449,
+    0.80039,
+    0.87355
+   ]
+  },
+  {
+   "text": "Tai wan le. jibian ni mashang jiu qu, dao nar yinhang ye guan men le.",
+   "conf": 0.3,
+   "bbox": [
+    0.21318,
+    0.875,
+    0.7907,
+    0.88965
+   ]
+  },
+  {
+   "text": "②这篇文章太难了，即便我再读一遍，还是读不懂。",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.89826,
+    0.77519,
+    0.91715
+   ]
+  },
+  {
+   "text": "Zhe pian wenzhang tdi ndn le, jibian wo zdi du yi bidn, hdishi du bu dong.",
+   "conf": 0.3,
+   "bbox": [
+    0.21318,
+    0.91846,
+    0.77713,
+    0.93459
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "42",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34012,
+    0.06202,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language (4)",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.05811,
+    0.56589,
+    0.07861
+   ]
+  },
+  {
+   "text": "77it",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.12645,
+    0.19767,
+    0.14535
+   ]
+  },
+  {
+   "text": "Debate",
+   "conf": 1.0,
+   "bbox": [
+    0.217,
+    0.12922,
+    0.28494,
+    0.14404
+   ]
+  },
+  {
+   "text": "FILiEZ)",
+   "conf": 0.3,
+   "bbox": [
+    0.17047,
+    0.16987,
+    0.25395,
+    0.18769
+   ]
+  },
+  {
+   "text": "LH1HMTHiE®",
+   "conf": 0.3,
+   "bbox": [
+    0.27519,
+    0.17297,
+    0.48643,
+    0.19041
+   ]
+  },
+  {
+   "text": "Class work: Choose a topic for debate.",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.2064,
+    0.46899,
+    0.22093
+   ]
+  },
+  {
+   "text": "(tao) (to sell) ?",
+   "conf": 0.3,
+   "bbox": [
+    0.51823,
+    0.23242,
+    0.80814,
+    0.25
+   ]
+  },
+  {
+   "text": "Gùkè tuihuí de shípin shifou yunxu",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.25581,
+    0.51163,
+    0.27051
+   ]
+  },
+  {
+   "text": "jìxù chùshòu?",
+   "conf": 0.5,
+   "bbox": [
+    0.62209,
+    0.25581,
+    0.73256,
+    0.27051
+   ]
+  },
+  {
+   "text": "(0Т ЧТЬ",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.28052,
+    0.78295,
+    0.29942
+   ]
+  },
+  {
+   "text": "Shăngpin chũle máobìng, chúle tuìhuàn wài, shìfòu yinggãi gẽi gùkè",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.30225,
+    0.78101,
+    0.31836
+   ]
+  },
+  {
+   "text": "N$12 (compensation) ?",
+   "conf": 0.3,
+   "bbox": [
+    0.23837,
+    0.32558,
+    0.44767,
+    0.34738
+   ]
+  },
+  {
+   "text": "péicháng?",
+   "conf": 1.0,
+   "bbox": [
+    0.23643,
+    0.34884,
+    0.31783,
+    0.36483
+   ]
+  },
+  {
+   "text": "1",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.47238,
+    0.14147,
+    0.49564
+   ]
+  },
+  {
+   "text": "ieizWiET",
+   "conf": 0.3,
+   "bbox": [
+    0.18387,
+    0.41771,
+    0.33357,
+    0.44275
+   ]
+  },
+  {
+   "text": "The usage of \"Fi*\"",
+   "conf": 0.3,
+   "bbox": [
+    0.2283,
+    0.4733,
+    0.41524,
+    0.49427
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35465,
+    0.41992,
+    0.65116,
+    0.43896
+   ]
+  },
+  {
+   "text": "The adjective \"Efk\" shows something occurred very rapidly or suddenly. For example:",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.5376,
+    0.89147,
+    0.55523
+   ]
+  },
+  {
+   "text": "DERFAItf.",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.57122,
+    0.39147,
+    0.59012
+   ]
+  },
+  {
+   "text": "Túrán xiàqi le dà yu.",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.59157,
+    0.38566,
+    0.6061
+   ]
+  },
+  {
+   "text": "Zhè jiàn shì ràng tã juéde hẽn turán.",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.63517,
+    0.5,
+    0.65137
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.70058,
+    0.1376,
+    0.71802
+   ]
+  },
+  {
+   "text": "E01E",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.69913,
+    0.19961,
+    0.71802
+   ]
+  },
+  {
+   "text": "The usage of \"ap1E\"",
+   "conf": 0.5,
+   "bbox": [
+    0.21876,
+    0.70009,
+    0.41523,
+    0.72114
+   ]
+  },
+  {
+   "text": "\"В ЦИ НЕнт",
+   "conf": 0.3,
+   "bbox": [
+    0.23307,
+    0.73535,
+    0.8876,
+    0.75293
+   ]
+  },
+  {
+   "text": "WЛ \"W\" D \"iR\" nE, DonzaiE bItn :",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.75727,
+    0.52713,
+    0.77637
+   ]
+  },
+  {
+   "text": "The conjunction \"EPfti\" means \"even if\", indicating a hypothetical concession, i.e.,",
+   "conf": 0.5,
+   "bbox": [
+    0.19186,
+    0.78052,
+    0.89147,
+    0.79651
+   ]
+  },
+  {
+   "text": "acknowledging a fact and making a concession. It is usually used together with \"t\" or \"i#!\" to",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.80371,
+    0.89147,
+    0.81836
+   ]
+  },
+  {
+   "text": "draw a conclusion. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.82703,
+    0.39341,
+    0.84033
+   ]
+  },
+  {
+   "text": "Tài wăn le, jibiàn ni màshàng jiù qù, dào nài yínháng yẻ guãn mén le.",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.875,
+    0.7907,
+    0.88965
+   ]
+  },
+  {
+   "text": "Zhè piãn wénzhãng tài nán le, jíbiàn wõ zài dú yí biàn, háishi dú bu dăng.",
+   "conf": 0.5,
+   "bbox": [
+    0.21318,
+    0.91846,
+    0.77713,
+    0.93459
+   ]
+  }
+ ]
+}

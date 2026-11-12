@@ -1,0 +1,277 @@
+{
+ "page": 125,
+ "cjk_pass": [
+  {
+   "text": "Unit 7 Talking about Private Cars",
+   "conf": 0.5,
+   "bbox": [
+    0.53295,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "3. Chery Automobile Chery Automobile Co.， Ltd. was founded in 1997 by five local",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.12354,
+    0.89147,
+    0.14111
+   ]
+  },
+  {
+   "text": "state-owned investment companies in China's Anhui Province with an initial capitalization of",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.1439,
+    0.89147,
+    0.15843
+   ]
+  },
+  {
+   "text": "RMB1.752 billion. The plant construction of Chery Automobile Co.， Ltd. was commenced on",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.16406,
+    0.88953,
+    0.17878
+   ]
+  },
+  {
+   "text": "March 18, 1997, and the first Chery car came off the production line on December 18,1999.（From",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.18457,
+    0.89147,
+    0.20068
+   ]
+  },
+  {
+   "text": "http://www.chinapp.com/）",
+   "conf": 0.5,
+   "bbox": [
+    0.10853,
+    0.20494,
+    0.32171,
+    0.22093
+   ]
+  },
+  {
+   "text": "（二）图片看中国 China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.35078,
+    0.26744,
+    0.69574,
+    0.28343
+   ]
+  },
+  {
+   "text": "中国古代的马车",
+   "conf": 1.0,
+   "bbox": [
+    0.17829,
+    0.49121,
+    0.33915,
+    0.51025
+   ]
+  },
+  {
+   "text": "Zhongguo guddi de mache",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.51599,
+    0.38566,
+    0.53076
+   ]
+  },
+  {
+   "text": "A carriage in ancient China",
+   "conf": 0.5,
+   "bbox": [
+    0.17636,
+    0.53467,
+    0.39729,
+    0.55233
+   ]
+  },
+  {
+   "text": "红旗概念车",
+   "conf": 1.0,
+   "bbox": [
+    0.52519,
+    0.49121,
+    0.64341,
+    0.51025
+   ]
+  },
+  {
+   "text": "Hongqi gainion che",
+   "conf": 0.5,
+   "bbox": [
+    0.52519,
+    0.51599,
+    0.67636,
+    0.53198
+   ]
+  },
+  {
+   "text": "The Red Flag concept car",
+   "conf": 0.5,
+   "bbox": [
+    0.52326,
+    0.53613,
+    0.73062,
+    0.55233
+   ]
+  },
+  {
+   "text": "109",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 7 Talking about Private Cars",
+   "conf": 1.0,
+   "bbox": [
+    0.53295,
+    0.05811,
+    0.89147,
+    0.07861
+   ]
+  },
+  {
+   "text": "3. Chery Automobile Chery Automobile Co., Ltd. was founded in 1997 by five local",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.12354,
+    0.89147,
+    0.14111
+   ]
+  },
+  {
+   "text": "state-owned investment companies in China's Anhui Province with an initial capitalization of",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.1439,
+    0.89147,
+    0.15843
+   ]
+  },
+  {
+   "text": "RMB1.752 billion. The plant construction of Chery Automobile Co., Ltd. was commenced on",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.16406,
+    0.88953,
+    0.17878
+   ]
+  },
+  {
+   "text": "March 18, 1997, and the first Chery car came off the production line on December 18,1999. (From",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.18457,
+    0.89147,
+    0.20068
+   ]
+  },
+  {
+   "text": "http://www.chinapp.com/)",
+   "conf": 1.0,
+   "bbox": [
+    0.10853,
+    0.20494,
+    0.32171,
+    0.22093
+   ]
+  },
+  {
+   "text": "(= 8H9E China in Pictures",
+   "conf": 0.3,
+   "bbox": [
+    0.35078,
+    0.26744,
+    0.69574,
+    0.28343
+   ]
+  },
+  {
+   "text": "Zhôngguó gũdài de măche",
+   "conf": 0.3,
+   "bbox": [
+    0.17636,
+    0.51599,
+    0.38566,
+    0.53076
+   ]
+  },
+  {
+   "text": "A carriage in ancient China",
+   "conf": 1.0,
+   "bbox": [
+    0.17636,
+    0.53467,
+    0.39729,
+    0.55233
+   ]
+  },
+  {
+   "text": "LIMHAF",
+   "conf": 0.3,
+   "bbox": [
+    0.52519,
+    0.49128,
+    0.64341,
+    0.51017
+   ]
+  },
+  {
+   "text": "Hóngqí gàiniàn chẽ",
+   "conf": 0.5,
+   "bbox": [
+    0.52519,
+    0.51599,
+    0.67636,
+    0.53198
+   ]
+  },
+  {
+   "text": "The Red Flag concept car",
+   "conf": 1.0,
+   "bbox": [
+    0.52326,
+    0.53613,
+    0.73062,
+    0.55233
+   ]
+  },
+  {
+   "text": "109",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ]
+}

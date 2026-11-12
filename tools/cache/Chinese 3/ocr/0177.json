@@ -1,0 +1,677 @@
+{
+ "page": 177,
+ "cjk_pass": [
+  {
+   "text": "Unit 10 Talking about the Itinerary of a Trip",
+   "conf": 0.5,
+   "bbox": [
+    0.42636,
+    0.06104,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "职员：我们有好多条线路。您能 说说 具体的要求吗？",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.13372,
+    0.79264,
+    0.1543
+   ]
+  },
+  {
+   "text": "zhiyuan: Women you hdo duo tiao xianlu. Nin neng shuoshuo jutr de yaoqidma？",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.15552,
+    0.78876,
+    0.17006
+   ]
+  },
+  {
+   "text": "您是喜欢去风景 优美的景点呢，还是想去一些",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.17871,
+    0.78876,
+    0.19775
+   ]
+  },
+  {
+   "text": "Nin shi xihuan qu fengiing youmei de jingdian ne, hdishi xiang qu yixie",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.19913,
+    0.78295,
+    0.21533
+   ]
+  },
+  {
+   "text": "有名的城市 看看？",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.22363,
+    0.45349,
+    0.23983
+   ]
+  },
+  {
+   "text": "youming de chengshi kankan？",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.24268,
+    0.45543,
+    0.25879
+   ]
+  },
+  {
+   "text": "大龙：我们 都是外国 留学生，所以想 多了解一些 中国",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.26744,
+    0.80039,
+    0.28634
+   ]
+  },
+  {
+   "text": "Dalbng: Women dou shi waiguo litxuesheng,suoyi xidng uo liojie yixie honggud",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.28613,
+    0.82171,
+    0.30378
+   ]
+  },
+  {
+   "text": "文化。",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.3125,
+    0.27519,
+    0.33154
+   ]
+  },
+  {
+   "text": "wenhua.",
+   "conf": 0.5,
+   "bbox": [
+    0.22086,
+    0.33256,
+    0.29077,
+    0.34332
+   ]
+  },
+  {
+   "text": "职员：要是 你们 想多看看 名胜 古迹的话，我认为我们新",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.35596,
+    0.83721,
+    0.375
+   ]
+  },
+  {
+   "text": "zhiyuan: Yaoshi nimen xidng duo kankan mingsheng guji dehud,wo renwei women xin",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.37791,
+    0.83721,
+    0.39551
+   ]
+  },
+  {
+   "text": "开的一条历史 名城 线路 比较适合您，洛阳——西安—",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.40116,
+    0.84884,
+    0.42006
+   ]
+  },
+  {
+   "text": "kai de yi tido lishi mingcheng xidnlu bijido shihe nin,Luoyang—Xr'an—",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.42139,
+    0.84884,
+    0.43896
+   ]
+  },
+  {
+   "text": "南京三地10日游，您觉得 怎么样？",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.44622,
+    0.61047,
+    0.46387
+   ]
+  },
+  {
+   "text": "Nanjing san di shi ri you, nin juede zenmeyang？",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.46512,
+    0.61628,
+    0.4811
+   ]
+  },
+  {
+   "text": "大龙：挺好的。能介绍一下具体 行程吗？",
+   "conf": 0.5,
+   "bbox": [
+    0.16085,
+    0.48975,
+    0.64147,
+    0.50879
+   ]
+  },
+  {
+   "text": "Dalong: Ting hdo de. Neng jieshdo yixid juti xingchengma？",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.51017,
+    0.64147,
+    0.52637
+   ]
+  },
+  {
+   "text": "职员：7月15号从北京出发，坐飞机到 洛阳，洛阳3天，",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.53467,
+    0.85271,
+    0.55378
+   ]
+  },
+  {
+   "text": "zhiyuan: Qi yue shiwu hao cong Beijing chufa, zuo feiji dao Luoyang, Luoydng san tidn，",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.55664,
+    0.85659,
+    0.57275
+   ]
+  },
+  {
+   "text": "西安3天，南京3天，7月 25号飞回北京。",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.57849,
+    0.75388,
+    0.59884
+   ]
+  },
+  {
+   "text": "Xi'an san tian, Nanjing san tian, qi yue ershiwd hdo feihui Beijing.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.59863,
+    0.75581,
+    0.61483
+   ]
+  },
+  {
+   "text": "大龙：我们都游览哪些 景点呢？",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.62354,
+    0.52132,
+    0.64111
+   ]
+  },
+  {
+   "text": "Ddlong: Women dou youlan naxie jingdian ne？",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.6439,
+    0.51744,
+    0.65843
+   ]
+  },
+  {
+   "text": "职员：三地有名的景点都",
+   "conf": 0.5,
+   "bbox": [
+    0.15891,
+    0.66699,
+    0.46705,
+    0.68459
+   ]
+  },
+  {
+   "text": "zhiyudn: San di youming de jngdin du",
+   "conf": 0.3,
+   "bbox": [
+    0.14147,
+    0.68895,
+    0.46705,
+    0.70508
+   ]
+  },
+  {
+   "text": "会游览，拿洛阳来说，",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.71221,
+    0.48256,
+    0.7311
+   ]
+  },
+  {
+   "text": "hui youlan, na Luoyang Idi shuo，",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.73389,
+    0.48837,
+    0.75
+   ]
+  },
+  {
+   "text": "有龙门石窟、白马寺、",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.75727,
+    0.48062,
+    0.77637
+   ]
+  },
+  {
+   "text": "you Longmen Shikd、 Baima Si，",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.77907,
+    0.48062,
+    0.79506
+   ]
+  },
+  {
+   "text": "少林寺等。",
+   "conf": 0.5,
+   "bbox": [
+    0.22086,
+    0.8006,
+    0.34697,
+    0.82004
+   ]
+  },
+  {
+   "text": "Shaolin Si deng.",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.82122,
+    0.35078,
+    0.83594
+   ]
+  },
+  {
+   "text": "大龙：这条线路不错，我们就",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.8457,
+    0.48643,
+    0.86337
+   ]
+  },
+  {
+   "text": "Ddlong: Zhe tido xianld bicuo, women jiu",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.86768,
+    0.4845,
+    0.88379
+   ]
+  },
+  {
+   "text": "订这个吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.22282,
+    0.8908,
+    0.35082,
+    0.90862
+   ]
+  },
+  {
+   "text": "ding zhege ba.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.91113,
+    0.34302,
+    0.92587
+   ]
+  },
+  {
+   "text": "163",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 10 Talking about the Itinerary of a Trip",
+   "conf": 1.0,
+   "bbox": [
+    0.42636,
+    0.06104,
+    0.89147,
+    0.08008
+   ]
+  },
+  {
+   "text": "zhíyuán: Wõmen yõu hão duõ tiáo xiànlù. Nín néng shuõshuo jùtĩ de yãoqiú ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.15552,
+    0.78876,
+    0.17006
+   ]
+  },
+  {
+   "text": "Nín shì xihuan qu tẽngjing youmẽi de jingdiăn ne, háishi xiăng qù yixiẽ",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.19913,
+    0.78295,
+    0.21533
+   ]
+  },
+  {
+   "text": "A& Á tn tt?",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.22363,
+    0.45349,
+    0.23983
+   ]
+  },
+  {
+   "text": "youming de chéngshì kànkan?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.24268,
+    0.45543,
+    0.25879
+   ]
+  },
+  {
+   "text": "Dàlóng: Wămen dõu shì wàiguó liúxuéshẽng, suõyĩ xiăng duo liãojiẽ yixie Zhõngguó",
+   "conf": 0.3,
+   "bbox": [
+    0.14535,
+    0.28613,
+    0.82171,
+    0.30378
+   ]
+  },
+  {
+   "text": "wénhuà.",
+   "conf": 0.5,
+   "bbox": [
+    0.22086,
+    0.33256,
+    0.29077,
+    0.34332
+   ]
+  },
+  {
+   "text": "163",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97287,
+    0.3561
+   ]
+  },
+  {
+   "text": "zhíyuán: Yàoshi nimen xiăng duo kànkan mingshèng gũjì dehuà, wõ rènwéi wămen xin",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.37791,
+    0.83721,
+    0.39551
+   ]
+  },
+  {
+   "text": "kãi de yì tiáo lìshi míngchéng xiànlù bĩjiào shìhé nín , LuòyángXỉăn-",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.42139,
+    0.84884,
+    0.43896
+   ]
+  },
+  {
+   "text": "=10, €47?",
+   "conf": 0.3,
+   "bbox": [
+    0.28809,
+    0.44622,
+    0.61047,
+    0.46387
+   ]
+  },
+  {
+   "text": "Nánjĩng săn dì shí rì yóu, nín juéde zẽnmeyàng?",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.46512,
+    0.61628,
+    0.4811
+   ]
+  },
+  {
+   "text": "Т# Н",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.48975,
+    0.64147,
+    0.50879
+   ]
+  },
+  {
+   "text": "Dàlóng: Ting hão de. Néng jièshào yíxia jùtĩ xíngchéng ma?",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.51017,
+    0.64147,
+    0.52637
+   ]
+  },
+  {
+   "text": "zhíyuán: Qì yuè shíwũ hào cóng Bẽijĩng chũfã, zuò feiji dào Luòyáng, Luoyáng săn tiăn,",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.55664,
+    0.85659,
+    0.57275
+   ]
+  },
+  {
+   "text": "D 3E Mд 3ЕTA 25 77OH.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.57849,
+    0.75388,
+    0.59884
+   ]
+  },
+  {
+   "text": "Xỉãn săn tiăn, Nánjing săn tiăn, qì yuè ershíw hào fẽihuí Beijing.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.59863,
+    0.75581,
+    0.61483
+   ]
+  },
+  {
+   "text": "D: E?",
+   "conf": 0.3,
+   "bbox": [
+    0.15891,
+    0.62354,
+    0.52132,
+    0.64111
+   ]
+  },
+  {
+   "text": "Dàlóng: Women dõu yóulán náxie jingdian ne?",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.6439,
+    0.51744,
+    0.65843
+   ]
+  },
+  {
+   "text": "zhíyuán: Sân dì yõumíng de jĩngdiăn dõu",
+   "conf": 0.5,
+   "bbox": [
+    0.14147,
+    0.68895,
+    0.46705,
+    0.70508
+   ]
+  },
+  {
+   "text": "жк, 7 ж *ї.",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.71221,
+    0.48256,
+    0.7311
+   ]
+  },
+  {
+   "text": "hui yóulăn, ná Luòyáng lái shuo,",
+   "conf": 0.5,
+   "bbox": [
+    0.22287,
+    0.73389,
+    0.48837,
+    0.75
+   ]
+  },
+  {
+   "text": "A RI EA. 4DF.",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.75727,
+    0.48062,
+    0.77637
+   ]
+  },
+  {
+   "text": "yêu Lóngmén Shíkũ, Báimà Sì,",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.77907,
+    0.48062,
+    0.79506
+   ]
+  },
+  {
+   "text": "F.",
+   "conf": 0.3,
+   "bbox": [
+    0.31363,
+    0.801,
+    0.34697,
+    0.82004
+   ]
+  },
+  {
+   "text": "Shàolín Sì dăng.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.82122,
+    0.35078,
+    0.83594
+   ]
+  },
+  {
+   "text": "Dàlóng: Zhè tiáo xiànlù búcuò, wămen jiù",
+   "conf": 0.5,
+   "bbox": [
+    0.14535,
+    0.86768,
+    0.4845,
+    0.88379
+   ]
+  },
+  {
+   "text": "іT іTE.",
+   "conf": 0.3,
+   "bbox": [
+    0.22282,
+    0.8908,
+    0.35082,
+    0.90862
+   ]
+  },
+  {
+   "text": "ding zhège ba.",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.91113,
+    0.34302,
+    0.92587
+   ]
+  }
+ ]
+}

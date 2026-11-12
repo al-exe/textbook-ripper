@@ -1,0 +1,126 @@
+{
+  "book": "Chinese 4",
+  "unit": 6,
+  "kind": "grammar",
+  "title": {"zh": "网络与手机", "py": "Wǎngluò yǔ shǒujī", "en": "Internet and Mobile Phones"},
+  "source": "PDF pp. 95, 101–103, 106–109 (printed pp. 79, 85–87, 90–93)",
+  "intro": "This unit is about how the internet and smartphones change our lives. Grammar: (1) 自从……以后 “ever since…”; (2) 要么……要么…… “either… or…”; (3) 从某种程度上来说 “to some extent”. Also useful: A倒是A了，可是…… “it is A, all right, but…”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "自从手机可以上网以后，方便倒是方便了，可是这却让我们的距离变大了。", "py": "Zìcóng shǒujī kěyǐ shàng wǎng yǐhòu, fāngbiàn dàoshì fāngbiàn le, kěshì zhè què ràng wǒmen de jùlí biàn dà le.", "en": "Ever since phones could go online, things have certainly become convenient — but it has also pushed us further apart."},
+    {"zh": "以前吃饭的时候有说有笑，可是现在大家要么用手机上网看信息，要么用手机玩儿游戏。", "py": "Yǐqián chī fàn de shíhou yǒu shuō yǒu xiào, kěshì xiànzài dàjiā yàome yòng shǒujī shàng wǎng kàn xìnxī, yàome yòng shǒujī wánr yóuxì.", "en": "We used to chat and laugh over meals, but now everyone is either reading messages online or playing games on their phones."},
+    {"zh": "可是从某种程度上来说，我们却忽略了人与人之间面对面的交流。", "py": "Kěshì cóng mǒu zhǒng chéngdù shang lái shuō, wǒmen què hūlüèle rén yǔ rén zhī jiān miànduìmiàn de jiāoliú.", "en": "But to some extent, we've neglected face-to-face communication between people."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "自从", "py": "zìcóng", "en": "The usage of 自从"},
+      "body": [
+        {"type": "text", "zh": "表示以过去某一时间或某一事情为起点，例如：", "en": "“自从” takes a past time or event as the starting point (“ever since…”), e.g.,"},
+        {"type": "pattern", "zh": "自从 + 过去的时间／事情 + （以后），+ 一直／就……", "py": "zìcóng + guòqù de shíjiān / shìqing + (yǐhòu), + yìzhí / jiù……", "en": "ever since + (past time/event), + (what has been the case since)"},
+        {"type": "example", "zh": "自从5月份以后，天气就渐渐暖和起来了。", "py": "Zìcóng wǔ yuèfèn yǐhòu, tiānqì jiù jiànjiàn nuǎnhuo qǐlai le.", "en": "Since May, the weather has gradually been getting warmer."},
+        {"type": "example", "zh": "自从毕业以后，他一直在银行工作。", "py": "Zìcóng bì yè yǐhòu, tā yìzhí zài yínháng gōngzuò.", "en": "Ever since graduating, he's worked at a bank."},
+        {"type": "note", "en": "自从 goes before the time/event, at the start: ✓ 自从上大学以后，我们就很少见面了. ✗ 上大学自从以后 / ✗ 毕业以后，自从他就…"}
+      ]
+    },
+    {
+      "title": {"zh": "要么", "py": "yàome", "en": "The usage of 要么"},
+      "body": [
+        {"type": "text", "zh": "表示多种情况中的一种，或在多种可能中选择一种。常用“要么……要么……”，例如：", "en": "“要么” refers to one of several cases or one choice among several possibilities; usually as “要么……要么……”, e.g.,"},
+        {"type": "pattern", "zh": "（主语）+ 要么 + 动词短语A，要么 + 动词短语B", "py": "(zhǔyǔ) + yàome + dòngcí duǎnyǔ A, yàome + dòngcí duǎnyǔ B", "en": "(subject) + either + A, or + B — each 要么 starts a parallel phrase"},
+        {"type": "example", "zh": "昨天我给他打电话，要么打不通，要么没人接。", "py": "Zuótiān wǒ gěi tā dǎ diànhuà, yàome dǎ bu tōng, yàome méi rén jiē.", "en": "When I called him yesterday, either I couldn't get through or no one answered."},
+        {"type": "example", "zh": "不明白的地方要么查一下书，要么问老师。", "py": "Bù míngbai de dìfang yàome chá yíxià shū, yàome wèn lǎoshī.", "en": "For anything you don't understand, either look it up or ask the teacher."},
+        {"type": "note", "en": "Both 要么 sit in front of matching phrases: ✓ 他每天要么在图书馆学习，要么去健身房锻炼. ✗ 他每天在图书馆要么学习，… ✗ 要么去公园，去博物馆，要么你决定吧."}
+      ]
+    },
+    {
+      "title": {"zh": "从某种程度上来说", "py": "cóng mǒu zhǒng chéngdù shang lái shuō", "en": "The usage of 从某种程度上来说"},
+      "body": [
+        {"type": "text", "zh": "表示在一定深度的考量。例如：", "en": "Introduces a considered point, “to some extent / in a sense”, e.g.,"},
+        {"type": "example", "zh": "从某种程度上来说，网络在拉近人们之间距离的同时也让人们疏远了。", "py": "Cóng mǒu zhǒng chéngdù shang lái shuō, wǎngluò zài lājìn rénmen zhī jiān jùlí de tóngshí yě ràng rénmen shūyuǎn le.", "en": "To some extent, while the internet brings people closer, it also drives them apart."},
+        {"type": "example", "zh": "从某种程度上来说，我有上当受骗的感觉。", "py": "Cóng mǒu zhǒng chéngdù shang lái shuō, wǒ yǒu shàng dàng shòu piàn de gǎnjué.", "en": "In a way, I feel like I've been cheated."},
+        {"type": "note", "en": "It's a whole phrase that goes at the start of the clause: ✓ 从某种程度上来说，适量喝红酒对心脏有好处. ✗ 适量从某种程度上来说喝红酒…"}
+      ]
+    },
+    {
+      "title": {"zh": "A倒是A了，可是……", "py": "A dàoshì A le, kěshì……", "en": "A is A, all right, but…"},
+      "body": [
+        {"type": "note", "en": "Not a numbered note, but in the key sentences and drill examples: repeat the word around 倒是 to concede a point, then give the downside with 可是."},
+        {"type": "example", "zh": "方便倒是方便了，可是这却让我们的距离变大了。", "py": "Fāngbiàn dàoshì fāngbiàn le, kěshì zhè què ràng wǒmen de jùlí biàn dà le.", "en": "It's convenient, all right, but it has pushed us apart."},
+        {"type": "example", "zh": "自从打工以后，倒是有钱了，可是很多事情都没有时间去做。", "py": "Zìcóng dǎ gōng yǐhòu, dàoshì yǒu qián le, kěshì hěn duō shìqing dōu méiyǒu shíjiān qù zuò.", "en": "Since I started working part-time I do have money, but no time for lots of things."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "我的生活改变了", "py": "Wǒ de shēnghuó gǎibiàn le", "en": "My life has been changed"},
+      "activity": {"zh": "单人活动／两人活动", "py": "dān rén huódòng / liǎng rén huódòng", "en": "Individual work / Pair work"},
+      "instructions": {"zh": "在下列表格中选择相应活动给你的生活带来的改变。然后介绍相应活动给你的生活带来了哪些改变，看看改变是否一致。", "en": "Choose the changes each activity has brought to your life, then tell your partner about them and see if your lives changed in the same way. Use 自从……以后，……倒是……，可是……"},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "手机可以上网 — 好处：随时随地查邮件、看新闻、听音乐、玩儿游戏、视频聊天儿；坏处：经常低着头玩儿手机、聚会时忽略别人的话、占用学习/工作/睡眠时间、对眼睛不好", "en": "Phone with internet — pros: email, news, music, games, video chat anytime, anywhere; cons: always head-down on the phone, ignoring people at gatherings, eats into study/work/sleep time, bad for the eyes"},
+          {"zh": "学中文 — 好处：可以读中文书、听中文歌、看中国电影、跟中国人聊天儿、去中国公司应聘；坏处：记汉字太头疼、占用很多时间", "en": "Learning Chinese — pros: read Chinese books, listen to Chinese songs, watch Chinese films, chat with Chinese people, apply to Chinese companies; cons: memorising characters is a headache, takes lots of time"},
+          {"zh": "有男朋友/女朋友 — 好处：很幸福、有人陪我一起吃饭/看电影/旅行；坏处：没有时间……", "en": "Having a boyfriend/girlfriend — pros: very happy, someone to eat/watch films/travel with; cons: no time for…"},
+          {"zh": "打工 — 好处：赚钱、积累经验、认识很多人；坏处：很辛苦、没有时间", "py": "Dǎ gōng — hǎochù: zhuàn qián, jīlěi jīngyàn, rènshi hěn duō rén; huàichù: hěn xīnkǔ, méiyǒu shíjiān", "en": "Part-time job — pros: earn money, gain experience, meet lots of people; cons: tiring, no time"}
+        ]},
+        {"type": "example", "zh": "自从手机可以上网以后，方便倒是方便了，可是这却让我们的距离变大了。", "py": "Zìcóng shǒujī kěyǐ shàng wǎng yǐhòu, fāngbiàn dàoshì fāngbiàn le, kěshì zhè què ràng wǒmen de jùlí biàn dà le.", "en": "Since phones went online, it's certainly convenient — but it has pushed us apart."}
+      ],
+      "items": [
+        {"prompt": {"zh": "学中文", "en": "Learning Chinese"}, "answer": [{"zh": "自从学中文以后，我倒是可以跟中国人聊天儿了，可是记汉字太头疼了。", "py": "Zìcóng xué Zhōngwén yǐhòu, wǒ dàoshì kěyǐ gēn Zhōngguórén liáo tiānr le, kěshì jì Hànzì tài tóuténg le.", "en": "Since I started learning Chinese I can chat with Chinese people, but memorising characters is a real headache. (model answer)"}]},
+        {"prompt": {"zh": "有女朋友", "en": "Having a girlfriend"}, "answer": [{"zh": "自从有了女朋友以后，我倒是很幸福，可是没有时间跟朋友们一起玩儿了。", "py": "Zìcóng yǒule nǚpéngyou yǐhòu, wǒ dàoshì hěn xìngfú, kěshì méiyǒu shíjiān gēn péngyoumen yìqǐ wánr le.", "en": "Since I got a girlfriend I'm very happy, but I've no time to hang out with friends. (model answer)"}]},
+        {"prompt": {"zh": "打工", "en": "Part-time job"}, "answer": [{"zh": "自从打工以后，倒是积累了很多经验，可是每天都很辛苦。", "py": "Zìcóng dǎ gōng yǐhòu, dàoshì jīlěile hěn duō jīngyàn, kěshì měi tiān dōu hěn xīnkǔ.", "en": "Since starting part-time work I've gained lots of experience, but every day is exhausting. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "请给我出出主意", "py": "Qǐng gěi wǒ chūchu zhǔyi", "en": "What shall I do?"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "结合下文小丽的苦恼，给小丽出几个主意。然后比比，看哪一组的主意最有用。", "en": "Read about Xiaoli's problem and give her some advice, using 要么……要么……. Then compare: which group's ideas are most useful?"},
+      "body": [
+        {"type": "text", "zh": "小丽的苦恼：自从手机可以上网以后，我的事情越来越多。我随时随地都要查看邮件，查看朋友从微信发来的信息，并及时回复这些信息。我觉得自己的时间越来越少，一天里大部分时候都在低头看手机，工作常常做不完，就连陪父母和朋友的时间也被手机占用了。可是我又离不开手机。我该怎么办呢？请给我出出主意。", "py": "Xiǎolì de kǔnǎo: Zìcóng shǒujī kěyǐ shàng wǎng yǐhòu, wǒ de shìqing yuè lái yuè duō. Wǒ suíshí suídì dōu yào chákàn yóujiàn, chákàn péngyou cóng Wēixìn fālai de xìnxī, bìng jíshí huífù zhèxiē xìnxī. Wǒ juéde zìjǐ de shíjiān yuè lái yuè shǎo, yì tiān li dà bùfen shíhou dōu zài dī tóu kàn shǒujī, gōngzuò chángcháng zuò bu wán, jiù lián péi fùmǔ hé péngyou de shíjiān yě bèi shǒujī zhànyòng le. Kěshì wǒ yòu lí bu kāi shǒujī. Wǒ gāi zěnme bàn ne? Qǐng gěi wǒ chūchu zhǔyi.", "en": "Xiaoli's problem: Ever since my phone could go online, I've had more and more to deal with. Anytime, anywhere I have to check emails and WeChat messages and reply straight away. I feel I have less and less time — I spend most of the day looking down at my phone, I often can't finish my work, and even the time I spend with my parents and friends is eaten up by my phone. But I can't do without it. What should I do? Please give me some ideas."}
+      ],
+      "items": [
+        {"prompt": {"en": "Give Xiaoli advice with 要么……要么……"},
+         "answer": [{"zh": "你要么每天只在固定的时间看手机，要么陪父母的时候把手机放在别的房间。", "py": "Nǐ yàome měi tiān zhǐ zài gùdìng de shíjiān kàn shǒujī, yàome péi fùmǔ de shíhou bǎ shǒujī fàng zài bié de fángjiān.", "en": "Either check your phone only at set times each day, or put it in another room when you're with your parents. (model answer)"},
+                    {"zh": "工作的时候，你要么关上手机，要么把微信的提醒关了。", "py": "Gōngzuò de shíhou, nǐ yàome guānshang shǒujī, yàome bǎ Wēixìn de tíxǐng guān le.", "en": "When you're working, either switch off your phone or turn off WeChat notifications. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "科技带给我们什么", "py": "Kējì dàigěi wǒmen shénme", "en": "What does technology bring us?"},
+      "activity": {"zh": "小组辩论活动", "py": "xiǎozǔ biànlùn huódòng", "en": "Group debate"},
+      "instructions": {"zh": "选择一个或两个科技手段，然后小组分为两队，正方要谈论所选科技手段给我们的生活带来的方便之处，反方要针对正方的观点，谈论这一科技手段给我们带来的负面影响。", "en": "Pick one or two technologies and split into two teams: the pro side argues how it makes life convenient; the con side answers each point with its negative effects (use 从某种程度上来说)."},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "电子词典　智能手机　视频通话　网络购物", "py": "diànzǐ cídiǎn · zhìnéng shǒujī · shìpín tōnghuà · wǎngluò gòuwù", "en": "electronic dictionaries · smartphones · video calls · online shopping"}
+        ]},
+        {"type": "dialogue", "lines": [
+          {"speaker": "正方", "speaker_py": "zhèngfāng", "zh": "电脑输入，帮助我们节省了很多时间。", "py": "Diànnǎo shūrù, bāngzhù wǒmen jiéshěngle hěn duō shíjiān.", "en": "Pro: Typing on computers saves us lots of time."},
+          {"speaker": "反方", "speaker_py": "fǎnfāng", "zh": "但是从某种程度上来说，电脑输入使人们忘记了拼写。", "py": "Dànshì cóng mǒu zhǒng chéngdù shang lái shuō, diànnǎo shūrù shǐ rénmen wàngjìle pīnxiě.", "en": "Con: But to some extent, typing has made people forget how to write."}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "网络购物", "py": "wǎngluò gòuwù", "en": "Online shopping"},
+         "answer": [{"zh": "正方：网络购物很方便，在家就能买到东西。反方：但是从某种程度上来说，网络购物让人们买了很多不需要的东西。", "py": "Zhèngfāng: Wǎngluò gòuwù hěn fāngbiàn, zài jiā jiù néng mǎidào dōngxi. Fǎnfāng: Dànshì cóng mǒu zhǒng chéngdù shang lái shuō, wǎngluò gòuwù ràng rénmen mǎile hěn duō bù xūyào de dōngxi.", "en": "Pro: Online shopping is convenient — you can buy things from home. Con: But to some extent, it makes people buy lots of things they don't need. (model answer)"}]},
+        {"prompt": {"zh": "视频通话", "py": "shìpín tōnghuà", "en": "Video calls"},
+         "answer": [{"zh": "正方：视频通话让我们随时随地都能见到家人。反方：但是从某种程度上来说，大家见面的机会更少了。", "py": "Zhèngfāng: Shìpín tōnghuà ràng wǒmen suíshí suídì dōu néng jiàndào jiārén. Fǎnfāng: Dànshì cóng mǒu zhǒng chéngdù shang lái shuō, dàjiā jiàn miàn de jīhuì gèng shǎo le.", "en": "Pro: Video calls let us see our families anytime, anywhere. Con: But to some extent, people meet in person less. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "自从上大学以后，我们就很少见面了。", "py": "Zìcóng shàng dàxué yǐhòu, wǒmen jiù hěn shǎo jiàn miàn le."}, {"zh": "上大学自从以后，我们就很少见面了。", "py": "Shàng dàxué zìcóng yǐhòu, wǒmen jiù hěn shǎo jiàn miàn le."}],
+       "answer": 0, "explain": "自从 comes first, before the event. (grammar note 1)"},
+      {"options": [{"zh": "他每天要么在图书馆学习，要么去健身房锻炼。", "py": "Tā měi tiān yàome zài túshūguǎn xuéxí, yàome qù jiànshēnfáng duànliàn."}, {"zh": "他每天在图书馆要么学习，要么去健身房锻炼。", "py": "Tā měi tiān zài túshūguǎn yàome xuéxí, yàome qù jiànshēnfáng duànliàn."}],
+       "answer": 0, "explain": "Each 要么 starts one of two parallel phrases. (grammar note 2)"},
+      {"options": [{"zh": "自从毕业以后，他就一直在学校工作。", "py": "Zìcóng bì yè yǐhòu, tā jiù yìzhí zài xuéxiào gōngzuò."}, {"zh": "毕业以后，自从他就一直在学校工作。", "py": "Bì yè yǐhòu, zìcóng tā jiù yìzhí zài xuéxiào gōngzuò."}],
+       "answer": 0, "explain": "自从 + event (+以后), then the result. (grammar note 1)"},
+      {"options": [{"zh": "从某种程度上来说，适量喝红酒对心脏有好处。", "py": "Cóng mǒu zhǒng chéngdù shang lái shuō, shìliàng hē hóngjiǔ duì xīnzàng yǒu hǎochù."}, {"zh": "适量从某种程度上来说喝红酒对心脏有好处。", "py": "Shìliàng cóng mǒu zhǒng chéngdù shang lái shuō hē hóngjiǔ duì xīnzàng yǒu hǎochù."}],
+       "answer": 0, "explain": "The phrase goes at the start of the clause. (grammar note 3)"},
+      {"options": [{"zh": "要么去公园，要么去博物馆，你决定吧。", "py": "Yàome qù gōngyuán, yàome qù bówùguǎn, nǐ juédìng ba."}, {"zh": "要么去公园，去博物馆，要么你决定吧。", "py": "Yàome qù gōngyuán, qù bówùguǎn, yàome nǐ juédìng ba."}],
+       "answer": 0, "explain": "要么 A，要么 B — the two choices are parallel. (grammar note 2)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q4 — review 从某种程度上来说 (note 3). Missed Q2 or Q5 — review 要么 (note 2). Missed Q1 or Q3 — review 自从 (note 1)."
+  }
+}

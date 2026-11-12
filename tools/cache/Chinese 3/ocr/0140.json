@@ -1,0 +1,617 @@
+{
+ "page": 140,
+ "cjk_pass": [
+  {
+   "text": "New Target Chinese Spoken Language （3）",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08154
+   ]
+  },
+  {
+   "text": "任务及活动",
+   "conf": 1.0,
+   "bbox": [
+    0.18605,
+    0.13808,
+    0.33527,
+    0.16134
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 0.5,
+   "bbox": [
+    0.36434,
+    0.13808,
+    0.7345,
+    0.15843
+   ]
+  },
+  {
+   "text": "（一）任务示苑 Task Demonstration",
+   "conf": 0.5,
+   "bbox": [
+    0.31202,
+    0.19913,
+    0.68217,
+    0.2168
+   ]
+  },
+  {
+   "text": "3",
+   "conf": 0.3,
+   "bbox": [
+    0.0407,
+    0.26163,
+    0.06202,
+    0.27762
+   ]
+  },
+  {
+   "text": "126",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "故事场景",
+   "conf": 1.0,
+   "bbox": [
+    0.19186,
+    0.25872,
+    0.27326,
+    0.27637
+   ]
+  },
+  {
+   "text": "大龙在自己的博客中发了一篇博文。",
+   "conf": 1.0,
+   "bbox": [
+    0.31783,
+    0.26308,
+    0.62791,
+    0.28198
+   ]
+  },
+  {
+   "text": "The scene of the story: Dalong is posting a blog.",
+   "conf": 0.5,
+   "bbox": [
+    0.11822,
+    0.30664,
+    0.5,
+    0.32275
+   ]
+  },
+  {
+   "text": "最近 我交了几个新 朋友，他们来自不同 的国家，性格不同，",
+   "conf": 0.5,
+   "bbox": [
+    0.18023,
+    0.34717,
+    0.83527,
+    0.36628
+   ]
+  },
+  {
+   "text": "Zuijin wo jiaole j ge xin pengyou, tdmen Idizi bu tong de gudjid, xingge bu tong，",
+   "conf": 0.3,
+   "bbox": [
+    0.18217,
+    0.36914,
+    0.83915,
+    0.38525
+   ]
+  },
+  {
+   "text": "爱好也不 同。查理酷爱户外 运动，一到 周末，他就 叫上几个朋友",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.39244,
+    0.85853,
+    0.41134
+   ]
+  },
+  {
+   "text": "aihdo ye bu tong. Chali ku'ai huwai yundong,yi ddo zhoumo, ta ju jiaoshang j ge pengyou",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.41406,
+    0.87016,
+    0.43023
+   ]
+  },
+  {
+   "text": "一起去 郊外 登山、攀岩，北京附近的 山他几乎都 走遍了。而麦克",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.43604,
+    0.87016,
+    0.45654
+   ]
+  },
+  {
+   "text": "yiqi qu jaowdi deng shan、panydn, Beijing fujin de shan ta jihi dou zoubidn le. Er Maike",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.4564,
+    0.87597,
+    0.47384
+   ]
+  },
+  {
+   "text": "却恰恰 相反，他是个 典型 的“宅男”",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.47949,
+    0.54651,
+    0.5
+   ]
+  },
+  {
+   "text": "，整天 就喜欢 宅 在家里玩儿",
+   "conf": 0.5,
+   "bbox": [
+    0.55039,
+    0.48096,
+    0.87403,
+    0.5
+   ]
+  },
+  {
+   "text": "que qidqid xiangfn,ta shi ge dianxing dezhainin,zhengtian jiu xihuan hai za jiali wanr",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.50145,
+    0.87403,
+    0.51904
+   ]
+  },
+  {
+   "text": "游戏、写博客、上网聊天儿，就连买 东西 逛的也都是网店，",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.52471,
+    0.85853,
+    0.54506
+   ]
+  },
+  {
+   "text": "youxi. xie boke、 shang wang lido tianr ,jiu lidn mai dongxi guang de ye dou shi wangdidn，",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.54639,
+    0.87403,
+    0.56396
+   ]
+  },
+  {
+   "text": "恨不得顿顿饭都叫外卖。艾娜是个特别活泼的女孩儿，一有空儿",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.56977,
+    0.85853,
+    0.58887
+   ]
+  },
+  {
+   "text": "hen bu de dindun fan dou jido waimdi. Aind shi ge tebie huopo de ntihair, yi you kongr",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.58866,
+    0.8624,
+    0.6061
+   ]
+  },
+  {
+   "text": "就喜欢去卡拉Ok 唱歌，她经常一个人一唱就是两三个小时，",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.61475,
+    0.86822,
+    0.63232
+   ]
+  },
+  {
+   "text": "jiu xinuan qu kala Ok chang ge, ta jingchang yi ge ren yi chang jiu shi liang san ge xidoshi，",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.63663,
+    0.87403,
+    0.65137
+   ]
+  },
+  {
+   "text": "被朋友们 称为“麦霸”",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.65674,
+    0.4186,
+    0.67587
+   ]
+  },
+  {
+   "text": "。还有个朋友叫李伟，他可是个健身",
+   "conf": 0.3,
+   "bbox": [
+    0.41279,
+    0.65674,
+    0.85853,
+    0.67733
+   ]
+  },
+  {
+   "text": "bei pengydumen chengwei \"maibd”. Hai ydu ge pengydu jido Li Wei, ta ke shi ge jianshen",
+   "conf": 0.3,
+   "bbox": [
+    0.13372,
+    0.68018,
+    0.86822,
+    0.69629
+   ]
+  },
+  {
+   "text": "达人，什么瑜伽、跆拳道 样样 拿手，对",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.70349,
+    0.59302,
+    0.72238
+   ]
+  },
+  {
+   "text": "ddren,shenme yujid、 tdiquandao yangyang nashou, dui",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.7251,
+    0.5969,
+    0.74128
+   ]
+  },
+  {
+   "text": "健身房 中的各种器械也都",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.74707,
+    0.49031,
+    0.76611
+   ]
+  },
+  {
+   "text": "jianshenfang zhong de ge zhong qixie ye dou",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.7689,
+    0.49612,
+    0.78488
+   ]
+  },
+  {
+   "text": "了如指掌。对了，今天上课刚",
+   "conf": 0.5,
+   "bbox": [
+    0.1376,
+    0.79199,
+    0.49031,
+    0.81105
+   ]
+  },
+  {
+   "text": "lidoruzhizhang. Duile, jintian shang ke gang",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.81395,
+    0.5,
+    0.83008
+   ]
+  },
+  {
+   "text": "学了句俗话叫“萝卜青菜，各有所爱”，说",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.8343,
+    0.58915,
+    0.85465
+   ]
+  },
+  {
+   "text": "xuele jd suihud jido \"luobo qingcai, ge you suo dr, shuo",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.85742,
+    0.5969,
+    0.875
+   ]
+  },
+  {
+   "text": "的不就是他们嘛。",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.88081,
+    0.32171,
+    0.8999
+   ]
+  },
+  {
+   "text": "de bu jiu shi tamen ma.",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.90116,
+    0.31783,
+    0.91424
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "3",
+   "conf": 1.0,
+   "bbox": [
+    0.0407,
+    0.26163,
+    0.06202,
+    0.27762
+   ]
+  },
+  {
+   "text": "126",
+   "conf": 1.0,
+   "bbox": [
+    0.03101,
+    0.34157,
+    0.06783,
+    0.3561
+   ]
+  },
+  {
+   "text": "New Target Chinese Spoken Language (3)",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.05957,
+    0.56977,
+    0.08154
+   ]
+  },
+  {
+   "text": "17712i67)",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.13808,
+    0.33527,
+    0.16134
+   ]
+  },
+  {
+   "text": "TASKS AND ACTIVITIES",
+   "conf": 1.0,
+   "bbox": [
+    0.36434,
+    0.13808,
+    0.7345,
+    0.15843
+   ]
+  },
+  {
+   "text": "(-) 1ESTSE Task Demonstration",
+   "conf": 0.3,
+   "bbox": [
+    0.31202,
+    0.19913,
+    0.68217,
+    0.2168
+   ]
+  },
+  {
+   "text": "MÁCHЖTT-MK",
+   "conf": 0.3,
+   "bbox": [
+    0.31783,
+    0.26308,
+    0.62791,
+    0.28198
+   ]
+  },
+  {
+   "text": "The scene of the story: Dalong is posting a blog.",
+   "conf": 1.0,
+   "bbox": [
+    0.11822,
+    0.30664,
+    0.5,
+    0.32275
+   ]
+  },
+  {
+   "text": "Zuiìn wõ jiãole jĩ ge xin péngyou, tâmen láizì bù tóng de guójia, xinggé bù tóng,",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.36914,
+    0.83915,
+    0.38525
+   ]
+  },
+  {
+   "text": "àihào ye bù tóng. Cháli kù ài hùwài yùndòng, yí dào zhõumò, tã jiù jiàoshang jì ge péngyou",
+   "conf": 0.3,
+   "bbox": [
+    0.13178,
+    0.41406,
+    0.87016,
+    0.43023
+   ]
+  },
+  {
+   "text": "yìai qù jiaowài dēng shãn, pănyán, Bẽijĩng tùjìn de shãn tã jĩhu dõu zõubiàn le. Er Màikè",
+   "conf": 0.3,
+   "bbox": [
+    0.1376,
+    0.4564,
+    0.87597,
+    0.47384
+   ]
+  },
+  {
+   "text": "#EXEAREEL",
+   "conf": 0.3,
+   "bbox": [
+    0.55039,
+    0.4811,
+    0.87403,
+    0.5
+   ]
+  },
+  {
+   "text": "què qiàgià xiãngfăn, tã shì ge diănxíng de \"zháinán\", zhẽngtiăn jiù xihuan zhái zài jiali wánr",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.50145,
+    0.87403,
+    0.51904
+   ]
+  },
+  {
+   "text": "yóuxì, xiẽ bókè, shàng wăng liáo tiănr, jiù lián mãi dõngxi guàng de yẽ dõu shì wăngdiàn,",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.54639,
+    0.87403,
+    0.56396
+   ]
+  },
+  {
+   "text": "hèn bu de dùndùn fàn dõu jiào wàimài. Ainà shì ge tèbié huớpõ de năháir, yì yõu kòngr",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.58866,
+    0.8624,
+    0.6061
+   ]
+  },
+  {
+   "text": "jiù xihuan qù kalã OK chàng gẽ, tã jĩngcháng yí ge rén yí chàng jiù shì liăng sãn ge xiăoshí,",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.63663,
+    0.87403,
+    0.65137
+   ]
+  },
+  {
+   "text": "471",
+   "conf": 0.3,
+   "bbox": [
+    0.69303,
+    0.65674,
+    0.85853,
+    0.67733
+   ]
+  },
+  {
+   "text": "bèi péngyoumen chẽngwéi \"màibà\". Hái yõu ge péngyõu jiào Lĩ Wẽi, tã kẽ shì ge jiànshẽn",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.68018,
+    0.86822,
+    0.69629
+   ]
+  },
+  {
+   "text": "dárén, shénme yújiã, táiquándào yàngyàng náshõu, dui",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.7251,
+    0.5969,
+    0.74128
+   ]
+  },
+  {
+   "text": "jiànshenfáng zhông de gè zhăng gìxiè yẽ dõu",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.7689,
+    0.49612,
+    0.78488
+   ]
+  },
+  {
+   "text": "liäorúzhizhăng. Duile, jintiän shàng kè gãng",
+   "conf": 0.5,
+   "bbox": [
+    0.13566,
+    0.81395,
+    0.5,
+    0.83008
+   ]
+  },
+  {
+   "text": "xuéle jù súhuà jiào \"luóbo qingcài, gè yău suò ài\", shuõ",
+   "conf": 0.5,
+   "bbox": [
+    0.13178,
+    0.85742,
+    0.5969,
+    0.875
+   ]
+  },
+  {
+   "text": "H TÀC H01T V.",
+   "conf": 0.3,
+   "bbox": [
+    0.13566,
+    0.88081,
+    0.32171,
+    0.8999
+   ]
+  },
+  {
+   "text": "de bú jiù shì tâmen ma.",
+   "conf": 0.5,
+   "bbox": [
+    0.13372,
+    0.90116,
+    0.31783,
+    0.91424
+   ]
+  }
+ ]
+}

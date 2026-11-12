@@ -1,0 +1,457 @@
+{
+ "page": 91,
+ "cjk_pass": [
+  {
+   "text": "〔1",
+   "conf": 0.3,
+   "bbox": [
+    0.1124,
+    0.54346,
+    0.14729,
+    0.56689
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.78779,
+    0.14147,
+    0.80959
+   ]
+  },
+  {
+   "text": "Unit 5 Talking about an Examination",
+   "conf": 0.5,
+   "bbox": [
+    0.47868,
+    0.05957,
+    0.87791,
+    0.08008
+   ]
+  },
+  {
+   "text": "小丽：这倒也是。好，听你的！我 现在就回 房间休息休息。",
+   "conf": 0.5,
+   "bbox": [
+    0.1686,
+    0.13227,
+    0.83721,
+    0.15576
+   ]
+  },
+  {
+   "text": "Xidoli: Zhe ddo ye shi.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.15674,
+    0.34884,
+    0.17297
+   ]
+  },
+  {
+   "text": "Hao,ting ni de！",
+   "conf": 0.3,
+   "bbox": [
+    0.3624,
+    0.15674,
+    0.50194,
+    0.17297
+   ]
+  },
+  {
+   "text": "Wo xidnzai jd hui fangjian xiuxi xidaxi.",
+   "conf": 0.3,
+   "bbox": [
+    0.5,
+    0.15674,
+    0.81783,
+    0.17151
+   ]
+  },
+  {
+   "text": "（二） 分步任务活动",
+   "conf": 0.5,
+   "bbox": [
+    0.23256,
+    0.49268,
+    0.45155,
+    0.51318
+   ]
+  },
+  {
+   "text": "Perform the Tasks Step by Step",
+   "conf": 0.5,
+   "bbox": [
+    0.45155,
+    0.49707,
+    0.77132,
+    0.51465
+   ]
+  },
+  {
+   "text": "唱反调",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.54492,
+    0.22287,
+    0.5625
+   ]
+  },
+  {
+   "text": "You say “yes\"， but Isay “no”",
+   "conf": 0.5,
+   "bbox": [
+    0.24225,
+    0.54492,
+    0.50775,
+    0.56396
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17436,
+    0.58705,
+    0.25588,
+    0.60481
+   ]
+  },
+  {
+   "text": "一个人评论一下下图中的物品或地方，另一个人用“••是⋯⋯，",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.58721,
+    0.87984,
+    0.6061
+   ]
+  },
+  {
+   "text": "不过⋯⋯”唱反调。",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.60596,
+    0.46705,
+    0.625
+   ]
+  },
+  {
+   "text": "Pair work: One talks about the things or places in the following pictures, and the other",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.63517,
+    0.89147,
+    0.64844
+   ]
+  },
+  {
+   "text": "deliberately speaks something contrary using“••是•••，不过•••”",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.65407,
+    0.82364,
+    0.67006
+   ]
+  },
+  {
+   "text": "下定决心",
+   "conf": 0.5,
+   "bbox": [
+    0.15874,
+    0.78727,
+    0.2463,
+    0.80575
+   ]
+  },
+  {
+   "text": "Make up one's mind",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.78906,
+    0.44574,
+    0.80669
+   ]
+  },
+  {
+   "text": "两人活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17437,
+    0.82981,
+    0.25586,
+    0.84752
+   ]
+  },
+  {
+   "text": "一个人说自己要做的一件事，另一个人说出困难，第一个人用“哪",
+   "conf": 0.5,
+   "bbox": [
+    0.28295,
+    0.82994,
+    0.88953,
+    0.84884
+   ]
+  },
+  {
+   "text": "怕⋯⋯也⋯⋯”下决心。",
+   "conf": 0.3,
+   "bbox": [
+    0.2826,
+    0.84692,
+    0.49462,
+    0.86939
+   ]
+  },
+  {
+   "text": "Pair work: One student says he/she wants to do something, and the other gives the difficulties",
+   "conf": 0.5,
+   "bbox": [
+    0.18217,
+    0.87645,
+    0.89147,
+    0.89111
+   ]
+  },
+  {
+   "text": "to be encountered. The first student uses “哪怕•⋯.•••”to express his/her",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.8968,
+    0.89147,
+    0.91134
+   ]
+  },
+  {
+   "text": "determination.",
+   "conf": 1.0,
+   "bbox": [
+    0.28291,
+    0.917,
+    0.3915,
+    0.93038
+   ]
+  },
+  {
+   "text": "75",
+   "conf": 0.5,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "＋",
+   "conf": 0.3,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 5 Talking about an Examination",
+   "conf": 1.0,
+   "bbox": [
+    0.47868,
+    0.05957,
+    0.87791,
+    0.08008
+   ]
+  },
+  {
+   "text": "Xiăolì: Zhè dào yẽ shì.",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.15674,
+    0.34884,
+    0.17297
+   ]
+  },
+  {
+   "text": "Hão, ting nĩ de!",
+   "conf": 0.5,
+   "bbox": [
+    0.3624,
+    0.15674,
+    0.50194,
+    0.17297
+   ]
+  },
+  {
+   "text": "Wõ xiànzài jiù hui fángjiăn xiùxi xiuxi.",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.15674,
+    0.81783,
+    0.17151
+   ]
+  },
+  {
+   "text": "BaAx",
+   "conf": 0.3,
+   "bbox": [
+    0.51744,
+    0.21512,
+    0.54651,
+    0.22238
+   ]
+  },
+  {
+   "text": "75",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "Perform the Tasks Step by Step",
+   "conf": 1.0,
+   "bbox": [
+    0.45155,
+    0.49707,
+    0.77132,
+    0.51465
+   ]
+  },
+  {
+   "text": "You say \"yes\", but I say \"no\"",
+   "conf": 1.0,
+   "bbox": [
+    0.24225,
+    0.54492,
+    0.50775,
+    0.56396
+   ]
+  },
+  {
+   "text": "ЛE ТЕИФИДВИШВ, В-ТЛЛ\"А,",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.58721,
+    0.87984,
+    0.6061
+   ]
+  },
+  {
+   "text": "Td.\" IaEin.",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.60596,
+    0.46705,
+    0.625
+   ]
+  },
+  {
+   "text": "Pair work: One talks about the things or places in the following pictures, and the other",
+   "conf": 1.0,
+   "bbox": [
+    0.18217,
+    0.63517,
+    0.89147,
+    0.64844
+   ]
+  },
+  {
+   "text": "deliberately speaks something contrary using \"....A, Ki\".",
+   "conf": 0.3,
+   "bbox": [
+    0.28101,
+    0.65407,
+    0.82364,
+    0.67006
+   ]
+  },
+  {
+   "text": "Make up one's mind",
+   "conf": 0.5,
+   "bbox": [
+    0.26163,
+    0.78906,
+    0.44574,
+    0.80669
+   ]
+  },
+  {
+   "text": "ІЛіНСЕИЖИВ, Я-ТЛАНИК, 7-113 \"5",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.82994,
+    0.88953,
+    0.84884
+   ]
+  },
+  {
+   "text": "M..A.....\" FAdo",
+   "conf": 0.3,
+   "bbox": [
+    0.2826,
+    0.84692,
+    0.49462,
+    0.86939
+   ]
+  },
+  {
+   "text": "Pair work: One student says he/she wants to do something, and the other gives the difficulties",
+   "conf": 1.0,
+   "bbox": [
+    0.18217,
+    0.87645,
+    0.89147,
+    0.89111
+   ]
+  },
+  {
+   "text": "to be encountered. The first student uses \"IJShÉ... t....\" to express his/her",
+   "conf": 0.3,
+   "bbox": [
+    0.28295,
+    0.8968,
+    0.89147,
+    0.91134
+   ]
+  },
+  {
+   "text": "determination.",
+   "conf": 1.0,
+   "bbox": [
+    0.28291,
+    0.917,
+    0.3915,
+    0.93038
+   ]
+  },
+  {
+   "text": "+",
+   "conf": 0.5,
+   "bbox": [
+    0.94574,
+    0.97384,
+    0.97287,
+    0.99273
+   ]
+  }
+ ]
+}

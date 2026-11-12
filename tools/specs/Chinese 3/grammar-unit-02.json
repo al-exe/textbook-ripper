@@ -1,0 +1,142 @@
+{
+  "book": "Chinese 3",
+  "unit": 2,
+  "kind": "grammar",
+  "title": {"zh": "谈家乡", "py": "Tán jiāxiāng", "en": "Talking about Hometown"},
+  "source": "PDF pp. 34, 40–41, 43–47 (printed pp. 17, 23–24, 26–31)",
+  "intro": "This unit is about introducing a city or your hometown. Grammar: (1) verb reduplication — 看看, 介绍介绍 (“have a look”, “give a quick introduction”); (2) 够……的 “really/quite…”; (3) 别看……，……可…… “don't be fooled by…, actually…”. Also practised: ……是……之一 “one of the…”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "我来给你介绍介绍……", "py": "Wǒ lái gěi nǐ jièshào jièshào……", "en": "Let me tell you a bit about…"},
+    {"zh": "这条胡同真够窄的！", "py": "Zhè tiáo hútòng zhēn gòu zhǎi de!", "en": "This hutong is really narrow!"},
+    {"zh": "你别看它窄，里面的故事可多着呢。", "py": "Nǐ bié kàn tā zhǎi, lǐmiàn de gùshi kě duō zhe ne.", "en": "It may be narrow, but there are plenty of stories inside."},
+    {"zh": "俗话说：远亲不如近邻，住在胡同里的人们就像一家人一样。", "py": "Súhuà shuō: yuǎnqīn bùrú jìnlín, zhù zài hútòng li de rénmen jiù xiàng yì jiā rén yíyàng.", "en": "As the saying goes, “a distant relative is not as good as a near neighbour” — people living in a hutong are like one family."},
+    {"zh": "故宫是北京的名胜古迹之一，非常有名。", "py": "Gùgōng shì Běijīng de míngshèng gǔjì zhī yī, fēicháng yǒumíng.", "en": "The Forbidden City is one of Beijing's famous historic sites; it's very well known."},
+    {"zh": "看来北京是个既现代又古老的城市。", "py": "Kànlái Běijīng shì ge jì xiàndài yòu gǔlǎo de chéngshì.", "en": "It seems Beijing is a city that is both modern and ancient."}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "动词重叠", "py": "dòngcí chóngdié", "en": "Reduplication of a verb"},
+      "body": [
+        {"type": "text", "zh": "汉语里有些动词可以重叠，表示动作经历的时间短或轻松、随便；有时也表示尝试或有礼貌。单音节动词重叠的形式是“AA”或“A一A”，如“看（一）看”“听（一）听”“说（一）说”。双音节动词重叠的形式是“ABAB”，不能表示为“AB一AB”，如“介绍介绍”“休息休息”，不能表示为“介绍一介绍”“休息一休息”。", "py": "Hànyǔ li yǒuxiē dòngcí kěyǐ chóngdié, biǎoshì dòngzuò jīnglì de shíjiān duǎn huò qīngsōng, suíbiàn; yǒushí yě biǎoshì chángshì huò yǒu lǐmào. Dānyīnjié dòngcí chóngdié de xíngshì shì “AA” huò “A yi A”, rú “kàn (yi) kàn” “tīng (yi) tīng” “shuō (yi) shuō”. Shuāngyīnjié dòngcí chóngdié de xíngshì shì “ABAB”, bù néng biǎoshì wéi “AB yi AB”, rú “jièshào jièshào” “xiūxi xiūxi”, bù néng biǎoshì wéi “jièshào yi jièshào” “xiūxi yi xiūxi”.", "en": "In Chinese, some verbs can be reduplicated to indicate an action is short, easy or casual; sometimes it also indicates a try or shows courtesy. The reduplicative form of a monosyllabic verb is “AA” or “A一A”, for example “看（一）看”, “听（一）听”, “说（一）说”. The reduplicative form of a disyllabic verb is “ABAB” rather than “AB一AB”, for example “介绍介绍”, “休息休息”, but not “介绍一介绍”, “休息一休息”."},
+        {"type": "pattern", "zh": "AA／A一A　·　ABAB", "py": "AA / A yi A · ABAB", "en": "看看 kànkan / 看一看 kàn yi kàn · 介绍介绍 jièshào jièshào (never 介绍一介绍)"},
+        {"type": "example", "zh": "我能看看你的书吗？", "py": "Wǒ néng kànkan nǐ de shū ma?", "en": "Can I have a look at your book?"},
+        {"type": "example", "zh": "我们休息休息吧。", "py": "Wǒmen xiūxi xiūxi ba.", "en": "Let's take a little rest."},
+        {"type": "text", "zh": "动词重叠后不能再带补语。我们不说“我看看一下”。", "py": "Dòngcí chóngdié hòu bù néng zài dài bǔyǔ. Wǒmen bù shuō “Wǒ kànkan yíxià”.", "en": "If a verb is reduplicated, it is not followed by a complement. “我看看一下” is wrong."},
+        {"type": "text", "zh": "动词重叠后带宾语时，若宾语前有数量词语做定语，这个数量词语应该是定指的，而不能是不确定的量。我们不说“我看看一本书”，而应该说“我看看那本书”。", "py": "Dòngcí chóngdié hòu dài bīnyǔ shí, ruò bīnyǔ qián yǒu shùliàng cíyǔ zuò dìngyǔ, zhège shùliàng cíyǔ yīnggāi shì dìngzhǐ de, ér bù néng shì bú quèdìng de liàng. Wǒmen bù shuō “Wǒ kànkan yì běn shū”, ér yīnggāi shuō “Wǒ kànkan nà běn shū”.", "en": "When a verb is reduplicated and followed by an object, and there is a quantifier used before the object as an attributive, the quantifier should refer to something definite rather than something indefinite. “我看看那本书” is correct, but “我看看一本书” is wrong."},
+        {"type": "note", "en": "Reduplication = “a bit / have a go”. So it already means “a little”: don't add 一下 (✗ 介绍介绍一下), and the object should be specific (✓ 看看那本书, ✗ 看看一本书)."}
+      ]
+    },
+    {
+      "title": {"zh": "够……的", "py": "gòu…… de", "en": "The structure 够……的"},
+      "body": [
+        {"type": "text", "zh": "“够……的”结构可以用来强调程度很高。例如：", "en": "The structure “够……的” is used to stress that the degree is high, e.g.,"},
+        {"type": "pattern", "zh": "（真／可）够 + 形容词 + 的", "py": "(zhēn / kě) gòu + xíngróngcí + de", "en": "really / quite + adjective (the 的 at the end is needed)"},
+        {"type": "example", "zh": "汉语真够难的。", "py": "Hànyǔ zhēn gòu nán de.", "en": "Chinese is really hard."},
+        {"type": "example", "zh": "今天够冷的。", "py": "Jīntiān gòu lěng de.", "en": "It's pretty cold today."},
+        {"type": "example", "zh": "从这儿到那儿可够远的。", "py": "Cóng zhèr dào nàr kě gòu yuǎn de.", "en": "It's quite a long way from here to there."}
+      ]
+    },
+    {
+      "title": {"zh": "别看……，……可……", "py": "bié kàn……, …… kě……", "en": "The structure 别看……，……可……"},
+      "body": [
+        {"type": "text", "zh": "“别看……，……可……”常用来承认别人的观点，但也提出不同的观点。例如：", "en": "The structure “别看……，……可……” is used to agree with others' opinion, but also to raise a different opinion, e.g.,"},
+        {"type": "pattern", "zh": "别看 + （别人的看法），+ ……可 + （不同的看法）+ 了／着呢", "py": "bié kàn + (biérén de kànfǎ), + …… kě + (bùtóng de kànfǎ) + le / zhe ne", "en": "别看 + (what others think), … 可 + (the opposite point) + 了/着呢"},
+        {"type": "example", "zh": "别看她是美国人，她汉语可好了。", "py": "Bié kàn tā shì Měiguó rén, tā Hànyǔ kě hǎo le.", "en": "She may be American, but her Chinese is really good."},
+        {"type": "example", "zh": "别看房间很小，可舒服了。", "py": "Bié kàn fángjiān hěn xiǎo, kě shūfu le.", "en": "The room may be small, but it's really comfortable."},
+        {"type": "note", "en": "别看 is followed by the other person's view (the room is small); 可 introduces your contrasting view (but it's comfortable). 可……了 / 可……着呢 = “really …”."}
+      ]
+    },
+    {
+      "title": {"zh": "……是……之一", "py": "…… shì …… zhī yī", "en": "… is one of the …"},
+      "body": [
+        {"type": "note", "en": "Not a numbered grammar note in the book, but drilled in this unit (“之一”吧): 之一 goes at the end of the noun phrase — 北京的名胜古迹之一 “one of Beijing's famous sites”. Often with 最: 最有名的……之一 “one of the most famous …”."},
+        {"type": "example", "zh": "故宫是北京的名胜古迹之一，非常有名。", "py": "Gùgōng shì Běijīng de míngshèng gǔjì zhī yī, fēicháng yǒumíng.", "en": "The Forbidden City is one of Beijing's historic sites; it's very famous."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "听听说说", "py": "Tīngting shuōshuo", "en": "Listen and say"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "轮流从下表中任选一词，用动词重叠的形式向其他同学发出指令，大家听到后迅速做出反应。", "en": "Take turns to choose a word from the box and use the reduplicative form of the verb to give an instruction to your classmates. After hearing it, the others respond quickly."},
+      "body": [
+        {"type": "list", "items": [
+          {"zh": "看　听　试　尝　休息　学习　锻炼　说　介绍　打扫", "py": "kàn tīng shì cháng xiūxi xuéxí duànliàn shuō jièshào dǎsǎo", "en": "look · listen · try · taste · rest · study · exercise · say · introduce · clean"}
+        ]},
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "给我介绍介绍北京吧。", "py": "Gěi wǒ jièshào jièshào Běijīng ba.", "en": "Tell me a bit about Beijing."},
+          {"speaker": "B", "zh": "北京是个既现代又古老的城市。", "py": "Běijīng shì ge jì xiàndài yòu gǔlǎo de chéngshì.", "en": "Beijing is a city that's both modern and ancient."}
+        ]},
+        {"type": "note", "en": "Solo version: make a polite request or suggestion with each verb, reduplicated."}
+      ],
+      "items": [
+        {"prompt": {"zh": "看", "en": "look → ask to look at a friend's photos"}, "answer": [{"zh": "我能看看你的照片吗？", "en": "Can I have a look at your photos?"}]},
+        {"prompt": {"zh": "听", "en": "listen → suggest listening to a song"}, "answer": [{"zh": "你听听这首歌吧。", "en": "Have a listen to this song."}]},
+        {"prompt": {"zh": "试", "en": "try → suggest trying on a jacket"}, "answer": [{"zh": "你试试这件衣服吧。", "en": "Try this jacket on."}]},
+        {"prompt": {"zh": "尝", "en": "taste → offer a dish"}, "answer": [{"zh": "你尝尝这个菜。", "en": "Have a taste of this dish."}]},
+        {"prompt": {"zh": "休息", "en": "rest → suggest a break"}, "answer": [{"zh": "我们休息休息吧。", "py": "Wǒmen xiūxi xiūxi ba.", "en": "Let's take a little rest."}]},
+        {"prompt": {"zh": "锻炼", "en": "exercise → suggest some exercise"}, "answer": [{"zh": "我们去锻炼锻炼身体吧。", "en": "Let's go and do some exercise."}]},
+        {"prompt": {"zh": "介绍", "en": "introduce → ask a friend about their hometown"}, "answer": [{"zh": "你给我们介绍介绍你的家乡吧。", "en": "Tell us a bit about your hometown."}]},
+        {"prompt": {"zh": "打扫", "en": "clean → suggest tidying the room"}, "answer": [{"zh": "我们打扫打扫房间吧。", "en": "Let's give the room a quick clean."}]},
+        {"prompt": {"zh": "说说将来退休以后，你希望做什么。", "en": "Group work: talk about what you hope to do after you retire (book's example: 退休以后，我希望每天看看书，听听音乐，打打高尔夫球……)"},
+         "answer": [{"zh": "退休以后，我希望每天看看书，听听音乐，打打高尔夫球……", "py": "Tuìxiū yǐhòu, wǒ xīwàng měi tiān kànkan shū, tīngting yīnyuè, dǎda gāo'ěrfū qiú……", "en": "After I retire I hope to read a bit, listen to music and play some golf every day… (book's example)"},
+                    {"zh": "退休以后，我希望去旅行旅行，学习学习画画儿。", "en": "After I retire I hope to travel a bit and learn some painting. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "“之一”吧", "py": "“Zhī yī” ba", "en": "The 之一 bar"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "用“……是……之一，……”介绍一下下列图片中的地方、人、物。", "en": "Please use “……是……之一，……” to talk about the places, person and things in the following pictures."},
+      "items": [
+        {"picture": "An ornate, colourful traditional Beijing shop front with carved gold decorations (an old, famous shop).",
+         "answer": [{"zh": "这是北京最有名的老商店之一，很有特点。", "en": "This is one of Beijing's most famous old shops; it's very distinctive. (model answer)"}]},
+        {"picture": "A very tall basketball player in a red Houston Rockets no. 11 jersey (Yao Ming).",
+         "answer": [{"zh": "姚明是中国最有名的篮球运动员之一，他个子非常高。", "py": "Yáo Míng shì Zhōngguó zuì yǒumíng de lánqiú yùndòngyuán zhī yī, tā gèzi fēicháng gāo.", "en": "Yao Ming is one of China's most famous basketball players; he's extremely tall. (model answer)"}]},
+        {"picture": "The Great Wall winding over green hills.",
+         "answer": [{"zh": "长城是中国最有名的名胜古迹之一，每天都有很多人去参观。", "en": "The Great Wall is one of China's most famous historic sites; lots of people visit every day. (model answer)"}]},
+        {"picture": "A copper charcoal hotpot with plates of thinly sliced meat (Beijing-style hotpot).",
+         "answer": [{"zh": "涮羊肉是北京最有名的菜之一，冬天吃特别好。", "py": "Shuàn yángròu shì Běijīng zuì yǒumíng de cài zhī yī, dōngtiān chī tèbié hǎo.", "en": "Instant-boiled mutton is one of Beijing's most famous dishes; it's especially good in winter. (model answer)"}]},
+        {"picture": "A red table-tennis paddle and a ball.",
+         "answer": [{"zh": "乒乓球是中国人最喜欢的运动之一。", "en": "Table tennis is one of the Chinese people's favourite sports. (model answer)"}]},
+        {"prompt": {"zh": "用“……是……之一，……”介绍你们国家或你所知道的人、地方、事物。", "en": "Group work: use the pattern to present a person, place or thing from your country."},
+         "answer": [{"zh": "伦敦是世界上最有名的城市之一，那儿的博物馆非常多。", "py": "Lúndūn shì shìjiè shang zuì yǒumíng de chéngshì zhī yī, nàr de bówùguǎn fēicháng duō.", "en": "London is one of the most famous cities in the world; it has lots of museums. (model answer — use your own country)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "介绍北京", "py": "Jièshào Běijīng", "en": "An introduction of Beijing"},
+      "activity": {"zh": "单人活动", "py": "dān rén huódòng", "en": "Individual work"},
+      "instructions": {"zh": "根据课文介绍一下北京。", "en": "Please talk about Beijing based on the text, filling in the frame below."},
+      "body": [
+        {"type": "text", "zh": "北京是一个……，在北京有很多……。除了……以外，北京还有很多……，比如北京的胡同。有的胡同真够……的，不过别看……，……可……着呢。北京还有很多有名的……，北京的故宫就是北京……之一，非常有名。", "py": "Běijīng shì yí ge……, zài Běijīng yǒu hěn duō……. Chúle…… yǐwài, Běijīng hái yǒu hěn duō……, bǐrú Běijīng de hútòng. Yǒu de hútòng zhēn gòu…… de, búguò bié kàn……, …… kě…… zhe ne. Běijīng hái yǒu hěn duō yǒumíng de……, Běijīng de Gùgōng jiù shì Běijīng…… zhī yī, fēicháng yǒumíng.", "en": "Beijing is a … city; it has lots of … . Apart from …, Beijing also has many …, for example its hutongs. Some hutongs are really …, but don't be fooled by …, … actually … . Beijing also has many famous …; the Forbidden City is one of Beijing's …, and very famous."}
+      ],
+      "items": [
+        {"prompt": {"en": "Fill in the frame."},
+         "answer": [{"zh": "北京是一个既现代又古老的城市，在北京有很多高楼大厦。除了高楼大厦以外，北京还有很多老房子，比如北京的胡同。有的胡同真够窄的，不过别看它窄，里面的故事可多着呢。北京还有很多有名的名胜古迹，北京的故宫就是北京最有名的名胜古迹之一，非常有名。", "py": "Běijīng shì yí ge jì xiàndài yòu gǔlǎo de chéngshì, zài Běijīng yǒu hěn duō gāolóu dàshà. Chúle gāolóu dàshà yǐwài, Běijīng hái yǒu hěn duō lǎo fángzi, bǐrú Běijīng de hútòng. Yǒu de hútòng zhēn gòu zhǎi de, búguò bié kàn tā zhǎi, lǐmiàn de gùshi kě duō zhe ne. Běijīng hái yǒu hěn duō yǒumíng de míngshèng gǔjì, Běijīng de Gùgōng jiù shì Běijīng zuì yǒumíng de míngshèng gǔjì zhī yī, fēicháng yǒumíng.", "en": "Beijing is a city that's both modern and ancient, with lots of high-rise buildings. Apart from those, it has many old houses, for example the hutongs. Some hutongs are really narrow, but don't let that fool you — there are plenty of stories inside. Beijing also has many famous historic sites; the Forbidden City is one of the most famous of them. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"question": {"zh": "你看，这是北京的胡同。", "py": "Nǐ kàn, zhè shì Běijīng de hútòng.", "en": "Look, this is a Beijing hutong."},
+       "options": [{"zh": "这胡同可真够窄的。", "py": "Zhè hútòng kě zhēn gòu zhǎi de."}, {"zh": "这胡同窄的。", "py": "Zhè hútòng zhǎi de."}],
+       "answer": 0, "explain": "“Really narrow” needs the full structure 够……的. (grammar note 2)"},
+      {"question": {"zh": "这个房间真小。", "py": "Zhège fángjiān zhēn xiǎo.", "en": "This room is really small."},
+       "options": [{"zh": "别看房间小，住在里面可舒服了。", "py": "Bié kàn fángjiān xiǎo, zhù zài lǐmiàn kě shūfu le."}, {"zh": "别看舒服，房间可小了。", "py": "Bié kàn shūfu, fángjiān kě xiǎo le."}],
+       "answer": 0, "explain": "别看 takes the other person's view (it's small); 可 gives your contrasting view (it's comfortable). (grammar note 3)"},
+      {"question": {"zh": "明天我想去长城。", "py": "Míngtiān wǒ xiǎng qù Chángchéng.", "en": "I want to go to the Great Wall tomorrow."},
+       "options": [{"zh": "从这儿到长城可够远的。", "py": "Cóng zhèr dào Chángchéng kě gòu yuǎn de."}, {"zh": "从这儿到长城够远。", "py": "Cóng zhèr dào Chángchéng gòu yuǎn."}],
+       "answer": 0, "explain": "够 + adjective needs 的 at the end. (grammar note 2)"},
+      {"question": {"zh": "这胡同真够窄的！", "py": "Zhè hútòng zhēn gòu zhǎi de!", "en": "This hutong is really narrow!"},
+       "options": [{"zh": "别看它窄，里面的故事可多着呢。", "py": "Bié kàn tā zhǎi, lǐmiàn de gùshi kě duō zhe ne."}, {"zh": "别看故事多，它很窄。", "py": "Bié kàn gùshi duō, tā hěn zhǎi."}],
+       "answer": 0, "explain": "Agree with what they said after 别看 (it's narrow), then contrast with 可. (grammar note 3)"},
+      {"options": [{"zh": "你给我们介绍介绍故宫吧。", "py": "Nǐ gěi wǒmen jièshào jièshào Gùgōng ba."}, {"zh": "你给我们介绍介绍一下故宫吧。", "py": "Nǐ gěi wǒmen jièshào jièshào yíxià Gùgōng ba."}],
+       "answer": 0, "explain": "A reduplicated verb can't take a complement like 一下. (grammar note 1)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q5 — a reduplicated verb takes no complement (note 1). Missed Q2 or Q4 — 别看 is followed by the other person's view (note 3). Missed Q1 or Q3 — review 够……的 (note 2)."
+  }
+}

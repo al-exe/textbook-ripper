@@ -1,0 +1,607 @@
+{
+ "page": 61,
+ "cjk_pass": [
+  {
+   "text": "Unit3",
+   "conf": 0.5,
+   "bbox": [
+    0.55416,
+    0.06084,
+    0.6222,
+    0.08015
+   ]
+  },
+  {
+   "text": "Talking about Lifestyle",
+   "conf": 0.5,
+   "bbox": [
+    0.64147,
+    0.06104,
+    0.89341,
+    0.08008
+   ]
+  },
+  {
+   "text": "C.注意“为了”的用法，详见语法点注释2。现在你明白",
+   "conf": 0.5,
+   "bbox": [
+    0.19357,
+    0.12098,
+    0.68624,
+    0.14626
+   ]
+  },
+  {
+   "text": "了吧？请再做一遍第②和第④题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.1468,
+    0.52326,
+    0.1657
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of “为了”.Refer to",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.16846,
+    0.68798,
+    0.18459
+   ]
+  },
+  {
+   "text": "Grammar Note 2 for more details. Please do",
+   "conf": 0.5,
+   "bbox": [
+    0.22093,
+    0.19186,
+    0.68798,
+    0.20654
+   ]
+  },
+  {
+   "text": "questions ② and ④ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.21366,
+    0.44961,
+    0.22965
+   ]
+  },
+  {
+   "text": "D.注意“因次•⋯所以⋯⋯”的用法，详见语法点注释",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.23828,
+    0.68798,
+    0.25879
+   ]
+  },
+  {
+   "text": "2。现在你明白了吗？再做一遍第①和第③题吧。",
+   "conf": 0.5,
+   "bbox": [
+    0.21705,
+    0.26308,
+    0.6376,
+    0.28076
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of the structure “因",
+   "conf": 0.5,
+   "bbox": [
+    0.22085,
+    0.28767,
+    0.68615,
+    0.30487
+   ]
+  },
+  {
+   "text": "为••⋯所以⋯⋯”",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.30957,
+    0.36434,
+    0.32275
+   ]
+  },
+  {
+   "text": "•Refer to Grammar Note 2 for",
+   "conf": 0.3,
+   "bbox": [
+    0.36822,
+    0.31104,
+    0.68992,
+    0.32422
+   ]
+  },
+  {
+   "text": "more details. Please do questions ① and ③ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.3314,
+    0.67636,
+    0.34884
+   ]
+  },
+  {
+   "text": "文化川贴士",
+   "conf": 0.3,
+   "bbox": [
+    0.18795,
+    0.39666,
+    0.33918,
+    0.41874
+   ]
+  },
+  {
+   "text": "CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35659,
+    0.39826,
+    0.64729,
+    0.41715
+   ]
+  },
+  {
+   "text": "（一）你知道吗 Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.36434,
+    0.45494,
+    0.64147,
+    0.47238
+   ]
+  },
+  {
+   "text": "中国和茶",
+   "conf": 1.0,
+   "bbox": [
+    0.3719,
+    0.49797,
+    0.46919,
+    0.51802
+   ]
+  },
+  {
+   "text": "China and Tea",
+   "conf": 0.5,
+   "bbox": [
+    0.4845,
+    0.50291,
+    0.62791,
+    0.51758
+   ]
+  },
+  {
+   "text": "中国是产茶大国，茶文化对中国人的生活习惯具有深远的影响，茶是很多中国人家庭",
+   "conf": 1.0,
+   "bbox": [
+    0.15698,
+    0.53467,
+    0.88953,
+    0.55378
+   ]
+  },
+  {
+   "text": "日常生活中必需的东西。中国人喝茶大都讲究四季有别，即：春饮花茶，夏饮绿茶，秋饮",
+   "conf": 1.0,
+   "bbox": [
+    0.11628,
+    0.55664,
+    0.89147,
+    0.57715
+   ]
+  },
+  {
+   "text": "青茶，冬饮红茶。",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.5814,
+    0.26357,
+    0.59884
+   ]
+  },
+  {
+   "text": "China is one of the largest tea-producing countries and tea culture has profound influence",
+   "conf": 0.5,
+   "bbox": [
+    0.14729,
+    0.60449,
+    0.89147,
+    0.61919
+   ]
+  },
+  {
+   "text": "on Chinese people's habits and customs. Tea is one of the daily necessities in many Chinese",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.62645,
+    0.89147,
+    0.64111
+   ]
+  },
+  {
+   "text": "families. Most Chinese people drink different types of tea in different seasons: they drink flower",
+   "conf": 0.5,
+   "bbox": [
+    0.1124,
+    0.64826,
+    0.89341,
+    0.6657
+   ]
+  },
+  {
+   "text": "tea in spring, green tea in summer, oolong tea in autumn and black tea in winter.",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.66992,
+    0.75194,
+    0.6875
+   ]
+  },
+  {
+   "text": "（二）图片看中国",
+   "conf": 0.3,
+   "bbox": [
+    0.33527,
+    0.72949,
+    0.49031,
+    0.74709
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 0.5,
+   "bbox": [
+    0.49806,
+    0.73242,
+    0.67248,
+    0.74709
+   ]
+  },
+  {
+   "text": "打麻将",
+   "conf": 1.0,
+   "bbox": [
+    0.43023,
+    0.87207,
+    0.50194,
+    0.88965
+   ]
+  },
+  {
+   "text": "dd majiang",
+   "conf": 0.5,
+   "bbox": [
+    0.43017,
+    0.89369,
+    0.5175,
+    0.90864
+   ]
+  },
+  {
+   "text": "Playing mahjong",
+   "conf": 0.5,
+   "bbox": [
+    0.43023,
+    0.91553,
+    0.56783,
+    0.93169
+   ]
+  },
+  {
+   "text": "45",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 3",
+   "conf": 0.5,
+   "bbox": [
+    0.55416,
+    0.06084,
+    0.6222,
+    0.08015
+   ]
+  },
+  {
+   "text": "Talking about Lifestyle",
+   "conf": 1.0,
+   "bbox": [
+    0.64147,
+    0.06104,
+    0.89341,
+    0.08008
+   ]
+  },
+  {
+   "text": "СС К MСА2",
+   "conf": 0.3,
+   "bbox": [
+    0.19357,
+    0.12098,
+    0.68624,
+    0.14626
+   ]
+  },
+  {
+   "text": "TIE? MHш-M2ноE",
+   "conf": 0.3,
+   "bbox": [
+    0.22093,
+    0.1468,
+    0.52326,
+    0.1657
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of \"*T\". Refer to",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.16846,
+    0.68798,
+    0.18459
+   ]
+  },
+  {
+   "text": "Grammar Note 2 for more details. Please do",
+   "conf": 1.0,
+   "bbox": [
+    0.22093,
+    0.19186,
+    0.68798,
+    0.20654
+   ]
+  },
+  {
+   "text": "questions 2 and 4 again.",
+   "conf": 0.5,
+   "bbox": [
+    0.21899,
+    0.21366,
+    0.44961,
+    0.22965
+   ]
+  },
+  {
+   "text": "D.ЙС \"ДДБО\" кл, WЛAААк",
+   "conf": 0.3,
+   "bbox": [
+    0.19574,
+    0.23828,
+    0.68798,
+    0.25879
+   ]
+  },
+  {
+   "text": "2 ТЕМННТИ? НИ ИНОПОВКІЮ",
+   "conf": 0.3,
+   "bbox": [
+    0.21705,
+    0.26308,
+    0.6376,
+    0.28076
+   ]
+  },
+  {
+   "text": "Pay attention to the usage of the structure \"f)",
+   "conf": 0.5,
+   "bbox": [
+    0.22085,
+    0.28767,
+    0.68615,
+    0.30487
+   ]
+  },
+  {
+   "text": "YooeFfDo...\"",
+   "conf": 0.3,
+   "bbox": [
+    0.22287,
+    0.30959,
+    0.36434,
+    0.32267
+   ]
+  },
+  {
+   "text": ". Refer to Grammar Note 2 for",
+   "conf": 0.5,
+   "bbox": [
+    0.36822,
+    0.31104,
+    0.68992,
+    0.32422
+   ]
+  },
+  {
+   "text": "more details. Please do questions D and 3 again.",
+   "conf": 1.0,
+   "bbox": [
+    0.21899,
+    0.3314,
+    0.67636,
+    0.34884
+   ]
+  },
+  {
+   "text": "45",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "ХІЛЛT",
+   "conf": 0.3,
+   "bbox": [
+    0.18795,
+    0.39666,
+    0.33918,
+    0.41874
+   ]
+  },
+  {
+   "text": "CULTURAL NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35659,
+    0.39826,
+    0.64729,
+    0.41715
+   ]
+  },
+  {
+   "text": "(-) 1K*Eg Do You Know",
+   "conf": 0.3,
+   "bbox": [
+    0.36434,
+    0.45494,
+    0.64147,
+    0.47238
+   ]
+  },
+  {
+   "text": "ФАТА",
+   "conf": 0.3,
+   "bbox": [
+    0.3719,
+    0.49797,
+    0.46919,
+    0.51802
+   ]
+  },
+  {
+   "text": "China and Tea",
+   "conf": 1.0,
+   "bbox": [
+    0.4845,
+    0.50291,
+    0.62791,
+    0.51758
+   ]
+  },
+  {
+   "text": "ННЕТК кх",
+   "conf": 0.3,
+   "bbox": [
+    0.11628,
+    0.55664,
+    0.89147,
+    0.57715
+   ]
+  },
+  {
+   "text": "НД, КИAA",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.5814,
+    0.26357,
+    0.59884
+   ]
+  },
+  {
+   "text": "China is one of the largest tea-producing countries and tea culture has profound influence",
+   "conf": 1.0,
+   "bbox": [
+    0.14729,
+    0.60449,
+    0.89147,
+    0.61919
+   ]
+  },
+  {
+   "text": "on Chinese people's habits and customs. Tea is one of the daily necessities in many Chinese",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.62645,
+    0.89147,
+    0.64111
+   ]
+  },
+  {
+   "text": "families. Most Chinese people drink different types of tea in different seasons: they drink flower",
+   "conf": 1.0,
+   "bbox": [
+    0.1124,
+    0.64826,
+    0.89341,
+    0.6657
+   ]
+  },
+  {
+   "text": "tea in spring, green tea in summer, oolong tea in autumn and black tea in winter.",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.66992,
+    0.75194,
+    0.6875
+   ]
+  },
+  {
+   "text": "(E) ОНЕФ0",
+   "conf": 0.3,
+   "bbox": [
+    0.33527,
+    0.72949,
+    0.49031,
+    0.74709
+   ]
+  },
+  {
+   "text": "China in Pictures",
+   "conf": 1.0,
+   "bbox": [
+    0.49806,
+    0.73242,
+    0.67248,
+    0.74709
+   ]
+  },
+  {
+   "text": "dã májiàng",
+   "conf": 0.5,
+   "bbox": [
+    0.43017,
+    0.89369,
+    0.5175,
+    0.90864
+   ]
+  },
+  {
+   "text": "Playing mahjong",
+   "conf": 1.0,
+   "bbox": [
+    0.43023,
+    0.91553,
+    0.56783,
+    0.93169
+   ]
+  }
+ ]
+}

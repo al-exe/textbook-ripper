@@ -1,0 +1,637 @@
+{
+ "page": 136,
+ "cjk_pass": [
+  {
+   "text": "4",
+   "conf": 0.5,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.14244
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.625,
+    0.13566,
+    0.63953
+   ]
+  },
+  {
+   "text": "Unit 8 Environment",
+   "conf": 0.5,
+   "bbox": [
+    0.67054,
+    0.05811,
+    0.89341,
+    0.07861
+   ]
+  },
+  {
+   "text": "辩论",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.12645,
+    0.19961,
+    0.14404
+   ]
+  },
+  {
+   "text": "Debate",
+   "conf": 1.0,
+   "bbox": [
+    0.2169,
+    0.12896,
+    0.2831,
+    0.1443
+   ]
+  },
+  {
+   "text": "班级活动",
+   "conf": 1.0,
+   "bbox": [
+    0.17243,
+    0.16846,
+    0.25393,
+    0.18619
+   ]
+  },
+  {
+   "text": "就“经济发展更重要还是环境保护更重要？”这一问题展开辩论。",
+   "conf": 0.5,
+   "bbox": [
+    0.27701,
+    0.16508,
+    0.84708,
+    0.18904
+   ]
+  },
+  {
+   "text": "Class work: Which is more important, economic development or environmental protection? Have a",
+   "conf": 0.5,
+   "bbox": [
+    0.17054,
+    0.20058,
+    0.89147,
+    0.21533
+   ]
+  },
+  {
+   "text": "debate on this issue.",
+   "conf": 0.5,
+   "bbox": [
+    0.27713,
+    0.2207,
+    0.4186,
+    0.23401
+   ]
+  },
+  {
+   "text": "语法点注释",
+   "conf": 1.0,
+   "bbox": [
+    0.18016,
+    0.31223,
+    0.33535,
+    0.33748
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.35659,
+    0.31395,
+    0.65116,
+    0.33447
+   ]
+  },
+  {
+   "text": "再加上 The usage of“再加上”",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.36914,
+    0.45349,
+    0.39111
+   ]
+  },
+  {
+   "text": "“再加上”意思是“此外”，可以用于两个小句之间表示追述。例如：",
+   "conf": 0.5,
+   "bbox": [
+    0.19363,
+    0.40505,
+    0.79278,
+    0.42801
+   ]
+  },
+  {
+   "text": "“再加上” means “superadd” or “coupled with”. It can be used between two clauses",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.43018,
+    0.88953,
+    0.44629
+   ]
+  },
+  {
+   "text": "indicating recount. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.1531,
+    0.45349,
+    0.41667,
+    0.46948
+   ]
+  },
+  {
+   "text": "① 最近作业很多，再加上快要考试了，每天都特别忙。",
+   "conf": 0.3,
+   "bbox": [
+    0.15504,
+    0.47803,
+    0.82171,
+    0.5
+   ]
+  },
+  {
+   "text": "Zuijin zuoye hen duo. zai jiashang kuai yao kdo shi le, mei tian dou tebie mang.",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.50436,
+    0.8314,
+    0.52051
+   ]
+  },
+  {
+   "text": "② 最近天气比较 冷，再 加上穿得太少，他感冒了。",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.52326,
+    0.75775,
+    0.5436
+   ]
+  },
+  {
+   "text": "Zuijin tianqi bijido leng, zdi jidshang chuan de tai shdo, td ganmdo le.",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.54785,
+    0.74806,
+    0.5625
+   ]
+  },
+  {
+   "text": "幸亏",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.62207,
+    0.19767,
+    0.63965
+   ]
+  },
+  {
+   "text": "The usage of“幸亏”",
+   "conf": 0.3,
+   "bbox": [
+    0.21899,
+    0.62061,
+    0.41279,
+    0.64111
+   ]
+  },
+  {
+   "text": "副词“幸亏”表示由于某些有利条件或别人的帮助而避免了不希望发生的后果",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.65674,
+    0.89147,
+    0.67733
+   ]
+  },
+  {
+   "text": "或得到了某种好处。例如：",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.68164,
+    0.38372,
+    0.69922
+   ]
+  },
+  {
+   "text": "The adverb“幸亏” indicates that one got some benefits or avoided some undesirable",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.70349,
+    0.88953,
+    0.71948
+   ]
+  },
+  {
+   "text": "consequences thanks to some favorable conditions or somebody else's help. For example：",
+   "conf": 0.5,
+   "bbox": [
+    0.15504,
+    0.72656,
+    0.87016,
+    0.74273
+   ]
+  },
+  {
+   "text": "① 雨下得真大，幸亏你来接我了。",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.76308,
+    0.53295,
+    0.78198
+   ]
+  },
+  {
+   "text": "Yu xid de zhen dd, xingkui ni ldi jie wo le.",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.78467,
+    0.52326,
+    0.80087
+   ]
+  },
+  {
+   "text": "② 我差点儿来晚了，幸亏今天 路上 没有堵车。",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.80518,
+    0.69186,
+    0.82715
+   ]
+  },
+  {
+   "text": "Wo chadidnr Idi wan le. xingkui jintian lushang meiyou di che.",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.8314,
+    0.68798,
+    0.84738
+   ]
+  },
+  {
+   "text": "③ 这里环境 污染问题很 严重，幸亏 这些 年人们意识到了",
+   "conf": 0.3,
+   "bbox": [
+    0.14916,
+    0.85024,
+    0.81789,
+    0.87144
+   ]
+  },
+  {
+   "text": "Zheli huanjing wuran wenti hen yanzhong, xingkui zhexie nian renmen yishi ddole",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.875,
+    0.82171,
+    0.88965
+   ]
+  },
+  {
+   "text": "环保的重要性。",
+   "conf": 0.3,
+   "bbox": [
+    0.18605,
+    0.8968,
+    0.37984,
+    0.9157
+   ]
+  },
+  {
+   "text": "huanbao de zhongyaoxing.",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.91992,
+    0.39729,
+    0.93459
+   ]
+  },
+  {
+   "text": "环",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.18314,
+    0.96705,
+    0.20058
+   ]
+  },
+  {
+   "text": "境",
+   "conf": 1.0,
+   "bbox": [
+    0.94186,
+    0.20349,
+    0.96512,
+    0.22238
+   ]
+  },
+  {
+   "text": "121",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97093,
+    0.3561
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "4",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.12936,
+    0.13566,
+    0.14244
+   ]
+  },
+  {
+   "text": "(1",
+   "conf": 0.3,
+   "bbox": [
+    0.11047,
+    0.36919,
+    0.14147,
+    0.39244
+   ]
+  },
+  {
+   "text": "2",
+   "conf": 1.0,
+   "bbox": [
+    0.12016,
+    0.625,
+    0.13566,
+    0.63953
+   ]
+  },
+  {
+   "text": "Unit 8 Environment",
+   "conf": 1.0,
+   "bbox": [
+    0.67054,
+    0.05811,
+    0.89341,
+    0.07861
+   ]
+  },
+  {
+   "text": "##it",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.12645,
+    0.19961,
+    0.1439
+   ]
+  },
+  {
+   "text": "Debate",
+   "conf": 1.0,
+   "bbox": [
+    0.2169,
+    0.12896,
+    0.2831,
+    0.1443
+   ]
+  },
+  {
+   "text": "FELNE Z))",
+   "conf": 0.3,
+   "bbox": [
+    0.17243,
+    0.16846,
+    0.25393,
+    0.18619
+   ]
+  },
+  {
+   "text": "Я \"ЕАЕNОЛИЕИНАРИЕИ?\" & DИЮЛИЕ",
+   "conf": 0.3,
+   "bbox": [
+    0.27701,
+    0.16508,
+    0.84708,
+    0.18904
+   ]
+  },
+  {
+   "text": "Class work: Which is more important, economic development or environmental protection? Have a",
+   "conf": 1.0,
+   "bbox": [
+    0.17054,
+    0.20058,
+    0.89147,
+    0.21533
+   ]
+  },
+  {
+   "text": "debate on this issue.",
+   "conf": 1.0,
+   "bbox": [
+    0.27713,
+    0.2207,
+    0.4186,
+    0.23401
+   ]
+  },
+  {
+   "text": "iEiZWiEIZ",
+   "conf": 0.3,
+   "bbox": [
+    0.18016,
+    0.31223,
+    0.33535,
+    0.33748
+   ]
+  },
+  {
+   "text": "GRAMMAR NOTES",
+   "conf": 1.0,
+   "bbox": [
+    0.35659,
+    0.31395,
+    0.65116,
+    0.33447
+   ]
+  },
+  {
+   "text": "FJH The usage of \"#th1\"",
+   "conf": 0.3,
+   "bbox": [
+    0.1531,
+    0.36914,
+    0.45349,
+    0.39111
+   ]
+  },
+  {
+   "text": "\"ПЕ\" СВл \"А\" , ПОЛтИТЛЛЕЛЕЛИE ВШ:",
+   "conf": 0.3,
+   "bbox": [
+    0.19363,
+    0.40505,
+    0.79278,
+    0.42801
+   ]
+  },
+  {
+   "text": "\"FjJl E\" means \"superadd\" or \"coupled with\". It can be used between two clauses",
+   "conf": 0.5,
+   "bbox": [
+    0.19767,
+    0.43018,
+    0.88953,
+    0.44629
+   ]
+  },
+  {
+   "text": "indicating recount. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.1531,
+    0.45349,
+    0.41667,
+    0.46948
+   ]
+  },
+  {
+   "text": "Zuiìn zuòyè hẽn duõ, zài jiãshàng kuài yào kão shì le, mẽi tiân dõu tèbié máng.",
+   "conf": 0.5,
+   "bbox": [
+    0.18992,
+    0.50436,
+    0.8314,
+    0.52051
+   ]
+  },
+  {
+   "text": "Zuiìn tiăngì bìjiào lẽng, zài jiãshàng chuăn de tài sháo, tã gánmào le.",
+   "conf": 0.3,
+   "bbox": [
+    0.18992,
+    0.54785,
+    0.74806,
+    0.5625
+   ]
+  },
+  {
+   "text": "The usage of \"#5\"",
+   "conf": 1.0,
+   "bbox": [
+    0.21899,
+    0.62061,
+    0.41279,
+    0.64111
+   ]
+  },
+  {
+   "text": "The adverb \"*Tj\" indicates that one got some benefits or avoided some undesirable",
+   "conf": 0.5,
+   "bbox": [
+    0.19961,
+    0.70349,
+    0.88953,
+    0.71948
+   ]
+  },
+  {
+   "text": "consequences thanks to some favorable conditions or somebody else's help. For example:",
+   "conf": 1.0,
+   "bbox": [
+    0.15504,
+    0.72656,
+    0.87016,
+    0.74273
+   ]
+  },
+  {
+   "text": "Yũ xià de zhẽn dà, xingkui nĩ lái jiê wõ le.",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.78467,
+    0.52326,
+    0.80087
+   ]
+  },
+  {
+   "text": "ĐAAFN*3, AEH*7.",
+   "conf": 0.3,
+   "bbox": [
+    0.15116,
+    0.80518,
+    0.69186,
+    0.82715
+   ]
+  },
+  {
+   "text": "Wõ chàdiănr lái wăn le, xingkui jintiăn lùshang méiyou dũ chẽ.",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.8314,
+    0.68798,
+    0.84738
+   ]
+  },
+  {
+   "text": "Zhèli huánjing wurăn wentí hèn yánzhồng, xingkui zhèxie nián rénmen yishí dàole",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.875,
+    0.82171,
+    0.88965
+   ]
+  },
+  {
+   "text": "huánbão de zhòngyàoxing.",
+   "conf": 0.5,
+   "bbox": [
+    0.18605,
+    0.91992,
+    0.39729,
+    0.93459
+   ]
+  },
+  {
+   "text": "121",
+   "conf": 1.0,
+   "bbox": [
+    0.93411,
+    0.34157,
+    0.97093,
+    0.3561
+   ]
+  }
+ ]
+}

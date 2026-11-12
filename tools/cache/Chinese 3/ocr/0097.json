@@ -1,0 +1,777 @@
+{
+ "page": 97,
+ "cjk_pass": [
+  {
+   "text": "Unit 5 Talking about an Examination",
+   "conf": 0.5,
+   "bbox": [
+    0.47868,
+    0.05957,
+    0.87791,
+    0.08008
+   ]
+  },
+  {
+   "text": "A. 太棒了，你的语法学得非常好！",
+   "conf": 0.5,
+   "bbox": [
+    0.13953,
+    0.12354,
+    0.43411,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well！",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.14826,
+    0.62403,
+    0.16424
+   ]
+  },
+  {
+   "text": "B.你的语法学得不错。不过要注意“连⋯⋯都•••⋯•”结构的",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.17725,
+    0.67248,
+    0.19482
+   ]
+  },
+  {
+   "text": "用法，详见语法点注释1。现在你明白了吗？再做一遍第⑤",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.19767,
+    0.67248,
+    0.21533
+   ]
+  },
+  {
+   "text": "题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.21802,
+    0.21318,
+    0.23547
+   ]
+  },
+  {
+   "text": "You have learned the grammar very well. However, please",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.23975,
+    0.67442,
+    0.25586
+   ]
+  },
+  {
+   "text": "pay attention to the usage of the structure",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.25581,
+    0.59109,
+    0.27051
+   ]
+  },
+  {
+   "text": "“连……",
+   "conf": 0.3,
+   "bbox": [
+    0.60659,
+    0.25581,
+    0.67442,
+    0.26904
+   ]
+  },
+  {
+   "text": "都⋯•⋯”",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.2718,
+    0.23256,
+    0.28488
+   ]
+  },
+  {
+   "text": ". Refer to Grammar Note 1 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.27326,
+    0.67636,
+    0.28634
+   ]
+  },
+  {
+   "text": "Understand now? Please do question ⑤ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.28906,
+    0.57171,
+    0.30523
+   ]
+  },
+  {
+   "text": "C.“哪怕•⋯也•”表示的是没有发生但已经可以预见结果",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.31977,
+    0.67248,
+    0.33887
+   ]
+  },
+  {
+   "text": "的事情，详见语法点注释3。现在你明白了吗？再做一遍第",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.33866,
+    0.67442,
+    0.35901
+   ]
+  },
+  {
+   "text": "②和第④题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.16085,
+    0.36035,
+    0.29264,
+    0.37793
+   ]
+  },
+  {
+   "text": "“哪怕……也…",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.38227,
+    0.2907,
+    0.39551
+   ]
+  },
+  {
+   "text": "…” indicates something that hasn't",
+   "conf": 0.5,
+   "bbox": [
+    0.28876,
+    0.38227,
+    0.67442,
+    0.39844
+   ]
+  },
+  {
+   "text": "happened but the result of which is already predictable.",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.39971,
+    0.67636,
+    0.4157
+   ]
+  },
+  {
+   "text": "Refer to Grammar Note 3 for more details. Understand",
+   "conf": 0.5,
+   "bbox": [
+    0.16667,
+    0.41553,
+    0.67442,
+    0.43023
+   ]
+  },
+  {
+   "text": "now? Please do questions ② and ④ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.16473,
+    0.43164,
+    0.53295,
+    0.44775
+   ]
+  },
+  {
+   "text": "D.",
+   "conf": 1.0,
+   "bbox": [
+    0.14147,
+    0.46657,
+    0.16279,
+    0.4811
+   ]
+  },
+  {
+   "text": "“•••是•⋯，不过•••••”结构用以承认一种事实，但也",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.46366,
+    0.67248,
+    0.48256
+   ]
+  },
+  {
+   "text": "提出另一个观点或事实。现在你明白了吗？再做一遍第①",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.48389,
+    0.67442,
+    0.50293
+   ]
+  },
+  {
+   "text": "和第③题吧。",
+   "conf": 1.0,
+   "bbox": [
+    0.16264,
+    0.50377,
+    0.27729,
+    0.52239
+   ]
+  },
+  {
+   "text": "The structure “••是⋯•不过⋯⋯” is used to acknowledge",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.52616,
+    0.67442,
+    0.5407
+   ]
+  },
+  {
+   "text": "a fact and also propose another idea or fact. Understand",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.54346,
+    0.67442,
+    0.55814
+   ]
+  },
+  {
+   "text": "now? Please do questions ① and ③ again.",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.55957,
+    0.53295,
+    0.57568
+   ]
+  },
+  {
+   "text": "81",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "文化小贴士 CULTURAL NOTES",
+   "conf": 0.5,
+   "bbox": [
+    0.18798,
+    0.62791,
+    0.65504,
+    0.6499
+   ]
+  },
+  {
+   "text": "（一】你知道吗",
+   "conf": 0.3,
+   "bbox": [
+    0.35078,
+    0.69331,
+    0.50194,
+    0.70947
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 0.5,
+   "bbox": [
+    0.5,
+    0.69331,
+    0.64147,
+    0.70947
+   ]
+  },
+  {
+   "text": "HSK考试 HSK （Chinese Proficiency Test）",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.73535,
+    0.73256,
+    0.75586
+   ]
+  },
+  {
+   "text": "HSK是汉语水平考试（Hanyu Shuiping Kaoshi）的简称，是一项国际汉语能力标准",
+   "conf": 0.5,
+   "bbox": [
+    0.15698,
+    0.77035,
+    0.88953,
+    0.78924
+   ]
+  },
+  {
+   "text": "的考试，重点考查汉语非第一语言的考生在生活、学习和工作中使用汉语进行交际的能",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.79346,
+    0.88953,
+    0.81105
+   ]
+  },
+  {
+   "text": "力。新HSK分笔试和口试两种考试，两者相互独立。笔试包括一～六级，口试包括初、",
+   "conf": 0.5,
+   "bbox": [
+    0.11434,
+    0.81541,
+    0.88178,
+    0.83447
+   ]
+  },
+  {
+   "text": "中、高级。如果你希望进入中国的高等院校学习，至少应该通过新HSK四级考试。",
+   "conf": 1.0,
+   "bbox": [
+    0.11434,
+    0.83721,
+    0.82946,
+    0.8561
+   ]
+  },
+  {
+   "text": "Targeted at examining non-native Chinese speakers’ Chinese language communication skills",
+   "conf": 0.5,
+   "bbox": [
+    0.15116,
+    0.87061,
+    0.89147,
+    0.88672
+   ]
+  },
+  {
+   "text": "in their life, study and work, HSK （also Chinese Proficiency Test） is a standard Chinese language",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.8939,
+    0.88953,
+    0.90988
+   ]
+  },
+  {
+   "text": "test for international students. The New HSK is divided into the written test and spoken test, both",
+   "conf": 0.5,
+   "bbox": [
+    0.11047,
+    0.91553,
+    0.89147,
+    0.93169
+   ]
+  }
+ ],
+ "latin_pass": [
+  {
+   "text": "Unit 5 Talking about an Examination",
+   "conf": 1.0,
+   "bbox": [
+    0.47868,
+    0.05957,
+    0.87791,
+    0.08008
+   ]
+  },
+  {
+   "text": "A. KHT, МФEZTWHWH!",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.12354,
+    0.43411,
+    0.14258
+   ]
+  },
+  {
+   "text": "Wonderful, you have learned the grammar very well!",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.14826,
+    0.62403,
+    0.16424
+   ]
+  },
+  {
+   "text": "BHH7Z4T \"4M\" 44",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.17725,
+    0.67248,
+    0.19482
+   ]
+  },
+  {
+   "text": "Л, ЙЛИТМАИІ ТЕКННТИ? 1Ж-145",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.19767,
+    0.67248,
+    0.21533
+   ]
+  },
+  {
+   "text": "12D.",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.21802,
+    0.21318,
+    0.23547
+   ]
+  },
+  {
+   "text": "You have learned the grammar very well. However, please",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.23975,
+    0.67442,
+    0.25586
+   ]
+  },
+  {
+   "text": "pay attention to the usage of the structure",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.25581,
+    0.59109,
+    0.27051
+   ]
+  },
+  {
+   "text": "\"M......",
+   "conf": 0.3,
+   "bbox": [
+    0.60659,
+    0.25581,
+    0.67442,
+    0.2689
+   ]
+  },
+  {
+   "text": "Kl......\"",
+   "conf": 0.3,
+   "bbox": [
+    0.16667,
+    0.2718,
+    0.23256,
+    0.28488
+   ]
+  },
+  {
+   "text": "• Refer to Grammar Note 1 for more details.",
+   "conf": 0.5,
+   "bbox": [
+    0.23837,
+    0.27326,
+    0.67636,
+    0.28634
+   ]
+  },
+  {
+   "text": "Understand now? Please do question 5 again.",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.28906,
+    0.57171,
+    0.30523
+   ]
+  },
+  {
+   "text": "С.\"ВН-Ц\" ВлкАВИЕНСдоСВл4я",
+   "conf": 0.3,
+   "bbox": [
+    0.13953,
+    0.31977,
+    0.67248,
+    0.33887
+   ]
+  },
+  {
+   "text": "КИ, ПЛИКЛНЗ ПАКННТЦ? 1И-19",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.33866,
+    0.67442,
+    0.35901
+   ]
+  },
+  {
+   "text": "DHOMIE",
+   "conf": 0.3,
+   "bbox": [
+    0.16085,
+    0.36047,
+    0.29264,
+    0.37791
+   ]
+  },
+  {
+   "text": "\"HS NÁ -.. t ...",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.38227,
+    0.2907,
+    0.39551
+   ]
+  },
+  {
+   "text": "....\" indicates something that hasn't",
+   "conf": 1.0,
+   "bbox": [
+    0.28876,
+    0.38227,
+    0.67442,
+    0.39844
+   ]
+  },
+  {
+   "text": "happened but the result of which is already predictable.",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.39971,
+    0.67636,
+    0.4157
+   ]
+  },
+  {
+   "text": "Refer to Grammar Note 3 for more details. Understand",
+   "conf": 1.0,
+   "bbox": [
+    0.16667,
+    0.41553,
+    0.67442,
+    0.43023
+   ]
+  },
+  {
+   "text": "now? Please do questions 2 and * again.",
+   "conf": 1.0,
+   "bbox": [
+    0.16473,
+    0.43164,
+    0.53295,
+    0.44775
+   ]
+  },
+  {
+   "text": "81",
+   "conf": 1.0,
+   "bbox": [
+    0.93992,
+    0.34302,
+    0.96705,
+    0.3561
+   ]
+  },
+  {
+   "text": "D.",
+   "conf": 1.0,
+   "bbox": [
+    0.14147,
+    0.46657,
+    0.16279,
+    0.4811
+   ]
+  },
+  {
+   "text": "ННТЛАН ВЕКНЙТШ? НЖ-ТHО",
+   "conf": 0.3,
+   "bbox": [
+    0.16279,
+    0.48389,
+    0.67442,
+    0.50293
+   ]
+  },
+  {
+   "text": "FH 3ДE®",
+   "conf": 0.3,
+   "bbox": [
+    0.16264,
+    0.50377,
+    0.27729,
+    0.52239
+   ]
+  },
+  {
+   "text": "The structure \"........, Nit....\" is used to acknowledge",
+   "conf": 0.3,
+   "bbox": [
+    0.16473,
+    0.52616,
+    0.67442,
+    0.5407
+   ]
+  },
+  {
+   "text": "a fact and also propose another idea or fact. Understand",
+   "conf": 1.0,
+   "bbox": [
+    0.16279,
+    0.54346,
+    0.67442,
+    0.55814
+   ]
+  },
+  {
+   "text": "now? Please do questions and 3 again.",
+   "conf": 0.5,
+   "bbox": [
+    0.16279,
+    0.55957,
+    0.53295,
+    0.57568
+   ]
+  },
+  {
+   "text": "XILIJX6* CULTURAL NOTES",
+   "conf": 0.3,
+   "bbox": [
+    0.18798,
+    0.62791,
+    0.65504,
+    0.6499
+   ]
+  },
+  {
+   "text": "(-) 1RA0i9",
+   "conf": 0.3,
+   "bbox": [
+    0.35078,
+    0.69331,
+    0.50194,
+    0.70947
+   ]
+  },
+  {
+   "text": "Do You Know",
+   "conf": 1.0,
+   "bbox": [
+    0.5,
+    0.69331,
+    0.64147,
+    0.70947
+   ]
+  },
+  {
+   "text": "HSK# HSK (Chinese Proficiency Test)",
+   "conf": 0.5,
+   "bbox": [
+    0.26938,
+    0.73535,
+    0.73256,
+    0.75586
+   ]
+  },
+  {
+   "text": "HSKEIXiXY *ut (Hànyй Shuiping Kãoshì) Mffs, t MlBnXiniE/trM:",
+   "conf": 0.3,
+   "bbox": [
+    0.15698,
+    0.77035,
+    0.88953,
+    0.78924
+   ]
+  },
+  {
+   "text": "НДД, ДЛВЛХЛТО ЛОШВЕИСС СОЛТИТЕЛИМКВК",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.79346,
+    0.88953,
+    0.81105
+   ]
+  },
+  {
+   "text": "До АНКЕттт ттттт ЄИот-к, ПИСНу.",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.81541,
+    0.88178,
+    0.83447
+   ]
+  },
+  {
+   "text": "НИД ЯШТШЛТИВТВТУ, СОЛИШАТНКРДНИ",
+   "conf": 0.3,
+   "bbox": [
+    0.11434,
+    0.83721,
+    0.82946,
+    0.8561
+   ]
+  },
+  {
+   "text": "Targeted at examining non-native Chinese speakers' Chinese language communication skills",
+   "conf": 1.0,
+   "bbox": [
+    0.15116,
+    0.87061,
+    0.89147,
+    0.88672
+   ]
+  },
+  {
+   "text": "in their life, study and work, HSK (also Chinese Proficiency Test) is a standard Chinese language",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.8939,
+    0.88953,
+    0.90988
+   ]
+  },
+  {
+   "text": "test for international students. The New HSK is divided into the written test and spoken test, both",
+   "conf": 1.0,
+   "bbox": [
+    0.11047,
+    0.91553,
+    0.89147,
+    0.93169
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+  "book": "Chinese 4",
+  "unit": 5,
+  "kind": "grammar",
+  "title": {"zh": "谈压力", "py": "Tán yālì", "en": "Talking about Pressure"},
+  "source": "PDF pp. 81, 87–90, 90–93 (printed pp. 65, 71–77)",
+  "intro": "This unit is about stress and giving advice. Grammar: (1) 省得 “so as to avoid…”; (2) adjective + 得不得了 “extremely…”; (3) 不妨 “you might as well…”. Answers marked “model answer” were written for this sheet.",
+
+  "key_sentences": [
+    {"zh": "把该做的事情逐一记下来，省得忘。", "py": "Bǎ gāi zuò de shìqing zhúyī jì xiàlai, shěngde wàng.", "en": "Write down everything you need to do, one by one, so you don't forget."},
+    {"zh": "早知道学法律这么难，我还不如选别的专业呢。", "py": "Zǎo zhīdào xué fǎlǜ zhème nán, wǒ hái bùrú xuǎn bié de zhuānyè ne.", "en": "If I'd known law was this hard, I'd have been better off choosing another major."},
+    {"zh": "最近你不妨多听听音乐，舒缓一下情绪。", "py": "Zuìjìn nǐ bùfáng duō tīngting yīnyuè, shūhuǎn yíxià qíngxù.", "en": "You might try listening to more music lately, to calm your mood."},
+    {"zh": "我现在忙得不得了，哪有时间做瑜伽啊？", "py": "Wǒ xiànzài máng de bùdéliǎo, nǎ yǒu shíjiān zuò yújiā a?", "en": "I'm incredibly busy right now — how would I have time for yoga?"}
+  ],
+
+  "grammar": [
+    {
+      "title": {"zh": "省得", "py": "shěngde", "en": "The usage of 省得"},
+      "body": [
+        {"type": "text", "zh": "连词“省得”用在后一句的开头，表示避免发生不希望发生的情况。例如：", "en": "The conjunction “省得” begins the second clause and means “so as to avoid” something you don't want to happen, e.g.,"},
+        {"type": "pattern", "zh": "（要做的事），省得 + （不希望发生的事）", "py": "(yào zuò de shì), shěngde + (bù xīwàng fāshēng de shì)", "en": "(do this), so that (the unwanted thing) doesn't happen"},
+        {"type": "example", "zh": "多穿点儿，省得感冒。", "py": "Duō chuān diǎnr, shěngde gǎnmào.", "en": "Wear more so you don't catch a cold."},
+        {"type": "example", "zh": "到了学校打个电话，省得家人担心。", "py": "Dàole xuéxiào dǎ ge diànhuà, shěngde jiārén dānxīn.", "en": "Call when you get to school so your family won't worry."},
+        {"type": "note", "en": "省得 goes in front of the thing to avoid, in the second clause: ✓ 带把伞吧，省得一会儿下雨被淋到. ✗ 省得带把伞，… (that would mean “to avoid taking an umbrella”)."}
+      ]
+    },
+    {
+      "title": {"zh": "形容词＋得不得了", "py": "xíngróngcí + de bùdéliǎo", "en": "Adjective + 得不得了"},
+      "body": [
+        {"type": "text", "zh": "“得不得了”用在形容词后做补语，表示程度高。例如：", "en": "“得不得了” follows an adjective as a complement, meaning “extremely”, e.g.,"},
+        {"type": "pattern", "zh": "主语 + 形容词 + 得不得了", "py": "zhǔyǔ + xíngróngcí + de bùdéliǎo", "en": "subject + adjective + 得不得了 = terribly / extremely + adjective"},
+        {"type": "example", "zh": "他跑步的速度真是快得不得了。", "py": "Tā pǎo bù de sùdù zhēn shì kuài de bùdéliǎo.", "en": "He runs incredibly fast."},
+        {"type": "example", "zh": "最近北京热得不得了。", "py": "Zuìjìn Běijīng rè de bùdéliǎo.", "en": "Beijing has been unbearably hot lately."},
+        {"type": "note", "en": "The adjective comes right before 得不得了 and after the subject: ✓ 这次考试难得不得了. ✗ 这次难考试得不得了."}
+      ]
+    },
+    {
+      "title": {"zh": "不妨", "py": "bùfáng", "en": "The usage of 不妨"},
+      "body": [
+        {"type": "text", "zh": "副词“不妨”表示可以这样做，不会产生消极影响。“不妨”多用于建议，常有推荐尝试的意思。例如：", "en": "The adverb “不妨” means there's no harm in doing something. It's mostly used for suggestions, often recommending you give something a try, e.g.,"},
+        {"type": "pattern", "zh": "（你）+ 不妨 + 动词（试试／看看……）", "py": "(nǐ) + bùfáng + dòngcí (shìshi / kànkan……)", "en": "(you) + might as well / why not + verb"},
+        {"type": "example", "zh": "这本书很好，有空的时候你不妨看看。", "py": "Zhè běn shū hěn hǎo, yǒu kòng de shíhou nǐ bùfáng kànkan.", "en": "This book is great — have a look when you're free."},
+        {"type": "example", "zh": "你如果不同意，不妨直说。", "py": "Nǐ rúguǒ bù tóngyì, bùfáng zhí shuō.", "en": "If you disagree, you may as well just say so."},
+        {"type": "note", "en": "不妨 goes right before the suggested action: ✓ 您不妨试试 / 你不妨看看. ✗ 这个电影不妨很好看 / ✗ 不妨有好处."}
+      ]
+    }
+  ],
+
+  "exercises": [
+    {
+      "title": {"zh": "不妨如此", "py": "Bùfáng rúcǐ", "en": "Might as well"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "角色扮演，两个人一组，每个人按照所给信息说出自己的烦恼，另外一个人用“不妨……”提建议。", "en": "Role-play in pairs: one person describes a worry from the list, the other gives advice using “不妨……”."},
+      "body": [
+        {"type": "dialogue", "lines": [
+          {"speaker": "A", "zh": "我下午常常很困。", "py": "Wǒ xiàwǔ chángcháng hěn kùn.", "en": "I'm often sleepy in the afternoon."},
+          {"speaker": "B", "zh": "你不妨下午的时候喝杯咖啡。", "py": "Nǐ bùfáng xiàwǔ de shíhou hē bēi kāfēi.", "en": "Why not have a coffee in the afternoon?"}
+        ]}
+      ],
+      "items": [
+        {"prompt": {"zh": "最近我总丢三落四。", "py": "Zuìjìn wǒ zǒng diūsān-làsì.", "en": "I keep forgetting things lately."}, "answer": [{"zh": "你不妨买个记事本，把要做的事情都写下来。", "py": "Nǐ bùfáng mǎi ge jìshìběn, bǎ yào zuò de shìqing dōu xiě xiàlai.", "en": "Why not buy a notebook and write everything down? (model answer)"}]},
+        {"prompt": {"zh": "我长胖了，真烦人。", "en": "I've put on weight — so annoying."}, "answer": [{"zh": "你不妨每天去跑跑步。", "en": "Why not go for a run every day? (model answer)"}]},
+        {"prompt": {"zh": "我刚到这个陌生的城市，压力很大。", "en": "I've just arrived in this unfamiliar city and I'm really stressed."}, "answer": [{"zh": "你不妨多参加一些活动，认识一些新朋友。", "en": "You might try joining some activities and meeting new friends. (model answer)"}]},
+        {"prompt": {"zh": "我和朋友吵架了。", "py": "Wǒ hé péngyou chǎo jià le.", "en": "I had a fight with my friend."}, "answer": [{"zh": "你不妨给他打个电话，好好儿谈谈。", "py": "Nǐ bùfáng gěi tā dǎ ge diànhuà, hǎohāor tántan.", "en": "Why not give him a call and have a proper talk? (model answer)"}]},
+        {"prompt": {"zh": "最近我总睡不着觉。", "py": "Zuìjìn wǒ zǒng shuì bu zháo jiào.", "en": "I can never fall asleep lately."}, "answer": [{"zh": "你不妨睡觉以前喝杯热牛奶。", "en": "Why not have a glass of warm milk before bed? (model answer)"}]},
+        {"prompt": {"zh": "我正在准备考试，可是什么都记不住。", "py": "Wǒ zhèngzài zhǔnbèi kǎoshì, kěshì shénme dōu jì bu zhù.", "en": "I'm preparing for an exam but can't remember anything."}, "answer": [{"zh": "你不妨先休息休息，然后再复习。", "py": "Nǐ bùfáng xiān xiūxi xiūxi, ránhòu zài fùxí.", "en": "You might take a short rest first, then revise. (model answer)"}]},
+        {"prompt": {"zh": "我的父母不同意我学习这个专业。", "en": "My parents don't approve of my major."}, "answer": [{"zh": "你不妨跟他们好好儿说说你的想法。", "py": "Nǐ bùfáng gēn tāmen hǎohāor shuōshuo nǐ de xiǎngfǎ.", "en": "Why not explain your thinking to them properly? (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "细心的朋友", "py": "Xìxīn de péngyou", "en": "An attentive friend"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "两个人一组，一人看信息A，一人看信息B。根据所给的信息，用“……，省得……”给你的朋友提建议。然后记录下朋友的建议。", "en": "In pairs, one reads Information A and the other Information B. Give your friend advice using “……，省得……”, then note down the advice you received (report: 我有一个很细心的朋友，……，他/她让我……，省得……)."},
+      "items": [
+        {"prompt": {"zh": "天气预报说今天下午有雨。", "py": "Tiānqì yùbào shuō jīntiān xiàwǔ yǒu yǔ.", "en": "The forecast says rain this afternoon."}, "answer": [{"zh": "带把伞吧，省得被雨淋湿。", "py": "Dài bǎ sǎn ba, shěngde bèi yǔ línshī.", "en": "Take an umbrella so you don't get soaked. (model answer)"}]},
+        {"prompt": {"zh": "你的朋友明天有考试。", "en": "Your friend has an exam tomorrow."}, "answer": [{"zh": "今天早点儿睡觉，省得明天起不来。", "py": "Jīntiān zǎo diǎnr shuì jiào, shěngde míngtiān qǐ bu lái.", "en": "Go to bed early tonight so you can get up tomorrow. (model answer)"}]},
+        {"prompt": {"zh": "你的朋友总是找不到钥匙。", "py": "Nǐ de péngyou zǒngshì zhǎo bu dào yàoshi.", "en": "Your friend can never find their keys."}, "answer": [{"zh": "把钥匙放在门口，省得每次都找。", "py": "Bǎ yàoshi fàng zài ménkǒu, shěngde měi cì dōu zhǎo.", "en": "Keep your keys by the door so you don't have to hunt for them every time. (model answer)"}]},
+        {"prompt": {"zh": "天气预报说明天很冷。", "py": "Tiānqì yùbào shuō míngtiān hěn lěng.", "en": "The forecast says it'll be very cold tomorrow."}, "answer": [{"zh": "明天多穿点儿，省得感冒。", "py": "Míngtiān duō chuān diǎnr, shěngde gǎnmào.", "en": "Wear more tomorrow so you don't catch a cold. (model answer)"}]},
+        {"prompt": {"zh": "你的朋友明天下午有个很重要的约会，你担心他忘了。", "en": "Your friend has an important appointment tomorrow afternoon and you're worried they'll forget."}, "answer": [{"zh": "你把约会的时间记在手机上吧，省得忘了。", "py": "Nǐ bǎ yuēhuì de shíjiān jì zài shǒujī shang ba, shěngde wàng le.", "en": "Put the appointment time in your phone so you don't forget. (model answer)"}]},
+        {"prompt": {"zh": "你的朋友总迟到。你给他提个建议。", "en": "Your friend is always late. Give them some advice."}, "answer": [{"zh": "你早点儿出门吧，省得又迟到。", "py": "Nǐ zǎo diǎnr chū mén ba, shěngde yòu chídào.", "en": "Leave home a bit earlier so you're not late again. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "不得了", "py": "Bùdéliǎo", "en": "It's terrible!"},
+      "activity": {"zh": "两人活动", "py": "liǎng rén huódòng", "en": "Pair work"},
+      "instructions": {"zh": "两个人一组，根据图片显示的内容用“不得了”说句子。", "en": "In pairs, make a sentence about each picture using “不得了”."},
+      "items": [
+        {"picture": "A young man wiping sweat from his face; a thermometer shows 40°C. Cue: 热 rè.", "answer": [{"zh": "今天四十度，热得不得了。", "py": "Jīntiān sìshí dù, rè de bùdéliǎo.", "en": "It's 40 degrees today — unbearably hot. (model answer)"}]},
+        {"picture": "A woman holding her head in pain. Cue: 疼 téng.", "answer": [{"zh": "她头疼得不得了。", "py": "Tā tóu téng de bùdéliǎo.", "en": "Her head hurts terribly. (model answer)"}]},
+        {"picture": "Students frowning over an exam paper in a classroom. Cue: 难 nán.", "answer": [{"zh": "这次考试难得不得了。", "py": "Zhè cì kǎoshì nán de bùdéliǎo.", "en": "This exam is incredibly hard. (model answer)"}]},
+        {"picture": "A woman bundled up, walking against a freezing wind. Cue: 冷 lěng.", "answer": [{"zh": "外面风很大，冷得不得了。", "py": "Wàimiàn fēng hěn dà, lěng de bùdéliǎo.", "en": "It's very windy outside — freezing cold. (model answer)"}]}
+      ]
+    },
+    {
+      "title": {"zh": "压力山大", "py": "Yālì shān dà", "en": "Under high pressure"},
+      "activity": {"zh": "小组活动", "py": "xiǎozǔ huódòng", "en": "Group work"},
+      "instructions": {"zh": "三到四人一组说说自己或朋友的压力，组员们互相给建议。注意尽量使用本单元学习的语法：“省得”“形容词＋得不得了”“不妨”。然后完成报告。", "en": "In groups of three or four, talk about your own or a friend's stress and give each other advice, using this unit's grammar (省得, adjective + 得不得了, 不妨) as much as possible. Then write a report."},
+      "items": [
+        {"prompt": {"en": "Describe your stress and the advice you got."},
+         "answer": [{"zh": "最近我的工作忙得不得了，压力很大。朋友们说我不妨每天下班以后去跑跑步，还让我把要做的事情都写下来，省得忘了。", "py": "Zuìjìn wǒ de gōngzuò máng de bùdéliǎo, yālì hěn dà. Péngyoumen shuō wǒ bùfáng měi tiān xià bān yǐhòu qù pǎopao bù, hái ràng wǒ bǎ yào zuò de shìqing dōu xiě xiàlai, shěngde wàng le.", "en": "Lately my work has been incredibly busy and I'm very stressed. My friends said I might go for a run after work every day, and told me to write down everything I need to do so I don't forget. (model answer)"}]}
+      ]
+    }
+  ],
+
+  "quiz": {
+    "instructions": {"zh": "在正确的句子或合适的答句前打✓，看看你语法学得怎么样。", "en": "Tick ✓ the right sentence or answer to check how well you have learned the grammar."},
+    "questions": [
+      {"options": [{"zh": "这个电影很好看，有空你不妨看看。", "py": "Zhège diànyǐng hěn hǎokàn, yǒu kòng nǐ bùfáng kànkan."}, {"zh": "这个电影不妨很好看，有空你看看。", "py": "Zhège diànyǐng bùfáng hěn hǎokàn, yǒu kòng nǐ kànkan."}],
+       "answer": 0, "explain": "不妨 goes before the suggested action (看看). (grammar note 3)"},
+      {"options": [{"zh": "带把伞吧，省得一会儿下雨被淋到。", "py": "Dài bǎ sǎn ba, shěngde yíhuìr xià yǔ bèi líndào."}, {"zh": "省得带把伞，一会儿下雨被淋到。", "py": "Shěngde dài bǎ sǎn, yíhuìr xià yǔ bèi líndào."}],
+       "answer": 0, "explain": "省得 begins the second clause and introduces what you want to avoid. (grammar note 1)"},
+      {"options": [{"zh": "这个运动对老人的健康有好处，您不妨试试。", "py": "Zhège yùndòng duì lǎorén de jiànkāng yǒu hǎochù, nín bùfáng shìshi."}, {"zh": "这个运动对老人的健康不妨有好处，您试试。", "py": "Zhège yùndòng duì lǎorén de jiànkāng bùfáng yǒu hǎochù, nín shìshi."}],
+       "answer": 0, "explain": "不妨 + the suggested action (试试). (grammar note 3)"},
+      {"options": [{"zh": "这次考试难得不得了。", "py": "Zhè cì kǎoshì nán de bùdéliǎo."}, {"zh": "这次难考试得不得了。", "py": "Zhè cì nán kǎoshì de bùdéliǎo."}],
+       "answer": 0, "explain": "Subject + adjective + 得不得了. (grammar note 2)"},
+      {"options": [{"zh": "早点儿休息，省得明天起不来。", "py": "Zǎo diǎnr xiūxi, shěngde míngtiān qǐ bu lái."}, {"zh": "省得早点儿休息，明天起不来。", "py": "Shěngde zǎo diǎnr xiūxi, míngtiān qǐ bu lái."}],
+       "answer": 0, "explain": "Advice first, then 省得 + the unwanted result. (grammar note 1)"}
+    ],
+    "answer_note": "Book's scoring: all right — 太棒了！. Missed Q4 — review adjective + 得不得了 (note 2). Missed Q2 or Q5 — review 省得 (note 1). Missed Q1 or Q3 — review 不妨 (note 3)."
+  }
+}
