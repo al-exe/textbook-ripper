@@ -22,7 +22,7 @@ This unit is about congratulating people and responding modestly. Grammar: (1) �
 
 ### 1. 其实 (qíshí) — The usage of 其实 (qíshí)
 
-<ruby>副词<rt>Fùcí</rt></ruby>“<ruby>其实<rt>qíshí</rt></ruby>”<ruby>表示<rt>biǎoshì</rt></ruby><ruby>所说<rt>suǒshuō</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>情况<rt>qíngkuàng</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>真实<rt>zhēnshí</rt></ruby><ruby>的<rt>de</rt></ruby>。<ruby>用<rt>Yòng</rt></ruby><ruby>在<rt>zài</rt></ruby><ruby>动词<rt>dòngcí</rt></ruby><ruby>前<rt>qián</rt></ruby><ruby>或<rt>huò</rt></ruby><ruby>主语<rt>zhǔyǔ</rt></ruby><ruby>前<rt>qián</rt></ruby><ruby>承接<rt>chéngjiē</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>文<rt>wén</rt></ruby>，<ruby>常<rt>cháng</rt></ruby><ruby>引出<rt>yǐnchū</rt></ruby><ruby>与<rt>yǔ</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>文<rt>wén</rt></ruby><ruby>相反<rt>xiāngfǎn</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>意思<rt>yìsi</rt></ruby>，<ruby>表示<rt>biǎoshì</rt></ruby><ruby>对<rt>duì</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>文<rt>wén</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>更正<rt>gēngzhèng</rt></ruby><ruby>或<rt>huò</rt></ruby><ruby>补充<rt>bǔchōng</rt></ruby>。<ruby>例如<rt>Lìrú</rt></ruby>：  
+<ruby>副词<rt>Fùcí</rt></ruby>“<ruby>其实<rt>qíshí</rt></ruby>”<ruby>表示<rt>biǎoshì</rt></ruby><ruby>所说<rt>suǒshuō</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>情况<rt>qíngkuàng</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>真<rt>zhēn</rt></ruby><ruby>实<rt>shí</rt></ruby><ruby>的<rt>de</rt></ruby>。<ruby>用<rt>Yòng</rt></ruby><ruby>在<rt>zài</rt></ruby><ruby>动词<rt>dòngcí</rt></ruby><ruby>前<rt>qián</rt></ruby><ruby>或<rt>huò</rt></ruby><ruby>主语<rt>zhǔyǔ</rt></ruby><ruby>前<rt>qián</rt></ruby><ruby>承接<rt>chéngjiē</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>文<rt>wén</rt></ruby>，<ruby>常<rt>cháng</rt></ruby><ruby>引出<rt>yǐnchū</rt></ruby><ruby>与<rt>yǔ</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>文<rt>wén</rt></ruby><ruby>相反<rt>xiāngfǎn</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>意思<rt>yìsi</rt></ruby>，<ruby>表示<rt>biǎoshì</rt></ruby><ruby>对<rt>duì</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>文<rt>wén</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>更<rt>gèng</rt></ruby><ruby>正<rt>zhèng</rt></ruby><ruby>或<rt>huò</rt></ruby><ruby>补充<rt>bǔchōng</rt></ruby>。<ruby>例如<rt>Lìrú</rt></ruby>：  
 The adverb “其实 (qíshí)” marks what's said as the real situation. Placed before the verb or the subject, it follows on from what came before and often introduces the opposite — correcting or adding to it, e.g.,
 
 > **Pattern:** （<ruby>表面<rt>biǎomiàn</rt></ruby>／<ruby>别人<rt>biérén</rt></ruby><ruby>以为<rt>yǐwéi</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>情况<rt>qíngkuàng</rt></ruby>），<ruby>其实<rt>qíshí</rt></ruby> + <ruby>真实<rt>zhēnshí</rt></ruby><ruby>情况<rt>qíngkuàng</rt></ruby>  
@@ -37,7 +37,7 @@ The adverb “其实 (qíshí)” marks what's said as the real situation. Place
 3. <ruby>他<rt>Tā</rt></ruby><ruby>说<rt>shuō</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>成绩<rt>chéngjì</rt></ruby><ruby>不<rt>bú</rt></ruby><ruby>太<rt>tài</rt></ruby><ruby>好<rt>hǎo</rt></ruby>，<ruby>其实<rt>qíshí</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>第一<rt>dì-yī</rt></ruby><ruby>名<rt>míng</rt></ruby>。  
    He says his grades aren't great, but actually he came first.
 
-> 💡 Appearance first, 其实 (qíshí) + reality second: ✓ 那家公司看起来很小 (nà jiā gōngsī kàn qǐlai hěnxiǎo)，其实实力很强 (qíshí shílì hěn qiáng). Reversing it (✗ 其实实力很强 (qíshí shílì hěn qiáng)，看起来很小 (kàn qǐlai hěnxiǎo)) breaks the logic.
+> 💡 Appearance first, 其实 (qíshí) + reality second: ✓ 那家公司看起来很小 (nà jiā gōngsī kàn qǐlai hěn xiǎo)，其实实力很强 (qíshí shílì hěn qiáng). Reversing it (✗ 其实实力很强 (qíshí shílì hěn qiáng)，看起来很小 (kàn qǐlai hěn xiǎo)) breaks the logic.
 
 ### 2. 明明 (míngmíng) — The usage of 明明 (míngmíng)
 
@@ -267,7 +267,7 @@ He obviously can't sing, yet he signed up for a singing contest. (model answer)
 
 **(a)** → b. 怪不得他的朋友要为他庆祝 (guàibude tā de péngyou yào wèi tā qìngzhù)。
 
-**(b)** → c. 怪不得他的中文进步很快 (guàibude tā de Zhōngwén jìnbù hěnkuài)。
+**(b)** → c. 怪不得他的中文进步很快 (guàibude tā de Zhōngwén jìnbù hěn kuài)。
 
 **(c)** → a. 怪不得他买了一个很贵的戒指 (guàibude tā mǎi le yí ge hěn guì de jièzhi)。
 

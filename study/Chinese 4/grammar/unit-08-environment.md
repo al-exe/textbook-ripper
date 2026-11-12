@@ -210,7 +210,7 @@ _Try the exercises first — click to reveal._
 **(c)** <ruby>去<rt>Qù</rt></ruby><ruby>超市<rt>chāoshì</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>时候<rt>shíhou</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>没<rt>méi</rt></ruby><ruby>带<rt>dài</rt></ruby><ruby>钱<rt>qián</rt></ruby>，<ruby>幸亏<rt>xìngkuī</rt></ruby><ruby>可以<rt>kěyǐ</rt></ruby><ruby>刷<rt>shuā</rt></ruby><ruby>卡<rt>kǎ</rt></ruby>。  
 …luckily I could pay by card. (card machine)
 
-**(d)** <ruby>今天<rt>Jīntiān</rt></ruby><ruby>早上<rt>zǎoshang</rt></ruby><ruby>堵车<rt>dǔchē</rt></ruby><ruby>堵<rt>dǔ</rt></ruby><ruby>得<rt>de</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>厉害<rt>lìhai</rt></ruby>，<ruby>幸亏<rt>xìngkuī</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>起<rt>qǐ</rt></ruby><ruby>得<rt>de</rt></ruby><ruby>很早<rt>hěnzǎo</rt></ruby>。  
+**(d)** <ruby>今天<rt>Jīntiān</rt></ruby><ruby>早上<rt>zǎoshang</rt></ruby><ruby>堵车<rt>dǔchē</rt></ruby><ruby>堵<rt>dǔ</rt></ruby><ruby>得<rt>de</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>厉害<rt>lìhai</rt></ruby>，<ruby>幸亏<rt>xìngkuī</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>起<rt>qǐ</rt></ruby><ruby>得<rt>de</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>早<rt>zǎo</rt></ruby>。  
 …luckily I got up very early. (alarm clock)
 
 **(e)** <ruby>昨天晚上<rt>Zuótiānwǎnshàng</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>发烧<rt>fāshāo</rt></ruby><ruby>了<rt>le</rt></ruby>，<ruby>幸亏<rt>xìngkuī</rt></ruby><ruby>家<rt>jiā</rt></ruby><ruby>里<rt>li</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>药<rt>yào</rt></ruby>。  
@@ -226,7 +226,7 @@ Last month I lost my wallet — luckily a kind person found it for me. (model an
 
 <details><summary><b>Exercise 2: Not only…</b></summary>
 
-**(a)** <ruby>那里<rt>Nàli</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>工厂<rt>gōngchǎng</rt></ruby><ruby>很多<rt>hěnduō</rt></ruby>，<ruby>再<rt>zài</rt></ruby><ruby>加上<rt>jiāshàng</rt></ruby><ruby>私家车<rt>sījiāchē</rt></ruby><ruby>越来越<rt>yuèláiyuè</rt></ruby><ruby>多<rt>duō</rt></ruby>，<ruby>所以<rt>suǒyǐ</rt></ruby><ruby>空气污染<rt>kōngqìwūrǎn</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>严重<rt>yánzhòng</rt></ruby>。  
+**(a)** <ruby>那里<rt>Nàli</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>工厂<rt>gōngchǎng</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>多<rt>duō</rt></ruby>，<ruby>再<rt>zài</rt></ruby><ruby>加上<rt>jiāshàng</rt></ruby><ruby>私家车<rt>sījiāchē</rt></ruby><ruby>越来越<rt>yuèláiyuè</rt></ruby><ruby>多<rt>duō</rt></ruby>，<ruby>所以<rt>suǒyǐ</rt></ruby><ruby>空气污染<rt>kōngqìwūrǎn</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>严重<rt>yánzhòng</rt></ruby>。  
 There are lots of factories, and on top of that more and more private cars, so the air pollution is serious. (model answer)
 
 **(b)** <ruby>大龙<rt>Dàlóng</rt></ruby><ruby>这<rt>zhè</rt></ruby><ruby>次<rt>cì</rt></ruby><ruby>考试<rt>kǎoshì</rt></ruby><ruby>考<rt>kǎo</rt></ruby><ruby>得<rt>de</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>好<rt>hǎo</rt></ruby>，<ruby>再<rt>zài</rt></ruby><ruby>加上<rt>jiāshàng</rt></ruby><ruby>快<rt>kuài</rt></ruby><ruby>放<rt>fàng</rt></ruby><ruby>假<rt>jià</rt></ruby><ruby>了<rt>le</rt></ruby>，<ruby>所以<rt>suǒyǐ</rt></ruby><ruby>心情<rt>xīnqíng</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>好<rt>hǎo</rt></ruby>。  

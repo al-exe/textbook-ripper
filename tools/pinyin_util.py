@@ -66,6 +66,8 @@ _load_names()
 GE_WORDS = {"个子", "个人", "个别", "个性", "个体", "个儿", "这个", "那个", "哪个", "整个", "各个"}
 COMPLEMENT_WORDS = {"上去", "下去", "上来", "下来", "进去", "出去", "回去", "过去", "起来", "出来", "进来",
                     "回来", "过来", "完", "动", "到", "懂", "见", "了", "下", "开", "住", "着", "起", "清楚", "干净"}
+DEGREE_WORDS = {"最好", "最后", "最近", "最初", "最终", "最多", "最少", "真是", "真正", "真的", "真心",
+                "太太", "太阳", "太极", "更加", "更新", "很难说"}  # real words starting with 很/太/真/最/更
 NUMERALS = set("一二两三四五六七八九十几每某半")  # 这个/那个 stay joined (zhège)
 
 
@@ -100,8 +102,9 @@ def _segment(run: str) -> list[str]:
             out += [w[0], w[1], w[2]]     # 比一比 bǐ yi bǐ, 去不去 qù bu qù
         elif len(w) >= 3 and w[1] == "没" and w[0] == w[2]:
             out += [w[0], w[1:]]          # 有没有 yǒu méiyǒu
-        elif len(w) >= 3 and w[0] in "很太真最更" and w[1:] in CEDICT_DB:
-            out += [w[0], w[1:]]          # 很漂亮 -> 很 漂亮 (hěn piàoliang)
+        elif len(w) >= 2 and w[0] in "很太真最更" and w not in DEGREE_WORDS \
+                and (len(w) == 2 or w[1:] in CEDICT_DB):
+            out += [w[0], w[1:]]          # 很漂亮 -> 很 漂亮 (hěn piàoliang), 很贵 -> hěn guì
         elif len(w) > 1 and "个" in w and w not in GE_WORDS and w[w.index("个"):w.index("个") + 2] not in GE_WORDS:
             i = w.index("个")              # 下个月 -> 下 个 月 (xià ge yuè)
             out += [x for x in (w[:i], "个", w[i + 1:]) if x]

@@ -255,7 +255,7 @@ A: He dances really well. B: Although he dances well, I don't really like his so
 **(d)** A：<ruby>骑<rt>Qí</rt></ruby><ruby>自行车<rt>zìxíngchē</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>健康<rt>jiànkāng</rt></ruby>。B：<ruby>虽然<rt>Suīrán</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>健康<rt>jiànkāng</rt></ruby>，<ruby>但是<rt>dànshì</rt></ruby><ruby>夏天<rt>xiàtiān</rt></ruby><ruby>骑车<rt>qíchē</rt></ruby><ruby>太<rt>tài</rt></ruby><ruby>热<rt>rè</rt></ruby><ruby>了<rt>le</rt></ruby>。  
 A: Cycling is healthy. B: Although it's healthy, it's too hot to cycle in summer. (model answer)
 
-**(e)** A：<ruby>这辆<rt>Zhèliàng</rt></ruby><ruby>车<rt>chē</rt></ruby><ruby>真<rt>zhēn</rt></ruby><ruby>漂亮<rt>piàoliang</rt></ruby>。B：<ruby>虽然<rt>Suīrán</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>漂亮<rt>piàoliang</rt></ruby>，<ruby>但是<rt>dànshì</rt></ruby><ruby>太贵<rt>tàiguì</rt></ruby><ruby>了<rt>le</rt></ruby>。  
+**(e)** A：<ruby>这辆<rt>Zhèliàng</rt></ruby><ruby>车<rt>chē</rt></ruby><ruby>真<rt>zhēn</rt></ruby><ruby>漂亮<rt>piàoliang</rt></ruby>。B：<ruby>虽然<rt>Suīrán</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>漂亮<rt>piàoliang</rt></ruby>，<ruby>但是<rt>dànshì</rt></ruby><ruby>太<rt>tài</rt></ruby><ruby>贵<rt>guì</rt></ruby><ruby>了<rt>le</rt></ruby>。  
 A: This car is gorgeous. B: Although it's gorgeous, it's far too expensive. (model answer)
 
 </details>

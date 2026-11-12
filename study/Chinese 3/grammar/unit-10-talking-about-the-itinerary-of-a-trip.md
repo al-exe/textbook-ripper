@@ -92,7 +92,7 @@ Sort the places into the three groups.
 
 **(b)**  
 <ruby>假如<rt>Jiǎrú</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>一名<rt>yìmíng</rt></ruby><ruby>导游<rt>dǎoyóu</rt></ruby>，<ruby>请<rt>qǐng</rt></ruby><ruby>给<rt>gěi</rt></ruby><ruby>同伴<rt>tóngbàn</rt></ruby><ruby>介绍<rt>jièshào</rt></ruby><ruby>一下<rt>yíxià</rt></ruby><ruby>中国<rt>Zhōngguó</rt></ruby><ruby>有名<rt>yǒumíng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>城市<rt>chéngshì</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>景点<rt>jǐngdiǎn</rt></ruby>。  
-Pair work: you're a tour guide — introduce famous Chinese cities and sights by filling in the frame: 中国有很多有名的城市和景点 (Zhōngguó yǒu hěnduō yǒumíng de chéngshì hé jǐngdiǎn)，如果你喜欢风景优美的地方的话 (rúguǒ nǐ xǐhuan fēngjǐngyōuměi de dìfang dehuà)，我推荐你去…… (wǒ tuījiàn nǐ qù……)。如果你对中国的历史和文化感兴趣的话 (rúguǒ nǐ duì Zhōngguó de lìshǐ hé wénhuà gǎnxìngqù dehuà)，我推荐你游览历史名城 (wǒ tuījiàn nǐ yóulǎn lìshǐ míngchéng)，比如……等 (bǐrú……děng)。这些地方有很多名胜古迹 (zhèxiē dìfang yǒu hěnduō míngshènggǔjì)，拿……来说 (ná……láishuō)，有……等 (yǒu……děng)。如果你对现代化大都市感兴趣的话 (rúguǒ nǐ duì xiàndàihuà dàdūshì gǎnxìngqù dehuà)，你可以去……游览 (nǐ kěyǐ qù……yóulǎn)。
+Pair work: you're a tour guide — introduce famous Chinese cities and sights by filling in the frame: 中国有很多有名的城市和景点 (Zhōngguó yǒu hěn duō yǒumíng de chéngshì hé jǐngdiǎn)，如果你喜欢风景优美的地方的话 (rúguǒ nǐ xǐhuan fēngjǐngyōuměi de dìfang dehuà)，我推荐你去…… (wǒ tuījiàn nǐ qù……)。如果你对中国的历史和文化感兴趣的话 (rúguǒ nǐ duì Zhōngguó de lìshǐ hé wénhuà gǎnxìngqù dehuà)，我推荐你游览历史名城 (wǒ tuījiàn nǐ yóulǎn lìshǐ míngchéng)，比如……等 (bǐrú……děng)。这些地方有很多名胜古迹 (zhèxiē dìfang yǒu hěn duō míngshènggǔjì)，拿……来说 (ná……láishuō)，有……等 (yǒu……děng)。如果你对现代化大都市感兴趣的话 (rúguǒ nǐ duì xiàndàihuà dàdūshì gǎnxìngqù dehuà)，你可以去……游览 (nǐ kěyǐ qù……yóulǎn)。
 
 ✏️ ________________________________________
 

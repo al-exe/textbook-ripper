@@ -5,10 +5,12 @@ Commands
 --------
   sections BOOK [UNIT]        page map of each unit's sections (from the OCR text)
   text BOOK FIRST [LAST]      print OCR text of PDF pages FIRST..LAST
-  images BOOK FIRST [LAST] [--dpi 60] [--out DIR]
-                              render pages to PNG (to look at pictures / layout)
+  images BOOK FIRST [LAST] [--dpi 60] [--crop TOP BOTTOM] [--out DIR]
+                              render pages (or a vertical band of them) to PNG
+  appendix BOOK UNIT          listening transcripts + answers for a unit (back matter)
   pinyin TEXT...              textbook-style pinyin for Chinese sentences
-  render SPEC.json [...]      render study-material spec(s) to Markdown
+  render [SPEC.json ...] [--show-generated]
+                              render spec(s) to Markdown (default: all specs)
 
 Specs live in tools/specs/<book>/<kind>-unit-NN.json and render to
 study/<book>/<kind>/unit-NN-<title>.md. Every Chinese string in a spec gets pinyin:
@@ -99,6 +101,32 @@ def sections(book: str, unit: int) -> list[tuple[str, int]]:
             if re.search(pat, texts.get(p, ""), re.M) and not any(n == name for n, _ in found):
                 found.append((name, p))
     return found
+
+
+ZH_NUM = "零一二三四五六七八九十"
+
+
+def zh_number(n: int) -> str:
+    if n <= 10:
+        return ZH_NUM[n]
+    tens, ones = divmod(n, 10)
+    return (ZH_NUM[tens] if tens > 1 else "") + "十" + (ZH_NUM[ones] if ones else "")
+
+
+def appendix(book: str, unit: int) -> str:
+    """Text of the back-matter 录音文本及答案 section for one unit (transcripts + answers)."""
+    texts = page_texts(book)
+    starts = [p for p, t in texts.items() if re.search(r"录音文本|Listening Scripts", t)
+              and p > max(unit_starts(book).values())]
+    if not starts:
+        return ""
+    body = "\n".join(texts[p] for p in sorted(texts) if p >= min(starts))
+    heads = list(re.finditer(r"^第(.{1,2})单元.*$", body, re.M))
+    for i, m in enumerate(heads):
+        if m.group(1) == zh_number(unit):
+            end = heads[i + 1].start() if i + 1 < len(heads) else len(body)
+            return body[m.start():end].strip()
+    return ""
 
 
 # ---------------------------------------------------------------------- render
@@ -323,9 +351,14 @@ def main() -> None:
     t = sub.add_parser("text"); t.add_argument("book"); t.add_argument("first", type=int); t.add_argument("last", nargs="?", type=int)
     im = sub.add_parser("images"); im.add_argument("book"); im.add_argument("first", type=int)
     im.add_argument("last", nargs="?", type=int); im.add_argument("--dpi", type=int, default=60)
+    im.add_argument("--crop", nargs=2, type=float, metavar=("TOP", "BOTTOM"),
+                    help="only this vertical band, as fractions of page height (e.g. 0.45 0.95)")
+    ap_ = sub.add_parser("appendix", help="listening transcripts & answers for a unit (back of the book)")
+    ap_.add_argument("book"); ap_.add_argument("unit", type=int)
     im.add_argument("--out", type=Path, default=paths.CACHE / "_pages")
     py = sub.add_parser("pinyin"); py.add_argument("text", nargs="+")
-    r = sub.add_parser("render"); r.add_argument("specs", nargs="+", type=Path)
+    r = sub.add_parser("render"); r.add_argument("specs", nargs="*", type=Path,
+                                                    help="spec files (default: every tools/specs/*/*.json)")
     r.add_argument("--show-generated", action="store_true", help="list pinyin that was generated (to review)")
     a = ap.parse_args()
 
@@ -347,15 +380,24 @@ def main() -> None:
         a.out.mkdir(parents=True, exist_ok=True)
         with pymupdf.open(paths.TEXTBOOKS / f"{a.book}.pdf") as doc:
             for p in range(a.first, (a.last or a.first) + 1):
-                f = a.out / f"{a.book.replace(' ', '_')}_p{p:04d}.png"
-                doc[p - 1].get_pixmap(dpi=a.dpi).save(f)
+                f = a.out / f"{a.book.replace(' ', '_')}_p{p:04d}" \
+                    f"{'_' + '-'.join(str(c) for c in a.crop) if a.crop else ''}.png"
+                page = doc[p - 1]
+                clip = None
+                if a.crop:
+                    W, H = page.rect.width, page.rect.height
+                    clip = pymupdf.Rect(0.06 * W, a.crop[0] * H, 0.96 * W, a.crop[1] * H)
+                page.get_pixmap(dpi=a.dpi, clip=clip).save(f)
                 print(f)
+    elif a.cmd == "appendix":
+        print(appendix(a.book, a.unit) or
+              f"No 录音文本及答案 section for unit {a.unit} — this book may have no transcript/answer appendix.")
     elif a.cmd == "pinyin":
         import pinyin_util
         for t in a.text:
             print(pinyin_util.sentence_pinyin(t))
     elif a.cmd == "render":
-        for sp in a.specs:
+        for sp in a.specs or sorted(SPEC_ROOT.glob("*/*.json")):
             spec = json.loads(sp.read_text(encoding="utf-8"))
             GENERATED.clear()
             RUBY_FAILS.clear()

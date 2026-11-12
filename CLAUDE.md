@@ -39,6 +39,6 @@ tools/                     code and supporting data (run from the repo root)
 .venv/bin/python tools/ripper.py ["textbooks/X.pdf"] [--pages 1-20]
 .venv/bin/python tools/vocab.py
 .venv/bin/python tools/study.py sections "Chinese 3" 4
-for f in tools/specs/*/*.json; do .venv/bin/python tools/study.py render "$f"; done
+.venv/bin/python tools/study.py render     # all specs -> study/ (add --show-generated to review pinyin)
 .venv/bin/python tools/pdf.py              # rebuild all PDFs
 ```

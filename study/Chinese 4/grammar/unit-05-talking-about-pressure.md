@@ -96,7 +96,7 @@ I've put on weight — so annoying.
 ✏️ ________________________________________
 
 **(c)**  
-<ruby>我<rt>Wǒ</rt></ruby><ruby>刚<rt>gāng</rt></ruby><ruby>到<rt>dào</rt></ruby><ruby>这个<rt>zhège</rt></ruby><ruby>陌生<rt>mòshēng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>城市<rt>chéngshì</rt></ruby>，<ruby>压力<rt>yālì</rt></ruby><ruby>很大<rt>hěndà</rt></ruby>。  
+<ruby>我<rt>Wǒ</rt></ruby><ruby>刚<rt>gāng</rt></ruby><ruby>到<rt>dào</rt></ruby><ruby>这个<rt>zhège</rt></ruby><ruby>陌生<rt>mòshēng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>城市<rt>chéngshì</rt></ruby>，<ruby>压力<rt>yālì</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>大<rt>dà</rt></ruby>。  
 I've just arrived in this unfamiliar city and I'm really stressed.
 
 ✏️ ________________________________________

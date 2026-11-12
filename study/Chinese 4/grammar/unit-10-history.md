@@ -37,7 +37,7 @@ This unit is about Chinese history, especially the Tang dynasty. Grammar: (1) �
 2. <ruby>在<rt>Zài</rt></ruby><ruby>我们<rt>wǒmen</rt></ruby><ruby>班<rt>bān</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>18<rt>shí bā</rt></ruby><ruby>个<rt>ge</rt></ruby><ruby>学生<rt>xuésheng</rt></ruby><ruby>中<rt>zhōng</rt></ruby>，<ruby>男生<rt>nánshēng</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>10<rt>shí</rt></ruby><ruby>人<rt>rén</rt></ruby>。  
    Among the 18 students in our class, 10 are boys.
 
-> 💡 其中 (qízhōng) refers back, so the group must already have been mentioned: ✓ 唐代有很多著名的历史人物 (Tángdài yǒu hěnduō zhùmíng de lìshǐ rénwù)，其中… (qízhōng…); ✗ 其中唐代的很多著名的历史人物… (qízhōng Tángdài de hěnduō zhùmíng de lìshǐ rénwù…) To introduce the group yourself, use 在……中 (zài……zhōng): ✓ 在中国的四大发明中 (zài Zhōngguó de sìdàfāmíng zhōng)，…
+> 💡 其中 (qízhōng) refers back, so the group must already have been mentioned: ✓ 唐代有很多著名的历史人物 (Tángdài yǒu hěn duō zhùmíng de lìshǐ rénwù)，其中… (qízhōng…); ✗ 其中唐代的很多著名的历史人物… (qízhōng Tángdài de hěn duō zhùmíng de lìshǐ rénwù…) To introduce the group yourself, use 在……中 (zài……zhōng): ✓ 在中国的四大发明中 (zài Zhōngguó de sìdàfāmíng zhōng)，…
 
 ### 2. 在……看来 (zài…… kànlái) — The usage of 在……看来 (zài……kànlái)
 

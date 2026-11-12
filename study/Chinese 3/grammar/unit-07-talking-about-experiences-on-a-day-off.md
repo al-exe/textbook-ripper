@@ -166,7 +166,7 @@ Look at the pictures, talk about the advantages and disadvantages of each activi
 
 **(i)**  
 <ruby>谈谈<rt>Tántán</rt></ruby><ruby>你们<rt>nǐmen</rt></ruby><ruby>去过<rt>qùguò</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>最<rt>zuì</rt></ruby><ruby>有意思<rt>yǒuyìsi</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>地方<rt>dìfang</rt></ruby>，<ruby>在<rt>zài</rt></ruby><ruby>说明<rt>shuōmíng</rt></ruby><ruby>原因<rt>yuányīn</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>时候<rt>shíhou</rt></ruby><ruby>用<rt>yòng</rt></ruby>“<ruby>不但<rt>búdàn</rt></ruby>……<ruby>还<rt>hái</rt></ruby>……”。  
-Group work: talk about the most interesting place you've been to, using 不但……还…… (búdàn……hái……) to give reasons. (Book's example: 北京不但有很多高楼大厦 (Běijīng búdàn yǒu hěnduō gāolóudàshà)，还有很多名胜古迹 (háiyǒu hěnduō míngshènggǔjì)。)
+Group work: talk about the most interesting place you've been to, using 不但……还…… (búdàn……hái……) to give reasons. (Book's example: 北京不但有很多高楼大厦 (Běijīng búdàn yǒu hěn duō gāolóudàshà)，还有很多名胜古迹 (háiyǒu hěn duō míngshènggǔjì)。)
 
 ✏️ ________________________________________
 
@@ -198,7 +198,7 @@ Football is exciting.
 ✏️ ________________________________________
 
 **(c)**  
-<ruby>坐<rt>Zuò</rt></ruby><ruby>出租车<rt>chūzūchē</rt></ruby><ruby>很快<rt>hěnkuài</rt></ruby>。  
+<ruby>坐<rt>Zuò</rt></ruby><ruby>出租车<rt>chūzūchē</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>快<rt>kuài</rt></ruby>。  
 Taxis are fast.
 
 ✏️ ________________________________________
@@ -274,7 +274,7 @@ Where was it you most wanted to travel to? (model answer)
 
 <details><summary><b>Exercise 2: More than that</b></summary>
 
-**(a)** <ruby>看书<rt>Kànshū</rt></ruby><ruby>不但<rt>búdàn</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>学到<rt>xuédào</rt></ruby><ruby>很多<rt>hěnduō</rt></ruby><ruby>东西<rt>dōngxi</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>让<rt>ràng</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>放松<rt>fàngsōng</rt></ruby>。  
+**(a)** <ruby>看书<rt>Kànshū</rt></ruby><ruby>不但<rt>búdàn</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>学到<rt>xuédào</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>多<rt>duō</rt></ruby><ruby>东西<rt>dōngxi</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>让<rt>ràng</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>放松<rt>fàngsōng</rt></ruby>。  
 Reading not only teaches you a lot, it also relaxes you. (model answer)
 
 **(b)** <ruby>在家<rt>Zàijiā</rt></ruby><ruby>休息<rt>xiūxi</rt></ruby><ruby>不但<rt>búdàn</rt></ruby><ruby>不<rt>bú</rt></ruby><ruby>用<rt>yòng</rt></ruby><ruby>花钱<rt>huāqián</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>睡懒觉<rt>shuìlǎnjiào</rt></ruby>。  
@@ -283,7 +283,7 @@ Resting at home not only costs nothing, you can also sleep in. (model answer)
 **(c)** <ruby>逛<rt>Guàng</rt></ruby><ruby>街<rt>jiē</rt></ruby><ruby>不但<rt>búdàn</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>买<rt>mǎi</rt></ruby><ruby>东西<rt>dōngxi</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>锻炼<rt>duànliàn</rt></ruby><ruby>身体<rt>shēntǐ</rt></ruby>。  
 Shopping not only gets you things, it's exercise too. (book's example)
 
-**(d)** <ruby>骑<rt>Qí</rt></ruby><ruby>自行车<rt>zìxíngchē</rt></ruby><ruby>不但<rt>búdàn</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>锻炼身体<rt>duànliànshēntǐ</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>看到<rt>kàndào</rt></ruby><ruby>很多<rt>hěnduō</rt></ruby><ruby>漂亮<rt>piàoliang</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>风景<rt>fēngjǐng</rt></ruby>。  
+**(d)** <ruby>骑<rt>Qí</rt></ruby><ruby>自行车<rt>zìxíngchē</rt></ruby><ruby>不但<rt>búdàn</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>锻炼身体<rt>duànliànshēntǐ</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>看到<rt>kàndào</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>多<rt>duō</rt></ruby><ruby>漂亮<rt>piàoliang</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>风景<rt>fēngjǐng</rt></ruby>。  
 Cycling not only keeps you fit, you also see lots of beautiful scenery. (model answer)
 
 **(e)** <ruby>爬山<rt>Páshān</rt></ruby><ruby>不但<rt>búdàn</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>锻炼身体<rt>duànliànshēntǐ</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>呼吸<rt>hūxī</rt></ruby><ruby>新鲜空气<rt>xīnxiānkōngqì</rt></ruby>。  

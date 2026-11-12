@@ -74,7 +74,7 @@ In “虽说……可是…… (suīshuō……kěshì……)”, what follows �
 <ruby>每<rt>Měi</rt></ruby><ruby>个<rt>ge</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>根据<rt>gēnjù</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>给<rt>gěi</rt></ruby><ruby>信息<rt>xìnxī</rt></ruby><ruby>说<rt>shuō</rt></ruby><ruby>一些<rt>yìxiē</rt></ruby><ruby>话<rt>huà</rt></ruby>，<ruby>让<rt>ràng</rt></ruby><ruby>同伴<rt>tóngbàn</rt></ruby><ruby>能够<rt>nénggòu</rt></ruby><ruby>猜<rt>cāi</rt></ruby><ruby>到<rt>dào</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>给<rt>gěi</rt></ruby><ruby>信息<rt>xìnxī</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>内容<rt>nèiróng</rt></ruby>。<ruby>猜<rt>Cāi</rt></ruby><ruby>信息<rt>xìnxī</rt></ruby><ruby>时<rt>shí</rt></ruby><ruby>需要<rt>xūyào</rt></ruby><ruby>用<rt>yòng</rt></ruby>“<ruby>看来<rt>kànlái</rt></ruby>……”。  
 Each person drops hints about a secret piece of information until the partner can guess it. The guesser must use “看来…… (kànlái……)”.
 
-> 💡 Secret information cards from the book: 今年流行黑色 (jīnnián liúxíng hēisè) · 我不喜欢烫发 (wǒ bù xǐhuan tàngfà) · 他不会来了 (tā bú huì lái le) · 我喜欢直发 (wǒ xǐhuan zhí fā) · 中国人很喜欢红色 (Zhōngguó rén hěn xǐhuan hóngsè) · 今天的作业很多 (jīntiān de zuòyè hěnduō).
+> 💡 Secret information cards from the book: 今年流行黑色 (jīnnián liúxíng hēisè) · 我不喜欢烫发 (wǒ bù xǐhuan tàngfà) · 他不会来了 (tā bú huì lái le) · 我喜欢直发 (wǒ xǐhuan zhí fā) · 中国人很喜欢红色 (Zhōngguó rén hěn xǐhuan hóngsè) · 今天的作业很多 (jīntiān de zuòyè hěn duō).
 
 **(a)**  
 <ruby>今年<rt>Jīnnián</rt></ruby><ruby>流行<rt>liúxíng</rt></ruby><ruby>黑色<rt>hēisè</rt></ruby>。  
@@ -203,7 +203,7 @@ _Try the exercises first — click to reveal._
 
 <details><summary><b>Exercise 1: I see</b></summary>
 
-**(a)** A：<ruby>最近<rt>Zuìjìn</rt></ruby><ruby>街上<rt>jiēshang</rt></ruby><ruby>很多<rt>hěnduō</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>穿<rt>chuān</rt></ruby><ruby>黑衣服<rt>hēiyīfú</rt></ruby>，<ruby>商店<rt>shāngdiàn</rt></ruby><ruby>里<rt>li</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>黑色<rt>hēisè</rt></ruby><ruby>的<rt>de</rt></ruby>。B：<ruby>看来<rt>Kànlái</rt></ruby><ruby>今年<rt>jīnnián</rt></ruby><ruby>流行<rt>liúxíng</rt></ruby><ruby>黑色<rt>hēisè</rt></ruby>。  
+**(a)** A：<ruby>最近<rt>Zuìjìn</rt></ruby><ruby>街上<rt>jiēshang</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>多<rt>duō</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>穿<rt>chuān</rt></ruby><ruby>黑衣服<rt>hēiyīfú</rt></ruby>，<ruby>商店<rt>shāngdiàn</rt></ruby><ruby>里<rt>li</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>黑色<rt>hēisè</rt></ruby><ruby>的<rt>de</rt></ruby>。B：<ruby>看来<rt>Kànlái</rt></ruby><ruby>今年<rt>jīnnián</rt></ruby><ruby>流行<rt>liúxíng</rt></ruby><ruby>黑色<rt>hēisè</rt></ruby>。  
 A: Lots of people wear black lately and the shops are full of it. B: Looks like black is in this year. (model answer)
 
 **(b)** A：<ruby>我<rt>Wǒ</rt></ruby><ruby>从来<rt>cónglái</rt></ruby><ruby>不<rt>bú</rt></ruby><ruby>去<rt>qù</rt></ruby><ruby>烫<rt>tàng</rt></ruby><ruby>头发<rt>tóufa</rt></ruby>，<ruby>我<rt>wǒ</rt></ruby><ruby>觉得<rt>juéde</rt></ruby><ruby>烫<rt>tàng</rt></ruby><ruby>发<rt>fà</rt></ruby><ruby>会<rt>huì</rt></ruby><ruby>损伤<rt>sǔnshāng</rt></ruby><ruby>发质<rt>fàzhì</rt></ruby>。B：<ruby>看来<rt>Kànlái</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>喜欢<rt>xǐhuan</rt></ruby><ruby>烫<rt>tàng</rt></ruby><ruby>发<rt>fà</rt></ruby>。  
@@ -215,7 +215,7 @@ A: It's already ten, he's not here and he isn't answering his phone. B: Looks li
 **(d)** A：<ruby>过<rt>Guò</rt></ruby><ruby>春节<rt>Chūnjié</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>时候<rt>shíhou</rt></ruby>，<ruby>到处<rt>dàochù</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>红<rt>hóng</rt></ruby><ruby>灯笼<rt>dēnglong</rt></ruby>、<ruby>红<rt>hóng</rt></ruby><ruby>对联<rt>duìlián</rt></ruby>。B：<ruby>看来<rt>Kànlái</rt></ruby><ruby>中国人<rt>Zhōngguórén</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>喜欢<rt>xǐhuan</rt></ruby><ruby>红色<rt>hóngsè</rt></ruby>。  
 A: At Spring Festival there are red lanterns and red couplets everywhere. B: Chinese people must love red. (model answer)
 
-**(e)** A：<ruby>我<rt>Wǒ</rt></ruby><ruby>从<rt>cóng</rt></ruby><ruby>下午<rt>xiàwǔ</rt></ruby><ruby>一直<rt>yìzhí</rt></ruby><ruby>写<rt>xiě</rt></ruby><ruby>到<rt>dào</rt></ruby><ruby>现在<rt>xiànzài</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>没<rt>méi</rt></ruby><ruby>写<rt>xiě</rt></ruby><ruby>完<rt>wán</rt></ruby>。B：<ruby>看来<rt>Kànlái</rt></ruby><ruby>今天<rt>jīntiān</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>作业<rt>zuòyè</rt></ruby><ruby>很多<rt>hěnduō</rt></ruby>。  
+**(e)** A：<ruby>我<rt>Wǒ</rt></ruby><ruby>从<rt>cóng</rt></ruby><ruby>下午<rt>xiàwǔ</rt></ruby><ruby>一直<rt>yìzhí</rt></ruby><ruby>写<rt>xiě</rt></ruby><ruby>到<rt>dào</rt></ruby><ruby>现在<rt>xiànzài</rt></ruby>，<ruby>还<rt>hái</rt></ruby><ruby>没<rt>méi</rt></ruby><ruby>写<rt>xiě</rt></ruby><ruby>完<rt>wán</rt></ruby>。B：<ruby>看来<rt>Kànlái</rt></ruby><ruby>今天<rt>jīntiān</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>作业<rt>zuòyè</rt></ruby><ruby>很<rt>hěn</rt></ruby><ruby>多<rt>duō</rt></ruby>。  
 A: I've been writing since the afternoon and still haven't finished. B: Looks like there's a lot of homework today. (model answer)
 
 </details>
